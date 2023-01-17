@@ -1,11 +1,5 @@
-# Obsidian Notes
+# PG Supt KM
 
-Publish your public notes with MkDocs
+Welcome to PG support's internal knowledge base. 
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Please use the search function to find the resource you need, or look for it manually via the sidebar navigation.
