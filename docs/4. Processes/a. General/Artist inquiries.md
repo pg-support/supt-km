@@ -1,0 +1,1 @@
+Reply with Zendesk macro: ‘Redirect to PG Artist Submission Form’, which includes a Google form for submission. Our AR team will review the requests and respond if they see fit.

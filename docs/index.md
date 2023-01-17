@@ -1,4 +1,4 @@
-# PG Supt KM
+# Index
 
 Welcome to PG support's internal knowledge base. 
 
