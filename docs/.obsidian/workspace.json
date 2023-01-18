@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ad7e950ad7e7fc",
+        "id": "7af2fa008839e653",
         "type": "tabs",
         "children": [
           {
-            "id": "af0fa8206a77b4f1",
+            "id": "3e88f21e7c8d7e7d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,8 +149,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c72630c10ea0d5",
+  "active": "3e88f21e7c8d7e7d",
   "lastOpenFiles": [
+    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
     "4. Processes/a. General/Customer Suggestion Logging.md",
     "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/Regular PSU requests.md",
     "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU requests for Amazon.md",
@@ -158,7 +160,6 @@
     "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU purchase request.md",
     "Media/Pasted image 20230118173328.png",
     "Media/Pasted image 20230118173334.png",
-    "Media/Pasted image 20230118161345.png",
-    "5. Systems & Resources/Frequently Used Resources.md"
+    "Media/Pasted image 20230118161345.png"
   ]
 }
