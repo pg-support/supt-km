@@ -1,1 +1,0 @@
-Log any customer suggestion for our product and service in the [Customer Suggestions](https://docs.google.com/spreadsheets/d/1xCImOipzye9krJ-kBlRepOGtfz5petG9QZqbTqwIbbg/edit?usp=sharing) file and thank the customer for their feedback.
