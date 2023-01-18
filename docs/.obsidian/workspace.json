@@ -11,8 +11,12 @@
             "id": "3e88f21e7c8d7e7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Processes/b. Pre-delivery/Shipment Lost.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Processes/b. Pre-delivery/Shipment Lost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Processes/b. Pre-delivery/Shipment Lost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Processes/b. Pre-delivery/Shipment Lost.md"
+              }
             }
           },
           {
@@ -151,15 +158,15 @@
   },
   "active": "3e88f21e7c8d7e7d",
   "lastOpenFiles": [
-    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
-    "4. Processes/a. General/Customer Suggestion Logging.md",
-    "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/Regular PSU requests.md",
-    "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU requests for Amazon.md",
-    "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU requests for second-hand unit.md",
-    "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU requests for other sales channels (not PG website or Amazon).md",
-    "4. Processes/c. Post-sale/Spark Hum Issue & PSU Request/PSU purchase request.md",
-    "Media/Pasted image 20230118173328.png",
-    "Media/Pasted image 20230118173334.png",
-    "Media/Pasted image 20230118161345.png"
+    "4. Processes/b. Pre-delivery/Change Email & Resend Confirmation Letter.md",
+    "4. Processes/b. Pre-delivery/Shipment Lost.md",
+    "4. Processes/a. General/Backend issue report.md",
+    "4. Processes/b. Pre-delivery/Change Address.md",
+    "4. Processes/b. Pre-delivery/Order Cancellation.md",
+    "4. Processes/b. Pre-delivery/Delivery-induced Damage; Wrong & Missing Items.md",
+    "3. Policies/Warranty Policy/Warranty Period.md",
+    "3. Policies/Shipping Policy/Order cancellation & adjustments.md",
+    "3. Policies/Shipping Policy/Countries with free shipping.md",
+    "3. Policies/Shipping Policy/Countries we ship to.md"
   ]
 }
