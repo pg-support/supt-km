@@ -1,7 +1,5 @@
 # Delivery-induced Damage
-1. Please first ask the customer to identify if the damage to the package/product was induced by the shipping carrier, i.e. if there’s damage to the package and even causing further damage to the product itself. 
-   
-   (If the product damage was not induced by the carrier but is a manufacturing defect, proceed as DOA instead.)
+1. Ask the customer to identify if the damage to the package/product was truly induced by the shipping carrier, i.e. if there’s damage to the package and even causing further damage to the product itself. 
    
 2. Once verified, please ask the customer to provide the following information:
 	1. Clear photos of the whole package including the damaged part
