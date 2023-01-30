@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/b. Pre-delivery/Order Cancellation.md",
+            "file": "4. Processes/b. Pre-delivery/Delivery-induced Damage; Wrong & Missing Items.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/b. Pre-delivery/Order Cancellation.md",
+                "file": "4. Processes/b. Pre-delivery/Delivery-induced Damage; Wrong & Missing Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/b. Pre-delivery/Order Cancellation.md",
+                "file": "4. Processes/b. Pre-delivery/Delivery-induced Damage; Wrong & Missing Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/b. Pre-delivery/Order Cancellation.md"
+                "file": "4. Processes/b. Pre-delivery/Delivery-induced Damage; Wrong & Missing Items.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "f2a0822a9a11a8df",
   "lastOpenFiles": [
-    "4. Processes/b. Pre-delivery/Change Email & Resend Confirmation Letter.md",
     "4. Processes/b. Pre-delivery/Order Cancellation.md",
+    "4. Processes/b. Pre-delivery/Change Email & Resend Confirmation Letter.md",
     "4. Processes/a. General/Artist inquiries.md",
     "4. Processes/c. Post-sale/Warranty Service/DOA.md",
     "4. Processes/b. Pre-delivery/Order Canceled due to Fraudulent Risk.md",
