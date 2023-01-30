@@ -1,3 +1,4 @@
+# Countries we ship to
 -   America: United States, Canada (& Mexico - Spark only).
 
 > *Due to restrictions from our financial partners and local carriers, Positive Grid does NOT ship to Alaska, Puerto Rico, Guam and Hawaii & United States Minor Outlying Islands.*
