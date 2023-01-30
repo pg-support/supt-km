@@ -1,3 +1,4 @@
+# Shipping time & restrictions
 -   Estimated shipping times do not include processing time, please allow up to 2 business days for processing.
 
 -   To ensure the security of purchases, Positive Grid may need to contact you to validate your order or address, which may cause a delay.

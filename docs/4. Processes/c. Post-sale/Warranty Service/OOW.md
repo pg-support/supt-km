@@ -1,3 +1,4 @@
+# OOW
 > EU - OOW - Spark 40 cases: regular replacement
 > US - OOW - Spark 40 cases: repair
 > All other OOW cases: B-stock (certified like-new) replacement
@@ -94,7 +95,7 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 	
 > *(Continued) For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
 > 
-> *Certain known issues will require filling in extra information when requesting replacement. Please see [[Process per product]].
+> *Certain known issues will require filling in extra information when requesting replacement. Please see [[Warranty Service Process per product]].
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 

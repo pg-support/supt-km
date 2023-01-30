@@ -1,3 +1,4 @@
+# Daily Catch-up
 > For support agents to report cases to and get feedbacks from the logistics team. 
 
 ##### Order/Shipping Status

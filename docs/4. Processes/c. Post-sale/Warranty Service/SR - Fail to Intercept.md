@@ -1,3 +1,4 @@
+# SR - Fail to Intercept
 > Fail to Intercept - Return (Paid by PG) & Refund
 
 1.  Once confirmed the customer has received the order that was requested to be canceled, insert Macro: <u>[Service Center] SR (PG pay)</u>. Insert the correct country in the email subject. Submit as pending. 

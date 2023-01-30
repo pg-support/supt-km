@@ -1,3 +1,4 @@
+# PSU purchase request
 1.  Once confirmed the customer is willing/has to pay for the PSU, inform the customer about the pricing (as listed), and ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal): 
 
 	-   US, CA, EU, AU, UK - $35 USD

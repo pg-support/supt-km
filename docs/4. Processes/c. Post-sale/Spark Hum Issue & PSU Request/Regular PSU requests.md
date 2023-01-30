@@ -1,3 +1,4 @@
+# Regular PSU requests
 1.  Macro Spark “Hum 1”, submit as pending.
 	1. The power brick on a grounded power supply should look like the photo on the left. If the customer’s PSU looks like the one on the right, proceed with step 2. 
    

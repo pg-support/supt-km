@@ -1,3 +1,4 @@
+# Delivery-induced Damage; Wrong & Missing Items
 > SOP to help customers who receive delivery-induced damaged packages/products or wrong/missing items
 
 1. Please first ask the customer to identify if the damage to the package/product was induced by the shipping carrier, i.e. if there’s damage to the package and even causing further damage to the product itself. 

@@ -1,3 +1,4 @@
+# Change Email & Resend Confirmation Letter
 1. Login to [Shopify](https://accounts.shopify.com/lookup)
 2. Search for orders using order number, customer’s email, or customer’s name.
 3. After you find the correct order, hit the 3 dots in the Customer section (right hand side) and find ‘Edit contact information’.

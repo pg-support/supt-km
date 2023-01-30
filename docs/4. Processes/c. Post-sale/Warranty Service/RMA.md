@@ -1,3 +1,4 @@
+# RMA
 > *For all RMA cases at this time, please proceed by sending a replacement.
 
 1.  Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.  

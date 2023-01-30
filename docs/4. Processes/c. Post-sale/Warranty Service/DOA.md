@@ -1,3 +1,4 @@
+# DOA
 > Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
 
 1.  Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the correct country in the email subject. Submit as pending.

@@ -1,3 +1,4 @@
+# Warranty Scope
 -   Spark 40: Amp body only (speaker box & control panel) 
 
 -   Spark MINI: Amp body only (speaker box & control panel & battery)

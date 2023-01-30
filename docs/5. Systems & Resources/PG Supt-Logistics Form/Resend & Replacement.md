@@ -1,3 +1,4 @@
+# Resend & Replacement
 > Resend: Request for resending the whole order or particular item.
 
 > Replacement: Request for sending a replacement for DOA/RMA process. 

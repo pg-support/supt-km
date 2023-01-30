@@ -1,3 +1,4 @@
+# Warranty Period
 ## Regular warranty
 -   1-year warranty for the majority of orders  
 

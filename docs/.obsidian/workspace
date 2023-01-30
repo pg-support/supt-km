@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Policies/Shipping Policy/Order cancellation & adjustments.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Policies/Shipping Policy/Order cancellation & adjustments.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Policies/Shipping Policy/Order cancellation & adjustments.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Policies/Shipping Policy/Order cancellation & adjustments.md"
+                "file": "index.md"
               }
             }
           },
@@ -139,14 +139,15 @@
   },
   "active": "4e6ed519fa53c8ad",
   "lastOpenFiles": [
-    "3. Policies/Shipping Policy/Countries with free shipping.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
-    "index.md",
-    "0. Trending/Monthly Marketing Plan.md",
-    "0. Trending/Fulfillment Schedule & Availability.md",
-    "Ongoing Product Issues.md",
-    "4. Processes/b. Pre-delivery/Change Address.md",
-    "Untitled.md"
+    "5. Systems & Resources/PGBot Commands.md",
+    "5. Systems & Resources/Frequently Used Resources.md",
+    "5. Systems & Resources/PG Supt-Logistics Form/Service Parts Request.md",
+    "5. Systems & Resources/PG Supt-Logistics Form/Resend & Replacement.md",
+    "5. Systems & Resources/PG Supt-Logistics Form/Daily Catch-up.md",
+    "4. Processes/c. Post-sale/Refund Request Escalation.md",
+    "4. Processes/c. Post-sale/Warranty Service/Warranty Service Process per product.md",
+    "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md",
+    "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md",
+    "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
   ]
 }
