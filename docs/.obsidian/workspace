@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Trending/Fulfillment Schedule & Availability.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shipping info missing",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md"
+                "file": "index.md"
               }
             }
           },
@@ -139,10 +139,13 @@
   },
   "active": "4e6ed519fa53c8ad",
   "lastOpenFiles": [
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
-    "0. Trending/Fulfillment Schedule & Availability.md",
     "0. Trending/Monthly Marketing Plan.md",
+    "0. Trending/Fulfillment Schedule & Availability.md",
+    "index.md",
+    "Ongoing Product Issues.md",
+    "4. Processes/b. Pre-delivery/Change Address.md",
+    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
+    "3. Policies/Shipping Policy/Countries we ship to.md",
     "Untitled.md"
   ]
 }
