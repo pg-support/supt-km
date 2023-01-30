@@ -11,8 +11,6 @@
 	-   Make sure to check ‘Invoice needed’
 	-   Put in the customer’s PayPal account email (or regular contact email).
 
-3. Once submitted, remind the customer to look out for a PayPal invoice as it’ll be sent directly to their inbox.
-   
-   ![](https://lh6.googleusercontent.com/sGiZPUW6Inelwm4S2we_iWBn2mQiRr0_ehZ0hH2n337lBHH3vRLoiqMpYGhRUKhxhBLFhpPsY6jgW3iyin0N-_G9OBgHWQR5aydYWvlXQFhCiJpXLJrse1mg70eFtXHwF0JoaM7pGe2jivQTx4Rwg4c7EwLq03ZbflqK7AlELkycbGKLty2Ka4Y4dyVp)
+3. Once submitted, remind the customer to look out for a PayPal invoice as it’ll be sent directly to their inbox.   ![](https://lh6.googleusercontent.com/sGiZPUW6Inelwm4S2we_iWBn2mQiRr0_ehZ0hH2n337lBHH3vRLoiqMpYGhRUKhxhBLFhpPsY6jgW3iyin0N-_G9OBgHWQR5aydYWvlXQFhCiJpXLJrse1mg70eFtXHwF0JoaM7pGe2jivQTx4Rwg4c7EwLq03ZbflqK7AlELkycbGKLty2Ka4Y4dyVp)
 
 4.  Check back at the [PG Supt-Logistics Form](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing) (Service Part Request). Once the ‘Invoice Status’ is changed to ‘Paid’, the logistics team will soon ship out the PSU. Check back for TRK# and provide it to the customer. (END)

@@ -1,7 +1,7 @@
 # SR - Delivery Error
 > Delivery Error - Return Only (Paid by PG)
 
-1.  Once confirmed the customer has received the order that was requested to be canceled, insert Macro: <u>[Service Center] SR (PG pay)</u>. 
+1). Once confirmed the customer has received the order that was requested to be canceled, insert Macro: <u>[Service Center] SR (PG pay)</u>. 
    
    Insert the correct country in the email subject. 
    
@@ -13,15 +13,14 @@
    
    Submit as pending. 
 
-2.  Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
-
+2). Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
 	1.  ‘Service Type’ = SR.
 	2.  ‘Accessories for SR’ must all be filled in according to the Shopify order. 
 	3.  ‘Return Reason’ = Delivery Error.
 	4.  ‘Warranty Service’ = Operation Error (we sent an extra item) / Resend (we sent a wrong item)
 	5.  Fill in all address details accordingly.
 
-3. Once submitted, the service center will send the return label to the agent’s email. Agents can monitor the case status via each service center/region’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (SR tab).
+3). Once submitted, the service center will send the return label to the agent’s email. Agents can monitor the case status via each service center/region’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (SR tab).
    
    Reply the ticket with a heads-up, for example:
 
@@ -29,14 +28,14 @@
 > 
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
-4.  Service center should send the return label directly to the agent’s inbox within 3 days. ‘Inbound Tracking Number (warehouse only)’ and ‘Current Status’ should both be updated accordingly.
+4). Service center should send the return label directly to the agent’s inbox within 3 days. ‘Inbound Tracking Number (warehouse only)’ and ‘Current Status’ should both be updated accordingly.
     
 
 ![](https://lh4.googleusercontent.com/lDx0h0DOqfyCQtzwrBgmCLRGjU4e3973SMu9CJ083jiRhrm2eW1XSKVY-PRJqQ-0QfEwTn8BV9-CKx3ezx5mL-zCERKlK5U9Tfp44TCqQctVWRghuoPpDF6ijgOuneo1WCN129s-YSs6s4pDsD_KNm9Oy50e_hXaVZ2eFaur3wcfDkPvcmNevkKHRcKn)
 
 > *If no label shows up within 3 days, please reach out to Felix Lin.*
 
-5.  Use macro “Return Label” and forward all related information & return labels (attached to the email) to the client. 
+5). Use macro “Return Label” and forward all related information & return labels (attached to the email) to the client. 
    
    Make sure to provide the correct RMA number (auto-generated when submitted). Submit as ‘Pending’.
 
@@ -44,20 +43,13 @@
 
 ![](https://lh6.googleusercontent.com/mjzIn7Mk_ntPhWaRYOhEOu98_HotApswtAxP90vHKn4dZ9qkEoyBCPF9UfLBR_LrUSUP_9_2Qb3-dSUbt1i433WufOTTg6YcLIrvMKiLw2Jq3xUPggit-C9gNiewiag9lP4ZJTNX07auGbWU-lcFvbGghma5v2MTfqX8TxA1RCFf3LGqiiQrWJkLrZw8)
 
-6.  Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
+6). Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
 
 > We can see that your package is on its way back to our service center. Please be advised that once our service center has received and verified the package, we’ll issue the refund ASAP. Please wait for further notice. Thank you.
 
-7.  Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-
-	A. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.
+7). Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
+	A. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.	Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
 	 ![](https://lh4.googleusercontent.com/hlZGkgsGxrlifPoJDialqF9Qz5H0ZHeIVqyZidNyTN_EI90S4OhyUy4WURBDbD8pkRH6VULo8pv0c36JGBOq1aqddy6QpWjv5xrukiqhACO5Ie0Mi1xA8r1k4P4R-Wmgor3lMt3i__an7u0Xd5997N1awHFBgmhXTkCkw-LQpbrX08q0NUurCls_I2aV)
-	
-	Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
-	
-	B.  If ‘Case Status’ is updated to ‘Ready for Warranty Service', please proceed with the corresponding actions:
-		a. Warranty Service = Operation Error (we sent an extra item):  
-		Thank the customer for cooperation and close the ticket, no further action needed. (END)
-
-		b. Warranty Service = Resend (we sent a wrong item):  
-	Fill out a RS or Service Part request on the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801), depending on the item missing. Offer the TRK# to the customer once available. (END)
+		B.  If ‘Case Status’ is updated to ‘Ready for Warranty Service', please proceed with the corresponding actions:
+			a. Warranty Service = Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
+			b. Warranty Service = Resend (we sent a wrong item):  Fill out a RS or Service Part request on the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801), depending on the item missing. Offer the TRK# to the customer once available. (END)
