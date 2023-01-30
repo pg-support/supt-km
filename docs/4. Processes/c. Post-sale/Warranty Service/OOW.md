@@ -51,11 +51,11 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 
 3). Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
 	1. ‘Service Type’ = CID/OOW.
-	2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.)   
-	3.  ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
-	4.  ‘Warranty Service’ should be ‘Repair’ for service centers that can perform repairs; ‘Replacement’ for those who can’t & Spark Control & RIFF.
-	5.  ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
-	6.  Fill in all address details accordingly.
+	2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.) 
+	3. ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
+	4. ‘Warranty Service’ should be ‘Repair’ for service centers that can perform repairs; ‘Replacement’ for those who can’t & Spark Control & RIFF.
+	5. ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
+	6. Fill in all address details accordingly.
 
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’.
 > *If the unit is a second hand purchase, put the purchase date in ‘Order Number’.
@@ -71,24 +71,28 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
    ![](https://lh5.googleusercontent.com/BpKHzzoZ84_S3YnZNu3pFrSBVyXn__vZaPvtboO--vGy8gEkkLxYwNc_Xgcm6ieAvAAeYYM4Y6pcu1eAUGVD1owqzpFkMBdncDUWWnoxgKKjdWRBbBYQJcXb-cVmlkGvwqGAnfpJXFxEEFFqR_YIUGlNGzyApLMmVkW4Ez_nfyxGMv3ANMGlo_YNr7Wi)
 
 ![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
-	A. Insert the corresponding RMA number in the subject & context. 
-	
+A. Insert the corresponding RMA number in the subject & context. 
+
 ![](https://lh3.googleusercontent.com/ewy-lJjRb1kBlsRAnYgwIxiN5Y_hVxZrkqVLXeCXo7KCECm41GV_ZvLNwtw6UmpkECgbr7xiAoRrhKGjQOXHcbPNr4q7OsJbZen8I40EARFxJ2LFABD0A9RgvmLR2BV0YLCnWfZT_4fGuVAPnT6jtcqiOw5anhXf3VgD8PBrO2jzU5f8f7y-lns2jaGo)
-	B. Leave only the address for the customer’s located country. 
-	C. Submit as pending.
+B. Leave only the address for the customer’s located country. 
+C. Submit as pending.
 
 6). Once the user replies with tracking information, go back to the country’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (OOW tab) and update ‘Inbound Tracking Number (Agent only)’.
 
 ![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)
 
 7). Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-	A. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.	
+
+A. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.	
 	![](https://lh5.googleusercontent.com/uiZLmiT1K5I6ytDoHJJOeNqUixoStstuQIkDVW81LmPfeIeypCk0_PL7NsZeceb4BLLQlEKSQYydClR7D1J2QQ-NIZGm4wJHftgA4NHZdqI9Pzk5IvcMQXanlueNq_LCbWaR1aMcdQDW6KcC4jcnphRyQ3ID6D01lTKNm_uiz-YBnilJkZQ-8MrKTB8H)
-	Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
-	B. If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
-	Service center will send out the outbound TRK# to the customer and mark the case as ‘Repaired Item Sent’. 
-	C. If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
-	
+Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
+
+B. If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
+
+Service center will send out the outbound TRK# to the customer and mark the case as ‘Repaired Item Sent’. 
+
+C. If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+
 > (Continued) For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 

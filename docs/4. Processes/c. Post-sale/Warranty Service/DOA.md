@@ -46,8 +46,8 @@ Make sure to provide the correct RMA number (auto-generated when submitted). Sub
 7). On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
    
    ![](https://lh4.googleusercontent.com/VHHHVY7F7NnHBo0AB_opAzTnqWYzi_b4ZzwbDEeQnDUrZdJ3xVQuI3ik25xFsymKeCxupDX3bt_3XUVcVpDvjXL6X3xMDlZFcxlwIjChJMmP6yz_BX6Uop4_Pcze7lx4NRLpSDjEzF1stRD-QQNTK87VOrqgwVYor9Z1t1CVngtAjlk1B-S1ucct57vr)
-	   1. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
-	   2. If ‘Case Status’ is updated to ‘Ready for Refund/Replacement’, the agent can proceed with the next step.
+   - If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
+   - If ‘Case Status’ is updated to ‘Ready for Refund/Replacement’, the agent can proceed with the next step.
 
 8). For refund cases, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
 
