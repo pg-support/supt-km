@@ -7,4 +7,4 @@
   
 -   Logistics team should update and submit the shipment request to warehouse before deadline (shown on RS/RE sheet, “Time to Update”)
 
--   TRK# should be available in SKULabs within 48 hrs since “Last Update Time”. If not, escalation is needed.**
+-   TRK# should be available in SKULabs within 48 hrs since “Last Update Time”. If not, escalation is needed.

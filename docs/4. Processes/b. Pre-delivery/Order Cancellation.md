@@ -15,4 +15,4 @@
    
 5. If order is delivered and
 	1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
-	2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued [SR])
+	2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued [[SR - Fail to Intercept]])
