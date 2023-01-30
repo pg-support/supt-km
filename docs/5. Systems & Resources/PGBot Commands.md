@@ -2,12 +2,12 @@
 ## Software / Account
 *PGBot commands mostly apply to desktop software licenses. Mobile license may or may not show up correctly. (Ask @ferrari in # backend-issue for further details if necessary)
 
-	[How to Activate a Software License]
-	- Purchase completed (order shown in Shopify)
-	- Account registered (with the same email on the order)
-	- License registered (automatically, under the same account)
-	- Program installed and logged in (with the same correct account)
-	- License activation not exceeding limit (5 activations max)
+[How to Activate a Software License]
+- Purchase completed (order shown in Shopify)
+- Account registered (with the same email on the order)
+- License registered (automatically, under the same account)
+- Program installed and logged in (with the same correct account)
+- License activation not exceeding limit (5 activations max)
 
 
 ### Transfer license
