@@ -17,4 +17,4 @@ Please review [[Change Address]] for full process.
 
 
 ## Package damaged/wrong/missing
-For reporting only: Please review [[Delivery-induced Damage; Wrong & Missing Items]] for further details.
+For reporting only: Please review [[Delivery-induced Damage]] for further details.
