@@ -14,4 +14,5 @@
 	1. Wrong items: SR process (Delivery Error, return & resend)
 	2. Missing items: Resend request (RS or Service Parts request, depending on the missing item)
 	   
-5. Once the case is settled, report to the logistics team via Daily Catch-up form by submitting a support request (in Supt-Logistics form) accordingly. Once the case is reported, the ticket can be closed.
+5. Once the correct item is resent to the customer, report to the logistics team via [[Daily Catch-up]] by submitting a support request (in Supt-Logistics form) accordingly. 
+6. Once the case is reported, the ticket can be closed.

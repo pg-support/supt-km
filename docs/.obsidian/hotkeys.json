@@ -105,5 +105,14 @@
       ],
       "key": "X"
     }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
   ]
 }

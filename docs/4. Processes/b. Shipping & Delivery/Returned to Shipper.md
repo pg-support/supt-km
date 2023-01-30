@@ -1,16 +1,8 @@
 # Returned to Shipper/Carrier
-> If the tracking information shows ‘Delivered’, but the customer claimed otherwise, check if it’s been returned to the shipper instead. It will show something like this on the tracking page:
-> 
+> If the tracking information shows ‘Delivered’, but the customer claimed otherwise, check if it’s been returned to the shipper instead. It will show something like this ("Returning package to shipper") on the tracking page:
 > ![](https://lh4.googleusercontent.com/Vo1yTBUVv2K1wap42BIe19qUfQ4K7PEI4haCTrWhLydxq9z1rftxPuQSyHBcm6xI_Ctxri_sg1iT1EKGnaEWxw8euPdqrPYx5DHsMkvyFcqojQUgDXwlx1R0ZoEyVIdc48t3bmxym00KQtGgv5Gzd87XCIBGmwVmULA8KcMp7C3_2SbUCfPgKtpbWxGi)
 > 
-> ![](https://lh6.googleusercontent.com/LG1p40BXBNtMnpqYjLqO0YCpnQ7gkVUPuNk2WEHgO8FJt7Mtt8u7vRJ9H0r1eStWf2EjHqcPWmUBPgI5voXJqX4teTeSOb7qsYg075K8CLc8uZzzM9mN9iHgRGdymx5HS10-2BIdvWbCj9rf_qiuzOsYYNzqyvilzu5cQ9oQnUVG9hDLDuJjPW6GXptx)
-> 
-> ![](https://lh5.googleusercontent.com/uLYNAmlaPVC1UueOa9BFIV6l9icrCkE4V980oZID85JemKqMX7bQKMwl-etABvAY4YnPplPBcTqb_tPP2-bE8iaoYfFnX75hW1mopUCdLQ6cE8TWdpuLo1r-oRFjl8SYGtziAhNIU6jRw49aWn_fsdIP93wYHaaXA3Gbnw9KbgveWrcQqACOVErpVcX1)
-> 
-> (If the destination for the package matches the above, it’s returned to the shipper.)
-> 
->  If the package is returned, please ask for clarification on the address, then proceed with the following isntructions:
-
+>  If the package is indeed returned to the shipper (ofter due to invalid address or unsuccessful delivery), please proceed with the following isntructions:
 
 1. Ask the customer to provide a new address to avoid the same thing from happening again.
 2. Once a new address is provided, fill in the Supt-Logistics Request Form for resend.
