@@ -1,10 +1,10 @@
 # Regular PSU requests
 1.  Macro Spark “Hum 1”, submit as pending.
-	1. The power brick on a grounded power supply should look like the photo on the left. If the customer’s PSU looks like the one on the right, proceed with step 2. 
+	A. The power brick on a grounded power supply should look like the photo on the left. If the customer’s PSU looks like the one on the right, proceed with step 2. 
    
    ![[Pasted image 20230118173334.png]]
 
-	2. If the customer has a grounded power supply (left), please inform them about it, as grounding should not be an issue for them. If they still have persistent hum noise, the unit could be faulty. Proceed with proper troubleshooting.
+	B. If the customer has a grounded power supply (left), please inform them about it, as grounding should not be an issue for them. If they still have persistent hum noise, the unit could be faulty. Proceed with proper troubleshooting.
 
 2.  Use macro “Hum 2” to inquire about the customer’s current contact information and product SN#. 
 

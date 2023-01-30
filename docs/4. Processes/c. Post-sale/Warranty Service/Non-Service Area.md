@@ -1,5 +1,5 @@
 # Non-Service Area
-#### Purchased via PG 
+## Purchased via PG 
 (ex: early orders from Norway, New Zealand, Southern Asia, etc)
 
 -   Within warranty:  
@@ -8,7 +8,7 @@
 -   Out of warranty:  
     Since the unit is outside our service area, customers need to pay the OOW price for the replacement. However it’ll be our last service offered to the customer, as it’ll be too costly for us to continue providing service. We do not collect the defective unit back. 
 
-#### Purchased via vendors 
+## Purchased via vendors 
 (ex: Amazon orders shipped to Alaska)
 
 -   Within warranty:  

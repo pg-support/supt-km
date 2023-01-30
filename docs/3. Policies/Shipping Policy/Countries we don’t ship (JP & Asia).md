@@ -1,10 +1,10 @@
 # Countries we don’t ship (JP & Asia)
-#### Japan
+## Japan
 Refer to Media Integration Japan for further service
 
 See the [Template](https://docs.google.com/document/d/1xMnnwvhXFQXmKiMaKDpbsCwWhuIV_4NH5zEranqJbY4/edit?usp=sharing), or use Zendesk macro <u>Japanese Customers Response (Hardware Only)</u> for reply.
 
-#### Other Asian countries
+## Other Asian countries
 Refer to local dealers for purchase inquiries (list below).
 
 If there's no dealer available in the region, let the customer know accordingly and ask them to follow us on social media for further information.

@@ -3,7 +3,7 @@
 -   1-year warranty for the majority of orders  
 
 
-## Extended warranty for EU (applicable to all products):
+## Extended warranty for EU (applicable to all products)
 
 > EU law also stipulates that you must give the consumer a minimum 2-year guarantee (legal guarantee) as a protection against faulty goods, or goods that don't look or work as advertised.
 
@@ -11,7 +11,7 @@
 -   1-year warranty for rest of the world
 
 
-## Extended warranty for Pre-order Spark (expired):
+## Extended warranty for Pre-order Spark (expired)
 
 -   2-year warranty (from the date of delivery) for all pre-ordered Spark - 
 
@@ -22,7 +22,7 @@
 > Order No. > 290902
 
 
-## Warranty for repaired item/service parts:
+## Warranty for repaired item/service parts
 
 -   90-day extra warranty for repaired item & purchased service part (ex: PSU)
 

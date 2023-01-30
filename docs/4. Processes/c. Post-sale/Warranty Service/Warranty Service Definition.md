@@ -1,5 +1,5 @@
 # Warranty Service Definition
-#### DOA
+## DOA
 
 Definition:
 > Dead on Arrival 
@@ -10,7 +10,7 @@ Process:
 2.  Return (Paid by PG) & Refund
 
 ---
-#### RMA
+## RMA
 
 Definition:
 > Return Material Authorization
@@ -20,7 +20,7 @@ Process:
 - Return (Paid by PG) & Replacement
 
 ---
-#### SR
+## SR
 
 Definition:
 > Sales Return
@@ -36,7 +36,7 @@ Process:
 3.  Return Only (Paid by PG)
 
 ---
-#### OOW
+## OOW
 
 > Definition:
 > Out of Warranty
