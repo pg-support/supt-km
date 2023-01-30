@@ -96,6 +96,14 @@
         "Shift"
       ],
       "key": "X"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
     }
   ]
 }
