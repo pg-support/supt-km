@@ -6,8 +6,8 @@ Definition:
 > (Defective within 30 days since delivery)
 
 Process:
-1.  Return (Paid by PG) & Replacement
-2.  Return (Paid by PG) & Refund
+1. Return (Paid by PG) & Replacement
+2. Return (Paid by PG) & Refund
 
 ---
 ## RMA
@@ -17,7 +17,7 @@ Definition:
 > (Defective after 30 days since delivery, still within warranty)
 
 Process:
-- Return (Paid by PG) & Replacement
+Return (Paid by PG) & Replacement
 
 ---
 ## SR
@@ -31,9 +31,9 @@ Definition:
 > 3.  Delivery error
 
 Process:
-1.  Return (Paid by the customer) & Refund
-2.  Return (Paid by PG) & Refund
-3.  Return Only (Paid by PG)
+1. Return (Paid by the customer) & Refund
+2. Return (Paid by PG) & Refund
+3. Return Only (Paid by PG)
 
 ---
 ## OOW
@@ -45,4 +45,4 @@ Process:
 > 3.  Purchased via non-official channels (other dealers but without receipt, second hand purchase, etc)
 
 Process:
-- Return (Paid by the customer) & Repair/Replacement
+Return (Paid by the customer) & Repair/Replacement
