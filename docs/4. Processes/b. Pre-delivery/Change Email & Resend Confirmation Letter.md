@@ -5,6 +5,9 @@
 4. Put in the new email address and hit Save.
 5. Once the email is updated, go down to the order Timeline and find the ‘Resend email’ option. Hit the button and confirm to resend the confirmation email.
 6. Sample reply:
+
 > Thanks for taking the time to write to us. 
+> 
 > We've updated the information and resend a confirmation letter to your inbox. Please give it a check! 
+> 
 > If you have any further questions, please don't hesitate to message me back.

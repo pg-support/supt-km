@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,6 +139,8 @@
   },
   "active": "f2a0822a9a11a8df",
   "lastOpenFiles": [
+    "4. Processes/b. Pre-delivery/Change Email & Resend Confirmation Letter.md",
+    "4. Processes/b. Pre-delivery/Order Cancellation.md",
     "4. Processes/a. General/Artist inquiries.md",
     "4. Processes/c. Post-sale/Warranty Service/DOA.md",
     "4. Processes/b. Pre-delivery/Order Canceled due to Fraudulent Risk.md",
@@ -147,8 +148,6 @@
     "5. Systems & Resources/PG Supt-Logistics Form/Service Parts Request.md",
     "index.md",
     "5. Systems & Resources/Training Materials.md",
-    "5. Systems & Resources/PGBot Commands.md",
-    "5. Systems & Resources/Frequently Used Resources.md",
-    "5. Systems & Resources/PG Supt-Logistics Form/Daily Catch-up.md"
+    "5. Systems & Resources/PGBot Commands.md"
   ]
 }
