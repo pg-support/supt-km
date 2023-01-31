@@ -1,22 +1,22 @@
 # OOW
 > EU - OOW - Spark 40 cases: regular replacement
-> 
 > US - OOW - Spark 40 cases: repair
-> 
 > All other OOW cases: B-stock (certified like-new) replacement
 
-0). Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.
+### 0 - Verify the warranty
+Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.
 
 If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s already over 1 year of the purchase). Once verified, proceed with the OOW process. 
 
 If the customer bought the amp second hand, ask the customer for the purchase date.
 
 
-1). Once confirmed the issue, please first check with the customer whether he/she is willing to pay for the replacement/repair upfront, pricing listed as below:
+### 1 - Inform about the charge upfront
+Once confirmed the issue, please first check with the customer whether he/she is willing to pay for the replacement/repair upfront, pricing listed as below:
    
 <u>Spark 40 / Spark Pearl </u>
 
->    **Does NOT apply to the US, as the service center will directly contact the customer for the repair charge.**
+>    **The pricing for Spark 40 here does NOT apply to the US, as the US service center (who can repair Spark 40) will directly contact the customer for the repair charge.**
 
 -   Check-up - $50 USD
 -   Main product - $60 USD
@@ -34,7 +34,8 @@ If the customer bought the amp second hand, ask the customer for the purchase da
 -   USB-A to microUSB cable - TBD
 
 
-2). Once confirmed the customer is willing to proceed and pay for the repair/replacement, insert Macro: <u>[Service Center] OOW - 1</u>.
+### 2 - Inquire information for payment
+Once confirmed the customer is willing to proceed and pay for the repair/replacement, insert Macro: <u>[Service Center] OOW - 1</u>.
 
 Insert the correct country in the email subject. Submit as ‘Pending’.
 
@@ -49,7 +50,8 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 > (To be continued in Step 7)
 
 
-3). Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
+### 3 - Fill out a OOW request
+Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
 	1. ‘Service Type’ = CID/OOW.
 	2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.) 
 	3. ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
@@ -64,34 +66,47 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 
 ![](https://lh3.googleusercontent.com/j401rXzMJqJLVK-tgrSg1LgZUYktWh_rpmjFZj-sP2fstrJgZUgJv7gl04lAuDv9-4-iZDyCvRlNAihqbXaYpVOrS-9MTiETTLu5KZ0Bifidrfy2mLS15IW4wYQHLqfHDkZ6dzjM4wVak6Vtt1SUGv5sDoIbCnwqKLEEZhnvPEPLFb0ZnWK_pLYOpIh2)
 
-4). Once submitted, Felix Lin will check and send the invoice to the customer.
+Once submitted, Felix Lin will check and send the invoice to the customer.
 
-5). Once the invoice is confirmed to be paid off, ‘Invoice Status’ will be updated to Invoice Paid. The agent can then insert Macro: <u>[Service Center] OOW - 2</u>:
+Ask the customer to check their inbox for the invoice and let us know when it's paid off.
+
+### 4 - Confirm payment & offer info for return
+Once the invoice is confirmed to be paid off, ‘Invoice Status’ will be updated to Invoice Paid. The agent can then insert Macro: <u>[Service Center] OOW - 2</u>:
 
    ![](https://lh5.googleusercontent.com/BpKHzzoZ84_S3YnZNu3pFrSBVyXn__vZaPvtboO--vGy8gEkkLxYwNc_Xgcm6ieAvAAeYYM4Y6pcu1eAUGVD1owqzpFkMBdncDUWWnoxgKKjdWRBbBYQJcXb-cVmlkGvwqGAnfpJXFxEEFFqR_YIUGlNGzyApLMmVkW4Ez_nfyxGMv3ANMGlo_YNr7Wi)
 
-![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
 A. Insert the corresponding RMA number in the subject & context. 
 
-![](https://lh3.googleusercontent.com/ewy-lJjRb1kBlsRAnYgwIxiN5Y_hVxZrkqVLXeCXo7KCECm41GV_ZvLNwtw6UmpkECgbr7xiAoRrhKGjQOXHcbPNr4q7OsJbZen8I40EARFxJ2LFABD0A9RgvmLR2BV0YLCnWfZT_4fGuVAPnT6jtcqiOw5anhXf3VgD8PBrO2jzU5f8f7y-lns2jaGo)
+![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
+
 B. Leave only the address for the customer’s located country. 
+
+![](https://lh3.googleusercontent.com/ewy-lJjRb1kBlsRAnYgwIxiN5Y_hVxZrkqVLXeCXo7KCECm41GV_ZvLNwtw6UmpkECgbr7xiAoRrhKGjQOXHcbPNr4q7OsJbZen8I40EARFxJ2LFABD0A9RgvmLR2BV0YLCnWfZT_4fGuVAPnT6jtcqiOw5anhXf3VgD8PBrO2jzU5f8f7y-lns2jaGo)
+
 C. Submit as pending.
 
-6). Once the user replies with tracking information, go back to the country’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (OOW tab) and update ‘Inbound Tracking Number (Agent only)’.
+### 5 - Check the TRK# for the returned package
+Once the user replies with tracking information, go back to the country’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (OOW tab) and update ‘Inbound Tracking Number (Agent only)’.
 
 ![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)
 
-7). Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
+### 6 - Check the status of the received package
+Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
 
-A. If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.	
+#### Missing Item
+- If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
+
 	![](https://lh5.googleusercontent.com/uiZLmiT1K5I6ytDoHJJOeNqUixoStstuQIkDVW81LmPfeIeypCk0_PL7NsZeceb4BLLQlEKSQYydClR7D1J2QQ-NIZGm4wJHftgA4NHZdqI9Pzk5IvcMQXanlueNq_LCbWaR1aMcdQDW6KcC4jcnphRyQ3ID6D01lTKNm_uiz-YBnilJkZQ-8MrKTB8H)
-Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
 
-B. If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
+#### Ready for Repair
+>Repair is currently only available for OOW Spark 40 in the US
+
+- If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
 
 Service center will send out the outbound TRK# to the customer and mark the case as ‘Repaired Item Sent’. 
 
-C. If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+#### Ready for Replacement
+If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
 
 > (Continued) For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
 

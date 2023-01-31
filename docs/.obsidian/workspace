@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "636b3c5cefafb2f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. Processes/c. Post-sale/Warranty Service/OOW.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/DOA.md",
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/DOA.md",
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW.md"
               }
             }
           },
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2a0822a9a11a8df",
+  "active": "636b3c5cefafb2f9",
   "lastOpenFiles": [
+    "4. Processes/c. Post-sale/Warranty Service/DOA.md",
+    "4. Processes/c. Post-sale/Warranty Service/OOW.md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-Service Area.md",
     "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
     "4. Processes/b. Shipping & Delivery/Shipment's on the way but never delivered (over 30 days).md",
     "4. Processes/b. Shipping & Delivery/Shipping Info Missing.md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU purchase request.md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for Amazon.md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for other sales channels (not PG website or Amazon).md",
-    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for second-hand unit.md",
-    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md",
-    "4. Processes/c. Post-sale/Warranty Service/DOA.md",
-    "4. Processes/b. Shipping & Delivery/Returned to Shipper.md"
+    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for second-hand unit.md"
   ]
 }
