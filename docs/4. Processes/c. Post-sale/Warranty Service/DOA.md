@@ -32,7 +32,7 @@ Service center should send the return label directly to the agent’s inbox with
    
    ![](https://lh4.googleusercontent.com/lDx0h0DOqfyCQtzwrBgmCLRGjU4e3973SMu9CJ083jiRhrm2eW1XSKVY-PRJqQ-0QfEwTn8BV9-CKx3ezx5mL-zCERKlK5U9Tfp44TCqQctVWRghuoPpDF6ijgOuneo1WCN129s-YSs6s4pDsD_KNm9Oy50e_hXaVZ2eFaur3wcfDkPvcmNevkKHRcKn)
    
-*If no label shows up within 3 days, please reach out to Felix Lin.
+> *If no label shows up within 3 days, please reach out to Felix Lin.
    
 Once received the return label, use macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the client.
 
@@ -55,20 +55,20 @@ If an ETA is available on the tracking site (of the carrier), you may note it in
 On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
 
 #### Missing Items
-   - If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
+If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
 
 ![](https://lh4.googleusercontent.com/VHHHVY7F7NnHBo0AB_opAzTnqWYzi_b4ZzwbDEeQnDUrZdJ3xVQuI3ik25xFsymKeCxupDX3bt_3XUVcVpDvjXL6X3xMDlZFcxlwIjChJMmP6yz_BX6Uop4_Pcze7lx4NRLpSDjEzF1stRD-QQNTK87VOrqgwVYor9Z1t1CVngtAjlk1B-S1ucct57vr)
 
 #### Ready for Refund / Replacement
-   - If ‘Case Status’ is updated to ‘Ready for Refund/Replacement’, the agent can proceed with the next step.
+If ‘Case Status’ is updated to ‘Ready for Refund/Replacement’, the agent can proceed with the next step.
 
 ##### Refund
-- For refund cases, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
+For refund cases, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
 
 ![](https://lh5.googleusercontent.com/6YAS4dsAKPNMRag_-Q4f94Px9q2LOVUAGxZb5P60j6d2Jc97RT7YtYH5BsPiPB4bBQtmEcL1evHTp6ncXEY5BHKyQxskH_tJoFF0PQYEOxcDpoUCxpNX8D9OQOywSHjY5LD4BHpM2LlQa3VBlsRBwXtut8oD1XvC5tFO5qKF2osgr4MXxMh8yOSk8rPo) 
 
 ##### Replacement
-- For replacement, fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+For replacement, fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
    

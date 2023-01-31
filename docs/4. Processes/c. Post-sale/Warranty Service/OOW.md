@@ -52,12 +52,13 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 
 ### 3 - Fill out a OOW request
 Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
-	1. ‘Service Type’ = CID/OOW.
-	2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.) 
-	3. ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
-	4. ‘Warranty Service’ should be ‘Repair’ for service centers that can perform repairs; ‘Replacement’ for those who can’t & Spark Control & RIFF.
-	5. ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
-	6. Fill in all address details accordingly.
+
+1. ‘Service Type’ = CID/OOW.
+2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.) 
+3. ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
+4. ‘Warranty Service’ should be ‘Repair’ for service centers that can perform repairs; ‘Replacement’ for those who can’t & Spark Control & RIFF.
+5. ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
+6. Fill in all address details accordingly.
 
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’.
 > *If the unit is a second hand purchase, put the purchase date in ‘Order Number’.
@@ -94,21 +95,24 @@ Once the user replies with tracking information, go back to the country’s [RMA
 Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
 
 #### Missing Item
-- If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
-
+If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
 	![](https://lh5.googleusercontent.com/uiZLmiT1K5I6ytDoHJJOeNqUixoStstuQIkDVW81LmPfeIeypCk0_PL7NsZeceb4BLLQlEKSQYydClR7D1J2QQ-NIZGm4wJHftgA4NHZdqI9Pzk5IvcMQXanlueNq_LCbWaR1aMcdQDW6KcC4jcnphRyQ3ID6D01lTKNm_uiz-YBnilJkZQ-8MrKTB8H)
 
 #### Ready for Repair
 >Repair is currently only available for OOW Spark 40 in the US
 
-- If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
+If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
 
 Service center will send out the outbound TRK# to the customer and mark the case as ‘Repaired Item Sent’. 
 
 #### Ready for Replacement
+>Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
+
 If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
 
 > (Continued) For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
+
+![](https://lh5.googleusercontent.com/Q3wBpCHP7y2evZ6tTa-HDcMVUqrz530esCx8LGH8H1n6R_79HHhQw10BQPuUtJeWmIz4foI8F_mIFY84LlzgWwytNTiqKeNNaX2mNzfgxclISJSmThXDUihpQQ0aQQT3kxouWPbchqDEG3TCWZ_3zPEPwC-akPnNfSCEBI2R_wr4U0JSGl0RGIfs8NBm)
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 
