@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4babf295fe2c1d2e",
+        "id": "be38d0d0e60df6fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Spark",
+                "query": "spark control firmware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 492.5
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba0c67ef121453d7",
+  "active": "be38d0d0e60df6fa",
   "lastOpenFiles": [
-    "5. Systems & Resources/PGBot Commands.md",
-    "2. Troubleshooting/Products/Spark MINI/Spark MINI Firmware Troubleshooting.md",
-    "5. Systems & Resources/Frequently Used Resources.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "3. Policies/Shipping Policy/Countries with free shipping.md",
-    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
-    "3. Policies/Shipping Policy/Shipping time & restrictions.md",
-    "3. Policies/Shipping Policy/Order tracking.md",
-    "3. Policies/Shipping Policy/Order cancellation & adjustments.md",
-    "3. Policies/Warranty Policy/Warranty Start Date.md"
+    "1. FAQs/Products/Spark App/How many albums can I import to Spark app via Apple Music.md",
+    "1. FAQs/Products/Spark App/Does Smart Jam support other time signatures.md",
+    "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md",
+    "1. FAQs/Products/RIFF/Is there any Firmware update for RIFF.md",
+    "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md",
+    "1. FAQs/Products/RIFF/What kinds of cables do I need to use RIFF with my studio monitors.md",
+    "Media/Pasted image 20230202175512.png",
+    "1. FAQs/Products/RIFF/How do I charge my iPhone when using RIFF at the same time.md",
+    "1. FAQs/Products/RIFF/Can I connect RIFF to a real guitar amplifier.md",
+    "1. FAQs/Products/RIFF/How do I connect RIFF to my iPad that only has USB-C port.md"
   ]
 }

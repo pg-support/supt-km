@@ -1,0 +1,2 @@
+# Can the Spark be connected with wireless earphones or headphones
+Spark does not work with any wireless earphones/headphones. It does work with wired earphones/headphones through the headphone output on the top panel of the Spark.

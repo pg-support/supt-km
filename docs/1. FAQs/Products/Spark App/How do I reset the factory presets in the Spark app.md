@@ -1,0 +1,2 @@
+# How do I reset the factory presets in the Spark app
+The only way is to delete the Spark app on your device and reinstall it. Please note that this will also erase all the user presets you’ve saved on your device. You may upload your own presets to ToneCloud for backup before reinstalling the app.
