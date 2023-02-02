@@ -7,8 +7,12 @@
         "id": "be38d0d0e60df6fa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md"
+              }
             }
           },
           {
