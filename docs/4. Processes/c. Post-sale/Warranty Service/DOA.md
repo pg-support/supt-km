@@ -43,33 +43,30 @@ Make sure to provide the correct RMA number (auto-generated when submitted). Sub
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
 ### 5 - Check the TRK# for the returned package
-Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
+Check the tracking with the corresponding carrier and verify whether the case will need a replacement or refund.
 
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received and verified the package, I’ll request the replacement/refund to be sent out for you ASAP.
-> 
-> Please wait for further notice. Thank you.
+#### Replacement
+If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-If an ETA is available on the tracking site (of the carrier), you may note it in the ticket in order to check back.
-
-### 6 - Check the status of the received package
-On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-
-#### Missing Items
-If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
-
-![](https://lh4.googleusercontent.com/VHHHVY7F7NnHBo0AB_opAzTnqWYzi_b4ZzwbDEeQnDUrZdJ3xVQuI3ik25xFsymKeCxupDX3bt_3XUVcVpDvjXL6X3xMDlZFcxlwIjChJMmP6yz_BX6Uop4_Pcze7lx4NRLpSDjEzF1stRD-QQNTK87VOrqgwVYor9Z1t1CVngtAjlk1B-S1ucct57vr)
-
-#### Ready for Refund / Replacement
-If ‘Case Status’ is updated to ‘Ready for Refund/Replacement’, the agent can proceed with the next step.
-
-##### Refund
-For refund cases, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
-
-![](https://lh5.googleusercontent.com/6YAS4dsAKPNMRag_-Q4f94Px9q2LOVUAGxZb5P60j6d2Jc97RT7YtYH5BsPiPB4bBQtmEcL1evHTp6ncXEY5BHKyQxskH_tJoFF0PQYEOxcDpoUCxpNX8D9OQOywSHjY5LD4BHpM2LlQa3VBlsRBwXtut8oD1XvC5tFO5qKF2osgr4MXxMh8yOSk8rPo) 
-
-##### Replacement
-For replacement, fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
    
 Forward the tracking information to the customer when available. Case can be closed. (END)
+
+
+#### Refund
+If the case requires a refund, we need to wait for the package to be received by our service center. Once we can see the package is on the road, communicate with the customer as below:
+
+> We can see that your package is on its way back to our service center. Please be advised that once our service center has received and verified the package, we'll offer the refund for you ASAP.
+> 
+> Kindly wait for further notice. Thank you.
+
+If an ETA is available on the tracking site (of the carrier), you may note it in the ticket in order to check back.
+
+On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
+
+Once the package is confirmed to be received, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
+
+![](https://lh5.googleusercontent.com/6YAS4dsAKPNMRag_-Q4f94Px9q2LOVUAGxZb5P60j6d2Jc97RT7YtYH5BsPiPB4bBQtmEcL1evHTp6ncXEY5BHKyQxskH_tJoFF0PQYEOxcDpoUCxpNX8D9OQOywSHjY5LD4BHpM2LlQa3VBlsRBwXtut8oD1XvC5tFO5qKF2osgr4MXxMh8yOSk8rPo) 
+

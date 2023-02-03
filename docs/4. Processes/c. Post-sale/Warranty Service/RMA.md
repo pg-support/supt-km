@@ -50,23 +50,11 @@ Make sure to provide the correct RMA number (auto-generated when submitted). Sub
 ![](https://lh3.googleusercontent.com/3_uA9hJJOG4juSBXg0exRr_f-MmqvDdlon_z8P8Abv4Yqesbl8FYie2aKXqMd1abLfYThbwEquaPFB5zd0fHO-9XHaFiXRxyW0eh9Huww7kNnlugo0o2rZR2uTLxygvbMRJPCu73IExqXrR3VzVYyMwRWGq93fj2eP3WMf-h-yX28nojv5nFJhXnkz9m)
 
 ### 5 - Check the TRK# for the returned package
-Check the tracking with the corresponding carrier and note the ETA. 
+Check the tracking with the corresponding carrier. As soon as the package is on the road, we may request the replacement.
 
-### 6 - Check the status of the received package
-On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-
-#### Missing Items
-If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
-
-![](https://lh5.googleusercontent.com/AageTIKa1-B3tfrYExqjsP_wCd4JXgEX7PpU8uVF0xssvR8BhzTJAE6Ow8xFkICKrn4Lvp-UGgAxCeBqDNLYdYzAJN6-zvF1VvC_t9NqA16Ax4SYBBgsoNa2p47ekfqhEZ_Euv9D9sofEPGdXrsV2-Dqi-2iqr57I9tjSA3_c4JxijGcfjW0IGP1nMnq)
-
-#### Waiting for Repair
-If ‘Case Status’ is updated to ‘Waiting for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
-
-#### Ready for Replacement
 >Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
 
-If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 

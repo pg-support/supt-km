@@ -1,6 +1,6 @@
-# OOW
+# OOW (Everthing else)
+> US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair)]])
 > EU - OOW - Spark 40 cases: regular replacement
-> US - OOW - Spark 40 cases: repair
 > All other OOW cases: B-stock (certified like-new) replacement
 
 ### 0 - Verify the warranty
@@ -15,8 +15,6 @@ If the customer bought the amp second hand, ask the customer for the purchase da
 Once confirmed the issue, please first check with the customer whether he/she is willing to pay for the replacement/repair upfront, pricing listed as below:
    
 <u>Spark 40 / Spark Pearl </u>
-
->    **The pricing for Spark 40 here does NOT apply to the US, as the US service center (who can repair Spark 40) will directly contact the customer for the repair charge.**
 
 -   Check-up - $50 USD
 -   Main product - $60 USD
@@ -41,27 +39,23 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 
 ![](https://lh5.googleusercontent.com/oNgL51TQ-U8DbnBd70LpyGQtI1DkGy-vQCFeTii74P0E6G_zaXpEZFYuonvaLnwJlS8xmoX-FnkquWXUMnmJCwbS349dDjeE0I5v_SK25zqVDRPYE6ZOUx6ri3Uv6SwRNw3HqF4iAwvyhpnivYyH8ymoS5xa9DhpaMreJfBCKXlIhWXgNJfsT7ybPM7F)
 
-> <u>Important note for [Spark 40 OOW cases in CA, AU, UK]</u>: Make sure to request the replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
+> <u>Important note for [Spark 40 OOW cases in CA, AU, UK]</u>: You'll be requesting a replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
 > 
 > Communicate with the following message: “In order to provide faster resolution, we'll offer a certified like-new replacement for you.”
-> 
-> <u>Important note for [Spark 40 OOW cases in US]</u>: Such cases should be repaired, and no need to ask for a PayPal account in such cases. Please communicate with the customer accordingly as suggested in the Zendesk macro.
-> 
-> (To be continued in Step 7)
 
 
 ### 3 - Fill out a OOW request
 Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
 
 1. ‘Service Type’ = CID/OOW.
-2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email. (No need for US - OOW - Spark 40.) 
+2. ‘PayPal Account’ = Customer’s PayPal account, or regular contact email.
 3. ‘Invoice Amount’ depends on what part is defective / needs to be swapped out (see step 1), so fill in accordingly.
-4. ‘Warranty Service’ should be ‘Repair’ for service centers that can perform repairs; ‘Replacement’ for those who can’t & Spark Control & RIFF.
+4. ‘Warranty Service’ = ‘Replacement’.
 5. ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
 6. Fill in all address details accordingly.
 
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’.
-> *If the unit is a second hand purchase, put the purchase date in ‘Order Number’.
+> If the unit is a second hand purchase, put the purchase date in ‘Order Number’.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
@@ -91,26 +85,12 @@ Once the user replies with tracking information, go back to the country’s [RMA
 
 ![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)
 
-### 6 - Check the status of the received package
-Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-
-#### Missing Item
-If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form. Service center will address what’s missing from the returned package. Agent shall contact the customer to further verify the missing item before proceeding.
-	![](https://lh5.googleusercontent.com/uiZLmiT1K5I6ytDoHJJOeNqUixoStstuQIkDVW81LmPfeIeypCk0_PL7NsZeceb4BLLQlEKSQYydClR7D1J2QQ-NIZGm4wJHftgA4NHZdqI9Pzk5IvcMQXanlueNq_LCbWaR1aMcdQDW6KcC4jcnphRyQ3ID6D01lTKNm_uiz-YBnilJkZQ-8MrKTB8H)
-
-#### Ready for Repair
->Repair is currently only available for OOW Spark 40 in the US
-
-If ‘Case Status’ is updated to ‘Ready for Repair’, the agent shall inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
-
-Service center will send out the outbound TRK# to the customer and mark the case as ‘Repaired Item Sent’. 
-
-#### Ready for Replacement
+### 6 - Request for replacement
 >Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
 
-If ‘Case Status’ is updated to ‘Ready for Replacement’, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Once a TRK# is provided so we can confirm the returned package is on the way, the agent can proceed and fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
 
-> (Continued) For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
+> For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
 
 ![](https://lh5.googleusercontent.com/Q3wBpCHP7y2evZ6tTa-HDcMVUqrz530esCx8LGH8H1n6R_79HHhQw10BQPuUtJeWmIz4foI8F_mIFY84LlzgWwytNTiqKeNNaX2mNzfgxclISJSmThXDUihpQQ0aQQT3kxouWPbchqDEG3TCWZ_3zPEPwC-akPnNfSCEBI2R_wr4U0JSGl0RGIfs8NBm)
 
