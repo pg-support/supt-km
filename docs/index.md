@@ -4,6 +4,8 @@ Welcome to PG support's internal knowledge base.
 
 Please use the search function to find the resource you need, or look for it manually via the sidebar navigation.
 
+Any suggestions is welcomed. 
+
 
 ## Trending
 [Fulfillment Schedule & Availability](https://docs.google.com/spreadsheets/d/13mK6KP4YmWGT_NyAHVbmFVl5Wj5khDcB1fvpsDKTL24/edit?usp=sharing)
