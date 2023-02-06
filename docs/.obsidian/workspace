@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef06c176157262d",
+        "id": "2184e4fbe05081da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/General/I'd like to request a VAT or tax refund.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tax refund",
+                "query": "pitch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/General/I'd like to request a VAT or tax refund.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/General/I'd like to request a VAT or tax refund.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/General/I'd like to request a VAT or tax refund.md"
+                "file": "index.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ef06c176157262d",
+  "active": "2184e4fbe05081da",
   "lastOpenFiles": [
-    "3. Policies/Return & Refund Policy.md",
-    "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there's no 'Amp Match' on BIAS Amp 2 Mobile.md",
-    "index.md",
-    "2. Troubleshooting/Products/Spark App/'invalid_grant' message when connecting with Spotify.md",
-    "Media/Pasted image 20230206132614.png",
-    "Pasted image 20230206132534.png",
-    "1. FAQs/General/How do I transfer or migrate my order records from one account to another.md",
-    "1. FAQs/General/How do I switch back from Facebook login to normal login.md",
-    "1. FAQs/General/How do I change my account email.md",
-    "1. FAQs/General/How to redeem a software product with a redeem code.md"
+    "2. Troubleshooting/Products/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
+    "2. Troubleshooting/Products/Spark Control/How to return to Mode 1 on Spark Control.md",
+    "2. Troubleshooting/Products/Spark Control/Switching speed is slow on Spark Control.md",
+    "2. Troubleshooting/Products/Spark Control/Cannot connect to Spark Control.md",
+    "2. Troubleshooting/Products/Spark App/Real-time jam (Jarvis) does not work properly.md",
+    "2. Troubleshooting/Products/Spark App/Spark app does not download resource (Android).md",
+    "2. Troubleshooting/Products/Spark App/Spark app crashes or freezes.md",
+    "2. Troubleshooting/Products/Spark MINI/High pitch noise + Freeze.md",
+    "2. Troubleshooting/Products/Spark MINI/Battery does not charge.md",
+    "2. Troubleshooting/Products/Spark MINI/Temperature warning.md"
   ]
 }

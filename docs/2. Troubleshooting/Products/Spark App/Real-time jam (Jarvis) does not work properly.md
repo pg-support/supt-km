@@ -1,0 +1,2 @@
+# Real-time jam (Jarvis) does not work properly
+Real-time jam might not work properly on devices with lower-spec'd devices. Review the [supported device list](https://help.positivegrid.com/hc/en-us/articles/8141249132941-How-to-use-Smart-Jam#supported-device) and advise the customers accordingly.
