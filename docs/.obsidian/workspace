@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "2184e4fbe05081da",
   "lastOpenFiles": [
+    "index.md",
     "2. Troubleshooting/Products/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
     "2. Troubleshooting/Products/Spark Control/How to return to Mode 1 on Spark Control.md",
     "2. Troubleshooting/Products/Spark Control/Switching speed is slow on Spark Control.md",
@@ -147,7 +148,6 @@
     "2. Troubleshooting/Products/Spark App/Spark app does not download resource (Android).md",
     "2. Troubleshooting/Products/Spark App/Spark app crashes or freezes.md",
     "2. Troubleshooting/Products/Spark MINI/High pitch noise + Freeze.md",
-    "2. Troubleshooting/Products/Spark MINI/Battery does not charge.md",
-    "2. Troubleshooting/Products/Spark MINI/Temperature warning.md"
+    "2. Troubleshooting/Products/Spark MINI/Battery does not charge.md"
   ]
 }
