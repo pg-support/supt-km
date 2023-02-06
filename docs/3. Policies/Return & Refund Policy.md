@@ -1,4 +1,4 @@
-# Refund Policy
+# Return & Refund Policy
 ## Desktop Software Return
 
 We only accept a refund request within 30 days since purchase, Positive Grid will provide a full refund back to the original form of payment.
