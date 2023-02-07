@@ -7,12 +7,8 @@
         "id": "2184e4fbe05081da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2184e4fbe05081da",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
+    "2. Troubleshooting/Products/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md",
     "index.md",
     "2. Troubleshooting/Products/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
     "2. Troubleshooting/Products/Spark Control/How to return to Mode 1 on Spark Control.md",
@@ -147,7 +140,6 @@
     "2. Troubleshooting/Products/Spark App/Real-time jam (Jarvis) does not work properly.md",
     "2. Troubleshooting/Products/Spark App/Spark app does not download resource (Android).md",
     "2. Troubleshooting/Products/Spark App/Spark app crashes or freezes.md",
-    "2. Troubleshooting/Products/Spark MINI/High pitch noise + Freeze.md",
-    "2. Troubleshooting/Products/Spark MINI/Battery does not charge.md"
+    "2. Troubleshooting/Products/Spark MINI/High pitch noise + Freeze.md"
   ]
 }
