@@ -38,6 +38,8 @@
 
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing) - Regular marketing plan for each region 
 
+[Zendesk Ticket Tally Definition](https://docs.google.com/spreadsheets/d/1Ni6QIAENBi3pP-Gg0AG61HMr7fkI1fJ0/edit?usp=sharing&ouid=106361199666703858702&rtpof=true&sd=true) - Ticket tally definition
+
 Support Coupon - Support coupon for compensation. If you need a coupon with higher discount amount, please highlight to Tagui for approval.
 
 > $10: B2WR9G3OY7
