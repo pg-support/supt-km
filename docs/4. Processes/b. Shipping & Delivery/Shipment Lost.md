@@ -9,9 +9,9 @@
 
 ### 1 - Offer claim form
 Insert the following macros (according to the regions & carrier) and submit.
-	- <u>GLS Claim (EU)</u>
-	- <u>DHL Claim (EU)</u>
-	- <u>FedEx/UPS/USPS/Yodel Claim</u>
+- <u>GLS Claim (EU)</u>
+- <u>DHL Claim (EU)</u>
+- <u>FedEx/UPS/USPS/Yodel Claim</u>
 
 >Please make sure to insert the correct tracking number for the customer to fill into the claim form.
 
