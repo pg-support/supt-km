@@ -24,9 +24,9 @@ Once the customer replied with the signed claim form, [upload the claim form to 
 
 ### 3 - Fill out a resend request
 Once uploaded & updated, fill in the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) for resend.
-	1. ‘Hardware Product’, ‘1st Accessory’... should be selected according to what needs to be re-sent. If the whole order needs to be re-sent, select all the main products and accessories accordingly.
-	2. ‘RS/RE Reason’ should be “Shipment lost, please resend.”
-	3. **If the address for resend is different from the original, update it in Shopify and also fill in all the shipping info accordingly in the request form.**
+1. ‘Hardware Product’, ‘1st Accessory’... should be selected according to what needs to be re-sent. If the whole order needs to be re-sent, select all the main products and accessories accordingly.
+2. ‘RS/RE Reason’ should be “Shipment lost, please resend.”
+3. **If the address for resend is different from the original, update it in Shopify and also fill in all the shipping info accordingly in the request form.**
 
 Once submitted, inform the customer that we’ll arrange another shipment, ask them to wait for further notice. Submit the ticket as ‘On-hold’.
 
