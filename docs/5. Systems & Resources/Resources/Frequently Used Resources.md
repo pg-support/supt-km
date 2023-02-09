@@ -4,24 +4,29 @@
 
 [Slack](<[Positive Grid](https://app.slack.com/client/T0250SJH7/C350YM1EX)>) 
 (Access permission: HR, pg_bot permission: Ferrari)
+→ Login information: Each user’s company email
 
 [Zendesk](<[https://help.positivegrid.com/access/unauthenticated](https://help.positivegrid.com/access/unauthenticated)>) 
 (Access permission: Tagui)
+→ Login information: Each user’s company email
 
 [Shopify](<[https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup)>)
 (Access permission: Tiny)
+→ Login information: Each user’s company email
 
 [BigCommerce](<[https://store-57nwrracec.mybigcommerce.com/manage/dashboard](https://store-57nwrracec.mybigcommerce.com/manage/dashboard)>) (expired)
 (Access permission: Tiny)
 
 [SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
 (Access permission: Tiny/Grace)
+→ Account: support@positivegrid.com; Password: !Positivegrid0
 
 [Redmine](<[https://lnvm.positivegrid.com/redmine/](https://lnvm.positivegrid.com/redmine/)>) (expired)
 (Access permission: Tiny)
 
 [MaestroQA](<[https://app.maestroqa.com/home](https://app.maestroqa.com/home)>) 
 (Access permission: Joseph)
+→ Login information: Each user’s company email
 
 
 ## Resource
