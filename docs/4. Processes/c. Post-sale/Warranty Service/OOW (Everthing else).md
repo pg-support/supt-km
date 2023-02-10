@@ -20,7 +20,7 @@ Once confirmed the issue, please first check with the customer whether he/she is
 
 -   Check-up - $50 USD
 -   Main product - $60 USD
--   Handle Strap - $30 USD (Proceed as a [[Service Parts Request]], resend the item to the customer who paid for it)    
+
 
 <u>Spark MINI</u>
 -   All defects (Charge for replacement) - $120 USD
