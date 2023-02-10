@@ -3,12 +3,17 @@
 
 
 ## PSU (Spark)
-Refer to [[ Regular PSU requests]] for further details.
+Free resend if the PSU is ungrounded (see [[Regular PSU requests]]). 
+
+$35 USD if purchasing (see [[PSU purchase request]]).
 
 
 ## Handle Strap (Spark)
-Resend if missing; $30 USD if purchasing/OOW (same process as PSU purchase).
-Handle Strap - $30 USD (Proceed as a [[Service Parts Request]], resend the item to the customer who paid for it)    
+Free resend if missing (see [[Received Wrong & Missing Items]]).
+
+$35 USD if purchasing (see [[Handle strap purchase request]]).
 
 ## USB (All hardware products)
-Resend if missing; further discussion if purchasing.
+Free resend if missing.
+
+Not available for separate purchase at the moment. Please highlight for further discussion if needed.

@@ -17,13 +17,10 @@ If the customer bought the amp second hand, ask the customer for the purchase da
 Once confirmed the issue, please first check with the customer whether he/she is willing to pay for the replacement/repair upfront, pricing listed as below:
    
 <u>Spark 40 / Spark Pearl </u>
-
--   Check-up - $50 USD
--   Main product - $60 USD
-
+-   Main product (Charge for replacement) - $60 USD
 
 <u>Spark MINI</u>
--   All defects (Charge for replacement) - $120 USD
+-   Main product (Charge for replacement) - $120 USD
 
 <u>Spark Control</u>
 -   Main product (Charge for replacement) - $77 USD 
