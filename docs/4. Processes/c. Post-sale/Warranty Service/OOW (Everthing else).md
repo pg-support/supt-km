@@ -30,9 +30,6 @@ Once confirmed the issue, please first check with the customer whether he/she is
 
 <u>RIFF</u>
 -   Main product (Charge for replacement) - $70 USD
--   Lightning to microUSB cable - TBD
--   USB-A to microUSB cable - TBD
-
 
 ### 2 - Inquire information for payment
 Once confirmed the customer is willing to proceed and pay for the repair/replacement, insert Macro: <u>[Service Center] OOW - 1</u>.
