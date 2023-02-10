@@ -1,6 +1,8 @@
 # OOW (Everthing else)
 > US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair)]])
+> 
 > EU - OOW - Spark 40 cases: regular replacement
+> 
 > All other OOW cases: B-stock (certified like-new) replacement
 
 ### 0 - Verify the warranty
