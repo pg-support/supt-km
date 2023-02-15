@@ -1,37 +1,31 @@
 # Custom Grille Review Process
-1. Export the new orders from [Kickflip](https://positivegrid.gokickflip.com/admin/orders). 
+## 1 - Export new orders from [Kickflip](https://positivegrid.gokickflip.com/admin/orders)
 
 ![](https://lh4.googleusercontent.com/IU7zr639ICneXt7wEVmQMDWqPSoMBjU_kDzHBoF-ZnWM8SXDKmVUur4A5nRNQVEoXRRp8N3ogam5tBbJXkoOnW2Fmjz0H0fisVtHcrynL_YxSU7saj13-mGMVwBoSd1C7H7pJoReOh3tIZImvfgQuD4)
 
-  
+## 2 - Import the list into the [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741)
 
-2. Import the list to the [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741).
+The exported file should be a CSV file, which you can open with Numbers (Mac) / Google Sheet / WPS office. 
 
-CSV檔, 用Numbers開啟, 把A欄改成”Sort Ascending”, 將B欄的order numbers複製到Order Record上
+Once opened, select 'Sort Ascending' for A column. Then copy the order numbers from B column and paste it onto Order Record.
 
 ![](https://lh4.googleusercontent.com/nfylkgI8La-r-Hs_b9NG5qC_zzn9HI67drhDBT2ai9otRRAi7JgHX4ilQQnrwH9PPfAjFY-9cijh-iasTiTn0nJ8SvFc95vpUdHOhRgXr59JF7vk3ENDS-m6fjh03PjKx772Q4oyeFsoPU1tHHyU5ag)
 
-  
+## 3 - Review the design in [PG Backend Management System](https://portal.positivegrid.com/logistic/get-order-print-file) 
 
-3. Check the design with [PG Backend Management System](https://portal.positivegrid.com/logistic/get-order-print-file) 
+Login with your company email and find 客製化訂單品項設計圖 option.
 
-登入後, 點物流管理 -> 客製化訂單品項設計圖
+![[Pasted image 20230215174325.png]]
 
-  
-  
-  
-  
-  
-  
-  
-  
+Put in the order number and it'll show the preview of the custom grille design. 
 
-*點進去會看到placeholder, 比對縮圖preview, 請確認兩張圖片沒有錯誤  
+![](https://lh5.googleusercontent.com/xG6s5K6HJFv9r-7jwszkbrIeSoRUbeVqE3fon3SDnS67kW32QOPBsgq6GoVpvfRCc4hIowrQvqft7yzbIpR7UZ6GBU26aXgPxagBLAXXls4RrBxa2zTOpEsE7ZRDZkranj_PMeo4w_wCrbx0BqMgfp0)
 
-![](https://lh5.googleusercontent.com/xG6s5K6HJFv9r-7jwszkbrIeSoRUbeVqE3fon3SDnS67kW32QOPBsgq6GoVpvfRCc4hIowrQvqft7yzbIpR7UZ6GBU26aXgPxagBLAXXls4RrBxa2zTOpEsE7ZRDZkranj_PMeo4w_wCrbx0BqMgfp0)![](https://lh4.googleusercontent.com/xcSOCbf9DzrEhoOkxHALY4mDdQ0rPZe_9JGCc3XY17Sfpu0dUdMyhbOVhskkHoC_hAGFHZQ6pcDeQsy2IhxhWtrLfEsLR2v48svzNcExECw5SfZKagi8s9YcBA4QXhmibHXjrKbys25T64E-0wbUN1w)
+Click on the preview and it'll direct you to a full-sized photo of the same design. **Make sure the full-sized photo and the preview have the same design.** 
 
-  
+![](https://lh4.googleusercontent.com/xcSOCbf9DzrEhoOkxHALY4mDdQ0rPZe_9JGCc3XY17Sfpu0dUdMyhbOVhskkHoC_hAGFHZQ6pcDeQsy2IhxhWtrLfEsLR2v48svzNcExECw5SfZKagi8s9YcBA4QXhmibHXjrKbys25T64E-0wbUN1w)
 
+### Common System Errors
 常見錯誤有:
 
 a. Backend Management System讀不出檔案 (看不到小圖)
