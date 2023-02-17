@@ -11,6 +11,7 @@ PGBot can be found in Positive Grid's Slack channel.
 (Ask @ferrari in # backend-issue for further details if necessary)
 
 [How to Activate a Software License]
+
 - Purchase completed (order shown in Shopify)
 - Account registered (with the same email on the order)
 - License registered (automatically, under the same account)
