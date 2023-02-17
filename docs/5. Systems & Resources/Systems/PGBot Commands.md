@@ -8,7 +8,8 @@ PGBot can be found in Positive Grid's Slack channel.
 
 ## Software / Account
 >PGBot commands mostly apply to desktop software licenses. Mobile license may or may not show up correctly. 
-(Ask @ferrari in # backend-issue for further details if necessary)
+>
+>Ask @ferrari in # backend-issue for further details if necessary (also see [[Backend issue report]])
 
 [How to Activate a Software License]
 

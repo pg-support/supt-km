@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5087787e4ea0a708",
+        "id": "eb09d74a5ede1131",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "5. Systems & Resources/Systems/PGBot Commands.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/PGBot Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/PGBot Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Systems & Resources/Systems/PGBot Commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +131,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5087787e4ea0a708",
+  "active": "eb09d74a5ede1131",
   "lastOpenFiles": [
     "5. Systems & Resources/Systems/PGBot Commands.md",
     "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
