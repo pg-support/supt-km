@@ -3,5 +3,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }
