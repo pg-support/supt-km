@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "source",
+            "file": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deactivate",
+                "query": "service part",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb09d74a5ede1131",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
+    "4. Processes/c. Post-sale/Handle strap (Spark 40) purchase request.md",
+    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Service Parts Request.md",
+    "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
+    "index.md",
     "5. Systems & Resources/Systems/PGBot Commands.md",
     "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "4. Processes/c. Post-sale/Warranty Service/OOW (Everthing else).md",
-    "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
-    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU purchase request.md",
-    "4. Processes/c. Post-sale/Handle strap purchase request.md",
-    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Service Parts Request.md",
-    "4. Processes/c. Post-sale/Warranty Service/OOW (US - Spark 40 Repair).md"
+    "4. Processes/b. Shipping & Delivery/Shipment Lost.md"
   ]
 }

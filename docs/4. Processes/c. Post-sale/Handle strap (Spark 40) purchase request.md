@@ -1,4 +1,4 @@
-# Handle strap purchase request
+# Handle strap (Spark 40) purchase request
 1.  Once confirmed the customer is willing/has to pay for Spark 40's handle trap, inform the customer about the price (**$30 USD**), and ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal): 
 
 	  ![](https://lh4.googleusercontent.com/wNgAmAEk_YGWQbMCvA2raQStaeUznNM1UdT7nn7o0kIyQNm8Ct4f9A689eNOmzSRRwJ6br_RC8k-vVuf7Z8Si4Wb5WDk4OsNC8t1ra_WUz8WpCGKmiJeYdWe19ALhOj_4iSL7f-dYAzBWLwTMSSkJNDSbk3qPWmUzy9pzh6adQJ_Zq2_wwBEd0gIADF3)
