@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f023de160f40d997",
+        "id": "b9b71de7667ebb14",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -129,8 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f023de160f40d997",
+  "active": "b9b71de7667ebb14",
   "lastOpenFiles": [
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/No output in FX 2.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/No input in Windows.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/No input in Mac.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
@@ -138,8 +140,6 @@
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Installation freezes or keeps failing.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Cannot download the installer.md",
     "2. Troubleshooting/Products/RIFF/RIFF has high noise floor or hiss noise when playing.md",
-    "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
-    "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md",
-    "Computer.md"
+    "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
   ]
 }
