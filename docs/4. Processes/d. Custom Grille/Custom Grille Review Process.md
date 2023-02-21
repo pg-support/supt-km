@@ -48,8 +48,7 @@ b. Find 'Edit tags' options at the top right corner, and check the 'ReadyToPrint
   
 c. Once the tag is added to the order, it'll be passed to our partner (NMotion) for printing and shipment. 
 
-d. Once verified there's no issue with the design, go back to [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741) and change the order status to Paid.
+d. Once verified there's no issue with the design, go back to [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741) and change the order status to Paid. [END]
 
   ![[Pasted image 20230221161603.png]]
 
-e. Done 

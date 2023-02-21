@@ -2,6 +2,8 @@
 ## Common errors
 a. Backend Management System cannot read the file (does not show the preview)
 
+A: 到kickflip尋找訂單, 點進去後按Download下載並確認preview和placeholder, 如果kickflip的download連結壞掉, 請回報至[Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), follow Re-Print SOP.
+
 b. The preview and the full-sized photo shows different designs (some elements are off)
 
 ![](https://lh5.googleusercontent.com/nW8aKd7vQj61-fmEZE1GgNLiU-U3HgcTlogLlaXJzMO7b8Z5A6lC6aYht1s5buzw8J5GhuYX7CP7Us6QBaOVt9EujDIn35fknMb11CgrOrN7egUZ-8NY9Vk8TKxSDJbemDq-ctPqhkNqS2Zxs_FuayU)![](https://lh4.googleusercontent.com/JQ0_Uy7BklOAIMH949cyPIGQPTKZARMzC7RX4sK9eLX8-37kJl8Imw5RSbSAMmbLRig0B3bjJ6_Igjd0jw03hwYMQC1w__6wu3tmS1929EBUjEDIHQLkkhIqNFVNj3hRgHBJfAjbzFB18mFxlC_Mgco)
@@ -51,7 +53,7 @@ E.g. PG-21618
 
 先詢問客人意願: 是否要重新提交設計或是取消此訂單
 
-  
+
 
 如客人要取消訂單, 先填cancelation request, 請Grace取消其他產品的發貨, 確認發貨取消成功即可退費+ Skulabs cancel order
 
@@ -97,9 +99,3 @@ A: 如果此訂單在Skulabs上的狀態為”Delayed”, 可將"Ready to Print�
 如果此訂單為Awaiting fulfillment, 代表此設計圖已被送至NMotion, 請[至Cancel Order Form](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=1621356637)填表告知NMotion (成功取消機率極低)
 
   
-
-Q: 在[PG Backend Management System](https://portal.positivegrid.com/logistic/get-order-print-file)看不到設計預覽怎麼辦?
-
-  
-
-A: 到kickflip尋找訂單, 點進去後按Download下載並確認preview和placeholder, 如果kickflip的download連結壞掉, 請回報至[Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), follow Re-Print SOP.
