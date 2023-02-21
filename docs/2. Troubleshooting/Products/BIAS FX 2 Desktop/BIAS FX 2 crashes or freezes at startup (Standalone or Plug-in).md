@@ -25,7 +25,7 @@ Please download the support tool and follow the steps below to send us the files
 
 [Steps]
 
-Windows:
+<u>Windows</u>:
 
 * double-click "log_enable_win.bat" (For Win),
 * reproduce the issue again
@@ -33,7 +33,8 @@ Windows:
 * double-click "log_disable_win.bat" (for Win),
 * get the zipped file generated and send it back to us
 
-Mac:
+<u>Mac</u>:
+
 * double-click "log_enable_mac.command" (for MAC)
 * reproduce the issue again
 * double-click "collectinfo-mac.command" (for MAC)
@@ -46,14 +47,3 @@ Mac:
   *Hit the '...' icon on the bottom left, click on 'Send as link'
   * Copy and paste the link back to the email you're reading right now, then hit reply
 
-
-
-
-
-
-
-
-
-
-
-**
