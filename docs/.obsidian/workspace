@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b71de7667ebb14",
+        "id": "b448d23911f439bf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backend",
-                "matchingCase": false,
+                "query": "crash",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+              }
             }
           },
           {
@@ -129,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9b71de7667ebb14",
+  "active": "b448d23911f439bf",
   "lastOpenFiles": [
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+    "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/No output in FX 2.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/No input in Windows.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/No input in Mac.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
-    "Backend.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Installation freezes or keeps failing.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Cannot download the installer.md",
-    "2. Troubleshooting/Products/RIFF/RIFF has high noise floor or hiss noise when playing.md",
-    "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
+    "4. Processes/a. General/Unsubscribe from all emails.md",
+    "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
+    "4. Processes/b. Shipping & Delivery/Change Address.md",
+    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+    "4. Processes/c. Post-sale/Warranty Service/OOW (Everthing else).md",
+    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU purchase request.md",
+    "4. Processes/c. Post-sale/Handle strap purchase request.md"
   ]
 }
