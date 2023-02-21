@@ -25,29 +25,23 @@ Click on the preview and it'll direct you to a full-sized photo of the same desi
 
 ![](https://lh4.googleusercontent.com/xcSOCbf9DzrEhoOkxHALY4mDdQ0rPZe_9JGCc3XY17Sfpu0dUdMyhbOVhskkHoC_hAGFHZQ6pcDeQsy2IhxhWtrLfEsLR2v48svzNcExECw5SfZKagi8s9YcBA4QXhmibHXjrKbys25T64E-0wbUN1w)
 
-### Common System Errors
-常見錯誤有:
 
-a. Backend Management System讀不出檔案 (看不到小圖)
+## Common System Errors
 
-  
+a. Backend Management System cannot read the file (does not show the preview)
 
-b. Preview和Placeholder上的設計不一樣 (排版跑掉)
-
-  
+b. The preview and the full-sized photo shows different designs (some elements are off)
 
 ![](https://lh5.googleusercontent.com/nW8aKd7vQj61-fmEZE1GgNLiU-U3HgcTlogLlaXJzMO7b8Z5A6lC6aYht1s5buzw8J5GhuYX7CP7Us6QBaOVt9EujDIn35fknMb11CgrOrN7egUZ-8NY9Vk8TKxSDJbemDq-ctPqhkNqS2Zxs_FuayU)![](https://lh4.googleusercontent.com/JQ0_Uy7BklOAIMH949cyPIGQPTKZARMzC7RX4sK9eLX8-37kJl8Imw5RSbSAMmbLRig0B3bjJ6_Igjd0jw03hwYMQC1w__6wu3tmS1929EBUjEDIHQLkkhIqNFVNj3hRgHBJfAjbzFB18mFxlC_Mgco)
 
-  
-  
-
-c. Preview和Placeholder上的顏色不一樣 (翻轉)
+c. The preview and the full-sized photo shows different colors (inverted)
 
 ![](https://lh3.googleusercontent.com/5bfClL_6RLs9AND9KR5IdOhdZLNVsJJO4l5jn_lN8WjpdpuvjSWRueCmFznZ8ZwyOXxYr5_FKLcsp9C3s_QNqHwi6DXhdJ-LgGUyOzfLzog5F1ddOHUMLigfW1iZZjs1GEf5i-FOxvTMrAMqTG5vWWo)![](https://lh3.googleusercontent.com/dOY7CLVabc3Gowz3aa8lF2eb-HaNOo9Rd5VE5uLimVJRTT0ml4qszGhBZtV8P1S38joEq-06eH2WNl_aLkwnGc4Kscsg7bZ81uR3V6TL1ug28bJGV1sfr7atPfmCVnuxaRV6JIklJnnkqscZslGjuuI)
 
-  
 
-*如遇到以上其中一項, 請回報至[Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), follow Re-Print SOP.
+If you encounter any of the above issue, please report to [Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), then proceed with the Re-Print SOP.
+
+
 
 [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741)選擇On Hold, 通知客人, 並在Error/Details上註記問題
 

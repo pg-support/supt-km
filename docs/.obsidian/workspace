@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+            "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
             "mode": "source",
             "source": false
           }
@@ -57,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 257.49999809265137
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b448d23911f439bf",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin windows size (UI scaling) in Studio One.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin windows size (UI scaling) in Reaper.md",
     "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/No output in FX 2.md",
     "4. Processes/a. General/Unsubscribe from all emails.md",
     "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
     "4. Processes/b. Shipping & Delivery/Change Address.md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
-    "4. Processes/c. Post-sale/Warranty Service/OOW (Everthing else).md",
-    "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU purchase request.md",
-    "4. Processes/c. Post-sale/Handle strap purchase request.md"
+    "4. Processes/c. Post-sale/Warranty Service/OOW (Everthing else).md"
   ]
 }
