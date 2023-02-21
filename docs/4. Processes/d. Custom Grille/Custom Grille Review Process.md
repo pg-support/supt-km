@@ -25,9 +25,16 @@ Click on the preview and it'll direct you to a full-sized photo of the same desi
 
 ![](https://lh4.googleusercontent.com/xcSOCbf9DzrEhoOkxHALY4mDdQ0rPZe_9JGCc3XY17Sfpu0dUdMyhbOVhskkHoC_hAGFHZQ6pcDeQsy2IhxhWtrLfEsLR2v48svzNcExECw5SfZKagi8s9YcBA4QXhmibHXjrKbys25T64E-0wbUN1w)
 
-**Make sure the full-sized photo and the preview have the same design.**
 
-If there's any issue with the design, please see [[Custom Grille System or Design Errors]] for further details.
+
+### Make sure the full-sized photo and the preview have the same design.
+
+If there's any issue with the design, please proceed with [[Custom Grille System or Design Errors]].
+
+
+### Make sure the design does not violate our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines). 
+
+If the design violates our guidelines, please proceed [[Custom Grille Design Rejected]].
 
 ## 4 - Approve the design
 

@@ -11,7 +11,7 @@ c. The preview and the full-sized photo shows different colors (inverted)
 ![](https://lh3.googleusercontent.com/5bfClL_6RLs9AND9KR5IdOhdZLNVsJJO4l5jn_lN8WjpdpuvjSWRueCmFznZ8ZwyOXxYr5_FKLcsp9C3s_QNqHwi6DXhdJ-LgGUyOzfLzog5F1ddOHUMLigfW1iZZjs1GEf5i-FOxvTMrAMqTG5vWWo)![](https://lh3.googleusercontent.com/dOY7CLVabc3Gowz3aa8lF2eb-HaNOo9Rd5VE5uLimVJRTT0ml4qszGhBZtV8P1S38joEq-06eH2WNl_aLkwnGc4Kscsg7bZ81uR3V6TL1ug28bJGV1sfr7atPfmCVnuxaRV6JIklJnnkqscZslGjuuI)
 
 
-If you encounter any of the above issue, please follow the re-print and below:
+If you encounter any of the above issue, please follow the re-print process below:
 
 1. Report the issue on [Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), then proceed with the Re-Print SOP.
 
@@ -19,7 +19,7 @@ If you encounter any of the above issue, please follow the re-print and below:
 
 [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741)選擇On Hold, 通知客人, 並在Error/Details上註記問題
 
-  
+  **![](https://lh3.googleusercontent.com/D4lXIoO81aqVPZi-tz83BgTOeIkz7j9iMwaxAt8P7UYUmSGo2t8tGri8Wl_nXCex5X4QGptlyEayK_aY31Pv_aVU9PYZUGkqapItCWisB2S08KF0U2Sqp-Ym205T-LE5Pt6-xMg4orsAK4662m6QqoE)![](https://lh4.googleusercontent.com/XS7pvUtDK0iVDfl4-WsPLVYFKUORxOB-66xylRbHV6fH_-LE6_3MX4G7J7-HHGNteTY777_RoxNfcC_1hYFu-TABi9uufE_RXd8Gtx1fj2z2ba_zMZXaFTx_wcbtIZ1H3GLCPfKgBoFK4Yv5B06EUP0)**
 
 *如看到白色叉叉, 先標記起來 (on hold), 並寫信和客人確認 
 
@@ -31,34 +31,6 @@ If you encounter any of the above issue, please follow the re-print and below:
 
   
 
-2). Refund (Design Not OK)  
-  
-
-a. 設計不符合規定, 且訂單內只有包含客製化產品 
-
-b. 到[Skulabs](https://app.skulabs.com/)搜尋訂單
-
-  
-
-c. 選Menu -> Cancel Order
-
-  
-
-d. 至Shopify搜尋訂單並退款 (找WeiTing or Maines)
-
-  
-
-d. 回到 [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741), 更改狀態為”Refund”, 在Note上填寫原因, 並在Category分類
-
-  
-
-e. [寫信通知客人](https://docs.google.com/document/d/1TdLF7_LoDG5I0RzFeLf72nR8YZib1eZUL_pBZsSVuUY/edit) Title: “Order#PG-XXXX (CG)”, Tally: “Custom Order Declined”, 
-
-Resolution: “Refund - Check-out Amount Related”
-
-  
-
-f. Done 
 
   
   
