@@ -25,21 +25,14 @@ f. Submit the email (as 'Solved'). [END]
 
 
 ## Order includes other product(s)
-E.g. PG-21618
 
 > If an order includes products besides the custom grille, the other products will be shipped separately by our logistics team as long as they're in stock. 
 > 
-> Thus we cannot cancel and refund the order. 
+> Thus we cannot cancel and refund the order, and need to proceed with the **reprint process**.
 
-a. 
+**For reprint, we basically offer a coupon code for the user to re-purchase and re-design the same customized item for free. Once a new design/order is placed, we'll proceed to print and ship the new order, and **
 
-如客人要取消訂單, 先填cancelation request, 請Grace取消其他產品的發貨, 確認發貨取消成功即可退費+ Skulabs cancel order
-
-  
-
-如發貨取消失敗, 填Cancellation requst (Custom grille), 告知Grace並留下紀錄
-
-  
+a. Based on the customized product that the user purchased, offer a corresponding coupon code what'll cover the full price for the new order.
 
 如果已安排出貨 (cancel unsuccessfully), 請走Reprint SOP:
 
@@ -60,3 +53,15 @@ d. 在Shopify的comment欄內填上原訂單的Order#, 並在回到 [Order Recor
   
 
 e. Done
+
+
+
+
+如客人要取消訂單, 先填cancelation request, 請Grace取消其他產品的發貨, 確認發貨取消成功即可退費+ Skulabs cancel order
+
+  
+
+如發貨取消失敗, 填Cancellation requst (Custom grille), 告知Grace並留下紀錄
+
+  
+

@@ -1,4 +1,6 @@
 # Training Materials
+## [New Hire Training Material](https://docs.google.com/document/d/18Tr2ystRzp17D6sW5nKpQKkQjPS6Iz4wKXnMWOtXRQg/edit?usp=sharing)
+
 ## Operation
 
 [Zendesk Operation](https://docs.google.com/presentation/d/1i75b0MMFcs55zhEJMC8PKeHyDPXW-fINygbYkeEapRA/edit?usp=sharing)
