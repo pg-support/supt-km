@@ -5,7 +5,9 @@
 
 #### Spark 40
 <u>PSU (Power supply)</u>
+
 - US, CA, EU, AU, UK - $35 USD
+
 - Mexico - $126 USD
 
 <u>Handle Strap</u> - $30
