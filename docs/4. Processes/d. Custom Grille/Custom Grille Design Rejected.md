@@ -27,13 +27,11 @@ f. Submit the email (as 'Solved'). [END]
 ## Order includes other product(s)
 E.g. PG-21618
 
+> If an order includes products besides the custom grille, the other products will be shipped separately by our logistics team as long as they're in stock. 
+> 
+> Thus we cannot cancel and refund the order. 
 
-
-訂單的其他產品會由logistics team安排發貨, 所以不可直接取消訂單, 
-
-先詢問客人意願: 是否要重新提交設計或是取消此訂單
-
-
+a. 
 
 如客人要取消訂單, 先填cancelation request, 請Grace取消其他產品的發貨, 確認發貨取消成功即可退費+ Skulabs cancel order
 
