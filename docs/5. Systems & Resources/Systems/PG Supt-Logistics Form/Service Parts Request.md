@@ -11,4 +11,4 @@ Free resend if missing (see [[Received Wrong & Missing Items]]).
 ## USB (All hardware products)
 Free resend if missing.
 
-*For all service part purchase requ*
+*For all service part purchase requests, please refer to [[Service part purchase request]].
