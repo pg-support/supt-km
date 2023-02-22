@@ -30,38 +30,24 @@ f. Submit the email (as 'Solved'). [END]
 > 
 > Thus we cannot cancel and refund the order, and need to proceed with the **reprint process**.
 
-**For reprint, we basically offer a coupon code for the user to re-purchase and re-design the same customized item for free. Once a new design/order is placed, we'll proceed to print and ship the new order, and **
+**For reprint, we basically will offer a coupon code for the user to re-purchase and re-design the same customized item for free. 
 
-a. Based on the customized product that the user purchased, offer a corresponding coupon code what'll cover the full price for the new order.
+**Once the new design/order is placed, we'll proceed to print and ship the new order. The old design/order can be left untouched.**
 
-如果已安排出貨 (cancel unsuccessfully), 請走Reprint SOP:
+a. Based on the purchased customized product, offer a corresponding coupon code which'll cover the full price for a new order.
 
-  
+You can find the coupon code for each customized item listed in [this link](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529).
 
-a. 提供客人相對應產品的[coupon code](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529)
+b. Ask the customer to provide the new order number once the purchase is completed. 
 
-  
+c. Review the order again ([[Custom Grille Review Process]]). Once approved, add the 'ReadyToPrint' so it'll be passed to our partner.
 
-b. 請客人提供新的Order#
+d. On the new order, add the original order number in the note section.
 
-  
+![[Pasted image 20230222181619.png]]
 
-c. 審單後確認無誤, 就上tag丟給NMotion
+e. Go back to [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741), add all the info from the new order, and also put in the original order + (CGRP) (Custom Grille Re-Print) in the 'Note' column. [END]
 
-d. 在Shopify的comment欄內填上原訂單的Order#, 並在回到 [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741)的Note上填上原訂單號並在後面加上Custom Grille Re-Print (CGRP), e.g. “PG-16783 (CGRP)”
+![[Pasted image 20230222181842.png]]
 
-  
-
-e. Done
-
-
-
-
-如客人要取消訂單, 先填cancelation request, 請Grace取消其他產品的發貨, 確認發貨取消成功即可退費+ Skulabs cancel order
-
-  
-
-如發貨取消失敗, 填Cancellation requst (Custom grille), 告知Grace並留下紀錄
-
-  
 
