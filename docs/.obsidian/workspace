@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b65610f09013540f",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "5. Systems & Resources/Systems/PG Supt-Logistics Form/Service Parts Request.md",

@@ -1,7 +1,7 @@
 # Service part purchase request
 > Purchase request for Spark 40 PSU (power supply), Spark 40 handle strap, Spark MINI handle strap, Spark MINI USB cable, Spark Control USB   cable.
 
-1.  Once confirmed the customer is willing/has to pay for a service part, inform the customer about the pricing (as listed), and ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal): 
+0. Once confirmed the customer is willing/has to pay for a service part, inform the customer about the pricing (as listed), and ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal): 
 
 #### Spark 40
 <u>PSU (Power supply)</u>
