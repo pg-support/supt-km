@@ -1,5 +1,5 @@
-# Custom Grille Design Rejected
-> If the design violates our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines), please follow through this process for rejecting and refunding the order.
+# Custom Grille Design Reject/Reprint
+> If the design violates our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines), or consists of system/design error, please follow through this process for rejecting/reprinting the order, based on whether it includes other products.
 
 ## Order only includes customized product(s)
 
@@ -16,6 +16,8 @@ d. Once the refund is issued, go back to [Order Record](https://docs.google.com/
 ![[Pasted image 20230221172538.png]]
 
 e. Open a new ticket, put in the user's email, then use Zendesk macro [Custom Grille Declined Email] to send an outbound ticket to the customer. 
+
+> If the design does NOT violate the submission guideline but instead has some design errors, please modify the macro accordingly. 
 
 Make sure you put in the order number in the email subject.
 

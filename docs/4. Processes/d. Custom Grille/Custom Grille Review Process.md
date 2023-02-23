@@ -34,7 +34,7 @@ If there's any issue with the design, please proceed with [[Custom Grille System
 
 ### Make sure the design does not violate our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines). 
 
-If the design violates our guidelines, please proceed [[Custom Grille Design Rejected]].
+If the design violates our guidelines, please proceed [[Custom Grille Design Reject or Reprint]].
 
 
 ## 4 - Approve the design
