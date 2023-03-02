@@ -1,0 +1,1 @@
+# What's Spark GO's compatible headphone impedance
