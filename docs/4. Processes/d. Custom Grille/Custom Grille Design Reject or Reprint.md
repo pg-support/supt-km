@@ -1,7 +1,7 @@
 # Custom Grille Design Reject/Reprint
 > If the design violates our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines), or consists of system/design error, please follow through this process for rejecting/reprinting the order, based on whether it includes other products.
 
-## Order only includes customized product(s)
+## Reject - Order only includes customized product(s)
 
 a. Find the order in [Skulabs](https://app.skulabs.com/). 
 
@@ -26,7 +26,7 @@ Make sure you put in the order number in the email subject.
 f. Submit the email (as 'Solved'). [END]
 
 
-## Order includes other product(s)
+## Reprint - Order includes other product(s)
 
 > If an order includes products besides the custom grille, the other products will be shipped separately by our logistics team as long as they're in stock. 
 > 

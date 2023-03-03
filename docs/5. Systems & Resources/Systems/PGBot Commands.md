@@ -68,11 +68,11 @@ PGBot can be found in Positive Grid's Slack channel.
 ### Find redeem code
 > Scenario: Find the license details of a certain redeem code, as the user is having issue redeeming a code. (Normally, redeem codes are provided by 3rd party vendors or support team.)
 
-Insert /supt_find_redeem (<u>code</u>) to find further information on a code, whether it’s redeemed or not. 
+Insert /pg_find_redeem (<u>code</u>) to find further information on a code, whether it’s redeemed or not. 
 
-**![](https://lh4.googleusercontent.com/YAooGBcqwWkhR0yrjJQ7PXKb6gRDxFsaBLt5GNpMRJ5WqwTfM6EoZfoeE9pjEbtaZHUZaQBAE5o_GwbZhmnAc12xCx-gjTyBacFhY5zwfB2rygVS2M-rtdRX2Ddwze7JwRZRBPXPIaPaYzhSYTrDdw)**
+![[Pasted image 20230302134732.png]]
 
-**![](https://lh5.googleusercontent.com/3cB515Zq09dhSvaS1gso6RCENH2d6Iev8swYdq94gpRKpJoWTUHZSFCERxC9CrtwEnYL9AJhGYXoQb5F9peaW9qxdOoP5gGVJXt_7VHHyBrmHi6KGT44yHHou1s5UjAgVE-mT4_7O8gQCkEitIhcKg)**
+![[Pasted image 20230302134817.png]]
 
 ### Migrate account (move all licenses)
 Scenario: User wants to move all licenses to another account, or wants to change their login email (since we don’t allow changing the account email, user must sign up a new account for us to migrate the old one into).
