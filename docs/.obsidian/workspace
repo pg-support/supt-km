@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e21bd1e8aef53dba",
+        "id": "1e1630121e3398f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+            "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e21bd1e8aef53dba",
+  "active": "1e1630121e3398f4",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers.md",
-    "1. FAQs/Products/Spark GO/What's Spark GO's compatible headphone impedance.md",
-    "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording 1.md",
-    "Untitled.md",
+    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+    "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md",
     "1. FAQs/Products/Spark GO/How to factory reset Spark GO.md",
-    "4. Processes/c. Post-sale/Warranty Service/OOW (US - Spark 40 Repair).md",
-    "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
-    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
-    "3. Policies/Warranty Policy/Service for Non-Service Area.md",
-    "3. Policies/Warranty Policy/Service countries & regions.md"
+    "1. FAQs/Products/Spark GO/How to force shutdown & restart Spark GO.md",
+    "1. FAQs/Products/Spark GO/How to get Spark GO into Pairing Mode.md",
+    "1. FAQs/Products/Spark GO/How to get Spark GO into Tuner Mode.md",
+    "1. FAQs/Products/Spark GO/Is Spark GO stereo or mono.md",
+    "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
+    "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording 1.md",
+    "1. FAQs/Products/Spark GO/What's Spark GO's compatible headphone impedance.md"
   ]
 }

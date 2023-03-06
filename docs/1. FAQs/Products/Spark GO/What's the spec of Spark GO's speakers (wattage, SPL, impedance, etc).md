@@ -1,4 +1,4 @@
-# What's the spec of Spark GO's speakers
+# What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)
 > Spark GO speaker wattage
 > Speaker diameter
 
