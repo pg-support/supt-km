@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "url-into-selection",
-  "cmenu-plugin"
+  "obsidian-linter",
+  "recent-files-obsidian",
+  "editing-toolbar"
 ]
