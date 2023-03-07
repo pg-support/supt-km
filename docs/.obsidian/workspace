@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31f2746942eba2d4",
+        "id": "740f968fcddfe7d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non",
+                "query": "scaling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31f2746942eba2d4",
+  "active": "740f968fcddfe7d9",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark App/Where do I download the Spark app.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin windows size (UI scaling) in Studio One.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Plugin window is too big, too small, or cut out.md",
     "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
     "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md",
+    "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
     "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md",
-    "2023-03-07.md",
-    "Media/Pasted image 20230302134817.png",
-    "Media/Pasted image 20230302134732.png",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
-    "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
+    "1. FAQs/Products/Spark App/Where do I download the Spark app.md",
+    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md",
+    "2023-03-07.md"
   ]
 }

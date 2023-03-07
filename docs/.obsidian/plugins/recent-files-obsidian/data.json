@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Does Spark app run on Mac",
-      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
+      "basename": "Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc)",
+      "path": "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md"
     },
     {
-      "basename": "Where do I download the Spark app",
-      "path": "1. FAQs/Products/Spark App/Where do I download the Spark app.md"
+      "basename": "Does Spark app run on Mac",
+      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
     },
     {
       "basename": "Why doesn't Spark app support Android 7 anymore",
       "path": "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
     },
     {
-      "basename": "What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)",
-      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
+      "basename": "Do you support Mac with Apple M1 and M2 chip",
+      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
     },
     {
       "basename": "Does BIAS Amp 2 support Windows 11",
       "path": "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md"
+    },
+    {
+      "basename": "Where do I download the Spark app",
+      "path": "1. FAQs/Products/Spark App/Where do I download the Spark app.md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
     }
   ],
   "omittedPaths": [],
