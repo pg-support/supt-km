@@ -3,5 +3,6 @@
   "url-into-selection",
   "obsidian-linter",
   "recent-files-obsidian",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-auto-link-title"
 ]

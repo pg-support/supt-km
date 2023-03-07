@@ -21,3 +21,10 @@
 2. Right-click on the REAPER icon and select Properties.
 3. In the Compatibility section, please enable “Override high DPI scaling behavior.” and select scaling performed by: “System”.
 4. Launch REAPER and insert BIAS FX 2 again.
+
+
+Resources:
+[Cubase 11: Using DPI-unaware plug-ins on Windows – Steinberg Support](https://helpcenter.steinberg.de/hc/en-us/articles/360017509919-Cubase-11-Using-DPI-unaware-plug-ins-on-Windows)
+[High-DPI monitor support – Ableton](https://help.ableton.com/hc/en-us/articles/209775985-High-DPI-monitor-support)
+[High DPI awarenes for plugins - Cockos Incorporated Forums](https://forum.cockos.com/showthread.php?t=215766)
+[Disable DPI Awareness in a Plugin - Audio Plugins - JUCE](https://forum.juce.com/t/disable-dpi-awareness-in-a-plugin/50140)
