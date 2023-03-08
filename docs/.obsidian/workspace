@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
+            "file": "5. Systems & Resources/Resources/Training Materials.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "error code",
+                "query": "training mate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
+                "file": "5. Systems & Resources/Resources/Training Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
+                "file": "5. Systems & Resources/Resources/Training Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md"
+                "file": "5. Systems & Resources/Resources/Training Materials.md"
               }
             }
           },
@@ -147,8 +148,8 @@
   },
   "active": "6009f89d55bc6d74",
   "lastOpenFiles": [
-    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md",
     "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
+    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md",
     "3. Policies/Warranty Policy/Service countries & regions.md",
     "3. Policies/Shipping Policy/Countries we ship to.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md",
