@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "5. Systems & Resources/Resources/Support Property List.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "5. Systems & Resources/Resources/Support Property List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "5. Systems & Resources/Resources/Support Property List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "5. Systems & Resources/Resources/Support Property List.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "c08f1dedbe35c91e",
   "lastOpenFiles": [
+    "index.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "5. Systems & Resources/Resources/Training Materials.md",
     "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
@@ -155,7 +156,6 @@
     "3. Policies/Shipping Policy/Countries we ship to.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin windows size (UI scaling) in Studio One.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Plugin window is too big, too small, or cut out.md",
-    "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Plugin window is too big, too small, or cut out.md"
   ]
 }
