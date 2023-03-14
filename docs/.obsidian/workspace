@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c08f1dedbe35c91e",
+        "id": "c13c012b879ad64c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+            "file": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
             "mode": "source",
             "source": false
           }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 507.0036315917969
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+                "file": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
               }
             }
           },
@@ -146,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c08f1dedbe35c91e",
+  "active": "c13c012b879ad64c",
   "lastOpenFiles": [
+    "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md",
+    "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md",
+    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
     "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md",
     "5. Systems & Resources/Resources/Support Property List.md",
     "index.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "5. Systems & Resources/Resources/Training Materials.md",
     "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md",
-    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md",
-    "3. Policies/Warranty Policy/Service countries & regions.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md"
+    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
   ]
 }
