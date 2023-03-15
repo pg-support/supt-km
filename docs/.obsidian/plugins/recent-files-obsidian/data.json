@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test/test.md"
+    },
+    {
+      "basename": "Countries we ship to",
+      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Service countries & regions",
       "path": "3. Policies/Warranty Policy/Service countries & regions.md"
-    },
-    {
-      "basename": "Countries we ship to",
-      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
     },
     {
       "basename": "Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc)",
