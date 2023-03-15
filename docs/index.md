@@ -5,7 +5,7 @@ Please use the search function to find the resource you need, or look for it man
 
 ## Trending
 [EU Spark 40 Delay Notification List](https://docs.google.com/spreadsheets/d/1IFkcu6fnSGc_ujtZAlze95y8ahqnpwnb6whCZLKHZic/edit?usp=sharing)
-*(Backlogs from 2/23 ~ 3/10 will arrive at around 3/20. These ~200 customers will be notified about the ETA on 3/14, with no coupon offered.
+*(Backlogs from 2/23 ~ 3/10 will arrive at around 3/27. These ~200 customers will be notified about the ETA on 3/14, with no coupon offered.
 You can find the email template [here](https://cdn.us1.exponea.com/positive-grid-dev/e/CgxgkQaFZ5O84wfjaRgxkIiI4fYD2UFyDGQP24bgP8PZ6qqcpg.4i4jNGeFzUp6ww))*
 
 [Fulfillment Schedule & Availability](https://docs.google.com/spreadsheets/d/13mK6KP4YmWGT_NyAHVbmFVl5Wj5khDcB1fvpsDKTL24/edit?usp=sharing)

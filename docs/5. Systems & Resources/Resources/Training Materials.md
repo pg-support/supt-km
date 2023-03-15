@@ -22,6 +22,8 @@
 ## Product
 [Spark GO Pre-launch Training](https://docs.google.com/presentation/d/1Ugg-PQwAM3rG2F-IS8paSDn31NP39Y4X8rMrwoNqNWw/edit?usp=sharing)
 
+([Spark GO Training Video - Mandarin](https://drive.google.com/file/d/1HIqnTRpPTiJJgdjQvuKgfrjz1nfR3kpw/view?usp=sharing))
+
 [Spark Pearl Pre-launch Training](https://docs.google.com/presentation/d/1SjzGxUCTpPGPRMdZ9F77I64UiHieD4Z8DLfbQV-tZNk/edit?usp=sharing)
 
 [10th Anniversary & Spark Pearl Relaunch](https://docs.google.com/presentation/d/1kV9t8g_b8-IcPWCXyke3ns2qi8z9-gC27BflLlg5Ajc/edit?usp=sharing)

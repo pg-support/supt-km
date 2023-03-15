@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Training Materials",
+      "path": "5. Systems & Resources/Resources/Training Materials.md"
+    },
+    {
       "basename": "Spark GO's Bluetooth & Power LED Indicator",
       "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
     },
@@ -25,16 +33,8 @@
       "path": "5. Systems & Resources/Resources/Support Property List.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
       "path": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
-    },
-    {
-      "basename": "Training Materials",
-      "path": "5. Systems & Resources/Resources/Training Materials.md"
     },
     {
       "basename": "RMA & OOW for Southeast Asia",
