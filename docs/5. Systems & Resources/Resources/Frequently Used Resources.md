@@ -19,7 +19,7 @@
 
 [SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
 (Access permission: Tiny/Grace)
-→ Account: support@positivegrid.com; Password: !Positivegrid0
+→ Account: support@positivegrid.com; Password: 0Positivegrid!
 
 [Redmine](<[https://lnvm.positivegrid.com/redmine/](https://lnvm.positivegrid.com/redmine/)>) (expired)
 (Access permission: Tiny)

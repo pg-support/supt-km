@@ -5,7 +5,7 @@
 - ALL orders will go through and be shown in SKULabs, including regular (BC) orders, Amazon/Ebay/Reverb orders, resend shipment, replacement, accessories. 
 
 - Account: support@positivegrid.com
-  Password: !Positivegrid0
+  Password: 0Positivegrid!
   (Support team shares the same account, as we only need it for checking TRK#)
 
 ## Basic Navigation
