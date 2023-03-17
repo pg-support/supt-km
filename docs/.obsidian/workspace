@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "96eb9f60614cdd27",
+        "id": "1c80ad9ad1d54884",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96eb9f60614cdd27",
+  "active": "1c80ad9ad1d54884",
   "lastOpenFiles": [
+    "5. Systems & Resources/Resources/Support Property List.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "5. Systems & Resources/Resources/Hardware Video Tutorials (BIAS Head, MINI, BT4, BIAS Footswitch).md",
     "5. Systems & Resources/Resources/Training Materials.md",
@@ -147,7 +148,6 @@
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin windows size (UI scaling) in Studio One.md",
     "2. Troubleshooting/Products/BIAS FX 2 Desktop/Plugin window is too big, too small, or cut out.md",
     "1. FAQs/Products/Spark App/Does Spark app run on Mac.md",
-    "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md",
-    "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
+    "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
   ]
 }
