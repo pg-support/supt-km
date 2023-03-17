@@ -20,6 +20,9 @@
 [Klarna - 4 Interest-free Payments](https://docs.google.com/document/d/12pMXLT_kaW_7JJXt401WdhYtivvZVerXr4cc_0vmVFY/edit?usp=sharing)
 
 ## Product
+[Spark GO Pre-launch Training](https://docs.google.com/presentation/d/1Ugg-PQwAM3rG2F-IS8paSDn31NP39Y4X8rMrwoNqNWw/edit?usp=sharing)
+
+([Spark GO Training Video - Mandarin](https://drive.google.com/file/d/1HIqnTRpPTiJJgdjQvuKgfrjz1nfR3kpw/view?usp=sharing))
 
 [Spark Pearl Pre-launch Training](https://docs.google.com/presentation/d/1SjzGxUCTpPGPRMdZ9F77I64UiHieD4Z8DLfbQV-tZNk/edit?usp=sharing)
 

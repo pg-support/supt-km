@@ -1,0 +1,14 @@
+# Support Property List
+## Spark 40:
+- S040C1011522 (Black)
+
+## Spark Control:
+- SKC50S-4303051122-3179
+- SKC50S-4306061622-6DC1
+
+## Spark MINI:
+- S1012G12 2005011 (Pearl)
+- S1011G12 202172C (Black)
+
+## Spark GO:
+- S0511G132000887

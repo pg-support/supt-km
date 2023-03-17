@@ -7,7 +7,7 @@ Indicates the status of your Bluetooth audio connection:
 ## Power Indicator
 Indicates power and battery status.
  - Solid Green: Powered on or fully charged
- - Solid Red: Low battery
+ - Solid Red: Low battery (last 10% battery, should also hear a notification sound)
  - Flashing Red/Green: Charging
 
 
