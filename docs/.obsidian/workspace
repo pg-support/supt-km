@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spark go training",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
+                "file": "index.md"
               }
             }
           },
@@ -147,15 +148,15 @@
   },
   "active": "4470fd757cd007ff",
   "lastOpenFiles": [
+    "5. Systems & Resources/Resources/Training Materials.md",
+    "index.md",
+    "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
     "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
     "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md",
     "3. Policies/Shipping Policy/Order shipping time & restrictions.md",
     "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation.md",
-    "index.md",
     "test/test.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "5. Systems & Resources/Resources/Training Materials.md",
-    "2. Troubleshooting/Products/Spark GO/USB Audio.md"
+    "3. Policies/Shipping Policy/Countries we ship to.md"
   ]
 }

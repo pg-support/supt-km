@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Training Materials",
+      "path": "5. Systems & Resources/Resources/Training Materials.md"
+    },
+    {
       "basename": "Custom Grille Review Process",
       "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
     },
@@ -17,16 +25,8 @@
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Countries we ship to",
       "path": "3. Policies/Shipping Policy/Countries we ship to.md"
-    },
-    {
-      "basename": "Training Materials",
-      "path": "5. Systems & Resources/Resources/Training Materials.md"
     },
     {
       "basename": "Spark GO's Bluetooth & Power LED Indicator",
