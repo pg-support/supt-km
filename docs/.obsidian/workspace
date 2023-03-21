@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "custom grille",
+                "query": "computer does not",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 507.0036315917969
+    "width": 261.0036315917969
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
               }
             }
           },
@@ -147,15 +148,15 @@
   },
   "active": "4470fd757cd007ff",
   "lastOpenFiles": [
+    "3. Policies/Shipping Policy/Order shipping time & restrictions.md",
+    "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
+    "4. Processes/b. Shipping & Delivery/Order Cancellation.md",
+    "index.md",
     "test/test.md",
     "3. Policies/Shipping Policy/Countries we ship to.md",
-    "index.md",
     "5. Systems & Resources/Resources/Training Materials.md",
     "2. Troubleshooting/Products/Spark GO/USB Audio.md",
     "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
-    "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md",
-    "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
-    "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
+    "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
   ]
 }

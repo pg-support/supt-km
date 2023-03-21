@@ -1,4 +1,4 @@
-# Order Cancellation
+# Order Cancellation Process
 1. Once the customer contacts for order cancellation, first verify whether the order is already shipped (by internal order checking and see if tracking number is already available).
 	1. If the order is not yet shipped (no tracking number available), reply with Macro: Spark Cancellation (Not Shipped) (Modify if needed).
 	2. If the order is shipped (tracking number is available), reply with Macro: Spark Cancellation (Shipped) (ask the customer to refuse the shipment) (Modify if needed).
