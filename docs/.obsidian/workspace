@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
+            "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer does not",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
               }
             }
           },
@@ -148,8 +147,8 @@
   },
   "active": "4470fd757cd007ff",
   "lastOpenFiles": [
-    "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md",
     "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
+    "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md",
     "3. Policies/Shipping Policy/Order shipping time & restrictions.md",
     "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation.md",

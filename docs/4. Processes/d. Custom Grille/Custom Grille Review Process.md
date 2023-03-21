@@ -7,7 +7,7 @@
 
 The exported file should be a CSV file, which you can open with Numbers (Mac) / Google Sheet / WPS office. 
 
-Once opened, select 'Sort Ascending' for A column. Then copy the order numbers from B column and paste it onto Order Record.
+Once opened, select 'Sort Ascending' for B column (Order ID #). Then copy the order numbers and paste it onto Order Record.
 
 ![](https://lh4.googleusercontent.com/nfylkgI8La-r-Hs_b9NG5qC_zzn9HI67drhDBT2ai9otRRAi7JgHX4ilQQnrwH9PPfAjFY-9cijh-iasTiTn0nJ8SvFc95vpUdHOhRgXr59JF7vk3ENDS-m6fjh03PjKx772Q4oyeFsoPU1tHHyU5ag)
 
