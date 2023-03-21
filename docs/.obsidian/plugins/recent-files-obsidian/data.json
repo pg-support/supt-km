@@ -5,17 +5,10 @@
       "path": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
     },
     {
-<<<<<<< Updated upstream
-=======
-      "basename": "Order shipping time & restrictions",
-      "path": "3. Policies/Shipping Policy/Order shipping time & restrictions.md"
+      "basename": "Auto-gain says the input is low",
+      "path": "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md"
     },
     {
-      "basename": "Order cancellation & adjustments policy",
-      "path": "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md"
-    },
-    {
->>>>>>> Stashed changes
       "basename": "Order Cancellation",
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation.md"
     },
