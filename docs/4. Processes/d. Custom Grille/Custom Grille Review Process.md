@@ -34,6 +34,8 @@ If there's any issue with the design, please proceed with [[Custom Grille System
 
 ### Make sure the design does not violate our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines). 
 
+> Note that there might be custom grille designs with copyright materials made by our collaborated artists/KOLs. Make sure to check Shopify before cancelling (it'll be an $0 order).
+
 If the design violates our guidelines, please proceed [[Custom Grille Design Reject or Reprint]].
 
 

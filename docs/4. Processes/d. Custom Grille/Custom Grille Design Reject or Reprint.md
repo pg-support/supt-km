@@ -3,11 +3,15 @@
 
 ## Reject - Order only includes customized product(s)
 
+> Before cancelling the order in SKULab, always go to Shopify and check the order. 
+> 
+> If the order is $0 and not with the coupon code like the ones in [this link](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529), it's likely the order is from a collaborated artist/KOL, and we shouldn't cancel the order and should approve the design instead. If unsure, please highlight to the team for further verification.
+
 a. Find the order in [Skulabs](https://app.skulabs.com/). 
 
 b. Select Menu -> Cancel Order.
 
-![[Pasted image 20230221172231.png]]
+![[Pasted image 20230322170508.png]]
 
 c. Ask Weiting/Maines to refund the order
 
