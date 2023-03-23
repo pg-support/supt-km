@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2622023f290b8bfe",
+        "id": "98ccd87463e4bc20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2622023f290b8bfe",
+  "active": "98ccd87463e4bc20",
   "lastOpenFiles": [
+    "2. Troubleshooting/Products/Desktop Software Troubleshooting Guideline.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
     "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "4. Processes/d. Custom Grille/Custom Grille Cancellation.md",
     "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
     "Media/Pasted image 20230322170508.png",
     "1. FAQs/General/How do I switch back from Facebook login to normal login.md",
     "1. FAQs/General/Cannot purchase expansion packs.md",
-    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
   ]
 }

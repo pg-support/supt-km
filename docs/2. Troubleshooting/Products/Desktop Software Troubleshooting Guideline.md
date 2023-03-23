@@ -1,13 +1,14 @@
-# BIAS FX 2 crashes / freezes at startup (Standalone / Plug-in)
-### **Narrow down the issue**
+# Desktop Software Troubleshooting Guideline
+### Narrow down the issue
 
--   Was the program running normally before? Was the system or the program updated, or was there any new program installed, before the issue occurs?
-
--   Does disabling the cloud service (Google Drive, One Drive, Dropbox, iCloud, etc) resolve the issue? 
-
--   [Backup the presets](https://help.positivegrid.com/hc/en-us/articles/218315863-How-to-Backup-My-Presets-) and try reinstalling the program. Does it help?
-
--   Can the same issue be reproduced on another computer?
+-   [Backup the presets](https://help.positivegrid.com/hc/en-us/articles/218315863-How-to-Backup-My-Presets-) and try reinstalling the program.
+  
+-   If the issue has to do with general usage, verify if the same issue can be reproduced on another computer.
+  
+-   If the issue has to do with account or license, please ask the user to try
+    -   Connecting to another internet connection (or smartphone hotspot)
+    -   Turning off firewall and antivirus programs temporarily
+    -   [Resetting the host file](https://www.igeeksblog.com/how-to-reset-hosts-file-to-default-on-mac-windows/)
 
 ---
 
@@ -24,6 +25,8 @@
 	-   If only plug-in is having the issue, what DAW is the user using? 
 	  
 	-   Does the issue persist in another DAW? (We often recommend testing out [Reaper](https://www.reaper.fm/) because it’s free, available on both platforms, and can run various plug-in formats (AU, VST2, VST3).)
+
+-   The precise steps for reproducing the issue.
 
 -   Collect the crash log for further verification. Below is the instruction we can offer the user.
 
