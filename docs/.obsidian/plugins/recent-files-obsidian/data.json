@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
+      "basename": "SR - Personal Reason",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md"
+    },
+    {
+      "basename": "SR - Delivery Error",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md"
+    },
+    {
+      "basename": "Change Address",
+      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
+    },
+    {
+      "basename": "Service part purchase request",
+      "path": "4. Processes/c. Post-sale/Service part purchase request.md"
+    },
+    {
+      "basename": "DOA",
+      "path": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
+    },
+    {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
+      "basename": "Custom Grille Cancellation",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation.md"
+    },
+    {
+      "basename": "Return & Refund Policy",
+      "path": "3. Policies/Return & Refund Policy.md"
+    },
+    {
+      "basename": "SR - Fail to Intercept",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
+    },
+    {
+      "basename": "Order Cancellation",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation.md"
+    },
+    {
+      "basename": "SKULabs Operation",
+      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
+    },
+    {
       "basename": "Desktop Software Troubleshooting Guideline",
       "path": "2. Troubleshooting/Products/Desktop Software Troubleshooting Guideline.md"
     },
@@ -9,16 +57,8 @@
       "path": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
     },
     {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
-    },
-    {
       "basename": "Custom Grille Review Process",
       "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
-    },
-    {
-      "basename": "Custom Grille Cancellation",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation.md"
     },
     {
       "basename": "Bloomreach Operation",
@@ -35,10 +75,6 @@
     {
       "basename": "Cannot purchase expansion packs",
       "path": "1. FAQs/General/Cannot purchase expansion packs.md"
-    },
-    {
-      "basename": "SKULabs Operation",
-      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
     },
     {
       "basename": "What's the spec of Spark GO's battery (playing & charging time)",
@@ -63,10 +99,6 @@
     {
       "basename": "Auto-gain says the input is low",
       "path": "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md"
-    },
-    {
-      "basename": "Order Cancellation",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation.md"
     },
     {
       "basename": "Countries we ship to",

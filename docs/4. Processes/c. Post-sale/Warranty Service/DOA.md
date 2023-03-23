@@ -66,7 +66,4 @@ If an ETA is available on the tracking site (of the carrier), you may note it in
 
 On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
 
-Once the package is confirmed to be received, escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
-
-![](https://lh5.googleusercontent.com/6YAS4dsAKPNMRag_-Q4f94Px9q2LOVUAGxZb5P60j6d2Jc97RT7YtYH5BsPiPB4bBQtmEcL1evHTp6ncXEY5BHKyQxskH_tJoFF0PQYEOxcDpoUCxpNX8D9OQOywSHjY5LD4BHpM2LlQa3VBlsRBwXtut8oD1XvC5tFO5qKF2osgr4MXxMh8yOSk8rPo) 
-
+Once the package is confirmed to be received, proceed with the [[Refund Process]]. [END]

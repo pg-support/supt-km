@@ -16,7 +16,7 @@ We may remove the 'Ready to Print' tag, and proceed with the regular [[Order Can
 
 As soon as the order shows 'Awaiting Fulfillment', it means the order is already sent to our partner (NMotion) for printing and shipping. Please go to the [Cancel Order Form](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=1621356637) to request our partner to cancel the order at their end.
 
-If NMotion reported the cancellation is successful, we may proceed with the [[Refund Request Escalation]].
+If NMotion reported the cancellation is successful, we may proceed with the [[Refund Process]].
 
 If NMotion reported the cancellation is not successful and the item is shipped, please communicate with the customer accordingly.
 

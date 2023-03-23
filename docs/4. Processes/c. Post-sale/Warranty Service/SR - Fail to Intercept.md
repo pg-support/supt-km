@@ -53,6 +53,4 @@ If ‘Case Status’ is updated to ‘Missing Items’, it means there’re miss
 ![](https://lh4.googleusercontent.com/hlZGkgsGxrlifPoJDialqF9Qz5H0ZHeIVqyZidNyTN_EI90S4OhyUy4WURBDbD8pkRH6VULo8pv0c36JGBOq1aqddy6QpWjv5xrukiqhACO5Ie0Mi1xA8r1k4P4R-Wmgor3lMt3i__an7u0Xd5997N1awHFBgmhXTkCkw-LQpbrX08q0NUurCls_I2aV)
 
 #### Ready for Warranty Service
-If ‘Case Status’ is updated to ‘Ready for Warranty Service', the agent can proceed and escalate the ticket to Maines with a change to subject (add <u>[Refund]</u>) and a proper internal note. (END)
-
-![](https://lh5.googleusercontent.com/6YAS4dsAKPNMRag_-Q4f94Px9q2LOVUAGxZb5P60j6d2Jc97RT7YtYH5BsPiPB4bBQtmEcL1evHTp6ncXEY5BHKyQxskH_tJoFF0PQYEOxcDpoUCxpNX8D9OQOywSHjY5LD4BHpM2LlQa3VBlsRBwXtut8oD1XvC5tFO5qKF2osgr4MXxMh8yOSk8rPo)
+If ‘Case Status’ is updated to ‘Ready for Warranty Service', the agent can proceed with the [[Refund Process]] to refund the order. (END)

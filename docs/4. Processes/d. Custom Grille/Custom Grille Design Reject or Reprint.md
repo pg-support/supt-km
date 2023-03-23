@@ -13,7 +13,7 @@ b. Select Menu -> Cancel Order.
 
 ![[Pasted image 20230322170508.png]]
 
-c. Ask Weiting/Maines to refund the order
+c. Proceed with [[Refund Process]] and refund the order.
 
 d. Once the refund is issued, go back to [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741) and change the order status to 'Refund' and fill in 'Notes' and 'Category' accordingly.
 

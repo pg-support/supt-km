@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "98ccd87463e4bc20",
+        "id": "aaf147c59efe2555",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "battery spark go",
+                "query": "refund",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98ccd87463e4bc20",
+  "active": "aaf147c59efe2555",
   "lastOpenFiles": [
-    "2. Troubleshooting/Products/Desktop Software Troubleshooting Guideline.md",
-    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+    "4. Processes/c. Post-sale/Refund Process.md",
+    "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md",
+    "Pasted image 20230323173846.png",
+    "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md",
+    "4. Processes/b. Shipping & Delivery/Change Address.md",
+    "4. Processes/c. Post-sale/Service part purchase request.md",
+    "4. Processes/c. Post-sale/Warranty Service/DOA.md",
     "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-    "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
     "4. Processes/d. Custom Grille/Custom Grille Cancellation.md",
-    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
-    "Media/Pasted image 20230322170508.png",
-    "1. FAQs/General/How do I switch back from Facebook login to normal login.md",
-    "1. FAQs/General/Cannot purchase expansion packs.md",
-    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
+    "3. Policies/Return & Refund Policy.md"
   ]
 }
