@@ -5,3 +5,4 @@ CHARGING TIME
 
 PLAY TIME 
 8 Hours @ half output or lower
+4 Hours @ full volume

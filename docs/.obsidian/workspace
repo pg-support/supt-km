@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
+            "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spark go training",
+                "query": "battery spark go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
               }
             }
           },
@@ -147,9 +148,9 @@
   },
   "active": "4470fd757cd007ff",
   "lastOpenFiles": [
+    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
     "Untitled.md",
     "Media/Pasted image 20230221172231.png",
-    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
     "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
     "4. Processes/d. Custom Grille/Custom Grille Cancellation.md",
     "index.md",
