@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4470fd757cd007ff",
+        "id": "2622023f290b8bfe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+            "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+                "file": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
               }
             }
           },
@@ -146,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4470fd757cd007ff",
+  "active": "2622023f290b8bfe",
   "lastOpenFiles": [
     "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-    "Untitled.md",
-    "Media/Pasted image 20230221172231.png",
     "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+    "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "4. Processes/d. Custom Grille/Custom Grille Cancellation.md",
-    "index.md",
-    "5. Systems & Resources/Resources/Training Materials.md",
-    "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md",
-    "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md",
-    "3. Policies/Shipping Policy/Order shipping time & restrictions.md"
+    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
+    "Media/Pasted image 20230322170508.png",
+    "1. FAQs/General/How do I switch back from Facebook login to normal login.md",
+    "1. FAQs/General/Cannot purchase expansion packs.md",
+    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md",
+    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
   ]
 }

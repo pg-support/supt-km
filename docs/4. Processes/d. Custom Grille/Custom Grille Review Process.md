@@ -11,6 +11,12 @@ Once opened, select 'Sort Ascending' for B column (Order ID #). Then copy the or
 
 ![](https://lh4.googleusercontent.com/nfylkgI8La-r-Hs_b9NG5qC_zzn9HI67drhDBT2ai9otRRAi7JgHX4ilQQnrwH9PPfAjFY-9cijh-iasTiTn0nJ8SvFc95vpUdHOhRgXr59JF7vk3ENDS-m6fjh03PjKx772Q4oyeFsoPU1tHHyU5ag)
 
+> Please pay extra attention to the orders that are $0, which might be **reprinted orders** or **orders from KOLs/artists**. 
+> 
+> If it's an order from a KOL/artist, which will have a different coupon code than the ones in [this link](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529), we do not want to cancel the order due to copyright material and should instead approve the design.
+
+![[Pasted image 20230323114502.png]]
+
 ## 3 - Review the design in [PG Backend Management System](https://portal.positivegrid.com/logistic/get-order-print-file) 
 
 Login with your company email and find 客製化訂單品項設計圖 option.

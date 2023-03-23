@@ -5,7 +5,7 @@
 
 > Before cancelling the order in SKULab, always go to Shopify and check the order. 
 > 
-> If the order is $0 and not with the coupon code like the ones in [this link](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529), it's likely the order is from a collaborated artist/KOL, and we shouldn't cancel the order and should approve the design instead. If unsure, please highlight to the team for further verification.
+> If the order is $0 and from a KOL/artist, which will have a different coupon code than the ones in [this link](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=861761529), we do not want to cancel the order due to copyright material and should instead approve the design.
 
 a. Find the order in [Skulabs](https://app.skulabs.com/). 
 
