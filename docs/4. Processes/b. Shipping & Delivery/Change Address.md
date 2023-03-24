@@ -23,7 +23,7 @@
 4. Logistics team will then change the address and send out the order. TRK# should be available within 2 days since their update. 
 
 ### Scenario B: Customer wants to cancel 
-- Proceed with [[Order Cancellation]].
+- Proceed with [[Order Cancellation Process]].
 
 
 ## Case 3: Shipped & delivered

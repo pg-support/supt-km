@@ -1,6 +1,7 @@
+# Custom Grille Cancellation Process
 ## Design Not Yet Approved
 
-If the design is not approved yet, proceed with regular [[Order Cancellation]] process.
+If the design is not approved yet, proceed with regular [[Order Cancellation Process]] process.
 
 
 ## Design Approved
@@ -9,7 +10,7 @@ If the design is already approved and 'Ready To Print' tag is added to the order
 
 ### Order shows 'Delayed'
 
-We may remove the 'Ready to Print' tag, and proceed with the regular [[Order Cancellation]] process.
+We may remove the 'Ready to Print' tag, and proceed with the regular [[Order Cancellation Process]] process.
 
 
 ### Order shows 'Awaiting Fulfillment'

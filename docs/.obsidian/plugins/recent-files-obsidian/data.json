@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Order Adjustment Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
+    },
+    {
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Custom Grille Cancellation Process",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation Process.md"
+    },
+    {
       "basename": "Refund Process",
       "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
+      "basename": "DOA",
+      "path": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
+    },
+    {
+      "basename": "Pasted image 20230323180745",
+      "path": "Media/Pasted image 20230323180745.png"
     },
     {
       "basename": "SR - Personal Reason",
@@ -21,16 +41,8 @@
       "path": "4. Processes/c. Post-sale/Service part purchase request.md"
     },
     {
-      "basename": "DOA",
-      "path": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
-    },
-    {
       "basename": "Custom Grille Design Reject or Reprint",
       "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
-    },
-    {
-      "basename": "Custom Grille Cancellation",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation.md"
     },
     {
       "basename": "Return & Refund Policy",
@@ -39,10 +51,6 @@
     {
       "basename": "SR - Fail to Intercept",
       "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
-    },
-    {
-      "basename": "Order Cancellation",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation.md"
     },
     {
       "basename": "SKULabs Operation",
@@ -79,10 +87,6 @@
     {
       "basename": "What's the spec of Spark GO's battery (playing & charging time)",
       "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "index",
