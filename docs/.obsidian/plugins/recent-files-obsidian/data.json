@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Principles for Troubleshooting",
+      "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
+    },
+    {
+      "basename": "Bloomreach Operation",
+      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
+    },
+    {
+      "basename": "USB Troubleshooting",
+      "path": "2. Troubleshooting/General/USB Troubleshooting.md"
+    },
+    {
+      "basename": "Computer does not detect RIFF",
+      "path": "2. Troubleshooting/Product-specific/RIFF/Computer does not detect RIFF.md"
+    },
+    {
+      "basename": "Cannot purchase expansion packs",
+      "path": "1. FAQs/General/Cannot purchase expansion packs.md"
+    },
+    {
+      "basename": "Upgrade pricing for FX 2 Mobile",
+      "path": "1. FAQs/Products/BIAS FX 2 Mobile/Upgrade pricing for FX 2 Mobile.md"
+    },
+    {
       "basename": "Pasted image 20230324153516",
       "path": "Media/Pasted image 20230324153516.png"
     },
     {
       "basename": "Order Adjustment Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
-    },
-    {
-      "basename": "Order Cancellation Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
     },
     {
       "basename": "Custom Grille Cancellation Process",
@@ -62,19 +86,15 @@
     },
     {
       "basename": "Desktop Software Troubleshooting Guideline",
-      "path": "2. Troubleshooting/Products/Desktop Software Troubleshooting Guideline.md"
+      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
     },
     {
       "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
-      "path": "2. Troubleshooting/Products/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
     },
     {
       "basename": "Custom Grille Review Process",
       "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
-    },
-    {
-      "basename": "Bloomreach Operation",
-      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
     },
     {
       "basename": "Pasted image 20230322170508",
@@ -83,10 +103,6 @@
     {
       "basename": "How do I switch back from Facebook login to normal login",
       "path": "1. FAQs/General/How do I switch back from Facebook login to normal login.md"
-    },
-    {
-      "basename": "Cannot purchase expansion packs",
-      "path": "1. FAQs/General/Cannot purchase expansion packs.md"
     },
     {
       "basename": "What's the spec of Spark GO's battery (playing & charging time)",
@@ -101,12 +117,8 @@
       "path": "5. Systems & Resources/Resources/Training Materials.md"
     },
     {
-      "basename": "Computer does not detect RIFF",
-      "path": "2. Troubleshooting/Products/RIFF/Computer does not detect RIFF.md"
-    },
-    {
       "basename": "Auto-gain says the input is low",
-      "path": "2. Troubleshooting/Products/RIFF/Auto-gain says the input is low.md"
+      "path": "2. Troubleshooting/Product-specific/RIFF/Auto-gain says the input is low.md"
     },
     {
       "basename": "Countries we ship to",
@@ -146,7 +158,7 @@
     },
     {
       "basename": "Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc)",
-      "path": "2. Troubleshooting/Products/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md"
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md"
     },
     {
       "basename": "Does Spark app run on Mac",

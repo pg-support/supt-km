@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "15b0a40e6e900ad0",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Media/Pasted image 20230324153516.png"
-          }
-        }
-      },
-      {
         "id": "ec1a4f1b379e0a49",
         "type": "leaf",
         "state": {
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Pasted image 20230324153516.png",
+                "file": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Pasted image 20230324153516.png",
+                "file": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Pasted image 20230324153516.png"
+                "file": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
               }
             }
           },
@@ -155,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15b0a40e6e900ad0",
+  "active": "ec1a4f1b379e0a49",
   "lastOpenFiles": [
-    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
+    "2. Troubleshooting/General/Principles for Troubleshooting.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "4. Processes/d. Custom Grille/Custom Grille Cancellation Process.md",
-    "4. Processes/c. Post-sale/Refund Process.md",
-    "4. Processes/c. Post-sale/Warranty Service/DOA.md",
-    "Media/Pasted image 20230323180745.png",
-    "Untitled.md",
-    "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md",
-    "Pasted image 20230323173846.png",
-    "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md"
+    "5. Systems & Resources/Systems/Untitled.md",
+    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
+    "2. Troubleshooting/General/USB Troubleshooting.md",
+    "2. Troubleshooting/Product-specific/RIFF/Computer does not detect RIFF.md",
+    "1. FAQs/General/Cannot purchase expansion packs.md",
+    "1. FAQs/Products/BIAS FX 2 Mobile/Upgrade pricing for FX 2 Mobile.md",
+    "Media/Pasted image 20230324153516.png",
+    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
   ]
 }
