@@ -4,6 +4,7 @@
 ## Verify the shipment status
 
 1). Log in to SKULabs and navigate to the order management page.
+
 2). Find the order that needs to be cancelled and check its **shipment status**, which is located at the top left corner of the order details page.
    
    ![[Pasted image 20230209170313.png]]
