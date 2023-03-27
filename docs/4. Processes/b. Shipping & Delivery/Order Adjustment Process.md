@@ -1,6 +1,6 @@
 # Order Adjustment Process
 
-> Since it's against our policy to add/deduct/swap items in an order once it's placed, please escalate to Tagui (or Joseph/Dans) 
+> Since it's against our policy to add/deduct/swap items in an order once it's placed, please escalate to Tagui (or Joseph/Dans) for confirmation before adjusting the order.
 
 1).  Log in to SKULabs, and navigate to the order management page.
     

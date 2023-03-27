@@ -3,6 +3,6 @@
 
 - Certain iOS devices will encounter choppy Bluetooth playback when Spark Control is connected, however we cannot be 100% certain that certain iOS+model combinations will always produce this issue.
 - Currently, our team cannot successfully build a workable firmware release that can resolve the issue without bringing in other side effects. We'll continue to investigate the issue but we do not have any estimated time for the update. 
-- Workaround: Playback music via other channels such as aux in or USB, or try an Android device if one is available.
+- Suggest workaround: Playback music via other channels such as aux in or USB, or try an Android device if one is available.
 
 If there’s further complaint, please highlight for further advice.
