@@ -1,3 +1,4 @@
+# Temperature warning
 > Spark MINI gets hot during playing/charging. Is it normal?
 > Spark MINI shows the full red LED blinking / temperature warning, but the temperature is totally normal and does not get hot at all.
 

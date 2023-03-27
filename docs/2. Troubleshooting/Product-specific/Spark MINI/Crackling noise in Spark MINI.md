@@ -1,3 +1,4 @@
+# Crackling noise in Spark MINI
 > There's speaker noise with higher volume.
 > Speaker crackles when playing loud.
 

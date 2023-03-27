@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f050f003c0397382",
+        "id": "38939e6473c9742f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.0036315917969
+    "width": 356
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
-    "2. Troubleshooting/Product-specific/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
-    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
-    "4. Processes/c. Post-sale/Refund Process.md",
-    "2. Troubleshooting/General/Principles for Troubleshooting.md",
-    "5. Systems & Resources/Systems/Untitled.md",
-    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
-    "2. Troubleshooting/General/USB Troubleshooting.md",
-    "2. Troubleshooting/Product-specific/RIFF/Computer does not detect RIFF.md",
-    "1. FAQs/General/Cannot purchase expansion packs.md"
+    "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/High pitch noise + Freeze.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Battery does not charge.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Cannot connect Spark app to Spark MINI.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise when playing.md",
+    "2. Troubleshooting/Product-specific/Spark MINI/Spark MINI Firmware Troubleshooting.md",
+    "2. Troubleshooting/Product-specific/Spark Control/Cannot connect to Spark Control.md",
+    "2. Troubleshooting/Product-specific/Spark Control/Switching speed is slow on Spark Control.md"
   ]
 }
