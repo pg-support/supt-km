@@ -29,16 +29,22 @@
 2). Fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request.
 
 3). Once submitted, check back on Supt-Logistics Form (Responses) the next working day. 
-	1. If the cancellation is successful, our logistics team will mark it as ‘Successful’. Proceed with the [[Refund Process]]. (<u>END</u>)
-	2. If the logistics team marks it as ‘Unsuccessful’, it means the order is still shipped. Contact the customer and ask them to refuse the shipment (as in macro <u>Spark Cancellation (Shipped)</u> (Modify if needed)) if this is not yet communicated to the customer. (Proceed with Step 4)
+
+1. If the cancellation is successful, our logistics team will mark it as ‘Successful’. Proceed with the [[Refund Process]]. (<u>END</u>)
+
+2. If the logistics team marks it as ‘Unsuccessful’, it means the order is still shipped. Contact the customer and ask them to refuse the shipment (as in macro <u>Spark Cancellation (Shipped)</u> (Modify if needed)) if this is not yet communicated to the customer. (Proceed with Step 4)
 
 4). If the order is shipped and the customer is instructed to refuse the shipment, check back on the tracking number to verify if it’s returned to sender or delivered.
-	1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
-	2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
+
+1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
+
+2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
    
 5). If order is delivered and
-	1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
-	2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
+
+1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
+
+2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
 
 
 ### Shipped
@@ -46,10 +52,14 @@
 1). If the order is shipped (tracking number is available), reply with Macro: Spark Cancellation (Shipped) (ask the customer to refuse the shipment) (Modify if needed).
 
 2). If the order is shipped and the customer is instructed to refuse the shipment, check back on the tracking number to verify if it’s returned to sender or delivered.
-	1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
-	2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
+
+1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
+
+2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
    
 3). If order is delivered and
-	1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
-	2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
+
+1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
+
+2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
 

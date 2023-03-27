@@ -1,23 +1,23 @@
 # Order Adjustment Process
 
-> While it's against our policy to add/deduct/swap items in an order once it's placed, we can still do so in rare cases. Here's how.
+> Since it's against our policy to add/deduct/swap items in an order once it's placed, please escalate to Tagui (or Joseph/Dans) 
 
 1).  Log in to SKULabs, and navigate to the order management page.
     
 2).  Find the order that includes the item that needs to be adjusted. Check the **shipment status** in SKULabs, which is located at the top left corner of the order details page.
-    
-     ![[Pasted image 20230209170313.png]]
-    
+
+   ![[Pasted image 20230209170313.png]]
+   
 3).  Determine whether the order is eligible for adjustment. The order can only be adjusted if it is in "not started," "opened," or "delayed" status. If the order is in "awaiting fulfillment" or "shipped" status, it cannot be further adjusted.
-    
-       ![[Pasted image 20230209170529.png]]
-    
+
+   ![[Pasted image 20230209170529.png]]
+
 4).  If the order is eligible for adjustments, go to Shopify's system and find the same order (in the corresponding store for the region).
     
 5).  On the order detail page, click "Edit" on the top-right corner.
-    
-    ![[Pasted image 20230324153357.png]]
-    
+
+![[Pasted image 20230327104632.png]]
+
 6).  In the order edit page, click "Remove item" if you need to swap it out for something else (make sure to uncheck the 'Restock' option). 
 
 ![[Pasted image 20230324153516.png]]

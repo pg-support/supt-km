@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Order Adjustment Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
+    },
+    {
       "basename": "Order Cancellation Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
     },
     {
       "basename": "Principles for Troubleshooting",
@@ -33,16 +41,8 @@
       "path": "Media/Pasted image 20230324153516.png"
     },
     {
-      "basename": "Order Adjustment Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
-    },
-    {
       "basename": "Custom Grille Cancellation Process",
       "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation Process.md"
-    },
-    {
-      "basename": "Refund Process",
-      "path": "4. Processes/c. Post-sale/Refund Process.md"
     },
     {
       "basename": "DOA",
