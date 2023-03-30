@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+            "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aaf147c59efe2555",
+  "active": "69eacc43daa4c77a",
   "lastOpenFiles": [
-    "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md",
-    "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
-    "2. Troubleshooting/General/USB Troubleshooting.md",
-    "2. Troubleshooting/General/Principles for Troubleshooting.md",
+    "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
     "1. FAQs/Promotions/Collaboration with Output.md",
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "5. Systems & Resources/Resources/Support Property List.md",
-    "5. Systems & Resources/Resources/Training Materials.md"
+    "3. Policies/Warranty Policy/Warranty Period.md",
+    "3. Policies/Warranty Policy/Warranty start date.md",
+    "3. Policies/Warranty Policy/Warranty Scope.md",
+    "3. Policies/Warranty Policy/Service for Non-Service Area.md",
+    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
+    "3. Policies/Warranty Policy/Service countries & regions.md",
+    "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md",
+    "4. Processes/c. Post-sale/Refund Process.md"
   ]
 }
