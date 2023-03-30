@@ -1,156 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Temperature warning",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md"
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
     {
-      "basename": "Crackling noise in Spark MINI",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md"
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
     {
-      "basename": "High pitch noise + Freeze",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/High pitch noise + Freeze.md"
-    },
-    {
-      "basename": "Battery does not charge",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Battery does not charge.md"
-    },
-    {
-      "basename": "Cannot connect Spark app to Spark MINI",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Cannot connect Spark app to Spark MINI.md"
-    },
-    {
-      "basename": "Gated hiss noise",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise.md"
-    },
-    {
-      "basename": "Gated hiss noise when playing",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise when playing.md"
-    },
-    {
-      "basename": "Spark MINI Firmware Troubleshooting",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Spark MINI Firmware Troubleshooting.md"
-    },
-    {
-      "basename": "Cannot connect to Spark Control",
-      "path": "2. Troubleshooting/Product-specific/Spark Control/Cannot connect to Spark Control.md"
-    },
-    {
-      "basename": "Switching speed is slow on Spark Control",
-      "path": "2. Troubleshooting/Product-specific/Spark Control/Switching speed is slow on Spark Control.md"
-    },
-    {
-      "basename": "How to return to Mode 1 on Spark Control",
-      "path": "2. Troubleshooting/Product-specific/Spark Control/How to return to Mode 1 on Spark Control.md"
-    },
-    {
-      "basename": "Bluetooth choppy audio when Spark Control is connected",
-      "path": "2. Troubleshooting/Product-specific/Spark Control/Bluetooth choppy audio when Spark Control is connected.md"
-    },
-    {
-      "basename": "Spark app crashes or freezes",
-      "path": "2. Troubleshooting/Product-specific/Spark App/Spark app crashes or freezes.md"
-    },
-    {
-      "basename": "'invalid_grant' message when connecting with Spotify",
-      "path": "2. Troubleshooting/Product-specific/Spark App/'invalid_grant' message when connecting with Spotify.md"
-    },
-    {
-      "basename": "Spark app does not download resource (Android)",
-      "path": "2. Troubleshooting/Product-specific/Spark App/Spark app does not download resource (Android).md"
-    },
-    {
-      "basename": "Real-time jam (Jarvis) does not work properly",
-      "path": "2. Troubleshooting/Product-specific/Spark App/Real-time jam (Jarvis) does not work properly.md"
-    },
-    {
-      "basename": "Pitch shift when recording with Spark 40 as an audio interface",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Pitch shift when recording with Spark 40 as an audio interface.md"
-    },
-    {
-      "basename": "Low or unstable sound output",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Low or unstable sound output.md"
-    },
-    {
-      "basename": "Constant noise in speaker",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Constant noise in speaker.md"
-    },
-    {
-      "basename": "Intermittent noise in speaker",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Intermittent noise in speaker.md"
-    },
-    {
-      "basename": "Music playback from phone or tablet instead of speaker",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Music playback from phone or tablet instead of speaker.md"
-    },
-    {
-      "basename": "Spark not recognized by the computer",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Spark not recognized by the computer.md"
-    },
-    {
-      "basename": "Cannot connect Spark app to Spark 40",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Cannot connect Spark app to Spark 40.md"
-    },
-    {
-      "basename": "RIFF has high noise floor or hiss noise when playing",
-      "path": "2. Troubleshooting/Product-specific/RIFF/RIFF has high noise floor or hiss noise when playing.md"
-    },
-    {
-      "basename": "Auto-gain says the input is low",
-      "path": "2. Troubleshooting/Product-specific/RIFF/Auto-gain says the input is low.md"
-    },
-    {
-      "basename": "Computer does not detect RIFF",
-      "path": "2. Troubleshooting/Product-specific/RIFF/Computer does not detect RIFF.md"
-    },
-    {
-      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
-    },
-    {
-      "basename": "Cannot download the installer",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot download the installer.md"
-    },
-    {
-      "basename": "Installation freezes or keeps failing",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Installation freezes or keeps failing.md"
-    },
-    {
-      "basename": "Cannot activate license (stuck in demo mode)",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md"
-    },
-    {
-      "basename": "No input in Mac",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/No input in Mac.md"
-    },
-    {
-      "basename": "No input in Windows",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/No input in Windows.md"
-    },
-    {
-      "basename": "Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc)",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Wrong plugin window size (UI scaling) in DAW (Reaper, Studio One, Cubase, etc).md"
-    },
-    {
-      "basename": "No output in FX 2",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/No output in FX 2.md"
-    },
-    {
-      "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
-    },
-    {
-      "basename": "Why is there no 'Amp Match' on BIAS Amp 2 Mobile",
-      "path": "2. Troubleshooting/Product-specific/BIAS Amp 2 Mobile/Why is there no 'Amp Match' on BIAS Amp 2 Mobile.md"
-    },
-    {
-      "basename": "Checkout Page Troubleshooting",
-      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
+      "basename": "Countries we ship to",
+      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
     },
     {
       "basename": "Desktop Software Troubleshooting Guideline",
       "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
+    },
+    {
+      "basename": "Checkout Page Troubleshooting",
+      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
     },
     {
       "basename": "USB Troubleshooting",
@@ -161,44 +29,144 @@
       "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
     },
     {
-      "basename": "Order Adjustment Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
+      "basename": "Collaboration with Output",
+      "path": "1. FAQs/Promotions/Collaboration with Output.md"
     },
     {
-      "basename": "Order Cancellation Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+      "basename": "Support Property List",
+      "path": "5. Systems & Resources/Resources/Support Property List.md"
     },
     {
-      "basename": "Refund Process",
-      "path": "4. Processes/c. Post-sale/Refund Process.md"
+      "basename": "Training Materials",
+      "path": "5. Systems & Resources/Resources/Training Materials.md"
     },
     {
-      "basename": "Bloomreach Operation",
-      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
+      "basename": "Does your desktop software support offline usage",
+      "path": "1. FAQs/General/Does your desktop software support offline usage.md"
+    },
+    {
+      "basename": "Do you support Mac with Apple M1 and M2 chip",
+      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
     },
     {
       "basename": "Cannot purchase expansion packs",
       "path": "1. FAQs/General/Cannot purchase expansion packs.md"
     },
     {
-      "basename": "Upgrade pricing for FX 2 Mobile",
-      "path": "1. FAQs/Products/BIAS FX 2 Mobile/Upgrade pricing for FX 2 Mobile.md"
+      "basename": "Pasted image 20230327104632",
+      "path": "Media/Pasted image 20230327104632.png"
     },
     {
-      "basename": "Pasted image 20230324153516",
-      "path": "Media/Pasted image 20230324153516.png"
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
     },
     {
-      "basename": "Custom Grille Cancellation Process",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Cancellation Process.md"
+      "basename": "SR - Personal Reason",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md"
+    },
+    {
+      "basename": "SR - Delivery Error",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md"
+    },
+    {
+      "basename": "Change Address",
+      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
+    },
+    {
+      "basename": "Service part purchase request",
+      "path": "4. Processes/c. Post-sale/Service part purchase request.md"
     },
     {
       "basename": "DOA",
       "path": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
     },
     {
-      "basename": "Pasted image 20230323180745",
-      "path": "Media/Pasted image 20230323180745.png"
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
+      "basename": "Return & Refund Policy",
+      "path": "3. Policies/Return & Refund Policy.md"
+    },
+    {
+      "basename": "SR - Fail to Intercept",
+      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
+    },
+    {
+      "basename": "SKULabs Operation",
+      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
+    },
+    {
+      "basename": "Custom Grille Review Process",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
+    },
+    {
+      "basename": "Bloomreach Operation",
+      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
+    },
+    {
+      "basename": "Pasted image 20230322170508",
+      "path": "Media/Pasted image 20230322170508.png"
+    },
+    {
+      "basename": "How do I switch back from Facebook login to normal login",
+      "path": "1. FAQs/General/How do I switch back from Facebook login to normal login.md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Spark GO's Bluetooth & Power LED Indicator",
+      "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
+    },
+    {
+      "basename": "What's Spark GO's speaker frequency response",
+      "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
+    },
+    {
+      "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
+      "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
+    },
+    {
+      "basename": "How long does Spark Control's battery last",
+      "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
+    },
+    {
+      "basename": "RMA & OOW for Southeast Asia",
+      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md"
+    },
+    {
+      "basename": "RMA & OOW Process per product",
+      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+    },
+    {
+      "basename": "Service countries & regions",
+      "path": "3. Policies/Warranty Policy/Service countries & regions.md"
+    },
+    {
+      "basename": "Does Spark app run on Mac",
+      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
+    },
+    {
+      "basename": "Why doesn't Spark app support Android 7 anymore",
+      "path": "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
+    },
+    {
+      "basename": "Does BIAS Amp 2 support Windows 11",
+      "path": "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md"
+    },
+    {
+      "basename": "Where do I download the Spark app",
+      "path": "1. FAQs/Products/Spark App/Where do I download the Spark app.md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
     }
   ],
   "omittedPaths": [],

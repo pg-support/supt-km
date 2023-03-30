@@ -26,6 +26,13 @@
 (Access permission: Tiny)
 → Login information: Each user’s company email
 
+[Aftership](https://admin.aftership.com/)
+→ Account: [aftership.su@positivegrid.com](mailto:aftership.su@positivegrid.com)
+```
+Password: tjy2GTY@fkx*uxz7qdr
+```
+
+
 [MaestroQA](<[https://app.maestroqa.com/home](https://app.maestroqa.com/home)>) 
 (Access permission: Joseph)
 → Login information: Each user’s company email
@@ -46,6 +53,8 @@
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing) - Regular marketing plan for each region 
 
 [Zendesk Ticket Tally Definition](https://docs.google.com/spreadsheets/d/1Ni6QIAENBi3pP-Gg0AG61HMr7fkI1fJ0/edit?usp=sharing&ouid=106361199666703858702&rtpof=true&sd=true) - Ticket tally definition
+
+[BigCommerce Order Record](https://drive.google.com/file/d/1_MX3zBQYtj2JVYEtrOVAESmvPTzOpsOd/view?usp=sharing) - Past order records (download link for .csv file)
 
 Support Coupon - Support coupon for compensation. If you need a coupon with higher discount amount, please highlight to Tagui for approval.
 

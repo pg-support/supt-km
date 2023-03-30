@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "38939e6473c9742f",
+        "id": "aaf147c59efe2555",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
+            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "choppy",
+                "query": "resource",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 347.0036315917969
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md"
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
               }
             }
           },
@@ -145,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba0c67ef121453d7",
+  "active": "aaf147c59efe2555",
   "lastOpenFiles": [
-    "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/High pitch noise + Freeze.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Battery does not charge.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Temperature warning.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Cannot connect Spark app to Spark MINI.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Gated hiss noise when playing.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Spark MINI Firmware Troubleshooting.md",
-    "2. Troubleshooting/Product-specific/Spark Control/Cannot connect to Spark Control.md",
-    "2. Troubleshooting/Product-specific/Spark Control/Switching speed is slow on Spark Control.md"
+    "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
+    "3. Policies/Shipping Policy/Countries we ship to.md",
+    "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md",
+    "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
+    "2. Troubleshooting/General/USB Troubleshooting.md",
+    "2. Troubleshooting/General/Principles for Troubleshooting.md",
+    "1. FAQs/Promotions/Collaboration with Output.md",
+    "5. Systems & Resources/Resources/Frequently Used Resources.md",
+    "5. Systems & Resources/Resources/Support Property List.md",
+    "5. Systems & Resources/Resources/Training Materials.md"
   ]
 }
