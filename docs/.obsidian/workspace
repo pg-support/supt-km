@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7999834850018566",
+        "id": "f011e0013f563ec3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69eacc43daa4c77a",
+  "active": "f011e0013f563ec3",
   "lastOpenFiles": [
+    "chatbot.md",
+    "index.md",
     "4. Processes/b. Shipping & Delivery/Change Address.md",
     "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
     "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
@@ -147,8 +148,6 @@
     "1. FAQs/Promotions/Collaboration with Output.md",
     "3. Policies/Warranty Policy/Warranty Period.md",
     "3. Policies/Warranty Policy/Warranty start date.md",
-    "3. Policies/Warranty Policy/Warranty Scope.md",
-    "3. Policies/Warranty Policy/Service for Non-Service Area.md",
-    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
+    "3. Policies/Warranty Policy/Warranty Scope.md"
   ]
 }
