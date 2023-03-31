@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+            "file": "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "gd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.0036315917969
+    "width": 317
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+                "file": "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+                "file": "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
+                "file": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69eacc43daa4c77a",
+  "active": "aaf147c59efe2555",
   "lastOpenFiles": [
+    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
     "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
     "1. FAQs/Promotions/Collaboration with Output.md",
     "3. Policies/Warranty Policy/Warranty Period.md",
@@ -156,7 +157,6 @@
     "3. Policies/Warranty Policy/Service for Non-Service Area.md",
     "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
     "3. Policies/Warranty Policy/Service countries & regions.md",
-    "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md",
-    "4. Processes/c. Post-sale/Refund Process.md"
+    "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md"
   ]
 }
