@@ -17,10 +17,10 @@
 
 ### Scenario A: Customer will pay the fee
 1. Go to Supt-Logistics Form and fill in a Daily Catch-up -> Change Address request. Make sure to fill in the PayPal account. 
-
-2. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and change the Invoice Status (in Supt-Logistics Form (Responses)) to “Sent”.
-3. Once the customer has paid off the fee, Invoice Status will be updated to “Paid”. 
-4. Logistics team will then change the address and send out the order. TRK# should be available within 2 days since their update. 
+2. Go Shopify and also update the shipping address on the order.
+3. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and change the Invoice Status (in Supt-Logistics Form (Responses)) to “Sent”.
+4. Once the customer has paid off the fee, Invoice Status will be updated to “Paid”. 
+5. Logistics team will then change the address and send out the order. TRK# should be available within 2 days since their update. 
 
 ### Scenario B: Customer wants to cancel 
 - Proceed with [[Order Cancellation Process]].
