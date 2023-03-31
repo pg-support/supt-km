@@ -42,6 +42,11 @@ markdown_extensions:
 
   - toc:
       permalink: true
+      
+nav:
+  - ...
+  - Chatbot: chatbot.md
+  - ...
 
 plugins:
   - search
