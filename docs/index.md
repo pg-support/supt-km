@@ -5,6 +5,8 @@ Please use the search function to find the resource you need, or look for it man
 
 
 ## Trending
+[BIAS Is BACK - BIAS FX 2 Update Training](https://docs.google.com/presentation/d/1LFHKgvHfzWlkrbsKoYYhwNR6fo6MVcxXk-CZDZehnaU/edit?usp=sharing)
+
 [Spark GO Pre-launch Training](https://docs.google.com/presentation/d/1Ugg-PQwAM3rG2F-IS8paSDn31NP39Y4X8rMrwoNqNWw/edit?usp=sharing)
 
 [Fulfillment Schedule & Availability](https://docs.google.com/spreadsheets/d/13mK6KP4YmWGT_NyAHVbmFVl5Wj5khDcB1fvpsDKTL24/edit?usp=sharing)

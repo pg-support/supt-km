@@ -5,18 +5,6 @@
       "path": "index.md"
     },
     {
-      "basename": "chatbot",
-      "path": "chatbot.md"
-    },
-    {
-      "basename": "Change Address",
-      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
-    },
-    {
-      "basename": "Spark New GD Chip Limitations",
-      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
-    },
-    {
       "basename": "How is Spark GO's battery life",
       "path": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
     },
@@ -93,6 +81,10 @@
       "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
     {
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
+    },
+    {
       "basename": "Countries we ship to",
       "path": "3. Policies/Shipping Policy/Countries we ship to.md"
     },
@@ -135,6 +127,10 @@
     {
       "basename": "Pasted image 20230327104632",
       "path": "Media/Pasted image 20230327104632.png"
+    },
+    {
+      "basename": "Change Address",
+      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
     },
     {
       "basename": "DOA",
@@ -199,6 +195,10 @@
     {
       "basename": "Does BIAS Amp 2 support Windows 11",
       "path": "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md"
+    },
+    {
+      "basename": "Where do I download the Spark app",
+      "path": "1. FAQs/Products/Spark App/Where do I download the Spark app.md"
     }
   ],
   "omittedPaths": [],
