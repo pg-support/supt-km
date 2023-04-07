@@ -1,40 +1,12 @@
 ---
 title: Chatbot
 ---
+# Support Chatbot
 
-## Support Chatbot
 
-<div>
-  <input type="text" id="userQuestion" placeholder="Ask your question..." style="width: 100%;">
-  <button id="submitQuestion">Submit</button>
-  <textarea id="botResponse" readonly style="width: 100%; height: 200px;"></textarea>
-</div>
-
-<script>
-const userQuestion = document.getElementById("userQuestion");
-const submitQuestion = document.getElementById("submitQuestion");
-const botResponse = document.getElementById("botResponse");
-
-submitQuestion.addEventListener("click", async () => {
-  const question = userQuestion.value;
-  const response = await fetchChatGPT(question);
-  botResponse.value = response;
-});
-
-async function fetchChatGPT(prompt) {
-  const apiKey = "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";
-  const response = await fetch("https://api.openai.com/v1/engines/davinci-codex/completions", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": `Bearer ${apiKey}`
-    },
-    body: JSON.stringify({
-      prompt: prompt,
-      max_tokens: 100
-    })
-  });
-  const data = await response.json();
-  return data.choices[0].text;
-}
-</script>
+<iframe
+	src="[<your_berri_app_url>](https://chat.berri.ai/aHR0cHM6Ly9zaGFyZWRkYnN0b3JlcXVlcnktN2JlYS04aGp3LnplZXQtYmVycmkuemVldC5hcHAvYmVycmlfcXVlcnk%2FcHJval9wYXRoPWluZGV4ZXMvZGFucy5odWFuZ0Bwb3NpdGl2ZWdyaWQuY29tLzRiYjIzNzA3LWVjMjctNDY5ZS04MzhhLTgwMzA0YjJjNzdlNw%3D%3D)"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>

@@ -7,12 +7,8 @@
         "id": "76dc49be93b61ff1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,6 +139,7 @@
   },
   "active": "76dc49be93b61ff1",
   "lastOpenFiles": [
+    "chatbot.md",
     "index.md",
     "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
     "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
@@ -155,7 +148,6 @@
     "3. Policies/Warranty Policy/Warranty start date.md",
     "3. Policies/Warranty Policy/Warranty Scope.md",
     "3. Policies/Warranty Policy/Service for Non-Service Area.md",
-    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
-    "3. Policies/Warranty Policy/Service countries & regions.md"
+    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
   ]
 }
