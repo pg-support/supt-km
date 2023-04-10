@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+            "file": "chatbot.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 347.0036315917969
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+                "file": "chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+                "file": "chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
+                "file": "chatbot.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "76dc49be93b61ff1",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
     "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
     "index.md",
-    "chatbot.md",
     "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
     "1. FAQs/Promotions/Collaboration with Output.md",
     "3. Policies/Warranty Policy/Warranty Period.md",
     "3. Policies/Warranty Policy/Warranty start date.md",
     "3. Policies/Warranty Policy/Warranty Scope.md",
-    "3. Policies/Warranty Policy/Service for Non-Service Area.md"
+    "3. Policies/Warranty Policy/Service for Non-Service Area.md",
+    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
+    "3. Policies/Warranty Policy/Service countries & regions.md"
   ]
 }
