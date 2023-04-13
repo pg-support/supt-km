@@ -16,7 +16,7 @@
 
 [SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
 (Access permission: Tiny/Grace)
-→ Account: support@positivegrid.com; Password: 0Positivegrid!
+→ Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
 [Kickflip](https://positivegrid.gokickflip.com/admin/orders)
 (Access permission: Tiny)
@@ -27,11 +27,13 @@
 → Login information: Each user’s company email
 
 [Aftership](https://admin.aftership.com/)
-→ Account: [aftership.su@positivegrid.com](mailto:aftership.su@positivegrid.com)
-```
-Password: tjy2GTY@fkx*uxz7qdr
-```
+→ Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
+[BQool](<[https://acc.bqool.com/](https://acc.bqool.com/)>)
+→ Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
+
+[Amazon Seller Central](https://sellercentral.amazon.com/home)
+→ Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
 [MaestroQA](<[https://app.maestroqa.com/home](https://app.maestroqa.com/home)>) 
 (Access permission: Joseph)

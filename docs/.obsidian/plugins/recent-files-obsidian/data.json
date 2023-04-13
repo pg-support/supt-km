@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Amazon Support Daily Operation",
-      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
     {
       "basename": "Amazon Support SOPs",
       "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
+      "basename": "Amazon Support Daily Operation",
+      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+    },
+    {
+      "basename": "SKULabs Operation",
+      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
     },
     {
       "basename": "Shipping Info Missing",
@@ -129,10 +137,6 @@
       "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
     },
     {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
-    },
-    {
       "basename": "Spark New GD Chip Limitations",
       "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Return & Refund Policy",
       "path": "3. Policies/Return & Refund Policy.md"
-    },
-    {
-      "basename": "SKULabs Operation",
-      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
     }
   ],
   "omittedPaths": [],

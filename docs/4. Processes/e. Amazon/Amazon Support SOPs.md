@@ -19,10 +19,6 @@ FBM stands for "**Fulfillment by Merchant**," which means the seller is responsi
 ### How to verify
 - To distinguish between FBA and FBM orders, click on the menu button at the top-left corner in Amazon Seller Central.
 
-> Amazon Seller Central Email: amazon.cs@positivegrid.com
-> Amazon Seller Central Password: Pg54555483
-> Amazon Seller Central Login URL: [https://sellercentral.amazon.com/home](https://sellercentral.amazon.com/home)
-
 ![[Pasted image 20230411161756.png]]
 
 - Find the 'Manage Orders' option under 'Orders'.

@@ -17,9 +17,7 @@
 - For customer service emails related to other Amazon marketplaces, we need to use **Amazon Seller Central** instead.
 
 ### BQool Login Information
-- BQool Account Email: amazon.cs@positivegrid.com
-- BQool Account Password: 54555483
-- BQool Login URL: [https://acc.bqool.com/](https://acc.bqool.com/)
+See [[Frequently Used Resources]]
 
 ### Support Ticket
 #### Handling Tickets in BQool
@@ -78,9 +76,7 @@ Agents should monitor the '**Time Left**' metric in BQool closely to ensure that
 - Amazon Seller Central is a website that helps people and businesses sell their products on Amazon. It provides tools and services to help sellers manage their inventory, list and sell their products, handle customer service inquiries, and get sales data and analytics.
 
 ### Amazon Seller Central Login Information
--   Amazon Seller Central Email: amazon.cs@positivegrid.com
--   Amazon Seller Central Password: Pg54555483
--   Amazon Seller Central Login URL: [https://sellercentral.amazon.com/home](https://sellercentral.amazon.com/home)
+See [[Frequently Used Resources]]
 
 ### Support Ticket
 - Click on 'Buyer Messages' in the home page of Amazon Seller Central (of any region).
