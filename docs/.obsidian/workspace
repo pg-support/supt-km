@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fec9022c6aef5f36",
+        "id": "afa24c6fdc21749d",
         "type": "leaf",
+        "dimension": 73.78768020969856,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a4e9c95664a9ba0b",
+        "type": "leaf",
+        "dimension": 26.212319790301443,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
+                "query": "cancel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
               }
             }
           },
@@ -147,9 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fec9022c6aef5f36",
+  "active": "afa24c6fdc21749d",
   "lastOpenFiles": [
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md",
@@ -157,7 +172,6 @@
     "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
     "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
     "4. Processes/b. Shipping & Delivery/Shipment's on the way but never delivered (over 30 days).md",
-    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "Media/Pasted image 20230411162048.png"
   ]
 }

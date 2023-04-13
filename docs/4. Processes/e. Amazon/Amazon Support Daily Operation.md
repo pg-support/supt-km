@@ -62,7 +62,9 @@ Agents should monitor the '**Time Left**' metric in BQool closely to ensure that
 
 ![[Pasted image 20230412162208.png]]
 
-- If any, go back to Amazon Seller Central > Performance to check. If it is related to logistics, highlight internally for further investigation and improvement. If it is not related to logistics, you can choose 'Request removal'.
+- If any, go back to Amazon Seller Central > Performance to check and respond accordingly.
+  
+- For other countries not covered by BQool, we need to check manually.
   
   ![[Pasted image 20230412163419.png]]
   
