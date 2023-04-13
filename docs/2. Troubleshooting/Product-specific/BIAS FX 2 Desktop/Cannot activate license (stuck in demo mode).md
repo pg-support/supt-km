@@ -3,6 +3,7 @@
 
 ## 0 - Login to BIAS FX 2
 - Make sure the user knows to login to the BIAS FX 2 application with the correct account.
+- **If it doesn't work the first time logging in, try logging out and re-logging in, without closing the application.**
 
 ## 1 - Check Shopify order status 
 (to make sure the purchase is successful)

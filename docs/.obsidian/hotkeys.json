@@ -132,5 +132,14 @@
       ],
       "key": "U"
     }
-  ]
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": []
 }

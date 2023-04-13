@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76dc49be93b61ff1",
+        "id": "0b2b0e4a9c9c503b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chatbot.md",
+            "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "88c04ae2cf194faf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "shipping info missing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.0036315917969
+    "width": 238.00192260742188,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chatbot.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chatbot.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chatbot.md"
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76dc49be93b61ff1",
+  "active": "88c04ae2cf194faf",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
-    "index.md",
-    "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
-    "1. FAQs/Promotions/Collaboration with Output.md",
-    "3. Policies/Warranty Policy/Warranty Period.md",
-    "3. Policies/Warranty Policy/Warranty start date.md",
-    "3. Policies/Warranty Policy/Warranty Scope.md",
-    "3. Policies/Warranty Policy/Service for Non-Service Area.md",
-    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
-    "3. Policies/Warranty Policy/Service countries & regions.md"
+    "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+    "4. Processes/b. Shipping & Delivery/Shipping Info Missing.md",
+    "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
+    "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
+    "4. Processes/b. Shipping & Delivery/Shipment's on the way but never delivered (over 30 days).md",
+    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
+    "Media/Pasted image 20230411162048.png",
+    "Media/Pasted image 20230411153731.png",
+    "chatbot.md"
   ]
 }

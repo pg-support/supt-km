@@ -7,6 +7,12 @@
 > 
 > -> Follow through the rest of this article.
 
+## Notice for Amazon Orders
+**We do NOT ask customers who bought from Amazon to sign claim forms.**
+**We do NOT ask customers who bought from Amazon to sign claim forms.**
+**We do NOT ask customers who bought from Amazon to sign claim forms.**
+For Amazon orders, please proceed with step 3.
+
 ### 1 - Offer claim form
 Insert the following macros (according to the regions & carrier) and submit.
 

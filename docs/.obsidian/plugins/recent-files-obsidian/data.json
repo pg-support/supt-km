@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Amazon Support Daily Operation",
+      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+    },
+    {
+      "basename": "Amazon Support SOPs",
+      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
+      "basename": "Shipping Info Missing",
+      "path": "4. Processes/b. Shipping & Delivery/Shipping Info Missing.md"
+    },
+    {
+      "basename": "Delivery-induced Damage",
+      "path": "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md"
+    },
+    {
+      "basename": "Shipment Lost",
+      "path": "4. Processes/b. Shipping & Delivery/Shipment Lost.md"
+    },
+    {
+      "basename": "Shipment's on the way but never delivered (over 30 days)",
+      "path": "4. Processes/b. Shipping & Delivery/Shipment's on the way but never delivered (over 30 days).md"
+    },
+    {
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Pasted image 20230411162048",
+      "path": "Media/Pasted image 20230411162048.png"
+    },
+    {
+      "basename": "Pasted image 20230411153731",
+      "path": "Media/Pasted image 20230411153731.png"
+    },
+    {
       "basename": "chatbot",
       "path": "chatbot.md"
+    },
+    {
+      "basename": "OOW (Everthing else)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/OOW (Everthing else).md"
+    },
+    {
+      "basename": "Cannot activate license (stuck in demo mode)",
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md"
+    },
+    {
+      "basename": "Bloomreach Operation",
+      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
     },
     {
       "basename": "How is Spark GO's battery life",
@@ -151,54 +199,6 @@
     {
       "basename": "SKULabs Operation",
       "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
-    },
-    {
-      "basename": "Custom Grille Review Process",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
-    },
-    {
-      "basename": "Bloomreach Operation",
-      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
-    },
-    {
-      "basename": "Pasted image 20230322170508",
-      "path": "Media/Pasted image 20230322170508.png"
-    },
-    {
-      "basename": "How do I switch back from Facebook login to normal login",
-      "path": "1. FAQs/General/How do I switch back from Facebook login to normal login.md"
-    },
-    {
-      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
-      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
-    },
-    {
-      "basename": "Spark GO's Bluetooth & Power LED Indicator",
-      "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
-    },
-    {
-      "basename": "What's Spark GO's speaker frequency response",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "How long does Spark Control's battery last",
-      "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
-    },
-    {
-      "basename": "Does Spark app run on Mac",
-      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
-    },
-    {
-      "basename": "Why doesn't Spark app support Android 7 anymore",
-      "path": "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
-    },
-    {
-      "basename": "Does BIAS Amp 2 support Windows 11",
-      "path": "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md"
     }
   ],
   "omittedPaths": [],

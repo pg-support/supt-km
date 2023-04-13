@@ -21,6 +21,7 @@
    
 2). Once the order is cancelled in SKULabs, proceed with [[Refund Process]]. 
 
+> For refunding Amazon orders, please refer to [[Amazon Support SOPs]].
 
 ### Awaiting fulfillment
 
