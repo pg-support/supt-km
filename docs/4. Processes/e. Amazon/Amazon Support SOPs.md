@@ -9,7 +9,7 @@ There are 2 types of Amazon orders: FBA & FBM.
 ### FBA
 FBA stands for "**Fulfillment by Amazon**," which is a service provided by Amazon where sellers store their products in Amazon's fulfillment centers, and Amazon takes care of the picking, packing, shipping, and customer service. 
 
-For any fulfillment issues for FBA orders (e.g. returns, wrong item shipped, tracking inquiries, etc.), **customers should contact Amazon Support (that 's NOT PG Support) directly as the order is fulfilled by Amazon.**
+For any fulfillment issues for FBA orders (e.g. returns, wrong item shipped, tracking inquiries, etc.), **ask customers to directly contact official Amazon Support, as the order is fulfilled by Amazon.**
 
 ### FBM
 FBM stands for "**Fulfillment by Merchant**," which means the seller is responsible for storing, picking, packing, shipping, and handling customer service for their products.
@@ -40,7 +40,6 @@ FBM:
 
 ---
 ## Order Shipping Inquiry
-> Applies only to FBM orders.
 
 Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for an order. 
 
@@ -71,9 +70,12 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 ---
 ## Order Cancellation
-> Applies only to FBM orders.
 
-For order cancellations, proceed with [[Order Cancellation Process]]. Once the order is canceled in Skulabs, find the Amazon order and proceed with refund.
+- For order cancellations, follow the similar process as [[Order Cancellation Process]]:
+
+- If the order shows 'Not started / Opened / Delayed' in SKULab, manually cancel the order, and proceed by clicking the 'Cancel Order' option in the order details in Amazon Seller Central.
+
+- If the order shows 'Awaiting Fulfillment', fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request. If successful, proceed with clicking the 'Cancel Order' option in the order details in Amazon Seller Central; if unsuccessful, ask the customer to reject the shipment.
 
 ---
 ## Order Refund
@@ -88,11 +90,13 @@ For order cancellations, proceed with [[Order Cancellation Process]]. Once the o
 ---
 ## Order Return
 ### Amazon's Official Return Process
-Within 30 days of purchase, a customer can return the product by simply 
+No matter for what reason, within 30 days of purchase, a customer can return the product by simply 
 1. Going to Amazon's website
 2. Finding the refund option under their order
 3. Choosing a return method and printing the label
 4. Shipping it back to us 
+
+- These Amazon's return requests will be automatically approved by the system.
 
 - If a customer asks about the return process, advise them to follow the [Amazon return process (link to Amazon's help center)](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6E3B2E8QPHQ88KF&ref_=hp_help_c_Return-Items-You-Ordered). 
 
@@ -100,8 +104,10 @@ Within 30 days of purchase, a customer can return the product by simply
 
 - If a customer claims to have not received a refund after proceeding with the Amazon return process, ask for the carrier and tracking number, and check if it is in transit. **Once confirmed the item is on its way back (no need to wait for delivery), we may proceed with the [[#Order Refund]] process.**
 
-### Non-official Return Process
-Within 30 days of purchase, a customer might request to return the product (not via the official Amazon channel) for the following reasons:
+Below are some common reasons for Amazon order return:
+
+#### Personal Reason
+- Customer simply don't like it.
 
 #### Cosmetic damages
 - Ask customers for photos and assist with returns, exchanges, or special case resolution. Same process as [[Delivery-induced Damage]].
@@ -109,9 +115,9 @@ Within 30 days of purchase, a customer might request to return the product (not 
 - We may offer a $5~10 partial refund for customer satisfaction, on a case-by-case basis. Please discuss with Tagui on this matter.
 
 #### Technical issues
-- **It's best to advise customers to submit support tickets on the official PG website for troubleshooting.** (template?)
+- **For technical issues / troubleshooting, It's best to advise customers to contact our official support team for further assistance.
 
-- If they insist on returning the product, submit a return request with pre-paid return label (same process as [[DOA]] or [[SR - Fail to Intercept]], depending on whether the product is defective). 
+- If they insist on returning the product, submit a return request with pre-paid return label (same process as [[DOA]] or [[SR - Fail to Intercept]], depending on whether the product is defective).
 
 - Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with [[#Order Refund]].
 
@@ -122,7 +128,7 @@ Within 30 days of purchase, a customer might request to return the product (not 
 
 
 ### Over 30 days
-There's no guaranteed return after 30 days. Redirect the customer to PG Supt for further assistance. (Template??)
+There's no guaranteed return after 30 days. Ask the customer to contact our official support team for further assistance.
 
 
 ### (Reference Only) Amazon's A-to-Z Guarantee Refund
@@ -137,21 +143,6 @@ There's no guaranteed return after 30 days. Redirect the customer to PG Supt for
 
 
 ---
-## Return Label?????
--   For Amazon US orders, use Amazon's provided return label.
--   For Amazon EU orders, you can apply for the company's pre-paid return label.
--   Form: [https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform)
--   Contact Felix Lin for inquiries about return labels.
-
----
-## Return/Refund???
-
--   Items can be returned/refunded within 30 days. Customers should provide the tracking number for the return.
--   For US orders, go to Amazon Seller Central > Order > Return Order to check the return progress.
--   For EU and other sites, check the logistics website for confirmation of the return and then contact Christine for a refund.
--   For orders older than 30 days, customers can contact customer service on the official website for assistance.
-
----
 ## Price Matching
 - For orders not yet placed, advise the customers 'make the purchase that best suit their needs'. **(It's against Amazon's policy to suggest customers go to somewhere else for purchase.)**
 
@@ -161,5 +152,6 @@ There's no guaranteed return after 30 days. Redirect the customer to PG Supt for
 
 ---
 ## Repair Service
-If the customer want to request for repair service, ask them to submit a request form on the official website. (Email Template??)
+If the customer want to request for repair service, ask them to contact our official support team for further assistance.
+
 

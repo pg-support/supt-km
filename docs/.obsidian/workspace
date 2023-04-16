@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "afa24c6fdc21749d",
+        "id": "76dc49be93b61ff1",
         "type": "leaf",
-        "dimension": 73.78768020969856,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+            "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "a4e9c95664a9ba0b",
+        "id": "c41ae63512ebf6f2",
         "type": "leaf",
-        "dimension": 26.212319790301443,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancel",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.00192260742188,
+    "width": 276,
     "collapsed": true
   },
   "right": {
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md"
               }
             }
           },
@@ -161,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afa24c6fdc21749d",
+  "active": "76dc49be93b61ff1",
   "lastOpenFiles": [
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
-    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md",
-    "4. Processes/b. Shipping & Delivery/Shipping Info Missing.md",
-    "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
-    "4. Processes/b. Shipping & Delivery/Shipment Lost.md",
-    "4. Processes/b. Shipping & Delivery/Shipment's on the way but never delivered (over 30 days).md",
-    "Media/Pasted image 20230411162048.png"
+    "chatbot.md",
+    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
+    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
+    "index.md",
+    "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
+    "1. FAQs/Promotions/Collaboration with Output.md",
+    "3. Policies/Warranty Policy/Warranty Period.md"
   ]
 }

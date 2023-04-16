@@ -5,6 +5,11 @@
 - Login to BQool to check the support tickets and order feedbacks daily. 
 - Login to Amazon Seller Central to check the support tickets (for regions not covered by BQool) and complete order info.
 
+## Important Notes
+- **Do NOT mention things like 'website', 'link', or provide any links to the customer in Amazon's support channel. This might violates the terms of Amazon and cause us great trouble.**
+
+- If we need to redirect customers from Amazon to PG Supt, simply tell them "**Please contact our official support team for further assistance.**" and nothing more. Do NOT give them any link.
+
 ---
 ## BQool
 ### What is BQool
