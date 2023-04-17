@@ -62,6 +62,14 @@ Agents should monitor the '**Time Left**' metric in BQool closely to ensure that
 
 ![[Pasted image 20230411152652.png]]
 
+#### Q&As in BQool
+There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo below.) 
+
+![[Screen Shot 2023-04-17 at 12.01.28 PM.png]]
+
+- We'll click on 'Answer this question' to answer it. The question and answer will show up on our Amazon's product page. 
+- We only have one chance to answer these questions, and the answers will be public. Please make sure the answer is correct and proper before submitting.
+
 ### Order Feedback
 - Check daily to see if there's any negative feedback review in BQool.
 
@@ -69,7 +77,7 @@ Agents should monitor the '**Time Left**' metric in BQool closely to ensure that
 
 - If any, go back to Amazon Seller Central > Performance to check and respond accordingly.
   
-- For other countries not covered by BQool, we need to check manually.
+- For other countries that are not covered by BQool, we need to check each region manually for the feedbacks.
   
   ![[Pasted image 20230412163419.png]]
   

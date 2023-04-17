@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "vat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +163,13 @@
   "lastOpenFiles": [
     "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md",
+    "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
+    "1. FAQs/General/Is there any VAT (value-added tax) when purchasing from PG.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "chatbot.md",
     "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
     "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
-    "index.md",
-    "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
-    "1. FAQs/Promotions/Collaboration with Output.md",
-    "3. Policies/Warranty Policy/Warranty Period.md"
+    "index.md"
   ]
 }

@@ -9,6 +9,18 @@
       "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     },
     {
+      "basename": "Resend & Replacement",
+      "path": "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md"
+    },
+    {
+      "basename": "Delivery-induced Damage",
+      "path": "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md"
+    },
+    {
+      "basename": "Is there any VAT (value-added tax) when purchasing from PG",
+      "path": "1. FAQs/General/Is there any VAT (value-added tax) when purchasing from PG.md"
+    },
+    {
       "basename": "Order Cancellation Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Spark GO's Bluetooth & Power LED Indicator",
       "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
-    },
-    {
-      "basename": "What's Spark GO's speaker frequency response",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "How long does Spark Control's battery last",
-      "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
     }
   ],
   "omittedPaths": [],
