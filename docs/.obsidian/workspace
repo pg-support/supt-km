@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
               }
             }
           },
@@ -159,10 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76dc49be93b61ff1",
+  "active": "c41ae63512ebf6f2",
   "lastOpenFiles": [
-    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md",
     "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
     "1. FAQs/General/Is there any VAT (value-added tax) when purchasing from PG.md",

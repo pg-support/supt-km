@@ -114,9 +114,3 @@ See [[Frequently Used Resources]]
 - Search for the Order ID in the search bar. 
 ![[Pasted image 20230411162048.png]]
 
-
----
-## Other
-### Google Email:
--   Google Email: amazon.cs@positivegrid.com
--   Google Email Password: pg54555483
