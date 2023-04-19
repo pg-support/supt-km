@@ -5,12 +5,16 @@
       "path": "Chatbot.md"
     },
     {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+      "basename": "Amazon Support Daily Operation",
+      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     },
     {
       "basename": "Amazon Support SOPs",
       "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
     {
       "basename": "Why does Spark's parameter 'jumps around' when I adjust the knob",
@@ -23,10 +27,6 @@
     {
       "basename": "Can I change the default amps on Spark 40’s amp selection knob",
       "path": "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md"
-    },
-    {
-      "basename": "Amazon Support Daily Operation",
-      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     },
     {
       "basename": "Order tracking",
