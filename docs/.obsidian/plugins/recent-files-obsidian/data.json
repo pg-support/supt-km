@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chatbot",
+      "path": "Chatbot.md"
+    },
+    {
       "basename": "Frequently Used Resources",
       "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Order Cancellation Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
-    },
-    {
-      "basename": "chatbot",
-      "path": "chatbot.md"
     },
     {
       "basename": "How is Spark GO's battery life",

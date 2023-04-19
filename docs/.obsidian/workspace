@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "269a3e8453e421e4",
+        "id": "1ee8200c37428f99",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+            "file": "Chatbot.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 175
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+                "file": "Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+                "file": "Chatbot.md"
               }
             }
           },
@@ -145,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "269a3e8453e421e4",
+  "active": "1ee8200c37428f99",
   "lastOpenFiles": [
+    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md",
     "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md",
@@ -155,7 +156,6 @@
     "3. Policies/Shipping Policy/Order tracking.md",
     "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md",
     "1. FAQs/Products/Spark 40/What's the priority of music playback for Spark 40 (if played simultaneously).md",
-    "1. FAQs/Products/Spark 40/What's Spark 40's compatible headphone impedance.md",
-    "1. FAQs/Products/Spark 40/What's the latest Spark 40 firmware implemented to the production.md"
+    "1. FAQs/Products/Spark 40/What's Spark 40's compatible headphone impedance.md"
   ]
 }
