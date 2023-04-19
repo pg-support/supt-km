@@ -6,5 +6,5 @@
   "readableLineLength": true,
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byCreatedTimeReverse"
 }

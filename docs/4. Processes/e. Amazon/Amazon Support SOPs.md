@@ -112,7 +112,7 @@ Within 30 days of purchase, a customer can return the product by simply
 3. Choosing a return method and printing the label
 4. Shipping it back to us 
 
-- If a customer asks about the return process, advise them to follow the [Amazon return process (link to Amazon's help center)](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6E3B2E8QPHQ88KF&ref_=hp_help_c_Return-Items-You-Ordered). 
+- If a customer asks about the return process, advise them to follow the Amazon return process.
   
 - These Amazon's return requests will be automatically approved by the system.
 

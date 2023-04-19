@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+    },
+    {
       "basename": "Amazon Support SOPs",
       "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
+      "basename": "Why does Spark's parameter 'jumps around' when I adjust the knob",
+      "path": "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md"
+    },
+    {
+      "basename": "Can I create my own preset banks in the Spark app",
+      "path": "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md"
+    },
+    {
+      "basename": "Can I change the default amps on Spark 40’s amp selection knob",
+      "path": "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md"
     },
     {
       "basename": "Amazon Support Daily Operation",
@@ -11,10 +27,6 @@
     {
       "basename": "Order tracking",
       "path": "3. Policies/Shipping Policy/Order tracking.md"
-    },
-    {
-      "basename": "Can I change the default amps on Spark 40’s amp selection knob",
-      "path": "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md"
     },
     {
       "basename": "Can I use other ways to update Spark 40's firmware",
@@ -55,10 +67,6 @@
     {
       "basename": "Can the Spark be connected with wireless earphones or headphones",
       "path": "1. FAQs/Products/Spark 40/Can the Spark be connected with wireless earphones or headphones.md"
-    },
-    {
-      "basename": "Why does Spark's parameter 'jumps around' when I adjust the knob",
-      "path": "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md"
     },
     {
       "basename": "What's the spec of Spark 40's power supply",
@@ -185,20 +193,12 @@
       "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
     },
     {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
-    },
-    {
       "basename": "Spark New GD Chip Limitations",
       "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
     {
       "basename": "Countries we ship to",
       "path": "3. Policies/Shipping Policy/Countries we ship to.md"
-    },
-    {
-      "basename": "Desktop Software Troubleshooting Guideline",
-      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
     }
   ],
   "omittedPaths": [],
