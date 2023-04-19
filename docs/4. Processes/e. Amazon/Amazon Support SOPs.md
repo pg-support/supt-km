@@ -55,7 +55,9 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 - Reach out to customers and ask them to verify the missing information:
   
-  Amazon Seller Central > Manage Order > Search order number > Click recipient's name > Go to message page > Select 'Proble  with order' > Ask for detailed information from the customer > Send message.
+  Amazon Seller Central > Manage Order > Search order number > Click recipient's name > Go to message page > Select 'Problem with order' > Ask for detailed information from the customer > Send message.
+  
+  Note: 'Problem with order' option might not be available for all Amazon stores for each region. If this option isn't available, simply select the closest option available.
 
 ![[Pasted image 20230412160550.png]]
 
@@ -78,6 +80,13 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 - If the order shows 'Awaiting Fulfillment', fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request. 
   If successful, proceed with clicking the 'Cancel Order' option in the order details in Amazon Seller Central; if unsuccessful, ask the customer to reject the shipment.
 
+![[Pasted image 20230419114234.png]]
+
+- If a customer submit a cancellation request (see below) via the system instead of writing us a support ticket, simply proceed to cancel the order and offer the refund. 
+
+![[Pasted image 20230418175745.png]]
+
+
 ---
 ## Order Refund
 - Find the 'Refund Order' in the order details.
@@ -86,12 +95,12 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 - Fill in all the details for refund and submit. 
 ![[Pasted image 20230411175441.png]]
 
-- Inform the customer about the refund.
+- Inform the customer about the refund in the support channel.
 
 ---
 ## Order Return
 ### Within 30 days - Amazon's Return Process
-Within 30 days of purchase, we should always ask customers to return their unit (no matter the reason) via Amazon's system. This will leave am return record on Amazon and would be easier for tracking.
+Within 30 days of purchase, we should always ask customers to return their unit (no matter the reason) via Amazon's system. This will leave a return record on Amazon and would be easier for tracking.
 
 However if the customer is particularly irate about the situation and wants PG to offer a pre-paid return label, please highlight to Tagui for further discussion.
 

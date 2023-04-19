@@ -10,6 +10,8 @@
 
 - If we need to redirect customers from Amazon to PG Supt, simply tell them "**Please contact our official support team for further assistance.**" and nothing more. Do NOT give them any link.
 
+- **We do NOT ask customers who bought from Amazon to sign claim forms.**
+
 ---
 ## BQool
 ### What is BQool
@@ -35,7 +37,7 @@ See [[Frequently Used Resources]]
 - Find 'Customer Reply' section at the bottom of the thread and reply as you would normally.
 ![[Pasted image 20230411150606.png]]
 
-- Submit as you would in Zendesk. Also see [[Amazon Support Daily Operation#Ticket Status in BQool]].
+- Submit as you would in Zendesk. 
 ![[Pasted image 20230411150642.png]]
 
 #### Ticket Status in BQool
@@ -68,6 +70,9 @@ There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo 
 ![[Screen Shot 2023-04-17 at 12.01.28 PM.png]]
 
 - We'll click on 'Answer this question' to answer it. The question and answer will show up on our Amazon's product page. 
+
+- Some users might inquire about their orders or other personal matters in this public Q&A. Make sure to avoid giving out too much information (since it's public), and redirect them back to the normal service channel instead.
+
 - We only have one chance to answer these questions, and the answers will be public. Please make sure the answer is correct and proper before submitting.
 
 ### Order Feedback
@@ -75,13 +80,10 @@ There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo 
 
 ![[Pasted image 20230412162208.png]]
 
-- If any, go back to Amazon Seller Central > Performance to check and respond accordingly.
-  
+- If any, go back to Amazon Seller Central > Performance to check and respond accordingly. (TBC in [[#Amazon Feedback]])
+
 - For other countries that are not covered by BQool, we need to check each region manually for the feedbacks.
   
-  ![[Pasted image 20230412163419.png]]
-  
-  ![[Pasted image 20230412163724.png]]
 
 ---
 ## Amazon Seller Central
@@ -92,6 +94,12 @@ There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo 
 
 ### Amazon Seller Central Login Information
 See [[Frequently Used Resources]]
+
+### Switching Regions
+
+- Each of our service region has its own Amazon store. Each requires to be switched manually. 
+
+![[Pasted image 20230419111802.png]]
 
 ### Support Ticket
 - Click on 'Buyer Messages' in the home page of Amazon Seller Central (of any region).
@@ -105,7 +113,7 @@ See [[Frequently Used Resources]]
 
 
 ### Order Info
-- To find an order in Amazon Seller Central, click on the menu button at the top-left corner.
+- To find an order in Amazon Seller Central, click on the menu button at the top-left corner (**make sure you're in the correct store for the region**).
 ![[Pasted image 20230411161756.png]]
 
 - Find the 'Manage Orders' option under 'Orders'.
@@ -113,4 +121,17 @@ See [[Frequently Used Resources]]
 
 - Search for the Order ID in the search bar. 
 ![[Pasted image 20230411162048.png]]
+
+- If you don't find the order you're intending to find, make sure that 1. You're at the correct store for the region, 2. You are not looking at FBA orders. (If you're looking at FBM orders, then you should be able to see the 'View FBA orders' option shown as below.)
+
+![[Pasted image 20230419112556.png]]
+
+### Amazon Feedback
+
+- Go to Amazon Seller Central > Performance to check public feedbacks from the customers, and respond accordingly.
+
+  ![[Pasted image 20230412163419.png]]
+
+- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public.**
+
 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "76dc49be93b61ff1",
+        "id": "8670a9077b04c37a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "c41ae63512ebf6f2",
+        "id": "c9b8ddc15142fb52",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vat",
+                "query": "amazon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,13 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 196.00679779052734
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md"
               }
             }
           },
@@ -159,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c41ae63512ebf6f2",
+  "active": "8670a9077b04c37a",
   "lastOpenFiles": [
-    "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
-    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md",
-    "4. Processes/b. Shipping & Delivery/Delivery-induced Damage.md",
-    "1. FAQs/General/Is there any VAT (value-added tax) when purchasing from PG.md",
-    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "chatbot.md",
-    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
-    "index.md"
+    "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "3. Policies/Shipping Policy/Order tracking.md",
+    "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md",
+    "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md",
+    "1. FAQs/Products/Spark 40/What's the priority of music playback for Spark 40 (if played simultaneously).md",
+    "1. FAQs/Products/Spark 40/What's Spark 40's compatible headphone impedance.md",
+    "1. FAQs/Products/Spark 40/What's the latest Spark 40 firmware implemented to the production.md",
+    "1. FAQs/Products/Spark 40/What's Spark 40's Analog-to-Digital resolution for audio recording.md",
+    "1. FAQs/Products/Spark 40/What the system requirement for Spark 40 firmware updater.md"
   ]
 }
