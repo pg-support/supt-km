@@ -22,11 +22,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-nav:
-  - Home: index.md
-  - Chatbot: chatbot.md
-  # Add other pages if necessary
-
 # Extensions
 markdown_extensions:
   - footnotes
