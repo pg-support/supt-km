@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chatbot.md",
+            "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amazon",
+                "query": "Apple ID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatbot.md",
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatbot.md",
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatbot.md"
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
               }
             }
           },
@@ -147,9 +148,9 @@
   },
   "active": "1ee8200c37428f99",
   "lastOpenFiles": [
+    "Chatbot.md",
     "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
-    "Chatbot.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md",
     "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md",
