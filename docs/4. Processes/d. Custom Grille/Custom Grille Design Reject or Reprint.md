@@ -34,7 +34,9 @@ f. Submit the email (as 'Solved'). [END]
 
 > If an order includes products besides the custom grille, the other products will be shipped separately by our logistics team as long as they're in stock. 
 > 
-> Thus we cannot cancel and refund the order, and need to proceed with the **reprint process**.
+> In such cases, we should prioritize asking the customer to proceed with the **reprint process**. 
+> 
+> However if the user would like to be refunded instead, we can offer partial refund for the customized item. Please proceed by removing the customized item from the order in Shopify and offer partial refund.
 
 **For reprint, we basically will offer a coupon code for the user to re-purchase and re-design the same customized item for free. 
 

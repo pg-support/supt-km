@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
+            "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1ee8200c37428f99",
   "lastOpenFiles": [
+    "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
     "Chatbot.md",
     "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
@@ -156,7 +156,6 @@
     "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md",
     "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md",
     "3. Policies/Shipping Policy/Order tracking.md",
-    "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md",
-    "1. FAQs/Products/Spark 40/What's the priority of music playback for Spark 40 (if played simultaneously).md"
+    "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md"
   ]
 }
