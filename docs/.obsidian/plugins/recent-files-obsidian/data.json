@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "What is Spark 40's Bluetooth version",
+      "path": "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
+    },
+    {
       "basename": "Spark 40 Whining Noise when connected with external device",
       "path": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "What's Spark GO's speaker frequency response",
       "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
     }
   ],
   "omittedPaths": [],
