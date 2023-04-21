@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "76dc49be93b61ff1",
+        "id": "197c604cc2a5a4b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c41ae63512ebf6f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+            "file": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md",
             "mode": "source",
             "source": false
           }
@@ -77,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276,
+    "width": 290,
     "collapsed": true
   },
   "right": {
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+                "file": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md",
+                "file": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+                "file": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md"
               }
             }
           },
@@ -158,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76dc49be93b61ff1",
+  "active": "197c604cc2a5a4b5",
   "lastOpenFiles": [
-    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
-    "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/c. Post-sale/Warranty Service/DOA.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "chatbot.md",
-    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
-    "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
-    "index.md",
+    "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md",
     "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md",
-    "1. FAQs/Promotions/Collaboration with Output.md",
-    "3. Policies/Warranty Policy/Warranty Period.md"
+    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
+    "2. Troubleshooting/General/USB Troubleshooting.md",
+    "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+    "chatbot.md",
+    "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
   ]
 }

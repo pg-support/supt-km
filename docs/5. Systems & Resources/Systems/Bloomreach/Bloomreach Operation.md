@@ -1,5 +1,5 @@
 # Bloomreach Operation
-wip
+#wip
 
 ![[Screen Shot 2023-03-16 at 6.16.31 PM.png]]
 
