@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "RMA 1",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/RMA 1.md"
+    },
+    {
+      "basename": "DOA 1",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/DOA 1.md"
+    },
+    {
+      "basename": "SR - Fail to Intercept 1",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept 1.md"
+    },
+    {
+      "basename": "SR - Personal Reason 1",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason 1.md"
+    },
+    {
+      "basename": "SR - Delivery Error 1",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error 1.md"
+    },
+    {
+      "basename": "RMA & OOW Process per product",
+      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+    },
+    {
+      "basename": "RMA & OOW for Southeast Asia",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA & OOW for Southeast Asia.md"
+    },
+    {
+      "basename": "DOA",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/DOA.md"
+    },
+    {
       "basename": "What is Spark 40's Bluetooth version",
       "path": "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
     },
     {
       "basename": "Spark 40 Whining Noise when connected with external device",
       "path": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md"
-    },
-    {
-      "basename": "DOA",
-      "path": "4. Processes/c. Post-sale/Warranty Service/DOA.md"
     },
     {
       "basename": "Order Cancellation Process",
@@ -82,7 +110,7 @@
     },
     {
       "basename": "SR - Delivery Error",
-      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Delivery Error.md"
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Delivery Error.md"
     },
     {
       "basename": "Refund Process",
@@ -94,15 +122,7 @@
     },
     {
       "basename": "RMA",
-      "path": "4. Processes/c. Post-sale/Warranty Service/RMA.md"
-    },
-    {
-      "basename": "RMA & OOW for Southeast Asia",
-      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW for Southeast Asia.md"
-    },
-    {
-      "basename": "RMA & OOW Process per product",
-      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA.md"
     },
     {
       "basename": "Warranty Service Definition",
@@ -110,11 +130,11 @@
     },
     {
       "basename": "SR - Personal Reason",
-      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md"
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason.md"
     },
     {
       "basename": "SR - Fail to Intercept",
-      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept.md"
     },
     {
       "basename": "Frequently Used Resources",
@@ -179,26 +199,6 @@
     {
       "basename": "SKULabs Operation",
       "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
-    },
-    {
-      "basename": "Custom Grille Review Process",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
-    },
-    {
-      "basename": "Pasted image 20230322170508",
-      "path": "Media/Pasted image 20230322170508.png"
-    },
-    {
-      "basename": "How do I switch back from Facebook login to normal login",
-      "path": "1. FAQs/General/How do I switch back from Facebook login to normal login.md"
-    },
-    {
-      "basename": "Spark GO's Bluetooth & Power LED Indicator",
-      "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
-    },
-    {
-      "basename": "What's Spark GO's speaker frequency response",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
     }
   ],
   "omittedPaths": [],
