@@ -6,7 +6,7 @@ Use macro: '<u>US VAT Charge</u>' or '<u>EU VAT Charge</u>'
 The price shown at the checkout is with VAT added. The VAT rate is calculated according to each country's governmental policy. There should be no additional charge afterwards.  
 
 ---
-Below you can find the 
+Below you can find the information about each region's VAT:
 
 AU - No tax  
 CA - set VAT  

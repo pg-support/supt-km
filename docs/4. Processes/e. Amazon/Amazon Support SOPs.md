@@ -55,7 +55,9 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 - Reach out to customers and ask them to verify the missing information:
   
-  Amazon Seller Central > Manage Order > Search order number > Click recipient's name > Go to message page > Select 'Proble  with order' > Ask for detailed information from the customer > Send message.
+  Amazon Seller Central > Manage Order > Search order number > Click recipient's name > Go to message page > Select 'Problem with order' > Ask for detailed information from the customer > Send message.
+  
+  Note: 'Problem with order' option might not be available for all Amazon stores for each region. If this option isn't available, simply select the closest option available.
 
 ![[Pasted image 20230412160550.png]]
 
@@ -75,7 +77,15 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 - If the order shows 'Not started / Opened / Delayed' in SKULab, manually cancel the order, and proceed by clicking the 'Cancel Order' option in the order details in Amazon Seller Central.
 
-- If the order shows 'Awaiting Fulfillment', fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request. If successful, proceed with clicking the 'Cancel Order' option in the order details in Amazon Seller Central; if unsuccessful, ask the customer to reject the shipment.
+- If the order shows 'Awaiting Fulfillment', fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request. 
+  If successful, proceed with clicking the 'Cancel Order' option in the order details in Amazon Seller Central; if unsuccessful, ask the customer to reject the shipment.
+
+![[Pasted image 20230419114234.png]]
+
+- If a customer submit a cancellation request (see below) via the system instead of writing us a support ticket, simply proceed to cancel the order and offer the refund. 
+
+![[Pasted image 20230418175745.png]]
+
 
 ---
 ## Order Refund
@@ -85,44 +95,55 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 - Fill in all the details for refund and submit. 
 ![[Pasted image 20230411175441.png]]
 
-- Inform the customer about the refund. (END)
+- Inform the customer about the refund in the support channel.
 
 ---
 ## Order Return
-### Amazon's Official Return Process
-No matter for what reason, within 30 days of purchase, a customer can return the product by simply 
+### Within 30 days - Amazon's Return Process
+Within 30 days of purchase, we should always ask customers to return their unit (no matter the reason) via Amazon's system. This will leave a return record on Amazon and would be easier for tracking.
+
+However if the customer is particularly irate about the situation and wants PG to offer a pre-paid return label, please highlight to Tagui for further discussion.
+
+#### Returning a product via Amazon
+
+Within 30 days of purchase, a customer can return the product by simply 
 1. Going to Amazon's website
 2. Finding the refund option under their order
 3. Choosing a return method and printing the label
 4. Shipping it back to us 
 
+- If a customer asks about the return process, advise them to follow the Amazon return process.
+  
 - These Amazon's return requests will be automatically approved by the system.
-
-- If a customer asks about the return process, advise them to follow the [Amazon return process (link to Amazon's help center)](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6E3B2E8QPHQ88KF&ref_=hp_help_c_Return-Items-You-Ordered). 
 
 - **Customer may notify us after they have shipped the product(s), and we'll proceed with the [[#Order Refund]] process.** If the customer didn't notify us, they may wait for the system's automatic refund (which will take longer).
 
-- If a customer claims to have not received a refund after proceeding with the Amazon return process, ask for the carrier and tracking number, and check if it is in transit. **Once confirmed the item is on its way back (no need to wait for delivery), we may proceed with the [[#Order Refund]] process.**
+- If a customer claims to have not received a refund after proceeding with the Amazon return process, **ask for the carrier and tracking number, and check if it is in transit**. **Once confirmed the item is on its way back (no need to wait for delivery), we may proceed with the [[#Order Refund]] process.**
 
-Below are some common reasons for Amazon order return:
+
+Below are some common reasons and additional steps for Amazon order return:
 
 #### Personal Reason
-- Customer simply don't like it.
+- Customers want to return the product due to personal reason. Proceed with the above mentioned process.
 
 #### Cosmetic damages
-- Ask customers for photos and assist with returns, exchanges, or special case resolution. Same process as [[Delivery-induced Damage]].
-
+- Ask customers for photos of the damages, as suggested in [[Delivery-induced Damage]] SOP.
+  
+- Once the photos are uploaded, ask the customer to follow the official Amazon return process to return the product. 
+  
+- Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Resend & Replacement]]), or [[#Order Refund]].
+  
 - We may offer a $5~10 partial refund for customer satisfaction, on a case-by-case basis. Please discuss with Tagui on this matter.
 
 #### Technical issues
-- **For technical issues / troubleshooting, It's best to advise customers to contact our official support team for further assistance.
+- **For technical issues / troubleshooting, it's best to advise customers to contact our official support team for further assistance.
 
-- If they insist on returning the product, submit a return request with pre-paid return label (same process as [[DOA]] or [[SR - Fail to Intercept]], depending on whether the product is defective).
+- However, if a customer insists on returning the product due to technical issues, ask them to proceed with the official return process. 
 
-- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with [[#Order Refund]].
+- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with either sending a replacement ([[Resend & Replacement]]) or [[#Order Refund]].
 
-#### Customer-induced damages / personal reasons
-- Same process as [[SR - Personal Reason]]. 
+#### Customer-induced damages
+- Ask the customer to proceed with the official return process.
 
 - Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with [[#Order Refund]].
 
@@ -138,8 +159,8 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 
 - Customers can file an A-to-Z Guarantee claim on the Amazon website, and Amazon will investigate the claim and take action to resolve the issue. If a claim is found to be valid, Amazon will issue a refund to the buyer, and the seller's account may be subject to penalties or suspension.
 
-**-> We should avoid having customers filing A-to-Z claims at all cost.**
-**-> A-to-Z Guarantee claim is currently handled by Christine in the logistics team.**
+**-> We should avoid having customers filing A-to-Z claims at all cost, by attending to the customers diligently.**
+**-> A-to-Z Guarantee claim is currently handled by Christine of the logistics team.**
 
 
 ---
@@ -154,4 +175,10 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 ## Repair Service
 If the customer want to request for repair service, ask them to contact our official support team for further assistance.
 
+---
+## Change Address
+Amazon's system does NOT support changing the address of an order. If the situations calls for it (special case), please fill in [[Daily Catch-up]] to request changing the address at the warehouse side.
 
+---
+## Swap / Add / Deduct Items in an Order
+Amazon's system does NOT support altering the items in an order. Proceed with [[#Order Cancellation]] process for such inquiries.

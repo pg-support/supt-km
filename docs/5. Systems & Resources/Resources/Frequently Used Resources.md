@@ -29,7 +29,7 @@
 [Aftership](https://admin.aftership.com/)
 → Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
-[BQool](<[https://acc.bqool.com/](https://acc.bqool.com/)>)
+[BQool](https://acc.bqool.com/)
 → Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
 [Amazon Seller Central](https://sellercentral.amazon.com/home)
