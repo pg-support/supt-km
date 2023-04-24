@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee8200c37428f99",
+        "id": "abcfadefd444a540",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Apple ID",
+                "query": "activati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 175
+    "width": 243.0050811767578,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ee8200c37428f99",
+  "active": "abcfadefd444a540",
   "lastOpenFiles": [
-    "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
+    "5. Systems & Resources/Systems/PGBot Commands.md",
+    "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
+    "Pasted image 20230424112821.png",
     "Chatbot.md",
-    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
+    "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md",
-    "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md",
-    "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md",
-    "3. Policies/Shipping Policy/Order tracking.md",
-    "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md"
+    "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md"
   ]
 }

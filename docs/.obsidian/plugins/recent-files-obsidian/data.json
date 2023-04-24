@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+      "basename": "PGBot Commands",
+      "path": "5. Systems & Resources/Systems/PGBot Commands.md"
     },
     {
-      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
+      "basename": "Cannot activate license (stuck in demo mode)",
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md"
+    },
+    {
+      "basename": "Pasted image 20230424112821",
+      "path": "Pasted image 20230424112821.png"
     },
     {
       "basename": "Chatbot",
       "path": "Chatbot.md"
     },
     {
+      "basename": "Amazon Support SOPs",
+      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
       "basename": "Amazon Support Daily Operation",
       "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     },
     {
-      "basename": "Amazon Support SOPs",
-      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
+      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
     },
     {
       "basename": "Frequently Used Resources",
@@ -187,18 +199,6 @@
     {
       "basename": "RMA & OOW Process per product",
       "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
-    },
-    {
-      "basename": "Warranty Service Definition",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md"
-    },
-    {
-      "basename": "SR - Personal Reason",
-      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Personal Reason.md"
-    },
-    {
-      "basename": "SR - Fail to Intercept",
-      "path": "4. Processes/c. Post-sale/Warranty Service/SR - Fail to Intercept.md"
     }
   ],
   "omittedPaths": [],

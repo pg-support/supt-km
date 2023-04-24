@@ -67,7 +67,7 @@ document.getElementById("chat-input-form").addEventListener("submit", async (e) 
     if (userMessage.length > 0) {
         displayUserMessage(userMessage);
 
-        const serverUrl = "https://your-flask-app.herokuapp.com/api/ask";
+        const serverUrl = "https://arcane-oasis-27265.herokuapp.com/api/ask";
         const response = await fetch(serverUrl, {
             method: "POST",
             headers: { "Content-Type": "application/json" },

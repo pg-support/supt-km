@@ -18,7 +18,8 @@ PGBot can be found in Positive Grid's Slack channel.
 - License registered (automatically, under the same account)
 - Program installed and logged in (with the same correct account)
 - License activation not exceeding limit (5 activations max)
-
+- If the user has exceeded 5 activations, they can go to the user center to remove their past activations.
+![[Pasted image 20230424112817.png]]
 
 ### Check activation records
 1. Enter the account email and find the ‘Show Activation Info’ option under the license you want to check.

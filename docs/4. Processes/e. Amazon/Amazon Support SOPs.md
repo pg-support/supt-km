@@ -51,6 +51,8 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 ---
 ## Shipping Info Missing (for Amazon)
+
+
 - Daily check the [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) form for orders with missing shipping information. 
 
 - Reach out to customers and ask them to verify the missing information:

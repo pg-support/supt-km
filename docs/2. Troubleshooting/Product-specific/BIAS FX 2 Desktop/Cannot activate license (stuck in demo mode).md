@@ -4,6 +4,10 @@
 ## 0 - Login to BIAS FX 2
 - Make sure the user knows to login to the BIAS FX 2 application with the correct account.
 - **If it doesn't work the first time logging in, try logging out and re-logging in, without closing the application.**
+- If the user has exceeded 5 activations, they can go to the user center to remove their past activations.
+![[Pasted image 20230424112821.png]]
+
+![[Pasted image 20230424112903.png]]
 
 ## 1 - Check Shopify order status 
 (to make sure the purchase is successful)

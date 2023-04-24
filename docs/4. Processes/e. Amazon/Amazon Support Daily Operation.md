@@ -64,6 +64,12 @@ Agents should monitor the '**Time Left**' metric in BQool closely to ensure that
 
 ![[Pasted image 20230411152652.png]]
 
+#### Finding an user's past tickets
+
+If you need to find a user's past tickets (because they opened a new ticket and we need to check previous contact history), please take the order ID and go to Amazon Seller Central (the correct region) to search for past tickets.
+
+![[Pasted image 20230420121203.png]]
+
 #### Q&As in BQool
 There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo below.) 
 
