@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abcfadefd444a540",
+        "id": "59cee88215e4228d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.0050811767578
+    "width": 204.0050811767578
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abcfadefd444a540",
+  "active": "59cee88215e4228d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Media/Pasted image 20230424120333.png",
-    "5. Systems & Resources/Systems/Aftership Operation.md",
-    "Pasted image 20230424152741.png",
-    "Pasted image 20230424152443.png",
-    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md",
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
+    "Media/Pasted image 20230425160704.png",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md",
+    "4. Processes/c. Post-sale/Refund Process.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md",
     "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md",
-    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md",
+    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
   ]
 }

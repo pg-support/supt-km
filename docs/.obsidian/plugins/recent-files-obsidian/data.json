@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20230425160704",
+      "path": "Media/Pasted image 20230425160704.png"
+    },
+    {
+      "basename": "SR - Personal Reason (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
+    },
+    {
+      "basename": "SR - Delivery Error (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md"
+    },
+    {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
+      "basename": "RMA (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md"
+    },
+    {
+      "basename": "DOA (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md"
+    },
+    {
+      "basename": "SR - Personal Reason (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
+    },
+    {
       "basename": "Aftership Operation",
       "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+    },
+    {
+      "basename": "SR - Fail to Intercept (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
+    },
+    {
+      "basename": "RMA & OOW Process per product",
+      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+    },
+    {
+      "basename": "OOW (US - Spark 40 Repair)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Spark 40 Repair).md"
+    },
+    {
+      "basename": "OOW (US - Everything else)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md"
     },
     {
       "basename": "Pasted image 20230424120333",
@@ -21,14 +65,6 @@
       "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
     },
     {
-      "basename": "DOA (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md"
-    },
-    {
-      "basename": "SR - Personal Reason (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
-    },
-    {
       "basename": "SR - Fail to Intercept (Non-US)",
       "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept (Non-US).md"
     },
@@ -41,36 +77,8 @@
       "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA & OOW (Southeast Asia).md"
     },
     {
-      "basename": "SR - Delivery Error (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md"
-    },
-    {
-      "basename": "OOW (US - Spark 40 Repair)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Spark 40 Repair).md"
-    },
-    {
-      "basename": "OOW (US - Everything else)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md"
-    },
-    {
-      "basename": "SR - Personal Reason (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
-    },
-    {
-      "basename": "SR - Fail to Intercept (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
-    },
-    {
-      "basename": "RMA (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md"
-    },
-    {
       "basename": "Warranty Service Definition",
       "path": "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md"
-    },
-    {
-      "basename": "RMA & OOW Process per product",
-      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
     },
     {
       "basename": "DOA (Non-US)",
@@ -191,10 +199,6 @@
     {
       "basename": "Does your desktop software support offline usage",
       "path": "1. FAQs/General/Does your desktop software support offline usage.md"
-    },
-    {
-      "basename": "Do you support Mac with Apple M1 and M2 chip",
-      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
     }
   ],
   "omittedPaths": [],

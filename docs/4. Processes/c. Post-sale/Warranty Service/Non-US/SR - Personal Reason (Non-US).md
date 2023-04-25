@@ -2,12 +2,14 @@
 
 > Personal Reason - Return (Paid by the customer) & Refund
 > 
-> *If the customer no longer has the original packaging for return, a $20 (USD) restocking fee needs to be charged and will be deducted from the refund (see [Spark Warranty FAQ](https://help.positivegrid.com/hc/en-us/articles/360060273211-Spark-Warranty-FAQ) for reference). Please explain this to the customer. (Applicable to ALL products.)*
+> If the customer no longer has the original packaging for return, a $20 (USD) restocking fee needs to be charged and will be deducted from the refund (see [Spark Warranty FAQ](https://help.positivegrid.com/hc/en-us/articles/360060273211-Spark-Warranty-FAQ) for reference). Please explain this to the customer. (Applicable to ALL products.)
 
 ### 1 - Inquire about basic info
 Once confirmed that the customer would like to return the order (must be a full order), insert Macro: <u>[Service Center] SR (Regular) - 1</u>. Insert the correct country in the email subject. Submit as pending. 
 
 ![](https://lh6.googleusercontent.com/B9WsXkXUGJz2mZjdxPtBNdhj_RA0aMjHmyLJj1KIXhqP0qyvR96VTB1p2ZomNWsFZtsHzU-wiEU_l1jXmEAYUXnDFZco-3TAy3lpaN5J4E5txpc1ENwka_Cs8pbb0Th4-LZ78YfyNngGE_Wpgq3Yceoxndy_vkQcL1eCB4I6OxGB84Kw_yzcHsSZLcrc)
+
+> Make sure to delete the *"Kindly note that you will be responsible for the $15 shipping fee associated with returning the item to our warehouse. This amount will be subtracted from your final refund.*" passage, as it's for US only.
 
 ### 2 - Fill out a SR request
 Once the client replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):

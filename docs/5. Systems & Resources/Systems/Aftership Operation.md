@@ -1,4 +1,5 @@
 # Aftership Operation
+> Currently, we only use Aftership (to generate return labels) for orders that are in the **US & Within Warranty & from Shopify**.
 
 ## Login
 
@@ -61,7 +62,9 @@ You can find the login informaiton in [PG Supt Login Information](https://docs.g
 - Hit 'Edit shipping info' in the pop-up window, if 'Submit' is greyed out.
 ![[Pasted image 20230424152610.png]]
 
-- Go to the 'Carrier & package' section. First make sure 'Package' is selected as '**Custom**'. Then, make sure the dimensions and weight of the package are fill in according to the sheet below for your returned item:
+- Go to the 'Carrier & package' section. First make sure 'Package' is selected as '**Custom**'. Then, make sure the dimensions and weight of the package are fill in according to the sheet below for your returned item.
+  
+  (If there're multiple items selected, simply fill in the dimension of the **largest item** that's being returned.)
 ![[Screen Shot 2023-04-24 at 5.35.00 PM.png]]
 
 ![[Pasted image 20230424174239.png]]
