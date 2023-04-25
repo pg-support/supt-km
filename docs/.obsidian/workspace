@@ -7,8 +7,12 @@
         "id": "59cee88215e4228d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "freeze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+              }
             }
           },
           {
@@ -139,6 +148,7 @@
   },
   "active": "59cee88215e4228d",
   "lastOpenFiles": [
+    "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
     "Media/Pasted image 20230425160704.png",
     "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md",
     "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md",
@@ -147,7 +157,6 @@
     "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md",
     "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md",
     "5. Systems & Resources/Systems/Aftership Operation.md",
-    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md",
-    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
   ]
 }
