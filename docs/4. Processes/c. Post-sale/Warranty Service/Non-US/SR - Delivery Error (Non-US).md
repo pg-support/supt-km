@@ -1,4 +1,5 @@
-# SR - Delivery Error
+# SR - Delivery Error (Non-US)
+
 > Delivery Error - Return Only (Paid by PG)
 
 ### 1 - Inquire about basic info

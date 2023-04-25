@@ -1,5 +1,5 @@
 # Order Cancellation Process
-> If the order is delivered prior to the cancellation request, the order cannot be canceled and the customer must proceed with the regular sales return ([[SR - Personal Reason]]) process.
+> If the order is delivered prior to the cancellation request, the order cannot be canceled and the customer must proceed with the regular sales return ([[SR - Personal Reason (Non-US)]]) process.
 
 ## Verify the shipment status
 
@@ -45,7 +45,7 @@
 
 1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
 
-2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
+2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept (Non-US)]])
 
 
 ### Shipped
@@ -62,5 +62,5 @@
 
 1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)
 
-2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept]])
+2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept (Non-US)]])
 

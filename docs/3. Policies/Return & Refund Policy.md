@@ -38,7 +38,7 @@ For personalized (hardware) products, please note:
 
 If for any reason you are dissatisfied with your purchase you may return it within 30 days of receipt for full refund (less shipping costs).
 
->  The agent needs to follow through the [[SR - Personal Reason]] process for refund.
+>  The agent needs to follow through the [[SR - Personal Reason (Non-US)]] process for refund.
 
 You must contact [Positive Grid Customer Support](https://help.positivegrid.com/hc/en-us/requests/new) to request a return authorization (RA) number and Positive Grid will send you the return instructions once receive the request. See the information below if you need to return your merchandise purchased from Positive Grid website and obtain an RA number:
 

@@ -1,4 +1,5 @@
-# OOW (Everthing else)
+# OOW (Non-US)
+
 > US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair)]])
 > 
 > EU - OOW - Spark 40 cases: regular replacement

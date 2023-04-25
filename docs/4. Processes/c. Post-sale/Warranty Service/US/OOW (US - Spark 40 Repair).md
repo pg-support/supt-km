@@ -1,6 +1,6 @@
 # OOW (US - Spark 40 Repair)
 > This SOP is for OOW - US - Spark 40 only.
-> For everything else, please refer to [[OOW (Everthing else)]]
+> For everything else, please refer to [[OOW (Non-US)]]
 
 ### 0 - Verify the warranty
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.

@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activati",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.0050811767578,
-    "collapsed": true
+    "width": 243.0050811767578
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -141,15 +139,15 @@
   },
   "active": "abcfadefd444a540",
   "lastOpenFiles": [
-    "5. Systems & Resources/Systems/PGBot Commands.md",
-    "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
-    "Pasted image 20230424112821.png",
-    "Chatbot.md",
-    "4. Processes/e. Amazon/Amazon Support SOPs.md",
-    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
-    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-    "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
+    "Untitled.md",
+    "Media/Pasted image 20230424120333.png",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
+    "Pasted image 20230424152741.png",
+    "Pasted image 20230424152443.png",
+    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md"
+    "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
   ]
 }

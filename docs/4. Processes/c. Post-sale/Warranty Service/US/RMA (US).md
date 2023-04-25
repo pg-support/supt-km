@@ -1,4 +1,4 @@
-# RMA
+# RMA (US)
 > For all RMA cases at this time, please proceed by sending a replacement.
 
 ### 0 - Verify the warranty

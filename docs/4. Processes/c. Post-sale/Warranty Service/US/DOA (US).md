@@ -1,4 +1,5 @@
-# DOA
+# DOA (US)
+
 > Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
 
 ### 1 - Inquire about basic info
@@ -11,7 +12,7 @@ Once the client replies with all the requested information, fill in the [PG RMA 
 
 1.  ‘Service Type’ = DOA.
 2.  ‘Warranty Service’ should normally be ‘Replacement’ unless the customer specifically asks for a refund. 
-3.  ‘Defective-User Scenario’ should be obtained via DOA Macro. Find the example below. (No need to fill in if the issue is related to cosmetics.) 
+3.  ‘Defective-User Scenario’ should be obtained via DOA Macro. Find the example below. (No need to fill in if the issue is related to cosmetics.) =
 4.  Fill in all address details accordingly.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)

@@ -48,7 +48,7 @@
    
    ![[Pasted image 20230323180526.png]]
    
-   > If it's a [[SR - Personal Reason]] case, make sure NOT to refund the shipping fee. 
+   > If it's a [[SR - Personal Reason (Non-US)]] case, make sure NOT to refund the shipping fee. 
    
 6). Confirm the action. Note that the refund may take several business days to appear on the customer's account.
 

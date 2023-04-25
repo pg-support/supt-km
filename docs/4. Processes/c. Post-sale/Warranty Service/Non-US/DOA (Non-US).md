@@ -1,4 +1,5 @@
-# DOA
+# DOA (Non-US)
+
 > Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
 
 ### 1 - Inquire about basic info

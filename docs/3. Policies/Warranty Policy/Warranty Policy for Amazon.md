@@ -14,7 +14,7 @@ Regarding the warranty, please verify if the user is in our [[Service countries 
 
 - If the user is in our service regions, and the order is within 30 days since delivery, ask the user to contact Amazon for DOA (replacement).
 
-- If the user is in our service regions, and the order is outside 30 days since delivery, proceed with regular [[RMA]].
+- If the user is in our service regions, and the order is outside 30 days since delivery, proceed with regular [[RMA (Non-US)]].
 
 - If the user is outside our service regions, ask the user to contact Amazon for DOA/RMA.
 
