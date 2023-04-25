@@ -6,7 +6,7 @@
 You can find the login informaiton in [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 ![[Screen Shot 2023-04-24 at 12.02.10 PM.png]]
 
-## Create a Return
+## Creating a Return
 - Find the 'Return' option in the left-side menu, and go to 'Returns' section.
 ![[Pasted image 20230424120333.png]]
 ![[Pasted image 20230424120518.png]]
