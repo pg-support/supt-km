@@ -1,6 +1,8 @@
 # Aftership Operation
 > Currently, we only use Aftership (to generate return labels) for orders that are in the **US & Within Warranty & from Shopify**.
 
+
+
 ## Login
 
 [Link](https://admin.aftership.com/)
