@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+            "file": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freeze",
+                "query": "silver ship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+                "file": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "59cee88215e4228d",
   "lastOpenFiles": [
+    "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
     "Media/Pasted image 20230425160704.png",
     "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md",
@@ -156,7 +157,6 @@
     "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md",
     "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md",
     "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md",
-    "5. Systems & Resources/Systems/Aftership Operation.md",
-    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
+    "5. Systems & Resources/Systems/Aftership Operation.md"
   ]
 }
