@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+            "file": "Chatbot.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aftership",
+                "query": "chat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
+                "file": "Chatbot.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69eacc43daa4c77a",
+  "active": "59cee88215e4228d",
   "lastOpenFiles": [
+    "5. Systems & Resources/Systems/Aftership Operation.md",
     "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
     "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
     "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
@@ -156,7 +157,6 @@
     "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md",
     "4. Processes/c. Post-sale/Refund Process.md",
     "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md",
-    "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md",
-    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
+    "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md"
   ]
 }
