@@ -141,5 +141,13 @@
       "key": "F"
     }
   ],
-  "editor:open-search": []
+  "editor:open-search": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
 }

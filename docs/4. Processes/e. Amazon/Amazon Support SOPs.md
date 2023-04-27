@@ -41,17 +41,14 @@ FBM:
 ---
 ## Order Shipping Inquiry
 
-Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for an order. 
+Please refer to [[SKULabs Operation]] and [[Daily Catch-up]] for further details on how to inquire about shipping status. 
 
 ### Important Notice
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
 
-
----
-## Shipping Info Missing (for Amazon)
-
+### Shipping Info Missing (for Amazon)
 
 - Daily check the [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) form for orders with missing shipping information. 
 
@@ -73,6 +70,37 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 
 
 ---
+
+### Dummy Tracking
+
+- In certain cases, we create 'dummy tracking number' (00000000) to meet Amazon's shipping time requirement.
+
+- These situations can occur due to 
+
+1. Unforeseen slow operation from the warehouse
+   
+2. Certain items being out of stock and having backlogs
+   
+3. Orders with incomplete shipping information
+
+#### Unforeseen slow operation from the warehouse
+In the case of unforeseen slow operation from the warehouse, the logistics team will sort out the problem and promptly update the correct tracking number for the customer.
+
+#### Out of Stock
+For items that are suddenly out of stock and in the backlogs, these orders will be logged onto the [Amazon Tracking (Out of Stock Record)](https://docs.google.com/spreadsheets/d/1nD-WXOWSqSGU1kPgPHjNBVsPenH3vGkMFp8H5ZvwpZQ/edit?usp=sharing) file, with the order ID and estimated delivery date provided by the logistics team. 
+
+A support agent will contact the customer proactively to inquire on whether the customer would like to wait for the restock or cancel the order. If they'd like to cancel, then proceed with [[#Order Cancellation]]. 
+
+If they can wait for restock, the case can be closed until the ETA comes, and then the support agent will reach out to the customer again to inform them about the tracking number.
+
+![[Pasted image 20230412160550.png]]
+#### Incomplete shipping information
+For orders with incomplete shipping information, these orders should be first logged onto the [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) file for support agents to contact the customer for the correct information. See [[#Shipping Info Missing for Amazon]] for further details.
+
+If we fail to acquire the correct information from the customer before the required shipping time, such cases will also be given a dummy tracking number '0000' and logged onto [Amazon Tracking (Out of Stock Record)](https://docs.google.com/spreadsheets/d/1nD-WXOWSqSGU1kPgPHjNBVsPenH3vGkMFp8H5ZvwpZQ/edit?usp=sharing) (without the ETA as it's not out of stock) for further verification. An agent will contact the customer to verify the correct shipping information and feedback to the original [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) file for our logistics team to update the order and ship.
+
+---
+
 ## Order Cancellation
 
 - For order cancellations, follow the similar process as [[Order Cancellation Process]]:
@@ -85,19 +113,8 @@ Fill in the [[Daily Catch-up]] form to inquire about any shipment situation for 
 ![[Pasted image 20230419114234.png]]
 
 - If a customer submit a cancellation request (see below) via the system instead of writing us a support ticket, simply proceed to cancel the order and offer the refund. 
-
 ![[Pasted image 20230418175745.png]]
 
-
----
-## Order Refund
-- Find the 'Refund Order' in the order details.
-![[Pasted image 20230411175226.png]]
-
-- Fill in all the details for refund and submit. 
-![[Pasted image 20230411175441.png]]
-
-- Inform the customer about the refund in the support channel.
 
 ---
 ## Order Return
@@ -110,17 +127,16 @@ However if the customer is particularly irate about the situation and wants PG t
 
 Within 30 days of purchase, a customer can return the product by simply 
 1. Going to Amazon's website
+   
 2. Finding the refund option under their order
+   
 3. Choosing a return method and printing the label
+   
 4. Shipping it back to us 
 
 - If a customer asks about the return process, advise them to follow the Amazon return process.
   
 - These Amazon's return requests will be automatically approved by the system.
-
-- **Customer may notify us after they have shipped the product(s), and we'll proceed with the [[#Order Refund]] process.** If the customer didn't notify us, they may wait for the system's automatic refund (which will take longer).
-
-- If a customer claims to have not received a refund after proceeding with the Amazon return process, **ask for the carrier and tracking number, and check if it is in transit**. **Once confirmed the item is on its way back (no need to wait for delivery), we may proceed with the [[#Order Refund]] process.**
 
 
 Below are some common reasons and additional steps for Amazon order return:
@@ -166,6 +182,25 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 
 
 ---
+
+## Order Refund
+
+> Due to account restrictions, we are currently unable to process refunds for European orders (the refund option is also not visible on the order). To request a refund for a European order, please obtain the tracking number (TRK#) from the customer and provide both the TRK# and Order ID to @Jay Chang via the amazon-support-internal platform.
+
+- For returned items, **customer may notify us after they have shipped the product(s), and we'll proceed with the order refund process.** If the customer didn't notify us, they may wait for the system's automatic refund (which will take longer).
+
+- If a customer claims to have not received a refund after proceeding with the Amazon return process, **ask for the carrier and tracking number, and check if it is in transit**. Once confirmed the item is **on its way back** (no need to wait for delivery), we may proceed with the refund.
+
+- To refund an order, find the 'Refund Order' in the order details.
+![[Pasted image 20230411175226.png]]
+
+- Fill in all the details for refund and submit. 
+![[Pasted image 20230411175441.png]]
+
+- Inform the customer about the refund in the support channel.
+
+---
+
 ## Price Matching
 - For orders not yet placed, advise the customers 'make the purchase that best suit their needs'. **(It's against Amazon's policy to suggest customers go to somewhere else for purchase.)**
 
