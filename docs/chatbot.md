@@ -2,4 +2,10 @@
 title: Chatbot
 ---
 # Support Chatbot
-<iframe src="https://huggingface.co/spaces/dd09153/SuptBot" width="100%" height="700" frameborder="0" allowfullscreen></iframe>
+<iframe
+	src="https://dd09153-suptbot.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
