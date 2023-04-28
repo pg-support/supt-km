@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b8e317baab57d0",
+        "id": "fa777bcb0aa50bbb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chatbot.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chat",
+                "query": "spotify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.0050811767578
+    "width": 245
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chatbot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,23 +131,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a2b8e317baab57d0",
+  "active": "fa777bcb0aa50bbb",
   "lastOpenFiles": [
-    "4. Processes/e. Amazon/Amazon Support SOPs.md",
-    "5. Systems & Resources/Systems/PG Supt-Logistics Form/Daily Catch-up.md",
-    "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md",
-    "Chatbot.md",
-    "5. Systems & Resources/Systems/Aftership Operation.md",
-    "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md",
-    "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
-    "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md",
-    "Media/Pasted image 20230425160704.png",
-    "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
+    "2. Troubleshooting/Product-specific/Spark App/'invalid_grant' message when connecting with Spotify.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/RMA 1.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/DOA 1.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept 1.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason 1.md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error 1.md",
+    "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA & OOW for Southeast Asia.md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/DOA.md",
+    "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
   ]
 }

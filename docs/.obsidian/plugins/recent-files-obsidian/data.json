@@ -1,204 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "Chatbot",
-      "path": "Chatbot.md"
-    },
-    {
-      "basename": "Amazon Support SOPs",
-      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
-    },
-    {
-      "basename": "Daily Catch-up",
-      "path": "5. Systems & Resources/Systems/PG Supt-Logistics Form/Daily Catch-up.md"
-    },
-    {
-      "basename": "SKULabs Operation",
-      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
-    },
-    {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
-    },
-    {
-      "basename": "Crackling noise in Spark MINI",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Crackling noise in Spark MINI.md"
-    },
-    {
-      "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
-    },
-    {
-      "basename": "Do you support Mac with Apple M1 and M2 chip",
-      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
-    },
-    {
-      "basename": "Pasted image 20230425160704",
-      "path": "Media/Pasted image 20230425160704.png"
-    },
-    {
-      "basename": "SR - Personal Reason (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
-    },
-    {
-      "basename": "SR - Delivery Error (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md"
-    },
-    {
-      "basename": "Refund Process",
-      "path": "4. Processes/c. Post-sale/Refund Process.md"
-    },
-    {
-      "basename": "RMA (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/RMA (US).md"
-    },
-    {
-      "basename": "DOA (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/DOA (US).md"
-    },
-    {
-      "basename": "SR - Personal Reason (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
-    },
-    {
-      "basename": "SR - Fail to Intercept (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
+      "basename": "'invalid_grant' message when connecting with Spotify",
+      "path": "2. Troubleshooting/Product-specific/Spark App/'invalid_grant' message when connecting with Spotify.md"
     },
     {
       "basename": "RMA & OOW Process per product",
       "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
     },
     {
-      "basename": "OOW (US - Spark 40 Repair)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Spark 40 Repair).md"
+      "basename": "What is Spark 40's Bluetooth version",
+      "path": "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
     },
     {
-      "basename": "OOW (US - Everything else)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md"
+      "basename": "Spark 40 Whining Noise when connected with external device",
+      "path": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md"
     },
     {
-      "basename": "Pasted image 20230424120333",
-      "path": "Media/Pasted image 20230424120333.png"
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
     },
     {
-      "basename": "Resend & Replacement",
-      "path": "5. Systems & Resources/Systems/PG Supt-Logistics Form/Resend & Replacement.md"
-    },
-    {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+      "basename": "BIAS FX 1 Product Issue Handling",
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md"
     },
     {
       "basename": "Bloomreach Operation",
       "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
     },
     {
-      "basename": "SR - Fail to Intercept (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept (Non-US).md"
+      "basename": "USB Troubleshooting",
+      "path": "2. Troubleshooting/General/USB Troubleshooting.md"
     },
     {
-      "basename": "SR - Delivery Error (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Delivery Error (Non-US).md"
-    },
-    {
-      "basename": "RMA & OOW (Southeast Asia)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA & OOW (Southeast Asia).md"
-    },
-    {
-      "basename": "Warranty Service Definition",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md"
-    },
-    {
-      "basename": "DOA (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/DOA (Non-US).md"
-    },
-    {
-      "basename": "RMA (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/RMA (Non-US).md"
-    },
-    {
-      "basename": "OOW (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
-    },
-    {
-      "basename": "Pasted image 20230420121203",
-      "path": "Media/Pasted image 20230420121203.png"
-    },
-    {
-      "basename": "PGBot Commands",
-      "path": "5. Systems & Resources/Systems/PGBot Commands.md"
-    },
-    {
-      "basename": "Cannot activate license (stuck in demo mode)",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md"
-    },
-    {
-      "basename": "Pasted image 20230424112821",
-      "path": "Media/Pasted image 20230424112821.png"
+      "basename": "Amazon Support SOPs",
+      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
     },
     {
       "basename": "Amazon Support Daily Operation",
       "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     },
     {
+      "basename": "chatbot",
+      "path": "chatbot.md"
+    },
+    {
+      "basename": "How is Spark GO's battery life",
+      "path": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Collaboration with Output",
+      "path": "1. FAQs/Promotions/Collaboration with Output.md"
+    },
+    {
+      "basename": "Warranty Period",
+      "path": "3. Policies/Warranty Policy/Warranty Period.md"
+    },
+    {
+      "basename": "Warranty start date",
+      "path": "3. Policies/Warranty Policy/Warranty start date.md"
+    },
+    {
+      "basename": "Warranty Scope",
+      "path": "3. Policies/Warranty Policy/Warranty Scope.md"
+    },
+    {
+      "basename": "Service for Non-Service Area",
+      "path": "3. Policies/Warranty Policy/Service for Non-Service Area.md"
+    },
+    {
+      "basename": "Warranty Policy for Amazon",
+      "path": "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
+    },
+    {
+      "basename": "Service countries & regions",
+      "path": "3. Policies/Warranty Policy/Service countries & regions.md"
+    },
+    {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
+      "basename": "Service part purchase request",
+      "path": "4. Processes/c. Post-sale/Service part purchase request.md"
+    },
+    {
+      "basename": "Warranty Service Definition",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md"
+    },
+    {
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+    },
+    {
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
+    },
+    {
+      "basename": "Countries we ship to",
+      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
+    },
+    {
+      "basename": "Desktop Software Troubleshooting Guideline",
+      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
+    },
+    {
+      "basename": "Checkout Page Troubleshooting",
+      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
+    },
+    {
+      "basename": "Principles for Troubleshooting",
+      "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
+    },
+    {
+      "basename": "Support Property List",
+      "path": "5. Systems & Resources/Resources/Support Property List.md"
+    },
+    {
+      "basename": "Training Materials",
+      "path": "5. Systems & Resources/Resources/Training Materials.md"
+    },
+    {
+      "basename": "Does your desktop software support offline usage",
+      "path": "1. FAQs/General/Does your desktop software support offline usage.md"
+    },
+    {
+      "basename": "Do you support Mac with Apple M1 and M2 chip",
+      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
+    },
+    {
+      "basename": "Cannot purchase expansion packs",
+      "path": "1. FAQs/General/Cannot purchase expansion packs.md"
+    },
+    {
+      "basename": "Pasted image 20230327104632",
+      "path": "Media/Pasted image 20230327104632.png"
+    },
+    {
+      "basename": "Change Address",
+      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
+    },
+    {
       "basename": "Custom Grille Design Reject or Reprint",
       "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
     },
     {
-      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
+      "basename": "Return & Refund Policy",
+      "path": "3. Policies/Return & Refund Policy.md"
     },
     {
-      "basename": "Why does Spark's parameter 'jumps around' when I adjust the knob",
-      "path": "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when I adjust the knob.md"
-    },
-    {
-      "basename": "Can I create my own preset banks in the Spark app",
-      "path": "1. FAQs/Products/Spark App/Can I create my own preset banks in the Spark app.md"
-    },
-    {
-      "basename": "Can I change the default amps on Spark 40’s amp selection knob",
-      "path": "1. FAQs/Products/Spark 40/Can I change the default amps on Spark 40’s amp selection knob.md"
-    },
-    {
-      "basename": "Order tracking",
-      "path": "3. Policies/Shipping Policy/Order tracking.md"
-    },
-    {
-      "basename": "Can I use other ways to update Spark 40's firmware",
-      "path": "1. FAQs/Products/Spark 40/Can I use other ways to update Spark 40's firmware.md"
-    },
-    {
-      "basename": "What's the priority of music playback for Spark 40 (if played simultaneously)",
-      "path": "1. FAQs/Products/Spark 40/What's the priority of music playback for Spark 40 (if played simultaneously).md"
-    },
-    {
-      "basename": "What's Spark 40's compatible headphone impedance",
-      "path": "1. FAQs/Products/Spark 40/What's Spark 40's compatible headphone impedance.md"
-    },
-    {
-      "basename": "What's the latest Spark 40 firmware implemented to the production",
-      "path": "1. FAQs/Products/Spark 40/What's the latest Spark 40 firmware implemented to the production.md"
-    },
-    {
-      "basename": "What's Spark 40's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark 40/What's Spark 40's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "What the system requirement for Spark 40 firmware updater",
-      "path": "1. FAQs/Products/Spark 40/What the system requirement for Spark 40 firmware updater.md"
-    },
-    {
-      "basename": "Spark sounds too bassy and muffled",
-      "path": "1. FAQs/Products/Spark 40/Spark sounds too bassy and muffled.md"
-    },
-    {
-      "basename": "How do I reset the on-board presets on my Spark 40",
-      "path": "1. FAQs/Products/Spark 40/How do I reset the on-board presets on my Spark 40.md"
-    },
-    {
-      "basename": "Does Spark supports up to 1 Megaohm (MΩ) input impedance",
-      "path": "1. FAQs/Products/Spark 40/Does Spark supports up to 1 Megaohm (MΩ) input impedance.md"
+      "basename": "SKULabs Operation",
+      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
     }
   ],
   "omittedPaths": [],
