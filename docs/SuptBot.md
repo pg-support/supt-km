@@ -8,4 +8,4 @@ draft: true
 	width="850"
 	height="600"
 ></iframe>
-
+[Resource](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)
