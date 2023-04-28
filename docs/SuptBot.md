@@ -1,7 +1,7 @@
 ---
 title: Chatbot
+draft: true
 ---
-# Support Chatbot
 <iframe
 	src="https://dd09153-suptbot.hf.space"
 	frameborder="0"

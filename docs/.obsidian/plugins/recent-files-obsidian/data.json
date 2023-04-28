@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SuptBot",
+      "path": "SuptBot.md"
+    },
+    {
       "basename": "'invalid_grant' message when connecting with Spotify",
       "path": "2. Troubleshooting/Product-specific/Spark App/'invalid_grant' message when connecting with Spotify.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Amazon Support Daily Operation",
       "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
-    },
-    {
-      "basename": "chatbot",
-      "path": "chatbot.md"
     },
     {
       "basename": "How is Spark GO's battery life",
