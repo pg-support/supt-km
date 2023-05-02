@@ -1,4 +1,7 @@
 # Custom Grille Review Process
+
+**Please ensure that you check the "[Missing Tag Orders](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=1145446807)" daily in order to identify any remaining orders that have not been reviewed. It is essential to address these orders in a timely manner.**
+
 ## 1 - Export new orders from [Kickflip](https://positivegrid.gokickflip.com/admin/orders)
 
 ![](https://lh4.googleusercontent.com/IU7zr639ICneXt7wEVmQMDWqPSoMBjU_kDzHBoF-ZnWM8SXDKmVUur4A5nRNQVEoXRRp8N3ogam5tBbJXkoOnW2Fmjz0H0fisVtHcrynL_YxSU7saj13-mGMVwBoSd1C7H7pJoReOh3tIZImvfgQuD4)

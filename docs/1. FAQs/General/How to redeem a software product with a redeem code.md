@@ -1,3 +1,5 @@
 # How to redeem a software product with a redeem code
+To redeem their software product, the user must log in to their user center and locate the 'Redeem' feature.
 
-Please follow the instruction [in the link](https://help.positivegrid.com/hc/en-us/articles/115005635746-How-to-Redeem-a-Code-for-the-Software-License-) to redeem your product.
+See the link below for further details:
+https://help.positivegrid.com/hc/en-us/articles/115005635746

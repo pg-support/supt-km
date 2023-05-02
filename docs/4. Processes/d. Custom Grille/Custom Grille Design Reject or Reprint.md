@@ -50,9 +50,11 @@ b. Ask the customer to provide the new order number once the purchase is complet
 
 c. Review the order again ([[Custom Grille Review Process]]). Once approved, add the 'ReadyToPrint' so it'll be passed to our partner.
 
-d. On the new order, add the original order number in the note section.
+d. On the new order, add the original order number for reference.
 
-![[Pasted image 20230222181619.png]]
+![[Pasted image 20230502141234.png]]
+
+![[Screen Shot 2023-05-02 at 2.14.10 PM.png]]
 
 e. Go back to [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741), add all the info from the new order, and also put in the original order + (CGRP) (Custom Grille Re-Print) in the 'Note' column. [END]
 
