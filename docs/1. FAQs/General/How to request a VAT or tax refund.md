@@ -1,0 +1,2 @@
+# How to request a VAT or tax refund
+For VAT/tax refund requests, please reply to the customer with the following message: 'I checked with our senior support group and have this info to share in response to your request for a VAT business credit. At this time we are only set up to sell Spark direct to consumers on our website and Amazon stores. As a result we are unable to process an order for your business and provide a VAT business credit.'

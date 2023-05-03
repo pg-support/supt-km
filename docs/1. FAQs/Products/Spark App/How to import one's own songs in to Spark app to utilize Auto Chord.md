@@ -1,4 +1,4 @@
-# How do I import my own songs in to Spark app to utilize Auto Chord
+# How to import one's own songs in to Spark app to utilize Auto Chord
 Unfortunately it's not currently possible to import user files into Spark app due to copyright restriction.
 
 As long as the songs are not uploaded to YouTube, Spark app will not be able to find them in order to show the chords.

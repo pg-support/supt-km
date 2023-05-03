@@ -1,2 +1,2 @@
 # Why does Spark app have to use YouTube for its engine
-Spark app uses YouTube for search engine due to copyright restrictions.
+To comply with copyright restrictions, the Spark app uses YouTube as its search engine to provide users with a vast library of music videos.

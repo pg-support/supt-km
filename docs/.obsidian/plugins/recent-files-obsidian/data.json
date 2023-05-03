@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "What is MD5 and what does it do",
-      "path": "1. FAQs/General/What is MD5 and what does it do.md"
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
     {
-      "basename": "Request for remote session",
-      "path": "1. FAQs/General/Request for remote session.md"
+      "basename": "Can I use Smart Jam with headphones plugged in",
+      "path": "1. FAQs/Products/Spark App/Can I use Smart Jam with headphones plugged in.md"
     },
     {
-      "basename": "How to redeem a software product with a redeem code",
-      "path": "1. FAQs/General/How to redeem a software product with a redeem code.md"
+      "basename": "Can I use Spark app for my guitar tones",
+      "path": "1. FAQs/Products/Spark App/Can I use Spark app for my guitar tones.md"
     },
     {
-      "basename": "How to change the user's account email",
-      "path": "1. FAQs/General/How to change the user's account email.md"
+      "basename": "Can a user export their saved Smart Jam",
+      "path": "1. FAQs/Products/Spark App/Can a user export their saved Smart Jam.md"
     },
     {
-      "basename": "Does our desktop software support offline usage",
-      "path": "1. FAQs/General/Does our desktop software support offline usage.md"
+      "basename": "Where to download the Spark app",
+      "path": "1. FAQs/Products/Spark App/Where to download the Spark app.md"
     },
     {
-      "basename": "Do we offer phone service at Positive Grid",
-      "path": "1. FAQs/General/Do we offer phone service at Positive Grid.md"
+      "basename": "Can the Spark app transpose songs",
+      "path": "1. FAQs/Products/Spark App/Can the Spark app transpose songs.md"
     },
     {
-      "basename": "Cannot purchase expansion packs on our website",
-      "path": "1. FAQs/General/Cannot purchase expansion packs on our website.md"
+      "basename": "Can a user create custom preset banks within the Spark app",
+      "path": "1. FAQs/Products/Spark App/Can a user create custom preset banks within the Spark app.md"
     },
     {
-      "basename": "Spark MINI Firmware Troubleshooting",
-      "path": "2. Troubleshooting/Product-specific/Spark MINI/Spark MINI Firmware Troubleshooting.md"
+      "basename": "Does Smart Jam support other time signatures",
+      "path": "1. FAQs/Products/Spark App/Does Smart Jam support other time signatures.md"
     },
     {
-      "basename": "Does Spark GO come with a copy of PreSonus Studio One?",
-      "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md"
+      "basename": "Do I have to buy the presets in Spark",
+      "path": "1. FAQs/Products/Spark App/Do I have to buy the presets in Spark.md"
     },
     {
-      "basename": "Pasted image 20230502141234",
-      "path": "Media/Pasted image 20230502141234.png"
+      "basename": "The chord detection for xxx song is incorrect",
+      "path": "1. FAQs/Products/Spark App/The chord detection for xxx song is incorrect.md"
     },
     {
-      "basename": "SR - Personal Reason (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
+      "basename": "Is there a time limit to Spark app's video recording",
+      "path": "1. FAQs/Products/Spark App/Is there a time limit to Spark app's video recording.md"
     },
     {
-      "basename": "SR - Personal Reason (US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
+      "basename": "Is there a looper in Spark app",
+      "path": "1. FAQs/Products/Spark App/Is there a looper in Spark app.md"
     },
     {
-      "basename": "SuptBot",
-      "path": "SuptBot.md"
+      "basename": "Is there a desktop version for Spark app",
+      "path": "1. FAQs/Products/Spark App/Is there a desktop version for Spark app.md"
     },
     {
-      "basename": "'invalid_grant' message when connecting with Spotify",
-      "path": "2. Troubleshooting/Product-specific/Spark App/'invalid_grant' message when connecting with Spotify.md"
+      "basename": "Is the Spark app free to use for Spark owners",
+      "path": "1. FAQs/Products/Spark App/Is the Spark app free to use for Spark owners.md"
     },
     {
-      "basename": "RMA & OOW Process per product",
-      "path": "4. Processes/c. Post-sale/Warranty Service/RMA & OOW Process per product.md"
+      "basename": "Is Spark app compatible with other PG software (e.g. BIAS FX 2)",
+      "path": "1. FAQs/Products/Spark App/Is Spark app compatible with other PG software (e.g. BIAS FX 2).md"
+    },
+    {
+      "basename": "Why does Spark app have to use YouTube for its engine",
+      "path": "1. FAQs/Products/Spark App/Why does Spark app have to use YouTube for its engine.md"
+    },
+    {
+      "basename": "How to reset the factory presets in the Spark app",
+      "path": "1. FAQs/Products/Spark App/How to reset the factory presets in the Spark app.md"
+    },
+    {
+      "basename": "Does Spark app run on Mac",
+      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
+    },
+    {
+      "basename": "How to import one's own songs in to Spark app to utilize Auto Chord",
+      "path": "1. FAQs/Products/Spark App/How to import one's own songs in to Spark app to utilize Auto Chord.md"
+    },
+    {
+      "basename": "Why doesn't Spark app support Android 7 anymore",
+      "path": "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
+    },
+    {
+      "basename": "How to change the default amps on Spark 40’s amp selection knob",
+      "path": "1. FAQs/Products/Spark 40/How to change the default amps on Spark 40’s amp selection knob.md"
+    },
+    {
+      "basename": "Can the user use mobile phones to update Spark 40's firmware",
+      "path": "1. FAQs/Products/Spark 40/Can the user use mobile phones to update Spark 40's firmware.md"
+    },
+    {
+      "basename": "What the system requirement for Spark 40 firmware updater",
+      "path": "1. FAQs/Products/Spark 40/What the system requirement for Spark 40 firmware updater.md"
+    },
+    {
+      "basename": "How does a user reset the on-board presets on Spark 40",
+      "path": "1. FAQs/Products/Spark 40/How does a user reset the on-board presets on Spark 40.md"
+    },
+    {
+      "basename": "What's the spec of Spark 40's power supply",
+      "path": "1. FAQs/Products/Spark 40/What's the spec of Spark 40's power supply.md"
+    },
+    {
+      "basename": "What's the priority of music playback for Spark 40 (if played simultaneously)",
+      "path": "1. FAQs/Products/Spark 40/What's the priority of music playback for Spark 40 (if played simultaneously).md"
+    },
+    {
+      "basename": "What's Spark 40's compatible headphone impedance",
+      "path": "1. FAQs/Products/Spark 40/What's Spark 40's compatible headphone impedance.md"
+    },
+    {
+      "basename": "What's Spark 40's Analog-to-Digital resolution for audio recording",
+      "path": "1. FAQs/Products/Spark 40/What's Spark 40's Analog-to-Digital resolution for audio recording.md"
+    },
+    {
+      "basename": "Spark sounds too bassy and muffled",
+      "path": "1. FAQs/Products/Spark 40/Spark sounds too bassy and muffled.md"
+    },
+    {
+      "basename": "Does Spark supports up to 1 Megaohm (MΩ) input impedance",
+      "path": "1. FAQs/Products/Spark 40/Does Spark supports up to 1 Megaohm (MΩ) input impedance.md"
+    },
+    {
+      "basename": "What's the latest Spark 40 firmware implemented to the production",
+      "path": "1. FAQs/Products/Spark 40/What's the latest Spark 40 firmware implemented to the production.md"
+    },
+    {
+      "basename": "Can the Spark be connected with wireless earphones or headphones",
+      "path": "1. FAQs/Products/Spark 40/Can the Spark be connected with wireless earphones or headphones.md"
+    },
+    {
+      "basename": "Why does Spark's parameter 'jumps around' when adjusting the knob",
+      "path": "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when adjusting the knob.md"
     },
     {
       "basename": "What is Spark 40's Bluetooth version",
       "path": "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
     },
     {
-      "basename": "Spark 40 Whining Noise when connected with external device",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Spark 40 Whining Noise when connected with external device.md"
+      "basename": "What cables to connect RIFF with studio monitors",
+      "path": "1. FAQs/Products/RIFF/What cables to connect RIFF with studio monitors.md"
     },
     {
-      "basename": "Order Cancellation Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+      "basename": "How to connect RIFF to an iPad that only has USB-C port",
+      "path": "1. FAQs/Products/RIFF/How to connect RIFF to an iPad that only has USB-C port.md"
     },
     {
-      "basename": "BIAS FX 1 Product Issue Handling",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 1 Desktop/BIAS FX 1 Product Issue Handling.md"
+      "basename": "How to charge one's iPhone while using RIFF at the same time",
+      "path": "1. FAQs/Products/RIFF/How to charge one's iPhone while using RIFF at the same time.md"
     },
     {
-      "basename": "Bloomreach Operation",
-      "path": "5. Systems & Resources/Systems/Bloomreach/Bloomreach Operation.md"
+      "basename": "What's RIFF's compatible headphone impedance",
+      "path": "1. FAQs/Products/RIFF/What's RIFF's compatible headphone impedance.md"
     },
     {
-      "basename": "USB Troubleshooting",
-      "path": "2. Troubleshooting/General/USB Troubleshooting.md"
+      "basename": "Is there any Firmware update for RIFF",
+      "path": "1. FAQs/Products/RIFF/Is there any Firmware update for RIFF.md"
     },
     {
-      "basename": "Amazon Support SOPs",
-      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+      "basename": "Can I connect RIFF to a real guitar amplifier",
+      "path": "1. FAQs/Products/RIFF/Can I connect RIFF to a real guitar amplifier.md"
     },
     {
-      "basename": "Amazon Support Daily Operation",
-      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+      "basename": "Upgrade pricing for FX 2 Mobile",
+      "path": "1. FAQs/Products/BIAS FX 2 Mobile/Upgrade pricing for FX 2 Mobile.md"
     },
     {
-      "basename": "How is Spark GO's battery life",
-      "path": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
+      "basename": "Does BIAS series support Mac with Apple M1 and M2 chip",
+      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Does BIAS series support Mac with Apple M1 and M2 chip.md"
     },
     {
-      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
-      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+      "basename": "Does BIAS Amp 2 support Windows 11",
+      "path": "1. FAQs/Products/BIAS Amp 2 Desktop/Does BIAS Amp 2 support Windows 11.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Do we offer phone service at Positive Grid",
+      "path": "1. FAQs/General/Do we offer phone service at Positive Grid.md"
     },
     {
-      "basename": "Collaboration with Output",
-      "path": "1. FAQs/Promotions/Collaboration with Output.md"
+      "basename": "How to switch back from Facebook login to normal login",
+      "path": "1. FAQs/General/How to switch back from Facebook login to normal login.md"
     },
     {
-      "basename": "Warranty Period",
-      "path": "3. Policies/Warranty Policy/Warranty Period.md"
+      "basename": "How do users know about their upgrade pricing",
+      "path": "1. FAQs/General/How do users know about their upgrade pricing.md"
     },
     {
-      "basename": "Warranty start date",
-      "path": "3. Policies/Warranty Policy/Warranty start date.md"
+      "basename": "Why is there VAT (value-added tax) charged",
+      "path": "1. FAQs/General/Why is there VAT (value-added tax) charged.md"
     },
     {
-      "basename": "Warranty Scope",
-      "path": "3. Policies/Warranty Policy/Warranty Scope.md"
+      "basename": "Do we offer remote service",
+      "path": "1. FAQs/General/Do we offer remote service.md"
     },
     {
-      "basename": "Service for Non-Service Area",
-      "path": "3. Policies/Warranty Policy/Service for Non-Service Area.md"
+      "basename": "How to change the user's account email",
+      "path": "1. FAQs/General/How to change the user's account email.md"
     },
     {
-      "basename": "Warranty Policy for Amazon",
-      "path": "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
-    },
-    {
-      "basename": "Service countries & regions",
-      "path": "3. Policies/Warranty Policy/Service countries & regions.md"
-    },
-    {
-      "basename": "Refund Process",
-      "path": "4. Processes/c. Post-sale/Refund Process.md"
-    },
-    {
-      "basename": "Service part purchase request",
-      "path": "4. Processes/c. Post-sale/Service part purchase request.md"
-    },
-    {
-      "basename": "Warranty Service Definition",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Warranty Service Definition.md"
-    },
-    {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
-    },
-    {
-      "basename": "Spark New GD Chip Limitations",
-      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
-    },
-    {
-      "basename": "Countries we ship to",
-      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
-    },
-    {
-      "basename": "Desktop Software Troubleshooting Guideline",
-      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
-    },
-    {
-      "basename": "Checkout Page Troubleshooting",
-      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
-    },
-    {
-      "basename": "Principles for Troubleshooting",
-      "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
-    },
-    {
-      "basename": "Support Property List",
-      "path": "5. Systems & Resources/Resources/Support Property List.md"
-    },
-    {
-      "basename": "Training Materials",
-      "path": "5. Systems & Resources/Resources/Training Materials.md"
-    },
-    {
-      "basename": "Do you support Mac with Apple M1 and M2 chip",
-      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Do you support Mac with Apple M1 and M2 chip.md"
-    },
-    {
-      "basename": "Pasted image 20230327104632",
-      "path": "Media/Pasted image 20230327104632.png"
-    },
-    {
-      "basename": "Change Address",
-      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
-    },
-    {
-      "basename": "Return & Refund Policy",
-      "path": "3. Policies/Return & Refund Policy.md"
-    },
-    {
-      "basename": "SKULabs Operation",
-      "path": "5. Systems & Resources/Systems/SKULabs/SKULabs Operation.md"
+      "basename": "What is MD5 and what does it do",
+      "path": "1. FAQs/General/What is MD5 and what does it do.md"
     }
   ],
   "omittedPaths": [],

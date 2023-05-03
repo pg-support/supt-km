@@ -1,0 +1,2 @@
+# How to switch back from Facebook login to normal login
+To switch back from Facebook login to normal login, simply ask the user to go to our website's user center and click on 'Forget Password' option to reset the password. Once done that, the user will be able to login with their normal account name and password. 

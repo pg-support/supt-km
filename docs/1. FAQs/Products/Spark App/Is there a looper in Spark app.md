@@ -1,2 +1,2 @@
 # Is there a looper in Spark app
-There's no looper in Spark. We recommend using 'Smart Jam' if you'd like to jam with yourself!
+Spark app doesn't have a looper feature available. However, the user can utilize the 'Smart Jam' feature if they want to jam along with themselves.

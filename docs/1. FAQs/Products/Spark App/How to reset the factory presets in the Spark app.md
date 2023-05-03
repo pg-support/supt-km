@@ -1,0 +1,2 @@
+# How to reset the factory presets in the Spark app
+In order to reset the factory preset in the Spark app, the user needs to delete the Spark app from their device and then install it again. Note that doing so will also delete all the presets they have saved on their device. To prevent losing them, the user can backup their presets with Dropbox before reinstalling the app.

@@ -1,8 +1,6 @@
 # Aftership Operation
 > Currently, we only use Aftership (to generate return labels) for orders that are in the **US & Within Warranty & from Shopify**.
 
-
-
 ## Login
 
 [Link](https://admin.aftership.com/)
@@ -45,6 +43,9 @@ You can find the login informaiton in [PG Supt Login Information](https://docs.g
 - If you select 'Replace with the same item', make sure to select the item that you'll be replacing with. 
   
   (Currently, this function has no affect and is for record only, as we still need to submit a request for replacement via the PG Supt-Logistics Form. Refer to [[Resend & Replacement]] for further details.)
+  
+  (If there is no stock available for the replacement item, you can select a different color as a workaround in order to proceed creating the return label.)
+  
 ![[Screen Shot 2023-04-24 at 3.02.44 PM.png]]
 
 - Once confirm all the details for the return, hit 'Submit'.
@@ -73,6 +74,10 @@ You can find the login informaiton in [PG Supt Login Information](https://docs.g
 
 - Once saved, hit 'Generate label'. 
 ![[Pasted image 20230424174513.png]]
+
+***Note: If there's a $0 item in the order, it'll prevent us from generating a label. Please change the 'Unit price' for the $0 item to $1, in order to proceed.***
+
+![[Pasted image 20230503171022.png]]
 
 - Once the label is generated, check the 'Send email notification to customer' option, then hit 'Submit'. This will send out the return label to the customer, with instruction on how to ship the package.
   
