@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+            "file": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
+                "file": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba0c67ef121453d7",
+  "active": "c010ede10bc90d39",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark App/Can I use Smart Jam with headphones plugged in.md",
-    "1. FAQs/Products/Spark App/Can I use Spark app for my guitar tones.md",
-    "1. FAQs/Products/Spark App/Can a user export their saved Smart Jam.md",
-    "1. FAQs/Products/Spark App/Where to download the Spark app.md",
-    "1. FAQs/Products/Spark App/Can the Spark app transpose songs.md",
-    "1. FAQs/Products/Spark App/Can a user create custom preset banks within the Spark app.md",
-    "1. FAQs/Products/Spark App/Does Smart Jam support other time signatures.md",
-    "1. FAQs/Products/Spark App/Do I have to buy the presets in Spark.md",
-    "1. FAQs/Products/Spark App/The chord detection for xxx song is incorrect.md",
-    "1. FAQs/Products/Spark App/Is there a time limit to Spark app's video recording.md"
+    "1. FAQs/Products/Spark Control/Is Spark Control made by AirTurn.md",
+    "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md",
+    "1. FAQs/Products/Spark Control/How is Spark Control different from other existing footswitches for Spark.md",
+    "1. FAQs/Products/Spark Control/How does the other modes (outside Mode 1) on Spark Control work.md",
+    "1. FAQs/Products/Spark Control/Does Spark Control work as a looper.md",
+    "1. FAQs/Products/Spark Control/Does Spark Control have external input for expression or volume pedals.md",
+    "1. FAQs/Products/Spark Control/Can I use any existing AirTurn product to control Spark.md",
+    "1. FAQs/Products/Spark Control/Why is the charger not included for Spark Control.md",
+    "1. FAQs/Products/Spark Control/What's the max connection range for Spark Control.md",
+    "1. FAQs/Products/Spark Control/What charger or adaptor should I use with Spark Control.md"
   ]
 }
