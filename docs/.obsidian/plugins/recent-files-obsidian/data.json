@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+      "basename": "Does Spark MINI come with a charger",
+      "path": "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md"
+    },
+    {
+      "basename": "Can I use other ways to update Spark MINI's firmware",
+      "path": "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md"
+    },
+    {
+      "basename": "Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI.md"
+    },
+    {
+      "basename": "What's the working temperature of Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md"
+    },
+    {
+      "basename": "What's the spec of Spark MINI's battery (playing & charging time)",
+      "path": "1. FAQs/Products/Spark MINI/What's the spec of Spark MINI's battery (playing & charging time).md"
+    },
+    {
+      "basename": "What's the priority of music playback for Spark MINI (if played simultaneously)",
+      "path": "1. FAQs/Products/Spark MINI/What's the priority of music playback for Spark MINI (if played simultaneously).md"
+    },
+    {
+      "basename": "What's the latest Spark MINI firmware implemented to the production",
+      "path": "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
     },
     {
       "basename": "What's Spark MINI's speaker frequency response",
@@ -13,8 +37,92 @@
       "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
     },
     {
+      "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
+      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md"
+    },
+    {
+      "basename": "What the system requirement for Spark MINI firmware updater",
+      "path": "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md"
+    },
+    {
+      "basename": "What charger is compatible with Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
+    },
+    {
       "basename": "How do I reset the on-board presets on my Spark MINI",
       "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
+    },
+    {
+      "basename": "What's Spark GO's speaker frequency response",
+      "path": "1. FAQs/Products/Spark GO/What's Spark GO's speaker frequency response.md"
+    },
+    {
+      "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
+      "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
+    },
+    {
+      "basename": "Is Spark GO stereo or mono",
+      "path": "1. FAQs/Products/Spark GO/Is Spark GO stereo or mono.md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
+    },
+    {
+      "basename": "Spark GO's Bluetooth & Power LED Indicator",
+      "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
+    },
+    {
+      "basename": "How to get Spark GO into Pairing Mode",
+      "path": "1. FAQs/Products/Spark GO/How to get Spark GO into Pairing Mode.md"
+    },
+    {
+      "basename": "How to get Spark GO into Tuner Mode",
+      "path": "1. FAQs/Products/Spark GO/How to get Spark GO into Tuner Mode.md"
+    },
+    {
+      "basename": "What's the priority of music playback for Spark GO (if played simultaneously)",
+      "path": "1. FAQs/Products/Spark GO/What's the priority of music playback for Spark GO (if played simultaneously).md"
+    },
+    {
+      "basename": "What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)",
+      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
+    },
+    {
+      "basename": "What's Spark GO's compatible headphone impedance",
+      "path": "1. FAQs/Products/Spark GO/What's Spark GO's compatible headphone impedance.md"
+    },
+    {
+      "basename": "How to force shutdown & restart Spark GO",
+      "path": "1. FAQs/Products/Spark GO/How to force shutdown & restart Spark GO.md"
+    },
+    {
+      "basename": "How to factory reset Spark GO",
+      "path": "1. FAQs/Products/Spark GO/How to factory reset Spark GO.md"
+    },
+    {
+      "basename": "How is Spark GO's battery life",
+      "path": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
+    },
+    {
+      "basename": "Does Spark GO come with a copy of PreSonus Studio One?",
+      "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md"
+    },
+    {
+      "basename": "Can Auto Tone be used on other YouTube songs",
+      "path": "1. FAQs/Products/Expansion Packs/Can Auto Tone be used on other YouTube songs.md"
+    },
+    {
+      "basename": "Why is it showing CPU Overload message in Spark app",
+      "path": "1. FAQs/Products/Expansion Packs/Why is it showing CPU Overload message in Spark app.md"
+    },
+    {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
     {
       "basename": "What IR files is compatible with BIAS products",
@@ -25,28 +133,8 @@
       "path": "1. FAQs/Products/BIAS FX 2 Desktop/Does BIAS series support Mac with Apple M1 and M2 chip.md"
     },
     {
-      "basename": "What's the latest Spark MINI firmware implemented to the production",
-      "path": "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
-    },
-    {
-      "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "What the system requirement for Spark MINI firmware updater",
-      "path": "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md"
-    },
-    {
       "basename": "What's Spark 40's speaker frequency response",
       "path": "1. FAQs/Products/Spark 40/What's Spark 40's speaker frequency response.md"
-    },
-    {
-      "basename": "What charger is compatible with Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
-    },
-    {
-      "basename": "Does Spark GO come with a copy of PreSonus Studio One?",
-      "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One?.md"
     },
     {
       "basename": "Is Spark Control made by AirTurn",
@@ -111,94 +199,6 @@
     {
       "basename": "Can the Spark be connected with wireless earphones or headphones",
       "path": "1. FAQs/Products/Spark 40/Can the Spark be connected with wireless earphones or headphones.md"
-    },
-    {
-      "basename": "Why does Spark's parameter 'jumps around' when adjusting the knob",
-      "path": "1. FAQs/Products/Spark 40/Why does Spark's parameter 'jumps around' when adjusting the knob.md"
-    },
-    {
-      "basename": "What is Spark 40's Bluetooth version",
-      "path": "1. FAQs/Products/Spark 40/What is Spark 40's Bluetooth version.md"
-    },
-    {
-      "basename": "Collaboration with Output",
-      "path": "1. FAQs/Promotions/Collaboration with Output.md"
-    },
-    {
-      "basename": "Can I use Smart Jam with headphones plugged in",
-      "path": "1. FAQs/Products/Spark App/Can I use Smart Jam with headphones plugged in.md"
-    },
-    {
-      "basename": "Can I use Spark app for my guitar tones",
-      "path": "1. FAQs/Products/Spark App/Can I use Spark app for my guitar tones.md"
-    },
-    {
-      "basename": "Can a user export their saved Smart Jam",
-      "path": "1. FAQs/Products/Spark App/Can a user export their saved Smart Jam.md"
-    },
-    {
-      "basename": "Where to download the Spark app",
-      "path": "1. FAQs/Products/Spark App/Where to download the Spark app.md"
-    },
-    {
-      "basename": "Can the Spark app transpose songs",
-      "path": "1. FAQs/Products/Spark App/Can the Spark app transpose songs.md"
-    },
-    {
-      "basename": "Can a user create custom preset banks within the Spark app",
-      "path": "1. FAQs/Products/Spark App/Can a user create custom preset banks within the Spark app.md"
-    },
-    {
-      "basename": "Does Smart Jam support other time signatures",
-      "path": "1. FAQs/Products/Spark App/Does Smart Jam support other time signatures.md"
-    },
-    {
-      "basename": "Do I have to buy the presets in Spark",
-      "path": "1. FAQs/Products/Spark App/Do I have to buy the presets in Spark.md"
-    },
-    {
-      "basename": "The chord detection for xxx song is incorrect",
-      "path": "1. FAQs/Products/Spark App/The chord detection for xxx song is incorrect.md"
-    },
-    {
-      "basename": "Is there a time limit to Spark app's video recording",
-      "path": "1. FAQs/Products/Spark App/Is there a time limit to Spark app's video recording.md"
-    },
-    {
-      "basename": "Is there a looper in Spark app",
-      "path": "1. FAQs/Products/Spark App/Is there a looper in Spark app.md"
-    },
-    {
-      "basename": "Is there a desktop version for Spark app",
-      "path": "1. FAQs/Products/Spark App/Is there a desktop version for Spark app.md"
-    },
-    {
-      "basename": "Is the Spark app free to use for Spark owners",
-      "path": "1. FAQs/Products/Spark App/Is the Spark app free to use for Spark owners.md"
-    },
-    {
-      "basename": "Is Spark app compatible with other PG software (e.g. BIAS FX 2)",
-      "path": "1. FAQs/Products/Spark App/Is Spark app compatible with other PG software (e.g. BIAS FX 2).md"
-    },
-    {
-      "basename": "Why does Spark app have to use YouTube for its engine",
-      "path": "1. FAQs/Products/Spark App/Why does Spark app have to use YouTube for its engine.md"
-    },
-    {
-      "basename": "How to reset the factory presets in the Spark app",
-      "path": "1. FAQs/Products/Spark App/How to reset the factory presets in the Spark app.md"
-    },
-    {
-      "basename": "Does Spark app run on Mac",
-      "path": "1. FAQs/Products/Spark App/Does Spark app run on Mac.md"
-    },
-    {
-      "basename": "How to import one's own songs in to Spark app to utilize Auto Chord",
-      "path": "1. FAQs/Products/Spark App/How to import one's own songs in to Spark app to utilize Auto Chord.md"
-    },
-    {
-      "basename": "Why doesn't Spark app support Android 7 anymore",
-      "path": "1. FAQs/Products/Spark App/Why doesn't Spark app support Android 7 anymore.md"
     }
   ],
   "omittedPaths": [],

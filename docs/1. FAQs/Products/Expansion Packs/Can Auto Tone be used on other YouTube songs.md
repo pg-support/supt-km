@@ -1,0 +1,2 @@
+# Can Auto Tone be used on other YouTube songs
+Auto Tone allows for seamless playing experience by automatically switching tones at certain points in the song, and is not available for all songs on YouTube. This feature is exclusively available through the Experience Jimi Hendrix Pack.
