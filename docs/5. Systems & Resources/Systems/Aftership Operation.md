@@ -62,7 +62,7 @@ You can find the login informaiton in [PG Supt Login Information](https://docs.g
 - Enter the detail page of the return, and hit 'Approve'.
 ![[Pasted image 20230424152350.png]]
 
-- Hit 'Edit shipping info' in the pop-up window, if 'Submit' is greyed out.
+- Hit 'Edit shipping info' in the pop-up window in order to edit the 'Carrier & package'.
 ![[Pasted image 20230424152610.png]]
 
 - Go to the 'Carrier & package' section. First make sure 'Package' is selected as '**Custom**'. Then, make sure the dimensions and weight of the package are fill in according to the sheet below for your returned item.

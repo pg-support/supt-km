@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+    },
+    {
+      "basename": "What's Spark MINI's speaker frequency response",
+      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's speaker frequency response.md"
+    },
+    {
+      "basename": "What's Spark MINI's compatible headphone impedance",
+      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
+    },
+    {
+      "basename": "How do I reset the on-board presets on my Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
+    },
+    {
       "basename": "What IR files is compatible with BIAS products",
       "path": "1. FAQs/Products/BIAS FX 2 Desktop/What IR files is compatible with BIAS products.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "What's the latest Spark MINI firmware implemented to the production",
       "path": "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
-    },
-    {
-      "basename": "What's Spark MINI's speaker frequency response",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark MINI's compatible headphone impedance",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
     },
     {
       "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
@@ -35,10 +43,6 @@
     {
       "basename": "What charger is compatible with Spark MINI",
       "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
-    },
-    {
-      "basename": "How do I reset the on-board presets on my Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
     },
     {
       "basename": "Does Spark GO come with a copy of PreSonus Studio One?",
@@ -119,10 +123,6 @@
     {
       "basename": "Collaboration with Output",
       "path": "1. FAQs/Promotions/Collaboration with Output.md"
-    },
-    {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
     {
       "basename": "Can I use Smart Jam with headphones plugged in",
