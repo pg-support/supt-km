@@ -1,2 +1,2 @@
 # What's Spark MINI's speaker frequency response
-35Hz~20kHz
+The speaker frequency response of Spark MINI is 35Hz~20kHz. 
