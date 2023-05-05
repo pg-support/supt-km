@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SuptBot",
+      "path": "SuptBot.md"
+    },
+    {
       "basename": "Does Spark GO come with a copy of PreSonus Studio One",
       "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Does Spark supports up to 1 Megaohm (MΩ) input impedance",
       "path": "1. FAQs/Products/Spark 40/Does Spark supports up to 1 Megaohm (MΩ) input impedance.md"
-    },
-    {
-      "basename": "Can the Spark be connected with wireless earphones or headphones",
-      "path": "1. FAQs/Products/Spark 40/Can the Spark be connected with wireless earphones or headphones.md"
     }
   ],
   "omittedPaths": [],
