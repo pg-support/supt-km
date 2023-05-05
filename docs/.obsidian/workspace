@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SuptBot.md",
+            "file": "5. Systems & Resources/SuptBot.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SuptBot.md",
+                "file": "5. Systems & Resources/SuptBot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SuptBot.md",
+                "file": "5. Systems & Resources/SuptBot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SuptBot.md"
+                "file": "5. Systems & Resources/SuptBot.md"
               }
             }
           },
@@ -145,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c010ede10bc90d39",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
     "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md",
     "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md",
