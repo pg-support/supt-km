@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/SuptBot.md",
+            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md",
+                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md",
+                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md"
+                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
               }
             }
           },
@@ -145,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba0c67ef121453d7",
+  "active": "c010ede10bc90d39",
   "lastOpenFiles": [
+    "5. Systems & Resources/SuptBot.md",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
     "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md",
     "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md",
     "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md",
@@ -154,8 +156,6 @@
     "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md",
     "1. FAQs/Products/Spark MINI/What's the spec of Spark MINI's battery (playing & charging time).md",
     "1. FAQs/Products/Spark MINI/What's the priority of music playback for Spark MINI (if played simultaneously).md",
-    "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md",
-    "1. FAQs/Products/Spark MINI/What's Spark MINI's speaker frequency response.md",
-    "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
+    "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
   ]
 }
