@@ -4,7 +4,7 @@
 
 ## 1 - Export new orders from [Kickflip](https://positivegrid.gokickflip.com/admin/orders)
 
-![](https://lh4.googleusercontent.com/IU7zr639ICneXt7wEVmQMDWqPSoMBjU_kDzHBoF-ZnWM8SXDKmVUur4A5nRNQVEoXRRp8N3ogam5tBbJXkoOnW2Fmjz0H0fisVtHcrynL_YxSU7saj13-mGMVwBoSd1C7H7pJoReOh3tIZImvfgQuD4)
+![[Pasted image 20230508150716.png]]
 
 ## 2 - Import the list into the [Order Record](https://docs.google.com/spreadsheets/d/1we-F-6i0Vch8DEKhzYNKKCP_bRx8EPp_VVGbgFXFa9I/edit?pli=1#gid=366409741)
 

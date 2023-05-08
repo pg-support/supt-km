@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c010ede10bc90d39",
+        "id": "0865c6e0c64d2df0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+            "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aftership",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 202
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
+                "file": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c010ede10bc90d39",
+  "active": "0865c6e0c64d2df0",
   "lastOpenFiles": [
-    "5. Systems & Resources/SuptBot.md",
     "5. Systems & Resources/Systems/Aftership Operation.md",
-    "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md",
-    "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md",
-    "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md",
-    "1. FAQs/Products/Spark MINI/Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI.md",
-    "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md",
-    "1. FAQs/Products/Spark MINI/What's the spec of Spark MINI's battery (playing & charging time).md",
-    "1. FAQs/Products/Spark MINI/What's the priority of music playback for Spark MINI (if played simultaneously).md",
-    "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
+    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
+    "4. Processes/d. Custom Grille/Custom Grille System or Design Errors.md",
+    "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
+    "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md",
+    "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md",
+    "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md",
+    "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md",
+    "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md",
+    "5. Systems & Resources/SuptBot.md"
   ]
 }

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
       "basename": "Aftership Operation",
       "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+    },
+    {
+      "basename": "Custom Grille System or Design Errors",
+      "path": "4. Processes/d. Custom Grille/Custom Grille System or Design Errors.md"
+    },
+    {
+      "basename": "Custom Grille Review Process",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
+    },
+    {
+      "basename": "What's Spark MINI's compatible headphone impedance",
+      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
+    },
+    {
+      "basename": "What the system requirement for Spark MINI firmware updater",
+      "path": "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md"
+    },
+    {
+      "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
+      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md"
+    },
+    {
+      "basename": "What charger is compatible with Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
+    },
+    {
+      "basename": "How do I reset the on-board presets on my Spark MINI",
+      "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
     },
     {
       "basename": "SuptBot",
@@ -43,26 +75,6 @@
     {
       "basename": "What's Spark MINI's speaker frequency response",
       "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark MINI's compatible headphone impedance",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
-    },
-    {
-      "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "What the system requirement for Spark MINI firmware updater",
-      "path": "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md"
-    },
-    {
-      "basename": "What charger is compatible with Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
-    },
-    {
-      "basename": "How do I reset the on-board presets on my Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
     },
     {
       "basename": "What's Spark GO's speaker frequency response",
@@ -123,10 +135,6 @@
     {
       "basename": "Why is it showing CPU Overload message in Spark app",
       "path": "1. FAQs/Products/Expansion Packs/Why is it showing CPU Overload message in Spark app.md"
-    },
-    {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
     },
     {
       "basename": "What IR files is compatible with BIAS products",
@@ -191,14 +199,6 @@
     {
       "basename": "Is connection with Spark App necessary to use Spark Control",
       "path": "1. FAQs/Products/Spark Control/Is connection with Spark App necessary to use Spark Control.md"
-    },
-    {
-      "basename": "Spark sounds too bassy and muffled",
-      "path": "1. FAQs/Products/Spark 40/Spark sounds too bassy and muffled.md"
-    },
-    {
-      "basename": "Does Spark supports up to 1 Megaohm (MΩ) input impedance",
-      "path": "1. FAQs/Products/Spark 40/Does Spark supports up to 1 Megaohm (MΩ) input impedance.md"
     }
   ],
   "omittedPaths": [],
