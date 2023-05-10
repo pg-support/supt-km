@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Spark GO has crackling noise under large volume",
-      "path": "1. FAQs/Products/Spark GO/Spark GO has crackling noise under large volume.md"
-    },
-    {
-      "basename": "Service countries & regions",
-      "path": "3. Policies/Warranty Policy/Service countries & regions.md"
-    },
-    {
-      "basename": "Warranty Period",
-      "path": "3. Policies/Warranty Policy/Warranty Period.md"
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
     {
       "basename": "Return & Refund Policy",
       "path": "3. Policies/Return & Refund Policy.md"
     },
     {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+      "basename": "Service for Non-Service Area",
+      "path": "3. Policies/Warranty Policy/Service for Non-Service Area.md"
     },
     {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+      "basename": "Service countries & regions",
+      "path": "3. Policies/Warranty Policy/Service countries & regions.md"
+    },
+    {
+      "basename": "Warranty Scope",
+      "path": "3. Policies/Warranty Policy/Warranty Scope.md"
+    },
+    {
+      "basename": "Warranty Policy for Amazon",
+      "path": "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
+    },
+    {
+      "basename": "Warranty Period",
+      "path": "3. Policies/Warranty Policy/Warranty Period.md"
+    },
+    {
+      "basename": "Warranty start date",
+      "path": "3. Policies/Warranty Policy/Warranty start date.md"
+    },
+    {
+      "basename": "Countries we ship to",
+      "path": "3. Policies/Shipping Policy/Countries we ship to.md"
+    },
+    {
+      "basename": "Countries we don’t ship (JP & Asia)",
+      "path": "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md"
+    },
+    {
+      "basename": "Countries with free shipping",
+      "path": "3. Policies/Shipping Policy/Countries with free shipping.md"
+    },
+    {
+      "basename": "Order tracking",
+      "path": "3. Policies/Shipping Policy/Order tracking.md"
+    },
+    {
+      "basename": "Order shipping time & restrictions",
+      "path": "3. Policies/Shipping Policy/Order shipping time & restrictions.md"
+    },
+    {
+      "basename": "Order cancellation & adjustments policy",
+      "path": "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md"
+    },
+    {
+      "basename": "Spark GO has crackling noise under large volume",
+      "path": "1. FAQs/Products/Spark GO/Spark GO has crackling noise under large volume.md"
+    },
+    {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
     },
     {
       "basename": "Custom Grille System or Design Errors",
@@ -155,50 +195,6 @@
     {
       "basename": "What IR files is compatible with BIAS products",
       "path": "1. FAQs/Products/BIAS FX 2 Desktop/What IR files is compatible with BIAS products.md"
-    },
-    {
-      "basename": "Does BIAS series support Mac with Apple M1 and M2 chip",
-      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Does BIAS series support Mac with Apple M1 and M2 chip.md"
-    },
-    {
-      "basename": "What's Spark 40's speaker frequency response",
-      "path": "1. FAQs/Products/Spark 40/What's Spark 40's speaker frequency response.md"
-    },
-    {
-      "basename": "Is Spark Control made by AirTurn",
-      "path": "1. FAQs/Products/Spark Control/Is Spark Control made by AirTurn.md"
-    },
-    {
-      "basename": "How long does Spark Control's battery last",
-      "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
-    },
-    {
-      "basename": "How is Spark Control different from other existing footswitches for Spark",
-      "path": "1. FAQs/Products/Spark Control/How is Spark Control different from other existing footswitches for Spark.md"
-    },
-    {
-      "basename": "How does the other modes (outside Mode 1) on Spark Control work",
-      "path": "1. FAQs/Products/Spark Control/How does the other modes (outside Mode 1) on Spark Control work.md"
-    },
-    {
-      "basename": "Does Spark Control work as a looper",
-      "path": "1. FAQs/Products/Spark Control/Does Spark Control work as a looper.md"
-    },
-    {
-      "basename": "Does Spark Control have external input for expression or volume pedals",
-      "path": "1. FAQs/Products/Spark Control/Does Spark Control have external input for expression or volume pedals.md"
-    },
-    {
-      "basename": "Can I use any existing AirTurn product to control Spark",
-      "path": "1. FAQs/Products/Spark Control/Can I use any existing AirTurn product to control Spark.md"
-    },
-    {
-      "basename": "Why is the charger not included for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/Why is the charger not included for Spark Control.md"
-    },
-    {
-      "basename": "What's the max connection range for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/What's the max connection range for Spark Control.md"
     }
   ],
   "omittedPaths": [],
