@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+            "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aftership",
+                "query": "custom grille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
+                "file": "4. Processes/d. Custom Grille/Custom Grille Review Process.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "0865c6e0c64d2df0",
   "lastOpenFiles": [
+    "4. Processes/d. Custom Grille/Custom Grille System or Design Errors.md",
+    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
+    "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
     "1. FAQs/Products/Spark 40/Untitled.md",
     "3. Policies/Return & Refund Policy.md",
     "3. Policies/Warranty Policy/Service for Non-Service Area.md",
     "3. Policies/Warranty Policy/Service countries & regions.md",
     "3. Policies/Warranty Policy/Warranty Scope.md",
-    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md",
-    "3. Policies/Warranty Policy/Warranty Period.md",
-    "3. Policies/Warranty Policy/Warranty start date.md",
-    "3. Policies/Shipping Policy/Countries we ship to.md",
-    "3. Policies/Shipping Policy/Countries we don’t ship (JP & Asia).md"
+    "3. Policies/Warranty Policy/Warranty Policy for Amazon.md"
   ]
 }
