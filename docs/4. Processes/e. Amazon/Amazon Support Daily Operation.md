@@ -28,17 +28,7 @@ See [[Frequently Used Resources]]
 
 ### Support Ticket
 #### Handling Tickets in BQool
-- Find 'Tickets' under 'Service'.
-![[Pasted image 20230411145646.png]]
-
-- Click on the ticket you're handling.
-![[Pasted image 20230411145827.png]]
-
-- Find 'Customer Reply' section at the bottom of the thread and reply as you would normally.
-![[Pasted image 20230411150606.png]]
-
-- Submit as you would in Zendesk. 
-![[Pasted image 20230411150642.png]]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIuqKW2i1g0_ZoJyZjJ5Mmg4K1vDb7Dwv3PhCHsaMKn1Tg1-n_UR2d7dq9lCFL0qlEIdVSXDumkQWf/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### Ticket Status in BQool
 Please ensure that you **update the ticket status in BQool using the same process as in Zendesk**. Use the following definitions to help you select the appropriate status:
@@ -108,29 +98,10 @@ See [[Frequently Used Resources]]
 ![[Pasted image 20230419111802.png]]
 
 ### Support Ticket
-- Click on 'Buyer Messages' in the home page of Amazon Seller Central (of any region).
-![[Pasted image 20230411153429.png]]
-
-- Find the region with new tickets, and straight up click on the number. You'll be redirect to the corresponding region's home for the new tickets.
-![[Pasted image 20230411153731.png]]
-
-- You'll be directed to the ticket for replying. 
-![[Pasted image 20230411160558.png]]
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQqKuy0f7cET6HohSTQCg1alKavGiYDWp4kbRFyWFbM12rDShER2ZYLsum8OOsk3hCl9LhLEJj0T75/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Order Info
-- To find an order in Amazon Seller Central, click on the menu button at the top-left corner (**make sure you're in the correct store for the region**).
-![[Pasted image 20230411161756.png]]
-
-- Find the 'Manage Orders' option under 'Orders'.
-![[Pasted image 20230411161836.png]]
-
-- Search for the Order ID in the search bar. 
-![[Pasted image 20230411162048.png]]
-
-- If you don't find the order you're intending to find, make sure that 1. You're at the correct store for the region, 2. You are not looking at FBA orders. (If you're looking at FBM orders, then you should be able to see the 'View FBA orders' option shown as below.)
-
-![[Pasted image 20230419112556.png]]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkIMwsIk9xlOlYOKlrGIkQdTUGWJjZhaSRJgb4QCsDxcLyJwf_b1DX3teW-aOI_C7ouYQHa-VIk6qs/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Amazon Feedback
 
