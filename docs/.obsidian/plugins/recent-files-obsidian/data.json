@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Spark does not power up",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/Spark does not power up.md"
+      "basename": "Spark GO USB Recording Known Issue",
+      "path": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md"
     },
     {
       "basename": "No sound output",
-      "path": "2. Troubleshooting/Product-specific/Spark 40/No sound output.md"
+      "path": "2. Troubleshooting/Product/Spark 40/No sound output.md"
+    },
+    {
+      "basename": "Spark does not power up",
+      "path": "2. Troubleshooting/Product/Spark 40/Spark does not power up.md"
     },
     {
       "basename": "No output in FX 2",
-      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/No output in FX 2.md"
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No output in FX 2.md"
     },
     {
       "basename": "Aftership Operation",
@@ -195,10 +199,6 @@
     {
       "basename": "What app & firmware versions are required for Spark Control",
       "path": "1. FAQs/Products/Spark Control/What app & firmware versions are required for Spark Control.md"
-    },
-    {
-      "basename": "Is there any new firmware update for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md"
     }
   ],
   "omittedPaths": [],
