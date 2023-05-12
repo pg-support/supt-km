@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark does not power up",
+      "path": "2. Troubleshooting/Product-specific/Spark 40/Spark does not power up.md"
+    },
+    {
+      "basename": "No sound output",
+      "path": "2. Troubleshooting/Product-specific/Spark 40/No sound output.md"
+    },
+    {
+      "basename": "No output in FX 2",
+      "path": "2. Troubleshooting/Product-specific/BIAS FX 2 Desktop/No output in FX 2.md"
+    },
+    {
       "basename": "Aftership Operation",
       "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Is there any new firmware update for Spark Control",
       "path": "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md"
-    },
-    {
-      "basename": "Is connection with Spark App necessary to use Spark Control",
-      "path": "1. FAQs/Products/Spark Control/Is connection with Spark App necessary to use Spark Control.md"
-    },
-    {
-      "basename": "Spark sounds too bassy and muffled",
-      "path": "1. FAQs/Products/Spark 40/Spark sounds too bassy and muffled.md"
-    },
-    {
-      "basename": "Does Spark supports up to 1 Megaohm (MΩ) input impedance",
-      "path": "1. FAQs/Products/Spark 40/Does Spark supports up to 1 Megaohm (MΩ) input impedance.md"
     }
   ],
   "omittedPaths": [],
