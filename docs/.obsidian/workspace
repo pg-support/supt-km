@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md",
+            "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md"
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
               }
             }
           },
@@ -145,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a7e9fd1233fb224",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
+    "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md",
+    "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md",
     "2. Troubleshooting/Product/Spark 40/No sound output.md",
     "2. Troubleshooting/Product/Spark 40/Spark does not power up.md",
     "2. Troubleshooting/Product/BIAS FX 2 Desktop/No output in FX 2.md",
@@ -154,8 +156,6 @@
     "5. Systems & Resources/SuptBot.md",
     "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md",
     "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md",
-    "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md",
-    "1. FAQs/Products/Spark MINI/Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI.md",
-    "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md"
+    "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md"
   ]
 }
