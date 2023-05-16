@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/b. Shipping & Delivery/Change Address.md",
+            "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "change",
+                "query": "spark go firmware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 236
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Change Address.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Change Address.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Change Address.md"
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
               }
             }
           },
@@ -149,8 +148,8 @@
   },
   "active": "1a7e9fd1233fb224",
   "lastOpenFiles": [
-    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "4. Processes/b. Shipping & Delivery/Change Address.md",
+    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "4. Processes/b. Shipping & Delivery/Change Email & Resend Confirmation Letter.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md",
