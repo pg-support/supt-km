@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Change Address",
+      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
+    },
+    {
+      "basename": "Change Email & Resend Confirmation Letter",
+      "path": "4. Processes/b. Shipping & Delivery/Change Email & Resend Confirmation Letter.md"
+    },
+    {
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
       "basename": "Spark GO Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Does Spark Control have external input for expression or volume pedals",
       "path": "1. FAQs/Products/Spark Control/Does Spark Control have external input for expression or volume pedals.md"
-    },
-    {
-      "basename": "Can I use any existing AirTurn product to control Spark",
-      "path": "1. FAQs/Products/Spark Control/Can I use any existing AirTurn product to control Spark.md"
-    },
-    {
-      "basename": "Why is the charger not included for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/Why is the charger not included for Spark Control.md"
-    },
-    {
-      "basename": "What's the max connection range for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/What's the max connection range for Spark Control.md"
     }
   ],
   "omittedPaths": [],
