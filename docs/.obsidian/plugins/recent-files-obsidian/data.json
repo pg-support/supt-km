@@ -5,12 +5,12 @@
       "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
     },
     {
-      "basename": "Change Email & Resend Confirmation Letter",
-      "path": "4. Processes/b. Shipping & Delivery/Change Email & Resend Confirmation Letter.md"
-    },
-    {
       "basename": "Order Cancellation Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Change Email & Resend Confirmation Letter",
+      "path": "4. Processes/b. Shipping & Delivery/Change Email & Resend Confirmation Letter.md"
     },
     {
       "basename": "Spark GO Firmware Troubleshooting",
