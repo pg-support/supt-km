@@ -1,7 +1,23 @@
-# Service part purchase request
-> Purchase request for Spark 40 PSU (power supply), Spark 40 handle strap, Spark MINI handle strap, Spark MINI USB cable, Spark Control USB   cable.
+# Service part request
 
-0. Once confirmed the customer is willing/has to pay for a service part, inform the customer about the pricing (as listed), and ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal): 
+## Free resend
+
+### PSU (Spark 40)
+Free resend if the PSU is ungrounded (see [[Regular PSU requests]]). 
+
+### Handle Strap (Spark 40)
+Free resend if missing (see [[Received Wrong & Missing Items]]).
+
+### USB (All hardware products)
+Free resend if missing.
+
+---
+
+## Purchase request
+
+> Purchase request for Spark 40 PSU (power supply), Spark 40 handle strap, Spark MINI handle strap, Spark MINI USB cable, Spark Control USB cable.
+
+### Pricing
 
 #### Spark 40
 <u>PSU (Power supply)</u>
@@ -19,6 +35,11 @@
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20
 
+### Process
+
+>  Inform the customer about the pricing (as listed), and verify if the customer is willing/has to pay for a service part. 
+>  
+>  If so, ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal).
   ![](https://lh4.googleusercontent.com/wNgAmAEk_YGWQbMCvA2raQStaeUznNM1UdT7nn7o0kIyQNm8Ct4f9A689eNOmzSRRwJ6br_RC8k-vVuf7Z8Si4Wb5WDk4OsNC8t1ra_WUz8WpCGKmiJeYdWe19ALhOj_4iSL7f-dYAzBWLwTMSSkJNDSbk3qPWmUzy9pzh6adQJ_Zq2_wwBEd0gIADF3)
 
 2.  Once confirmed, proceed by filling out the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) (Service Parts Request).

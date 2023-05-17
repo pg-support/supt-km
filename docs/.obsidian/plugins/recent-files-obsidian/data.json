@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Service part request",
+      "path": "4. Processes/c. Post-sale/Service part request.md"
+    },
+    {
       "basename": "Spark GO Bricked or No Sound after Firmware Update",
       "path": "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "How does the other modes (outside Mode 1) on Spark Control work",
       "path": "1. FAQs/Products/Spark Control/How does the other modes (outside Mode 1) on Spark Control work.md"
-    },
-    {
-      "basename": "Does Spark Control work as a looper",
-      "path": "1. FAQs/Products/Spark Control/Does Spark Control work as a looper.md"
-    },
-    {
-      "basename": "Does Spark Control have external input for expression or volume pedals",
-      "path": "1. FAQs/Products/Spark Control/Does Spark Control have external input for expression or volume pedals.md"
     }
   ],
   "omittedPaths": [],
