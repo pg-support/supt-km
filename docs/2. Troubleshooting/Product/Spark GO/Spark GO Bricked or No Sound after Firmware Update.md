@@ -11,3 +11,5 @@ Collect the following info and get back to Dans:
 4.  Is it possible to connect to Spark app via Bluetooth?
    
 5.  What's the computer OS (Win/Mac) used for the firmware update?  
+   
+6.  Additionally, please use Zendesk macro [Spark GO::Firmware Update Log] to offer the log tool for further troubleshooting and see if the issue persists.
