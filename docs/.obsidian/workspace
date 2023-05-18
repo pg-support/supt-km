@@ -7,8 +7,12 @@
         "id": "6917fcebe849e590",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coupon",
+                "query": "spark go firmware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
+              }
             }
           },
           {
