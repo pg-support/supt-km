@@ -62,6 +62,8 @@ Support Coupon - Support coupon for compensation. If you need a coupon with high
 
 > $10: B2WR9G3OY7
 > $20: U8752F6MT53
+> 
+> Use Zendesk macro *Support Coupon Terms & Conditions* for additional terms and conditions.
 
 ## Useful Tools
 
