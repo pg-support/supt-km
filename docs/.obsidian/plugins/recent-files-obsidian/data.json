@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Service part request",
-      "path": "4. Processes/c. Post-sale/Service part request.md"
-    },
-    {
-      "basename": "Spark GO Bricked or No Sound after Firmware Update",
-      "path": "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md"
-    },
-    {
       "basename": "Spark GO Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
+    },
+    {
+      "basename": "Spark 40 Firmware Troubleshooting",
+      "path": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
+    },
+    {
+      "basename": "Is there any new firmware update for Spark Control",
+      "path": "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md"
+    },
+    {
+      "basename": "Service part request",
+      "path": "4. Processes/c. Post-sale/Service part request.md"
     },
     {
       "basename": "Change Address",
@@ -191,10 +195,6 @@
     {
       "basename": "How is Spark Control different from other existing footswitches for Spark",
       "path": "1. FAQs/Products/Spark Control/How is Spark Control different from other existing footswitches for Spark.md"
-    },
-    {
-      "basename": "How does the other modes (outside Mode 1) on Spark Control work",
-      "path": "1. FAQs/Products/Spark Control/How does the other modes (outside Mode 1) on Spark Control work.md"
     }
   ],
   "omittedPaths": [],

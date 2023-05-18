@@ -1,5 +1,49 @@
 # Spark GO Firmware Troubleshooting
+## Firmware update error
 
-If the customer's Spark GO firmware update stucked at 2% and resulted in Error Code: -2, please ask them to try again, and make sure to connect Spark GO to the computer and launch the updater, THEN power on Spark GO.
+### Stuck at 2% / Error Code: -2 
+- Ask the user to try again. Make sure to connect Spark GO to the computer and launch the updater, THEN power on Spark GO.
 
-If the issue persists, please reply with Zendesk macro [Spark GO::Firmware Update Log] to offer the log tool for further troubleshooting. Please review the content of the macro.
+- If the user's on Windows, also make sure they execute the 'Run Spark GO Firmware Updater' file in the first layer, not anything from the 'bin' folder.
+  
+  ![[Pasted image 20230518123100.png]]
+
+- If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+
+### Error Code: -14
+- The error code indicates Python installation can not be completed. Please ask the user to try and again with the correct updating process, as instructed on the Help Center.
+  
+- If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+
+### Firmware Update Fail
+
+- Ask the user to try again. If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+  
+- Please highlight the log to Dans for further investigation.
+
+---
+
+## Firmware update broke Spark GO
+
+### Firmware updated, amp power on but no sound
+
+- Try factory reset
+  
+- If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+  
+- If issue persists, please highlight to Dans and Felix, and collect the machine back to Taipei office for further investigation.
+
+### Firmware updated, Bluetooth no longer connects
+
+- Ask the user to forget previous Bluetooth connection on their phone, and try connecting again.
+  
+- If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+
+- Please highlight the log to Dans for further investigation.
+
+### Firmware bricked the amp, cannot power on
+
+- If the amp is totally bricked and cannot power on anymore, please proceed with DOA/RMA. 
+  
+- Highlight to Dans and Felix, and collect the machine back to Taipei office for further investigation.
+
