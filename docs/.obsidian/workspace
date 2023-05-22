@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+            "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spark go firmware",
+                "query": "amazon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
+                "file": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "6917fcebe849e590",
   "lastOpenFiles": [
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md",
     "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
     "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md",

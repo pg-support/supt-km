@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Amazon Support Daily Operation",
+      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
+    },
+    {
       "basename": "Spark GO Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How long does Spark Control's battery last",
       "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
-    },
-    {
-      "basename": "How is Spark Control different from other existing footswitches for Spark",
-      "path": "1. FAQs/Products/Spark Control/How is Spark Control different from other existing footswitches for Spark.md"
     }
   ],
   "omittedPaths": [],
