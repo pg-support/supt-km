@@ -2,8 +2,9 @@
 > This guide provides the essential information for agents to process Amazon orders. 
 
 ## Daily Operation
-- Login to BQool to check the support tickets and order feedbacks daily. 
-- Login to Amazon Seller Central to check the support tickets (for regions not covered by BQool) and complete order info.
+- Reply to support tickets & check feedback in BQool.
+- Reply to support tickets & feedback in Amazon Seller Central (for regions not covered by BQool).
+- Monitor [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) and [Amazon Tracking (Out of Stock Record)](https://docs.google.com/spreadsheets/d/1nD-WXOWSqSGU1kPgPHjNBVsPenH3vGkMFp8H5ZvwpZQ/edit?usp=sharing) , reach out to the customers that needs to be contacted.
 
 ## Important Notes
 - **Do NOT mention things like 'website', 'link', or provide any links to the customer in Amazon's support channel. This might violates the terms of Amazon and cause us great trouble.**
