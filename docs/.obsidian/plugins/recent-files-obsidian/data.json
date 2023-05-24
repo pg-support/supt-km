@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark GO Muted Strum (Voice Guide)",
+      "path": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md"
+    },
+    {
       "basename": "What's the spec of Spark GO's battery (playing & charging time)",
       "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Is Spark Control made by AirTurn",
       "path": "1. FAQs/Products/Spark Control/Is Spark Control made by AirTurn.md"
-    },
-    {
-      "basename": "How long does Spark Control's battery last",
-      "path": "1. FAQs/Products/Spark Control/How long does Spark Control's battery last.md"
     }
   ],
   "omittedPaths": [],
