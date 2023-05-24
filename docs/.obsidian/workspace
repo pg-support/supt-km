@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ab4641b0289c8206",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spark MINI Battery Life.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+                "file": "Spark MINI Battery Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+                "file": "Spark MINI Battery Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
+                "file": "Spark MINI Battery Life.md"
               }
             }
           },
@@ -146,10 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6917fcebe849e590",
+  "active": "ab4641b0289c8206",
   "lastOpenFiles": [
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
+    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md",
     "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
     "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md",
