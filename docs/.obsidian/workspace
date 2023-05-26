@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf65b49730bee14",
+        "id": "08e1608a627a17b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "muted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md"
+              }
             }
           },
           {
@@ -137,10 +146,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cf65b49730bee14",
+  "active": "08e1608a627a17b4",
   "lastOpenFiles": [
-    "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md",
-    "Untitled.md",
     "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md",
     "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md",
     "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md",
@@ -148,6 +155,8 @@
     "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
     "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Bricked or No Sound after Firmware Update.md",
-    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
+    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
+    "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md",
+    "4. Processes/c. Post-sale/Service part request.md"
   ]
 }

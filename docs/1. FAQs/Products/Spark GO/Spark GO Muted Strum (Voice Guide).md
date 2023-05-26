@@ -1,5 +1,5 @@
 # Spark GO Muted Strum (Voice Guide)
-> You may usex the Zendesk macro <u>Spark GO Voice Guide</u> to answer such inquiries. 
+> You may use the Zendesk macro <u>Spark GO Voice Guide</u> to answer such inquiries. 
 
 When the user turns the Spark GO volume to maximum, they may notice a muted guitar strum sound, which might lead to confusion, as it could be mistaken for a defect or noise. 
 
