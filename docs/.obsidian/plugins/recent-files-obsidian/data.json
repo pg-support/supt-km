@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
       "basename": "Order Adjustment Process",
       "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "What's Spark GO's Analog-to-Digital resolution for audio recording",
       "path": "1. FAQs/Products/Spark GO/What's Spark GO's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "Is Spark GO stereo or mono",
-      "path": "1. FAQs/Products/Spark GO/Is Spark GO stereo or mono.md"
     }
   ],
   "omittedPaths": [],

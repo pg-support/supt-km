@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "602a6cba31de6acc",
+        "id": "5f24bb692f371f03",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
+            "file": "4. Processes/c. Post-sale/Refund Process.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "order adjustment",
+                "query": "refund",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
+                "file": "4. Processes/c. Post-sale/Refund Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
+                "file": "4. Processes/c. Post-sale/Refund Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
+                "file": "4. Processes/c. Post-sale/Refund Process.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "602a6cba31de6acc",
+  "active": "5f24bb692f371f03",
   "lastOpenFiles": [
+    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
     "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md",
     "2. Troubleshooting/Product/Spark App/Spark app crashes or freezes.md",
     "2. Troubleshooting/General/Principles for Troubleshooting.md",
@@ -156,7 +157,6 @@
     "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
     "2. Troubleshooting/Product/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
     "2. Troubleshooting/Product/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md",
-    "2. Troubleshooting/General/USB Troubleshooting.md",
-    "Media/Pasted image 20230529101812.png"
+    "2. Troubleshooting/General/USB Troubleshooting.md"
   ]
 }

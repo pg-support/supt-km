@@ -1,5 +1,5 @@
 # Refund Process
-- Make sure the order is within 30 days since purchase, unless it's a special case.
+- Make sure the order is within 30 days since purchase, unless it's a [special case](#Refund in BigCommerce).
 
 - There are two ways to refund an order. It’s easier to refund via Zendesk. However, if you don't find the correct order to refund in Zendesk, then head to the Shopify website for the action. 
 
@@ -55,3 +55,23 @@
 7). Inform the customer about the refund via Zendesk by using the macro "Already refund..." for reference. Make sure to provide all the relevant details and answer any additional questions they may have. (END)
    
    ![[Pasted image 20230323174257.png]]
+
+## Refund in BigCommerce
+
+> In some rare special cases, we'll need to refund orders from BigCommerce, which used to be our financial service platform.
+
+After the discontinuation of BC, our previous payment systems such as Braintree and Stripe have also been deactivated. If you have any existing orders on BC that needs to be refunded, we require assistance from the finance team to process refunds.
+
+Before proceeding, please verify the payment method and refund amount for your orders, and **forward the following information to Tagui/Joseph**:
+
+If it was a credit card payment, kindly request the following information from the customer:
+
+- Account holder name:
+- Account holder address:
+- Bank name:
+- Bank address:
+- Routing Number:
+- Account Number:
+- Swift code:
+
+If the payment was made through PayPal, please provide the order and Transaction ID.
