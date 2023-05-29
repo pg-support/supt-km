@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Order Adjustment Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
+    },
+    {
+      "basename": "Mobile Apps crashes or freezes troubleshooting",
+      "path": "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md"
+    },
+    {
+      "basename": "Principles for Troubleshooting",
+      "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
+    },
+    {
+      "basename": "Desktop Software Troubleshooting Guideline",
+      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
+    },
+    {
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
+    },
+    {
+      "basename": "Checkout Page Troubleshooting",
+      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
+    },
+    {
+      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
+    },
+    {
+      "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+    },
+    {
+      "basename": "USB Troubleshooting",
+      "path": "2. Troubleshooting/General/USB Troubleshooting.md"
+    },
+    {
+      "basename": "Pasted image 20230529101812",
+      "path": "Media/Pasted image 20230529101812.png"
+    },
+    {
       "basename": "Custom Background in FX 2",
       "path": "1. FAQs/Products/BIAS FX 2 Desktop/Custom Background in FX 2.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Is Spark GO stereo or mono",
       "path": "1. FAQs/Products/Spark GO/Is Spark GO stereo or mono.md"
-    },
-    {
-      "basename": "How to get Spark GO into Pairing Mode",
-      "path": "1. FAQs/Products/Spark GO/How to get Spark GO into Pairing Mode.md"
-    },
-    {
-      "basename": "How to get Spark GO into Tuner Mode",
-      "path": "1. FAQs/Products/Spark GO/How to get Spark GO into Tuner Mode.md"
-    },
-    {
-      "basename": "What's the priority of music playback for Spark GO (if played simultaneously)",
-      "path": "1. FAQs/Products/Spark GO/What's the priority of music playback for Spark GO (if played simultaneously).md"
-    },
-    {
-      "basename": "What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc)",
-      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's speakers (wattage, SPL, impedance, etc).md"
-    },
-    {
-      "basename": "What's Spark GO's compatible headphone impedance",
-      "path": "1. FAQs/Products/Spark GO/What's Spark GO's compatible headphone impedance.md"
-    },
-    {
-      "basename": "How to force shutdown & restart Spark GO",
-      "path": "1. FAQs/Products/Spark GO/How to force shutdown & restart Spark GO.md"
-    },
-    {
-      "basename": "How to factory reset Spark GO",
-      "path": "1. FAQs/Products/Spark GO/How to factory reset Spark GO.md"
-    },
-    {
-      "basename": "Can Auto Tone be used on other YouTube songs",
-      "path": "1. FAQs/Products/Expansion Packs/Can Auto Tone be used on other YouTube songs.md"
-    },
-    {
-      "basename": "Why is it showing CPU Overload message in Spark app",
-      "path": "1. FAQs/Products/Expansion Packs/Why is it showing CPU Overload message in Spark app.md"
-    },
-    {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
     }
   ],
   "omittedPaths": [],
