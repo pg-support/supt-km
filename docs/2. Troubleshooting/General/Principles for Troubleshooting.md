@@ -20,17 +20,39 @@ Below are some guidelines for troubleshooting:
 
 ### Narrow it down
 
--   To narrow down an issue, is to identify precisely when/where/how the issue happens, and when/where/how it does not.
-    
--   As long as there’s more than one possible way to interpret the user’s question/scenario, ask the user to clarify or ask probing questions to further clarify the situation.
-    
--   If there’s a series of factors that might lead to the problem, identify where the issue lies by swapping out each factor one at a time.
+To narrow down an issue, is to identify precisely when/where/how the issue happens, and when/where/how it does not.
+
+As long as there’s more than one possible way to interpret the user’s question/scenario, ask the user to clarify or ask probing questions to further clarify the situation.
 
 
-Some examples to showcase the thinking process:
-    
+-   **Break It Down:** 
+  
+  Analyze the system as a whole, then separate it into its individual components or processes. This will allow you to isolate different parts of the system and better understand where the issue may be originating.
 
-#### “My Spark amp has no sound”
+
+-   **Use a Process of Elimination:** 
+  
+  Start by listing all possible reasons for the issue, then gradually exclude each potential cause by testing or evaluating each scenario. This helps in narrowing down to the actual problem.
+
+
+-   **Swap Components:** 
+  
+  Next, try swapping out individual components or processes. For example, if you're troubleshooting a device with various parts, swap parts around to see if the problem persists. This could help determine whether a specific component is causing the issue.
+
+
+-   **Test Independently:** 
+  
+  Alternatively, test components separately from the system. By examining each part individually, you can more accurately determine whether it is functioning as expected or if it is the source of the problem.Break It Down: Start by deconstructing the problem. Analyze the system as a whole, then separate it into its individual components or processes. This will allow you to isolate different parts of the system and better understand where the issue may be originating.
+
+
+-   **Verify what changed:** 
+  
+ Ask the user to assess the environment for recent changes. This could speed up the process for identifying the root cause to the problem. 
+
+
+#### Case Studies:
+    
+**“My Spark amp has no sound”**
     
 
 -   Spark has multiple outputs, i.e. speakers and headphones.
@@ -44,7 +66,7 @@ Some examples to showcase the thinking process:
 -   The agent can even further identify if only a specific channel of audio input is not working (Bluetooth, Aux In, USB) or all of them are not working.
     
 
-#### “I’m using RIFF with BIAS FX 2, but there’s no sound”
+**“I’m using RIFF with BIAS FX 2, but there’s no sound”**
     
 
 -   The guitar goes from the guitar -> guitar cable -> RIFF (audio interface) -> USB cable -> Computer -> BIAS FX 2 application -> USB cable -> RIFF -> output devices (speakers/headphones).
