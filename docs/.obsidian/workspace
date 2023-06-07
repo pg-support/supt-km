@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Troubleshooting/General/Principles for Troubleshooting.md",
+            "file": "1. FAQs/General/How to request a VAT or tax refund.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trouble",
+                "query": "VAT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 236,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/General/Principles for Troubleshooting.md",
+                "file": "1. FAQs/General/How to request a VAT or tax refund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/General/Principles for Troubleshooting.md",
+                "file": "1. FAQs/General/How to request a VAT or tax refund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Troubleshooting/General/Principles for Troubleshooting.md"
+                "file": "1. FAQs/General/How to request a VAT or tax refund.md"
               }
             }
           },
@@ -149,14 +150,14 @@
   "active": "a5e8f0d8c1107d9f",
   "lastOpenFiles": [
     "4. Processes/c. Post-sale/Refund Process.md",
+    "1. FAQs/General/How to request a VAT or tax refund.md",
+    "Untitled.md",
+    "1. FAQs/General/Why is there VAT (value-added tax) charged.md",
+    "2. Troubleshooting/General/Principles for Troubleshooting.md",
     "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
     "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md",
     "2. Troubleshooting/Product/Spark App/Spark app crashes or freezes.md",
-    "2. Troubleshooting/General/Principles for Troubleshooting.md",
     "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md",
-    "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
-    "2. Troubleshooting/General/Checkout Page Troubleshooting.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
+    "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
   ]
 }

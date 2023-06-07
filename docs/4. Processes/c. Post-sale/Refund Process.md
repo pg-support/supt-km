@@ -44,7 +44,7 @@
    
 ![[Pasted image 20230323163122.png]]
    
-5). Select all the products that need to be refunded and deselect the "Restock item" option. (We should not restock any type of product during the refund process.) Fill in the refund reason accordingly.
+5). Select all the products that need to be refunded and **deselect** the "Restock item" option. (We should not restock any type of product during the refund process.) Fill in the refund reason accordingly.
    
    ![[Pasted image 20230323180526.png]]
    

@@ -84,7 +84,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "L"
+      "key": "["
     }
   ],
   "editor:toggle-checklist-status": [],
@@ -147,7 +147,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "R"
+      "key": "]"
     }
   ]
 }
