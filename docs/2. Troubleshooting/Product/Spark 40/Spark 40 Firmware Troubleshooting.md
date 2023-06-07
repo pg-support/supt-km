@@ -12,13 +12,19 @@ The macro includes the general workarounds and the information required (Spark 4
 If the workarounds resolve the issue, the case can be closed. (END)
 
 ### 2 - Verify the SN
-If the issue persists after Step 1, verify the Spark version with the given SN:
+If the issue persists after Step 1, we need the Spark’s SN to verify the codec chip and offer the firmware updater accordingly.:
 
 > [INTERNAL INFORMATION - DO NO REVEAL TO CUSTOMERS]
 > 
-> There are in fact 2 versions of Spark 40, with differences in the codec chip - namely the AKM and ADI chips. The change has been implemented around late 2020 - early 2021. The functionality of the 2 Spark versions are exactly the same. 
+> Since 2023, there are 3 versions of Spark 40, with differences in the codec chip - namely the AKM, ADI, and GD chips. The transition from AKM to ADI has been implemented around late 2020 - early 2021. The transition to GD has been implemented around 2023 march. 
 > 
-> For further firmware troubleshooting, we need the Spark’s SN to verify the codec chip and offer the firmware updater accordingly.
+> The functionality of all Spark versions are exactly the same. 
+
+#### GD version
+> SN# Range: The 6th number of Serial Number is D, E, P, Z
+> i.e. S040CDxxxxxx, S040CExxxxxx
+
+GD is the latest Spark version and has the latest firmware already when manufactured. Users with GD version Spark amp do not need to update the firmware.
 
 #### AKM version
 > SN# Range: The 6th number of Serial Number is 1, 2, 3, 4, 5, 6, 7, 8, A

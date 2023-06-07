@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark 40 Firmware Troubleshooting",
+      "path": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
+    },
+    {
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
+    },
+    {
       "basename": "How to request a VAT or tax refund",
       "path": "1. FAQs/General/How to request a VAT or tax refund.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Desktop Software Troubleshooting Guideline",
       "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
-    },
-    {
-      "basename": "Spark New GD Chip Limitations",
-      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
     {
       "basename": "Checkout Page Troubleshooting",
@@ -95,10 +99,6 @@
     {
       "basename": "Frequently Used Resources",
       "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
-    },
-    {
-      "basename": "Spark 40 Firmware Troubleshooting",
-      "path": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
     },
     {
       "basename": "Is there any new firmware update for Spark Control",

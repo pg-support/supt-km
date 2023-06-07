@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/General/How to request a VAT or tax refund.md",
+            "file": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VAT",
+                "query": "spark 40",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/General/How to request a VAT or tax refund.md",
+                "file": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/General/How to request a VAT or tax refund.md",
+                "file": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/General/How to request a VAT or tax refund.md"
+                "file": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "a5e8f0d8c1107d9f",
   "lastOpenFiles": [
-    "4. Processes/c. Post-sale/Refund Process.md",
+    "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
+    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
     "1. FAQs/General/How to request a VAT or tax refund.md",
+    "4. Processes/c. Post-sale/Refund Process.md",
     "Untitled.md",
     "1. FAQs/General/Why is there VAT (value-added tax) charged.md",
     "2. Troubleshooting/General/Principles for Troubleshooting.md",
     "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
     "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md",
-    "2. Troubleshooting/Product/Spark App/Spark app crashes or freezes.md",
-    "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md",
-    "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
+    "2. Troubleshooting/Product/Spark App/Spark app crashes or freezes.md"
   ]
 }
