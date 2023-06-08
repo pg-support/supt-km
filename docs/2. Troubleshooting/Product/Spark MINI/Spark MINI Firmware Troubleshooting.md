@@ -1,6 +1,10 @@
 # Spark MINI Firmware Troubleshooting
 > If customer encounter any issue during/after the firmware v1.9.2.34 update and fail to perform it successfully, please follow the following steps:
 
+*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*
+
+***You can judge a Spark MINI's version by looking at the 7th digit of its SN: `1` is the  old version; `2` is the latest GD version.***
+
 ### 0 - Run as administrator
 If the customer encounters the error codes -1 or -2 on their Windows computers, please ask the customer to run the firmware updater as administrator (right click -> select ‘Run as administrator’).  
 

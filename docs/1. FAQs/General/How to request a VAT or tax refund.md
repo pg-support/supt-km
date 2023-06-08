@@ -11,7 +11,7 @@ Positive Grid currently only has tax ID numbers for specific countries. As a res
 For the countries listed below, we can offer a VAT invoice, which allows customers to request a VAT refund from their local government. 
 
 - Canada
-- EU: France, Denmark, Italy, Netherlands, Spain
+- EU: France, Germany, Italy, Netherlands, Spain
 - United States
 
 Contact Maines/WeiTing to create the VAT invoice.
@@ -20,7 +20,7 @@ Contact Maines/WeiTing to create the VAT invoice.
 
 For countries where Positive Grid doesn't have a tax ID number but still charge VAT during checkout, we will directly refund the VAT to the customer without the need for a VAT invoice. This applies to the following countries:
 
-- All EU countries except France, Denmark, Italy, Netherlands, Spain
+- All EU countries except France, Germany, Italy, Netherlands, Spain
 - United Kingdom
 
 Please manually put in the refund amount during the refund process. Check [[Refund Process]] for further details.

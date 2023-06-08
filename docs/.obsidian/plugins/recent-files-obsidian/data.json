@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark MINI Firmware Troubleshooting",
+      "path": "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md"
+    },
+    {
       "basename": "Spark 40 Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
     },
     {
-      "basename": "Spark New GD Chip Limitations",
-      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
-    },
-    {
       "basename": "How to request a VAT or tax refund",
       "path": "1. FAQs/General/How to request a VAT or tax refund.md"
+    },
+    {
+      "basename": "Spark New GD Chip Limitations",
+      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
     {
       "basename": "Refund Process",
@@ -195,10 +199,6 @@
     {
       "basename": "What charger is compatible with Spark MINI",
       "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
-    },
-    {
-      "basename": "How do I reset the on-board presets on my Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/How do I reset the on-board presets on my Spark MINI.md"
     }
   ],
   "omittedPaths": [],
