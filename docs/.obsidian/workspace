@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "21ecce625158bb8c",
+        "id": "a0373cf481e57cd3",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "21ecce625158bb8c",
+              "leaf": "a0373cf481e57cd3",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 236
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -185,8 +184,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "21ecce625158bb8c",
+  "active": "a0373cf481e57cd3",
   "lastOpenFiles": [
+    "5. Systems & Resources/SuptBot.md",
     "5. Systems & Resources/Systems/Aftership Operation.md",
     "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md",
     "Untitled.md",
@@ -195,7 +195,6 @@
     "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept (Non-US).md",
     "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Delivery Error (Non-US).md",
     "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md",
-    "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md",
-    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
+    "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md"
   ]
 }
