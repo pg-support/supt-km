@@ -16,6 +16,9 @@ Once the client replies with all the requested information, create a return as i
 
 ![[Pasted image 20230424150952.png]]
 
+For the SN, please leave it in the comment section:
+![[Pasted image 20230620121942.png]]
+
 ### 3 - Approve the return
 Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation]] for further details.
 

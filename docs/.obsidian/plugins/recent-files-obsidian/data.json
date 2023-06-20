@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+    },
+    {
+      "basename": "SR - Personal Reason (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
+    },
+    {
+      "basename": "SR - Personal Reason (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md"
+    },
+    {
+      "basename": "SR - Fail to Intercept (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md"
+    },
+    {
+      "basename": "SR - Fail to Intercept (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept (Non-US).md"
+    },
+    {
+      "basename": "SR - Delivery Error (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Delivery Error (Non-US).md"
+    },
+    {
+      "basename": "SR - Delivery Error (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md"
+    },
+    {
       "basename": "Spark MINI Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md"
     },
@@ -19,10 +47,6 @@
     {
       "basename": "Refund Process",
       "path": "4. Processes/c. Post-sale/Refund Process.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Principles for Troubleshooting",
@@ -141,10 +165,6 @@
       "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No output in FX 2.md"
     },
     {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
-    },
-    {
       "basename": "SuptBot",
       "path": "5. Systems & Resources/SuptBot.md"
     },
@@ -175,30 +195,6 @@
     {
       "basename": "What's the priority of music playback for Spark MINI (if played simultaneously)",
       "path": "1. FAQs/Products/Spark MINI/What's the priority of music playback for Spark MINI (if played simultaneously).md"
-    },
-    {
-      "basename": "What's the latest Spark MINI firmware implemented to the production",
-      "path": "1. FAQs/Products/Spark MINI/What's the latest Spark MINI firmware implemented to the production.md"
-    },
-    {
-      "basename": "What's Spark MINI's speaker frequency response",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's speaker frequency response.md"
-    },
-    {
-      "basename": "What's Spark MINI's compatible headphone impedance",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's compatible headphone impedance.md"
-    },
-    {
-      "basename": "What's Spark MINI's Analog-to-Digital resolution for audio recording",
-      "path": "1. FAQs/Products/Spark MINI/What's Spark MINI's Analog-to-Digital resolution for audio recording.md"
-    },
-    {
-      "basename": "What the system requirement for Spark MINI firmware updater",
-      "path": "1. FAQs/Products/Spark MINI/What the system requirement for Spark MINI firmware updater.md"
-    },
-    {
-      "basename": "What charger is compatible with Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/What charger is compatible with Spark MINI.md"
     }
   ],
   "omittedPaths": [],

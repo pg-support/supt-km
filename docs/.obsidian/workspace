@@ -4,8 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11011ccaf1dfe540",
+        "id": "21ecce625158bb8c",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "21ecce625158bb8c",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
         "state": {
           "type": "empty",
           "state": {}
@@ -25,6 +36,10 @@
           {
             "id": "ba0c67ef121453d7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -33,10 +48,14 @@
           {
             "id": "69eacc43daa4c77a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "firmware ",
+                "query": "SR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,6 +67,10 @@
           {
             "id": "d015f6a3ecf9aaa5",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -56,17 +79,21 @@
           {
             "id": "c3999f7b1a126b73",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 236,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a7b1219aec84d",
@@ -79,6 +106,10 @@
           {
             "id": "078bbe4bb7c3d712",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -95,6 +126,10 @@
           {
             "id": "388a7a40ab5568e0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -106,6 +141,10 @@
           {
             "id": "deb89d200cf048d0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -117,6 +156,10 @@
           {
             "id": "07888b68d4b4f387",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {}
@@ -125,6 +168,10 @@
           {
             "id": "91d0cff02cd5588a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -138,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11011ccaf1dfe540",
+  "active": "21ecce625158bb8c",
   "lastOpenFiles": [
-    "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md",
-    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md",
-    "1. FAQs/General/How to request a VAT or tax refund.md",
-    "2. Troubleshooting/General/Spark New GD Chip Limitations.md",
-    "4. Processes/c. Post-sale/Refund Process.md",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md",
     "Untitled.md",
-    "1. FAQs/General/Why is there VAT (value-added tax) charged.md",
-    "2. Troubleshooting/General/Principles for Troubleshooting.md",
-    "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md",
-    "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md"
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Personal Reason (US).md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Fail to Intercept (US).md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Fail to Intercept (Non-US).md",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Delivery Error (Non-US).md",
+    "4. Processes/c. Post-sale/Warranty Service/US/SR - Delivery Error (US).md",
+    "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md",
+    "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
   ]
 }

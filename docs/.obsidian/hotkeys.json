@@ -82,6 +82,7 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "["
@@ -143,6 +144,39 @@
   ],
   "editor:open-search": [],
   "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "]"
+    }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
     {
       "modifiers": [
         "Mod"
