@@ -12,15 +12,21 @@
             {
               "leaf": "0381d54707bbcb05",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "0381d54707bbcb05",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.936893527861319}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md",
+            "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
             "mode": "source",
             "source": false
           }
@@ -59,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oow",
+                "query": "firmware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md",
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
+                "file": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
               }
             }
           },
