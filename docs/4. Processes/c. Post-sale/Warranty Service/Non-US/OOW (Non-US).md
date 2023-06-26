@@ -23,6 +23,9 @@ Once confirmed the issue, please first check with the customer whether he/she is
 <u>Spark MINI</u>
 -   Main product (Charge for replacement) - $120 USD
 
+<u>Spark GO</u>
+-   Main product (Charge for replacement) - $60 USD
+
 <u>Spark Control</u>
 -   Main product (Charge for replacement) - $77 USD 
 

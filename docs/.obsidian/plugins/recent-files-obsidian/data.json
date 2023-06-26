@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "OOW (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
+    },
+    {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
       "basename": "SuptBot",
       "path": "5. Systems & Resources/SuptBot.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "What's the spec of Spark MINI's battery (playing & charging time)",
       "path": "1. FAQs/Products/Spark MINI/What's the spec of Spark MINI's battery (playing & charging time).md"
-    },
-    {
-      "basename": "What's the priority of music playback for Spark MINI (if played simultaneously)",
-      "path": "1. FAQs/Products/Spark MINI/What's the priority of music playback for Spark MINI (if played simultaneously).md"
     }
   ],
   "omittedPaths": [],
