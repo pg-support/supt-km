@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark Control Charging Troubleshooting",
+      "path": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md"
+    },
+    {
+      "basename": "Service part request",
+      "path": "4. Processes/c. Post-sale/Service part request.md"
+    },
+    {
+      "basename": "Bluetooth choppy audio when Spark Control is connected",
+      "path": "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md"
+    },
+    {
+      "basename": "Switching speed is slow on Spark Control",
+      "path": "2. Troubleshooting/Product/Spark Control/Switching speed is slow on Spark Control.md"
+    },
+    {
+      "basename": "How to return to Mode 1 on Spark Control",
+      "path": "2. Troubleshooting/Product/Spark Control/How to return to Mode 1 on Spark Control.md"
+    },
+    {
+      "basename": "Cannot connect to Spark Control",
+      "path": "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md"
+    },
+    {
       "basename": "Spark GO Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
     },
@@ -145,10 +169,6 @@
       "path": "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md"
     },
     {
-      "basename": "Service part request",
-      "path": "4. Processes/c. Post-sale/Service part request.md"
-    },
-    {
       "basename": "Change Address",
       "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Does Spark GO come with a copy of PreSonus Studio One",
       "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md"
-    },
-    {
-      "basename": "Does Spark MINI come with a charger",
-      "path": "1. FAQs/Products/Spark MINI/Does Spark MINI come with a charger.md"
-    },
-    {
-      "basename": "Can I use other ways to update Spark MINI's firmware",
-      "path": "1. FAQs/Products/Spark MINI/Can I use other ways to update Spark MINI's firmware.md"
-    },
-    {
-      "basename": "Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/Can I connect any other instruments such as a keyboard or vocal mic to Spark MINI.md"
-    },
-    {
-      "basename": "What's the working temperature of Spark MINI",
-      "path": "1. FAQs/Products/Spark MINI/What's the working temperature of Spark MINI.md"
-    },
-    {
-      "basename": "What's the spec of Spark MINI's battery (playing & charging time)",
-      "path": "1. FAQs/Products/Spark MINI/What's the spec of Spark MINI's battery (playing & charging time).md"
     }
   ],
   "omittedPaths": [],
