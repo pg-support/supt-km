@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0381d54707bbcb05",
+        "id": "49c757fd9df93f45",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0381d54707bbcb05",
+              "leaf": "49c757fd9df93f45",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":90},\"to\":{\"line\":15,\"ch\":90}},\"scroll\":10.143391752854248}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark Control/Switching speed is slow on Spark Control.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark Control/How to return to Mode 1 on Spark Control.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "0381d54707bbcb05",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.936893527861319}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -152,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +161,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,10 +184,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0381d54707bbcb05",
+  "active": "49c757fd9df93f45",
   "lastOpenFiles": [
-    "4. Processes/c. Post-sale/Service part request.md",
     "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
+    "4. Processes/c. Post-sale/Service part request.md",
     "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
     "2. Troubleshooting/Product/Spark Control/Switching speed is slow on Spark Control.md",
     "2. Troubleshooting/Product/Spark Control/How to return to Mode 1 on Spark Control.md",
