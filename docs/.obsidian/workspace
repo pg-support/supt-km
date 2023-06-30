@@ -12,14 +12,42 @@
             {
               "leaf": "49c757fd9df93f45",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "49c757fd9df93f45",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Collaboration with Output.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "49c757fd9df93f45",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "49c757fd9df93f45",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Collaboration with Output.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "49c757fd9df93f45",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. FAQs/Promotions/Welcome Series.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -112,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. FAQs/Promotions/Welcome Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. FAQs/Promotions/Welcome Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +191,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. FAQs/Promotions/Welcome Series.md"
+              }
             }
           },
           {
@@ -186,6 +218,8 @@
   },
   "active": "49c757fd9df93f45",
   "lastOpenFiles": [
+    "1. FAQs/Promotions/Collaboration with Output.md",
+    "1. FAQs/Promotions/Welcome Series.md",
     "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
     "4. Processes/c. Post-sale/Service part request.md",
     "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
@@ -193,8 +227,6 @@
     "2. Troubleshooting/Product/Spark Control/How to return to Mode 1 on Spark Control.md",
     "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md",
     "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
-    "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md",
-    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-    "5. Systems & Resources/SuptBot.md"
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
   ]
 }

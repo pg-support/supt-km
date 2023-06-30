@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome Series",
+      "path": "1. FAQs/Promotions/Welcome Series.md"
+    },
+    {
+      "basename": "Collaboration with Output",
+      "path": "1. FAQs/Promotions/Collaboration with Output.md"
+    },
+    {
       "basename": "Spark Control Charging Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Spark does not power up",
       "path": "2. Troubleshooting/Product/Spark 40/Spark does not power up.md"
-    },
-    {
-      "basename": "No output in FX 2",
-      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No output in FX 2.md"
-    },
-    {
-      "basename": "Does Spark GO come with a copy of PreSonus Studio One",
-      "path": "1. FAQs/Products/Spark GO/Does Spark GO come with a copy of PreSonus Studio One.md"
     }
   ],
   "omittedPaths": [],
