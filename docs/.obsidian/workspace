@@ -12,8 +12,14 @@
             {
               "leaf": "49c757fd9df93f45",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
+            },
+            {
+              "leaf": "49c757fd9df93f45",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
             },
             {
               "leaf": "49c757fd9df93f45",
@@ -44,7 +50,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Promotions/Welcome Series.md",
+            "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
             "mode": "source",
             "source": false
           }
@@ -140,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/Welcome Series.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/Welcome Series.md",
+                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/Welcome Series.md"
+                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
               }
             }
           },
@@ -218,8 +224,8 @@
   },
   "active": "49c757fd9df93f45",
   "lastOpenFiles": [
-    "1. FAQs/Promotions/Collaboration with Output.md",
     "1. FAQs/Promotions/Welcome Series.md",
+    "1. FAQs/Promotions/Collaboration with Output.md",
     "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
     "4. Processes/c. Post-sale/Service part request.md",
     "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",

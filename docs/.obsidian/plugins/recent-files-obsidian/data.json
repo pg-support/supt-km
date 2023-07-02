@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cannot adjust the system sound volume for Spark GO",
+      "path": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
+    },
+    {
       "basename": "Welcome Series",
       "path": "1. FAQs/Promotions/Welcome Series.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "No sound output",
       "path": "2. Troubleshooting/Product/Spark 40/No sound output.md"
-    },
-    {
-      "basename": "Spark does not power up",
-      "path": "2. Troubleshooting/Product/Spark 40/Spark does not power up.md"
     }
   ],
   "omittedPaths": [],
