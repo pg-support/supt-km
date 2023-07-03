@@ -5,8 +5,40 @@
       "path": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
     },
     {
+      "basename": "Cannot find FX 2 Standalone Application after Installation",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot find FX 2 Standalone Application after Installation.md"
+    },
+    {
+      "basename": "Pasted image 20230703111238",
+      "path": "Media/Pasted image 20230703111238.png"
+    },
+    {
       "basename": "Welcome Series",
       "path": "1. FAQs/Promotions/Welcome Series.md"
+    },
+    {
+      "basename": "Cannot activate license (stuck in demo mode)",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md"
+    },
+    {
+      "basename": "No input in Windows",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Windows.md"
+    },
+    {
+      "basename": "No input in Mac",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Mac.md"
+    },
+    {
+      "basename": "Installation freezes or keeps failing",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/Installation freezes or keeps failing.md"
+    },
+    {
+      "basename": "Cannot download the installer",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot download the installer.md"
+    },
+    {
+      "basename": "Spark GO Firmware Troubleshooting",
+      "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
     },
     {
       "basename": "Collaboration with Output",
@@ -35,10 +67,6 @@
     {
       "basename": "Cannot connect to Spark Control",
       "path": "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md"
-    },
-    {
-      "basename": "Spark GO Firmware Troubleshooting",
-      "path": "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
     },
     {
       "basename": "OOW (Non-US)",
@@ -171,34 +199,6 @@
     {
       "basename": "Amazon Support Daily Operation",
       "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
-    },
-    {
-      "basename": "Frequently Used Resources",
-      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
-    },
-    {
-      "basename": "Is there any new firmware update for Spark Control",
-      "path": "1. FAQs/Products/Spark Control/Is there any new firmware update for Spark Control.md"
-    },
-    {
-      "basename": "Change Address",
-      "path": "4. Processes/b. Shipping & Delivery/Change Address.md"
-    },
-    {
-      "basename": "Order Cancellation Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
-    },
-    {
-      "basename": "Change Email & Resend Confirmation Letter",
-      "path": "4. Processes/b. Shipping & Delivery/Change Email & Resend Confirmation Letter.md"
-    },
-    {
-      "basename": "Spark GO USB Recording Known Issue",
-      "path": "2. Troubleshooting/Product/Spark GO/Spark GO USB Recording Known Issue.md"
-    },
-    {
-      "basename": "No sound output",
-      "path": "2. Troubleshooting/Product/Spark 40/No sound output.md"
     }
   ],
   "omittedPaths": [],

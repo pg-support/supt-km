@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49c757fd9df93f45",
+        "id": "53be6a293242ebe0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "49c757fd9df93f45",
+              "leaf": "53be6a293242ebe0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
-            },
-            {
-              "leaf": "49c757fd9df93f45",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-            },
-            {
-              "leaf": "49c757fd9df93f45",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Collaboration with Output.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "49c757fd9df93f45",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "49c757fd9df93f45",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Collaboration with Output.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "49c757fd9df93f45",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Welcome Series.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -146,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +161,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49c757fd9df93f45",
+  "active": "53be6a293242ebe0",
   "lastOpenFiles": [
+    "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot find FX 2 Standalone Application after Installation.md",
+    "Media/Pasted image 20230703111238.png",
     "1. FAQs/Promotions/Welcome Series.md",
-    "1. FAQs/Promotions/Collaboration with Output.md",
-    "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md",
-    "4. Processes/c. Post-sale/Service part request.md",
-    "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
-    "2. Troubleshooting/Product/Spark Control/Switching speed is slow on Spark Control.md",
-    "2. Troubleshooting/Product/Spark Control/How to return to Mode 1 on Spark Control.md",
-    "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md",
-    "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md",
-    "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Windows.md",
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Mac.md",
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Installation freezes or keeps failing.md",
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot download the installer.md",
+    "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
   ]
 }
