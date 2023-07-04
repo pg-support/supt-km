@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Buy with Prime",
+      "path": "1. FAQs/Promotions/Buy with Prime.md"
+    },
+    {
+      "basename": "Amazon Support SOPs",
+      "path": "4. Processes/e. Amazon/Amazon Support SOPs.md"
+    },
+    {
+      "basename": "Order Cancellation Process",
+      "path": "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md"
+    },
+    {
+      "basename": "Order cancellation & adjustments policy",
+      "path": "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md"
+    },
+    {
+      "basename": "Order Canceled due to Fraudulent Risk",
+      "path": "4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md"
+    },
+    {
+      "basename": "Refund Process",
+      "path": "4. Processes/c. Post-sale/Refund Process.md"
+    },
+    {
+      "basename": "Internal Order Checking Process",
+      "path": "4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md"
+    },
+    {
+      "basename": "Custom Grille Design Reject or Reprint",
+      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    },
+    {
       "basename": "Cannot adjust the system sound volume for Spark GO",
       "path": "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
     },
@@ -73,10 +105,6 @@
       "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
     },
     {
-      "basename": "Custom Grille Design Reject or Reprint",
-      "path": "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
-    },
-    {
       "basename": "SuptBot",
       "path": "5. Systems & Resources/SuptBot.md"
     },
@@ -125,10 +153,6 @@
       "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     },
     {
-      "basename": "Refund Process",
-      "path": "4. Processes/c. Post-sale/Refund Process.md"
-    },
-    {
       "basename": "Principles for Troubleshooting",
       "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Pasted image 20230516170805",
       "path": "Media/Pasted image 20230516170805.png"
-    },
-    {
-      "basename": "Pasted image 20230518123100",
-      "path": "Media/Pasted image 20230518123100.png"
-    },
-    {
-      "basename": "Spark GO Muted Strum (Voice Guide)",
-      "path": "1. FAQs/Products/Spark GO/Spark GO Muted Strum (Voice Guide).md"
-    },
-    {
-      "basename": "What's the spec of Spark GO's battery (playing & charging time)",
-      "path": "1. FAQs/Products/Spark GO/What's the spec of Spark GO's battery (playing & charging time).md"
-    },
-    {
-      "basename": "Spark GO's Bluetooth & Power LED Indicator",
-      "path": "1. FAQs/Products/Spark GO/Spark GO's Bluetooth & Power LED Indicator.md"
-    },
-    {
-      "basename": "How is Spark GO's battery life",
-      "path": "1. FAQs/Products/Spark GO/How is Spark GO's battery life.md"
-    },
-    {
-      "basename": "Amazon Support Daily Operation",
-      "path": "4. Processes/e. Amazon/Amazon Support Daily Operation.md"
     }
   ],
   "omittedPaths": [],

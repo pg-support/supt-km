@@ -7,19 +7,77 @@
         "id": "53be6a293242ebe0",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 9,
           "stack": [
             {
               "leaf": "53be6a293242ebe0",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.301443657641089}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}},\"scroll\":0}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Refund Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.70766903605012}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. Policies/Shipping Policy/Order cancellation & adjustments policy.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.843361472144771}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/e. Amazon/Amazon Support SOPs.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.843361472144771}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":16.904381130141164}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. FAQs/Promotions/Buy with Prime.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -55,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spark control",
+                "query": "order cancel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. FAQs/Promotions/Buy with Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. FAQs/Promotions/Buy with Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +222,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. FAQs/Promotions/Buy with Prime.md"
+              }
             }
           },
           {
@@ -186,15 +249,15 @@
   },
   "active": "53be6a293242ebe0",
   "lastOpenFiles": [
+    "4. Processes/e. Amazon/Amazon Support SOPs.md",
+    "1. FAQs/Promotions/Buy with Prime.md",
+    "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
+    "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
+    "4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md",
+    "4. Processes/c. Post-sale/Refund Process.md",
+    "4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md",
+    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
     "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot find FX 2 Standalone Application after Installation.md",
-    "Media/Pasted image 20230703111238.png",
-    "1. FAQs/Promotions/Welcome Series.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot activate license (stuck in demo mode).md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Windows.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Mac.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Installation freezes or keeps failing.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot download the installer.md",
-    "2. Troubleshooting/Product/Spark GO/Spark GO Firmware Troubleshooting.md"
+    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot find FX 2 Standalone Application after Installation.md"
   ]
 }
