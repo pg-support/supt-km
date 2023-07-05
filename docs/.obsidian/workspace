@@ -7,74 +7,26 @@
         "id": "53be6a293242ebe0",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 9,
+          "pos": 0,
           "stack": [
             {
               "leaf": "53be6a293242ebe0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.301443657641089}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}},\"scroll\":0}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/SuptBot.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Refund Process.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.70766903605012}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. Policies/Shipping Policy/Order cancellation & adjustments policy.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/b. Shipping & Delivery/Order Cancellation Process.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.843361472144771}"
-            },
-            {
-              "leaf": "53be6a293242ebe0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/e. Amazon/Amazon Support SOPs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.843361472144771}"
             },
             {
               "leaf": "53be6a293242ebe0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":16.904381130141164}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0.9229238866779937}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Promotions/Buy with Prime.md",
+            "file": "5. Systems & Resources/SuptBot.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "order cancel",
+                "query": "bot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "5. Systems & Resources/SuptBot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "5. Systems & Resources/SuptBot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md"
+                "file": "5. Systems & Resources/SuptBot.md"
               }
             }
           },
@@ -249,8 +201,8 @@
   },
   "active": "53be6a293242ebe0",
   "lastOpenFiles": [
-    "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "1. FAQs/Promotions/Buy with Prime.md",
+    "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
     "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
     "4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md",
