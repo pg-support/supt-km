@@ -12,8 +12,14 @@
             {
               "leaf": "53be6a293242ebe0",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/BIAS FX 2 Free Trial.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "53be6a293242ebe0",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/SuptBot.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":86},\"to\":{\"line\":12,\"ch\":86}},\"scroll\":0}"
             },
             {
               "leaf": "53be6a293242ebe0",
@@ -26,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/SuptBot.md",
+            "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md",
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md",
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/SuptBot.md"
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md"
               }
             }
           },
@@ -201,6 +206,7 @@
   },
   "active": "53be6a293242ebe0",
   "lastOpenFiles": [
+    "5. Systems & Resources/SuptBot.md",
     "1. FAQs/Promotions/Buy with Prime.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
@@ -209,7 +215,6 @@
     "4. Processes/c. Post-sale/Refund Process.md",
     "4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md",
     "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md",
-    "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md",
-    "2. Troubleshooting/Product/BIAS FX 2 Desktop/Cannot find FX 2 Standalone Application after Installation.md"
+    "2. Troubleshooting/Product/Spark GO/Cannot adjust the system sound volume for Spark GO.md"
   ]
 }
