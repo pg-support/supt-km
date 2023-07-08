@@ -10,7 +10,7 @@
 	
 -   Only **Spark MINI** (Black and Pearl) and **Spark GO** will be available through this initiative.
   
--   Orders will not show in PG user center & Shopify, until Amazon fulfills (ships) the order.
+-   Orders will not show in PG user center & Shopify, until Amazon fulfills (ships) the order (or if it's refunded).
 
 ## Return & Refund
 
