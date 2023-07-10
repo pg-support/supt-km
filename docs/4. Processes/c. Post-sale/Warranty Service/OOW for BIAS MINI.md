@@ -7,7 +7,7 @@
 
 1. Ask if the customer's willing to pay for the price. If so, get the PayPay account email or regular email from the customer. (We don't need to collect the defective unit due to high shipping fee.)
    
-2. Once we have the info, ask Felix Lin to create an invoice and send to the customer.
+2. Once we have the info, send an email to Felix Lin to create an invoice and send to the customer.
    
 3. Ask the customer to pay off the invoice. Once done, ask for the shipping address (in EU or UK), and inform Felix to send out the new BIAS MINI.
 
