@@ -1,5 +1,7 @@
 # Buy with Prime
 
+> "Buy with Prime" is a feature that allows customers to make purchases directly on a website using their Amazon Prime membership. 
+
 ## Order & Shipping
 
 -   Allows customers to “Buy with Prime” directly on our website PDPs. 
