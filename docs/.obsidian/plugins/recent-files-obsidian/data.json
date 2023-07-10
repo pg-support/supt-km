@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "OOW for BIAS MINI",
+      "path": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md"
+    },
+    {
+      "basename": "Pasted image 20230707114238",
+      "path": "Media/Pasted image 20230707114238.png"
+    },
+    {
+      "basename": "Pasted image 20230707114310",
+      "path": "Media/Pasted image 20230707114310.png"
+    },
+    {
+      "basename": "OOW (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
+    },
+    {
+      "basename": "OOW (US - Everything else)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md"
+    },
+    {
       "basename": "Buy with Prime",
       "path": "1. FAQs/Promotions/Buy with Prime.md"
     },
@@ -109,10 +129,6 @@
       "path": "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md"
     },
     {
-      "basename": "OOW (Non-US)",
-      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md"
-    },
-    {
       "basename": "Aftership Operation",
       "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
       "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
-    },
-    {
-      "basename": "USB Troubleshooting",
-      "path": "2. Troubleshooting/General/USB Troubleshooting.md"
-    },
-    {
-      "basename": "Pasted image 20230529101812",
-      "path": "Media/Pasted image 20230529101812.png"
-    },
-    {
-      "basename": "Custom Background in FX 2",
-      "path": "1. FAQs/Products/BIAS FX 2 Desktop/Custom Background in FX 2.md"
-    },
-    {
-      "basename": "Spark MINI Battery Life",
-      "path": "1. FAQs/Products/Spark MINI/Spark MINI Battery Life.md"
     }
   ],
   "omittedPaths": [],

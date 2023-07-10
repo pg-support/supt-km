@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "53be6a293242ebe0",
+        "id": "b25e3aa1ad04c095",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "53be6a293242ebe0",
+              "leaf": "b25e3aa1ad04c095",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "53be6a293242ebe0",
+              "leaf": "b25e3aa1ad04c095",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/BIAS FX 2 Free Trial.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230707114238.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "53be6a293242ebe0",
+              "leaf": "b25e3aa1ad04c095",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/SuptBot.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":86},\"to\":{\"line\":12,\"ch\":86}},\"scroll\":0}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230707114310.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "53be6a293242ebe0",
+              "leaf": "b25e3aa1ad04c095",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0.9229238866779937}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":51},\"to\":{\"line\":32,\"ch\":51}},\"scroll\":21.204094772314644}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Promotions/Buy with Prime.md",
+            "file": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buy with prime",
+                "query": "oow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md"
+                "file": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md"
               }
             }
           },
@@ -211,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53be6a293242ebe0",
+  "active": "b25e3aa1ad04c095",
   "lastOpenFiles": [
+    "Media/Pasted image 20230707114238.png",
+    "Media/Pasted image 20230707114310.png",
+    "4. Processes/c. Post-sale/Warranty Service/Non-US/OOW (Non-US).md",
+    "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md",
+    "1. FAQs/Promotions/Buy with Prime.md",
     "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
     "5. Systems & Resources/SuptBot.md",
-    "1. FAQs/Promotions/Buy with Prime.md",
     "4. Processes/e. Amazon/Amazon Support SOPs.md",
     "4. Processes/b. Shipping & Delivery/Order Cancellation Process.md",
-    "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md",
-    "4. Processes/b. Shipping & Delivery/Order Canceled due to Fraudulent Risk.md",
-    "4. Processes/c. Post-sale/Refund Process.md",
-    "4. Processes/b. Shipping & Delivery/Internal Order Checking Process.md",
-    "4. Processes/d. Custom Grille/Custom Grille Design Reject or Reprint.md"
+    "3. Policies/Shipping Policy/Order cancellation & adjustments policy.md"
   ]
 }
