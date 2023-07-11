@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Service part request (US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/US/Service part request (US).md"
+    },
+    {
+      "basename": "Service part request (Non-US)",
+      "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/Service part request (Non-US).md"
+    },
+    {
+      "basename": "Regular PSU requests",
+      "path": "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md"
+    },
+    {
+      "basename": "PSU requests for other sales channels (not PG website or Amazon)",
+      "path": "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for other sales channels (not PG website or Amazon).md"
+    },
+    {
+      "basename": "PSU requests for Amazon",
+      "path": "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for Amazon.md"
+    },
+    {
+      "basename": "PSU requests for second-hand unit",
+      "path": "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for second-hand unit.md"
+    },
+    {
+      "basename": "Received Wrong & Missing Items",
+      "path": "4. Processes/b. Shipping & Delivery/Received Wrong & Missing Items.md"
+    },
+    {
       "basename": "OOW for BIAS MINI",
       "path": "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md"
     },
@@ -109,10 +137,6 @@
       "path": "2. Troubleshooting/Product/Spark Control/Spark Control Charging Troubleshooting.md"
     },
     {
-      "basename": "Service part request",
-      "path": "4. Processes/c. Post-sale/Service part request.md"
-    },
-    {
       "basename": "Bluetooth choppy audio when Spark Control is connected",
       "path": "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Principles for Troubleshooting",
       "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
-    },
-    {
-      "basename": "Order Adjustment Process",
-      "path": "4. Processes/b. Shipping & Delivery/Order Adjustment Process.md"
-    },
-    {
-      "basename": "Mobile Apps crashes or freezes troubleshooting",
-      "path": "2. Troubleshooting/General/Mobile Apps crashes or freezes troubleshooting.md"
-    },
-    {
-      "basename": "Desktop Software Troubleshooting Guideline",
-      "path": "2. Troubleshooting/General/Desktop Software Troubleshooting Guideline.md"
-    },
-    {
-      "basename": "Checkout Page Troubleshooting",
-      "path": "2. Troubleshooting/General/Checkout Page Troubleshooting.md"
-    },
-    {
-      "basename": "I purchased with Apple ID but cannot login to BIAS FX 2 Mobile",
-      "path": "2. Troubleshooting/Product/BIAS FX 2 Mobile/I purchased with Apple ID but cannot login to BIAS FX 2 Mobile.md"
-    },
-    {
-      "basename": "BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in)",
-      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/BIAS FX 2 crashes or freezes at startup (Standalone or Plug-in).md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,12 @@
 # PSU requests for Amazon
+> PSU request from Amazon orders, if verified to be ungrounded.
+
+### US
+
+- Proceed as a free Service Part purchase, see [[Service part request (US)]]. (TBC)
+
+### Non-US
+
 1.  Use Macro: “Spark_PSU Request (Amazon)” to inquire about the following information:
 	-   Customer’s Name
 	-   Amazon Order Number

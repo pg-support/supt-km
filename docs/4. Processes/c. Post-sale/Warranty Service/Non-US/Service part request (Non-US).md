@@ -1,4 +1,7 @@
-# Service part request
+# Service part request (Non-US)
+>Service part request for non-US region. 
+>
+>For the US, please refer to [[Service part request (US)]] instead.
 
 ## Free resend
 
@@ -22,7 +25,7 @@ Free resend if missing.
 #### Spark 40
 <u>PSU (Power supply)</u>
 
-- US, CA, EU, AU, UK - $35 USD
+- CA, EU, AU, UK - $35 USD
 
 - Mexico - $126 USD
 
@@ -35,7 +38,11 @@ Free resend if missing.
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20
 
-### Process
+### Process (US-only)
+
+> 
+
+### Process (non-US)
 
 >  Inform the customer about the pricing (as listed), and verify if the customer is willing/has to pay for a service part. 
 >  
