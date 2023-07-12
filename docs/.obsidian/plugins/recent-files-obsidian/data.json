@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Frequently Used Resources",
+      "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+    },
+    {
       "basename": "Service part request (US)",
       "path": "4. Processes/c. Post-sale/Warranty Service/US/Service part request (US).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Spark New GD Chip Limitations",
       "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
-    },
-    {
-      "basename": "Principles for Troubleshooting",
-      "path": "2. Troubleshooting/General/Principles for Troubleshooting.md"
     }
   ],
   "omittedPaths": [],

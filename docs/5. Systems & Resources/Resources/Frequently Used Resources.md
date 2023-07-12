@@ -58,11 +58,8 @@
 
 [BigCommerce Order Record](https://drive.google.com/file/d/1_MX3zBQYtj2JVYEtrOVAESmvPTzOpsOd/view?usp=sharing) - Past order records (download link for .csv file)
 
-Support Coupon - Support coupon for compensation. If you need a coupon with higher discount amount, please highlight to Tagui for approval.
+[Support Coupon](https://docs.google.com/spreadsheets/d/14wsfMVwHhbsf5ztvkXnpwNhDYkt7WYIZCYWDKMu_SnM/edit?usp=sharing) - Support coupon for compensation. If you need a coupon with higher discount amount, please highlight for approval.
 
-> $10: B2WR9G3OY7
-> $20: U8752F6MT53
-> 
 > Use Zendesk macro *Support Coupon Terms & Conditions* for additional terms and conditions.
 
 ## Useful Tools

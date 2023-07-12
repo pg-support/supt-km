@@ -12,14 +12,18 @@
             {
               "leaf": "99bd6eed511978ab",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Resources/Frequently Used Resources.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.99160400053746}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -55,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service part",
+                "query": "coupon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +168,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
+              }
             }
           },
           {
