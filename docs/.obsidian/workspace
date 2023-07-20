@@ -12,21 +12,15 @@
             {
               "leaf": "99bd6eed511978ab",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "99bd6eed511978ab",
-              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Resources/Frequently Used Resources.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":42.83000170195097}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.99160400053746}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Promotions/Buy with Prime.md",
+            "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buy with prime",
+                "query": "coupon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md",
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/Buy with Prime.md"
+                "file": "5. Systems & Resources/Resources/Frequently Used Resources.md"
               }
             }
           },
@@ -201,7 +195,6 @@
   },
   "active": "99bd6eed511978ab",
   "lastOpenFiles": [
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
     "4. Processes/c. Post-sale/Warranty Service/US/Service part request (US).md",
     "4. Processes/c. Post-sale/Warranty Service/Non-US/Service part request (Non-US).md",
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/Regular PSU requests.md",
@@ -210,6 +203,7 @@
     "4. Processes/c. Post-sale/Spark 40 PSU (Hum Issue)/PSU requests for second-hand unit.md",
     "4. Processes/b. Shipping & Delivery/Received Wrong & Missing Items.md",
     "4. Processes/c. Post-sale/Warranty Service/OOW for BIAS MINI.md",
-    "Media/Pasted image 20230707114238.png"
+    "Media/Pasted image 20230707114238.png",
+    "Media/Pasted image 20230707114310.png"
   ]
 }
