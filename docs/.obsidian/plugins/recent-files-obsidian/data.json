@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
+    },
+    {
+      "basename": "Auto-gain says the input is low",
+      "path": "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md"
+    },
+    {
+      "basename": "RIFF has high noise floor or hiss noise when playing",
+      "path": "2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md"
+    },
+    {
+      "basename": "Buy with Prime",
+      "path": "1. FAQs/Promotions/Buy with Prime.md"
+    },
+    {
       "basename": "Frequently Used Resources",
       "path": "5. Systems & Resources/Resources/Frequently Used Resources.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "OOW (US - Everything else)",
       "path": "4. Processes/c. Post-sale/Warranty Service/US/OOW (US - Everything else).md"
-    },
-    {
-      "basename": "Buy with Prime",
-      "path": "1. FAQs/Promotions/Buy with Prime.md"
     },
     {
       "basename": "BIAS FX 2 Free Trial",
@@ -157,10 +169,6 @@
       "path": "2. Troubleshooting/Product/Spark Control/Cannot connect to Spark Control.md"
     },
     {
-      "basename": "Aftership Operation",
-      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
-    },
-    {
       "basename": "SR - Personal Reason (Non-US)",
       "path": "4. Processes/c. Post-sale/Warranty Service/Non-US/SR - Personal Reason (Non-US).md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Spark MINI Firmware Troubleshooting",
       "path": "2. Troubleshooting/Product/Spark MINI/Spark MINI Firmware Troubleshooting.md"
-    },
-    {
-      "basename": "Spark 40 Firmware Troubleshooting",
-      "path": "2. Troubleshooting/Product/Spark 40/Spark 40 Firmware Troubleshooting.md"
-    },
-    {
-      "basename": "How to request a VAT or tax refund",
-      "path": "1. FAQs/General/How to request a VAT or tax refund.md"
-    },
-    {
-      "basename": "Spark New GD Chip Limitations",
-      "path": "2. Troubleshooting/General/Spark New GD Chip Limitations.md"
     }
   ],
   "omittedPaths": [],
