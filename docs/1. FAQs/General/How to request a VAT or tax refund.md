@@ -6,22 +6,26 @@ VAT is charged for several regions, and the setup is based on a per Shopify stor
 
 Positive Grid currently only has tax ID numbers for specific countries. As a result, we can only provide VAT invoices to customers from these selected countries who wish to request a VAT refund from their local government. 
 
-## Offer VAT Invoice
+## Offer an Invoice with VAT Number (Hardware Only)
 
 For the countries listed below, we can offer a VAT invoice, which allows customers to request a VAT refund from their local government. 
 
-- Canada
-- EU: France, Germany, Italy, Netherlands, Spain
-- United States
+-  EU: France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), , Czech (CZ), Poland (PL)
+- Australia (AU)
+- United Kingdom (UK)
 
-Contact Maines/WeiTing to create the VAT invoice.
+Please verify the VAT number first with the following site:
+https://ec.europa.eu/taxation_customs/vies/#/vat-validation
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="944" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+If the VAT number is valid, contact Maines/WeiTing to create an invoice with VAT#.
+
 
 ## Direct VAT Refunds
 
-For countries where Positive Grid doesn't have a tax ID number but still charge VAT during checkout, we will directly refund the VAT to the customer without the need for a VAT invoice. This applies to the following countries:
+For countries where Positive Grid doesn't have a tax ID number but still charge VAT during checkout, we will directly refund the VAT to the customer without the need for a VAT invoice (Tax: 22%). This applies to the following countries:
 
-- All EU countries except France, Germany, Italy, Netherlands, Spain
-- United Kingdom
+- All EU countries except France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), , Czech (CZ), Poland (PL)
 
 Please manually put in the refund amount during the refund process. Check [[Refund Process]] for further details.
 
