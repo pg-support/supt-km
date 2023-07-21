@@ -1,7 +1,7 @@
 # Unsubscribe from Positive Grid
 
 
-The customers now can customize the communication preferences on the My Account page.
+The customers now can customize the communication preferences on the "My Account page".
 
 ![[Pasted image 20230721143739.png]]
 
