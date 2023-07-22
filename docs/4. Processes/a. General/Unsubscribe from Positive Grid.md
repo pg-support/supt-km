@@ -5,6 +5,7 @@ The customers now can customize the communication preferences on the "My Account
 
 ![[Pasted image 20230721143739.png]]
 
+
 ~~If a customer wants to unsubscribe to all emails from PG, fill in the user’s name and email address on [Personal Information Management](https://docs.google.com/spreadsheets/d/1SKvxEdenGdrKdzYuD8PZPvYOlxtCMAf5RNubbkMdfho/edit?usp=sharing) spreadsheet, and check the “Disable Subscription” option. The unsubscription will be automated.~~  
 
 > Delete all personal data / information
