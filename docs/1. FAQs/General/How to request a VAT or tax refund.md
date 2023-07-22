@@ -15,17 +15,10 @@ For the countries listed below, we can offer a VAT invoice, which allows custome
 - United Kingdom (UK)
 
 Positive Grid's valid VAT#:
-France (FR): FR79894580356
-Germany (DE): DE342046425
-Italy (IT): IT03926380043
-Netherland (NL): NL826502283B01
-Spain (ES): N0087358H
-Czech (CZ): CZ685420308
-Poland (PL): PL5263387743
-Australia (AU): 14 526 244 781
-United Kingdom (UK): GB374894639
 
-Please verify the VAT number first with the following site:
+France (FR): FR79894580356, Germany (DE): DE342046425, Italy (IT): IT03926380043, Netherland (NL): NL826502283B01, Spain (ES): N0087358H, Czech (CZ): CZ685420308, Poland (PL): PL5263387743, Australia (AU): 14 526 244 781, United Kingdom (UK): GB374894639
+
+Please ask for the company's VAT number and address from the customer and verify it with the following site:
 https://ec.europa.eu/taxation_customs/vies/#/vat-validation
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="944" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
