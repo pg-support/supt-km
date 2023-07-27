@@ -12,8 +12,50 @@
             {
               "leaf": "71f03243fad60f5d",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721165024.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.47.47 PM.jpeg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721165846.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/1. PDP Entrance.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.54.56 PM.jpeg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/1. PDP Entrance.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.54.56 PM.jpeg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "71f03243fad60f5d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/BIAS FX 2 Free Trial.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":2.3741611005953343}"
             },
             {
               "leaf": "71f03243fad60f5d",
@@ -60,11 +102,9 @@
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
-            "mode": "source",
-            "source": false
+            "file": "Media/Pasted image 20230721165024.png"
           }
         }
       }
@@ -158,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
+                "file": "Media/Pasted image 20230721165024.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
+                "file": "Media/Pasted image 20230721165024.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md"
+                "file": "Media/Pasted image 20230721165024.png"
               }
             }
           },
@@ -234,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71f03243fad60f5d",
+  "active": "ba0c67ef121453d7",
   "lastOpenFiles": [
+    "Media/Screenshot 2023-07-21 at 4.47.47 PM.jpeg",
+    "Media/Pasted image 20230721165846.png",
+    "Media/1. PDP Entrance.png",
+    "Media/Screenshot 2023-07-21 at 4.54.56 PM.jpeg",
+    "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
     "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
     "Media/Pasted image 20230721163213.png",
     "Media/Pasted image 20230721164029.png",
     "Pasted image 20230721164836.png",
-    "Pasted image 20230721164847.png",
-    "5. Systems & Resources/Systems/Aftership Operation.md",
-    "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md",
-    "Media/Pasted image 20230720144645.png",
-    "2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md",
-    "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low 1.md"
+    "Pasted image 20230721164847.png"
   ]
 }
