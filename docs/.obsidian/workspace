@@ -12,14 +12,8 @@
             {
               "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/BIAS FX 2 Free Trial.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.18566101290840425}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.75642459775342}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "71f03243fad60f5d",
@@ -62,7 +56,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
+            "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
             "mode": "source",
             "source": false
           }
@@ -158,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md"
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md"
               }
             }
           },
@@ -236,11 +230,11 @@
   },
   "active": "71f03243fad60f5d",
   "lastOpenFiles": [
-    "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
     "Media/Pasted image 20230721163213.png",
     "Media/Pasted image 20230721164029.png",
     "Pasted image 20230721164836.png",
     "Pasted image 20230721164847.png",
+    "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
     "5. Systems & Resources/Systems/Aftership Operation.md",
     "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md",
     "Media/Pasted image 20230720144645.png",
