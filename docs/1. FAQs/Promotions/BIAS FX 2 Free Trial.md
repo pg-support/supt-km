@@ -4,4 +4,3 @@ For BIAS FX 2 demo or LE users, they can install the latest BIAS FX 2 and find t
 
 ![[1. PDP Entrance.png]]
 
-T
