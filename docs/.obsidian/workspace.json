@@ -10,10 +10,43 @@
           {
             "id": "3e88f21e7c8d7e7d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Buy with Prime",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "RIFF has high noise floor or hiss noise when playing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aftership Operation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/Aftership Operation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Auto-gain says the input is low",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md",
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,6 +68,15 @@
           {
             "id": "01c72630c10ea0d5",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -64,6 +106,31 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e147a1e6e0298da4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "141ae1ed36e8c2d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md",
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md",
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Trending/Fulfillment Schedule & Availability.md"
+                "file": "1. FAQs/Promotions/BIAS FX 2 Free Trial.md"
               }
             }
           },
@@ -147,6 +214,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,6 +227,11 @@
   },
   "active": "3e88f21e7c8d7e7d",
   "lastOpenFiles": [
+    "1. PDP Entrance.png",
+    "1. FAQs/Promotions/Buy with Prime.md",
+    "2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md",
+    "5. Systems & Resources/Systems/Aftership Operation.md",
+    "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md",
     "4. Processes/b. Pre-delivery/Change Address.md",
     "4. Processes/b. Pre-delivery/Change Email & Resend Confirmation Letter.md",
     "4. Processes/b. Pre-delivery/Shipment Lost.md",

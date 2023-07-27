@@ -3,5 +3,6 @@
   "translucency": false,
   "theme": "system",
   "cssTheme": "Minimal",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "accentColor": ""
 }
