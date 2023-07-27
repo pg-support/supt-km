@@ -11,7 +11,19 @@ You can find the login information in [PG Supt Login Information](https://docs.g
 
 
 ## Getting the Return Label
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREFP5j8o6gIRa1XKS2fl6qimp6w17KRFdf-iP1FJ2Tbwyz9tRWFnWuFH9Let5C2ECI9XNnjeL_QJF0/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Method#1:
+
+Click "Get return label", the label will be downloaded on your computer.
+
+Attach the label to the email and send it to the customer.
+*Ensure modify the content accordingly
+
+![[image (1).png]]
+
+Method#2:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs3QqZKzBN0o5ipV_h_uIw4eBwK-XNbrj_6iTlMcildrtbDwsA2egFFqC7HB3QwTvN3DW-MHCIRhek/embed?start=false" frameborder="0" width="760" height="456" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ### Dimension & Weight of each PG product:
 ![[Screen Shot 2023-04-24 at 5.35.00 PM.png]]

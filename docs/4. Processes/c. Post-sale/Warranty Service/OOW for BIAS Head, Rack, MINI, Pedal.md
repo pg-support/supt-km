@@ -1,9 +1,14 @@
-# OOW for BIAS MINI
+# OOW for BIAS Head/Rack/MINI/Pedal
 
-> For BIAS MINI Guitar/Bass, currently we have enough stock in Taiwan to offer replacements for users in EU & UK.
+> For old BIAS hardware products (BIAS Head/Rack/MINI Guitar&Bass), currently we have enough stock in Taiwan to offer replacements for users in US/CA/EU/UK/AU.
 
-<u>BIAS MINI Guitar/Bass</u>
-- Main product (Charge for replacement) - $200
+<u>BIAS Head/Rack/MINI Guitar & Bass/Pedal</u>
+- US/CA
+  Main product (Charge for replacement) - $100
+- EU/UK/AU
+  Main product (Charge for replacement) - $200
+
+*If the customer is out of the service region, please reach out to Felix Lin directly.
 
 1. Ask if the customer's willing to pay for the price. If so, get the PayPay account email or regular email from the customer. (We don't need to collect the defective unit due to high shipping fee.)
    

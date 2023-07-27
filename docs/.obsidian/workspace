@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "99bd6eed511978ab",
+        "id": "71f03243fad60f5d",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/Aftership Operation.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "99bd6eed511978ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":1.1735481203752276}"
-            },
-            {
-              "leaf": "99bd6eed511978ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721163213.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721164029.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164836.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Untitled/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":10}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164847.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/Buy with Prime.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":40},\"to\":{\"line\":2,\"ch\":40}},\"scroll\":0}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164836.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "99bd6eed511978ab",
+              "leaf": "71f03243fad60f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Resources/Frequently Used Resources.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":42.83000170195097}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":22.305811799312888}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+            "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
             "mode": "source",
             "source": false
           }
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md",
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Systems & Resources/Systems/Aftership Operation.md"
+                "file": "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md"
               }
             }
           },
@@ -240,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99bd6eed511978ab",
+  "active": "71f03243fad60f5d",
   "lastOpenFiles": [
+    "Media/Pasted image 20230721163213.png",
+    "Media/Pasted image 20230721164029.png",
+    "Pasted image 20230721164836.png",
+    "Pasted image 20230721164847.png",
+    "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
     "5. Systems & Resources/Systems/Aftership Operation.md",
     "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low.md",
     "Media/Pasted image 20230720144645.png",
     "2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md",
-    "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low 1.md",
-    "1. FAQs/Untitled/Untitled.md",
-    "1. FAQs/Promotions/Buy with Prime.md",
-    "5. Systems & Resources/Resources/Frequently Used Resources.md",
-    "4. Processes/c. Post-sale/Warranty Service/US/Service part request (US).md",
-    "4. Processes/c. Post-sale/Warranty Service/Non-US/Service part request (Non-US).md"
+    "2. Troubleshooting/Product/RIFF/Auto-gain says the input is low 1.md"
   ]
 }
