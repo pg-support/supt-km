@@ -27,6 +27,7 @@ Steps:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfeQshWNkriJTfn42XV4YQIePIpPk30vliuUt0oZH4JjsZReFG_JYEXfnEXXn5vIFHxkl4yzR_ieC6/embed?start=false" frameborder="0" width="764" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+
 [<u>Mac</u>](https://drive.google.com/file/d/1kewD8aP7oyleFZ7GY4AA2kAKGy4IMKhQ/view?usp=sharing):
 
 - Right-click on "log_enable_mac.command" and select "Run as administrator".
@@ -48,6 +49,7 @@ Steps:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUO0geFnSUdbFE19emgxBJ2S9NoHaT-h6PMhKuStncgq6uc4nD9ZfI0hyN19Ri0Dut9pP_1UNPFYxu/embed?start=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Sending the file]
+
 - Go to WeTransfer (https://wetransfer.com/), hit 'Add Your File' and upload the file
 *Hit the '...' icon on the bottom left, click on 'Send as link'
 - Copy and paste the link back to the email you're reading right now, then hit reply
