@@ -9,7 +9,16 @@
 If the customer encounters the error codes -1 or -2 on their Windows computers, please ask the customer to run the firmware updater as administrator (right click -> select ‘Run as administrator’).  
 
 ### 1 - General troubleshooting
-If the firmware update still fails, reply with Macro: <u># Spark MINI::Firmware Update Log</u>.
+If the firmware update still fails, ask the customer to provide a clear photo of the serial number of the Spark MINI.
+
+If the 7th number of the SN is 1, please use the macro:
+<u># Spark MINI::Firmware Update Log (STM)</u>.
+
+or 
+
+If the 7th number of the SN is 2, please use the macro:
+<u># Spark MINI::Firmware Update Log (GD/MCU)</u>.
+
 
 The macro includes new updater tools with logs for both Windows and Mac with step-by-step instruction. It also adds the tag "firmware_new" for us to monitor the trend of this issue.
 
