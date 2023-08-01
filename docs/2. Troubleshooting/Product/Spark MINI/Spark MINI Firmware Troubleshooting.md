@@ -36,3 +36,12 @@ If the update wasn’t successful, use the information below to examine the log 
 4.  Error code -15: 
    Spark Firmware installation timeout, please try again. Something went wrong during the update process, please disconnect the USB cable, then long press the power button for 10s to force shut down Spark MINI. Then reboot the Spark MINI and the updater to try again.
 
+### 3 - Bluetooth Issue
+
+If the customer update the firmware with log successfully, but the Spark MINI have the Bluetooth connection issue.
+
+Please use the macro and provide the BT firmware updater:
+
+<u> # SparkMINI::BT Firmware Update</u>
+
+If the workarounds resolve the issue, the case can be closed. (END)
