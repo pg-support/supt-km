@@ -1,22 +1,19 @@
 # Spark MINI Firmware Troubleshooting
-> If customer encounter any issue during/after the firmware v1.9.2.34 update and fail to perform it successfully, please follow the following steps:
+> If customer encounter any issue during/after the firmware v1.10.2.57 update and fail to perform it successfully, please follow the following steps:
 
-*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*
+~~*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*~~
 
 ***You can judge a Spark MINI's version by looking at the 7th digit of its SN: `1` is the  old version; `2` is the latest GD version.***
 
-### 0 - Run as administrator
-If the customer encounters the error codes -1 or -2 on their Windows computers, please ask the customer to run the firmware updater as administrator (right click -> select ‘Run as administrator’).  
-
-### 1 - General troubleshooting
+### 1 - Verify the SN
 If the firmware update still fails, ask the customer to provide a clear photo of the serial number of the Spark MINI.
 
-If the 7th number of the SN is 1, please use the macro:
+If the 7th number of the SN is 1, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (STM)</u>.
 
 or 
 
-If the 7th number of the SN is 2, please use the macro:
+If the 7th number of the SN is 2, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (GD/MCU)</u>.
 
 
@@ -38,4 +35,4 @@ If the update wasn’t successful, use the information below to examine the log 
    Python installation can not be completed, please try again. The installation of Spark Firmware will be aborted.
 4.  Error code -15: 
    Spark Firmware installation timeout, please try again. Something went wrong during the update process, please disconnect the USB cable, then long press the power button for 10s to force shut down Spark MINI. Then reboot the Spark MINI and the updater to try again.
-  
+
