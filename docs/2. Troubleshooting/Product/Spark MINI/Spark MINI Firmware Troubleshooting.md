@@ -38,7 +38,7 @@ If the update wasn’t successful, use the information below to examine the log 
 
 ### 3 - Bluetooth Issue
 
-If the customer update the firmware with log successfully, but the Spark MINI have the Bluetooth connection issue.
+If the customer updates the firmware with log successfully, but the Spark MINI have the Bluetooth connection issue.
 
 Please use the macro and provide the BT firmware updater:
 

@@ -26,6 +26,9 @@ If the issue persists after Step 1, we need the Spark’s SN to verify the codec
 
 GD is the latest Spark version and has the latest firmware already when manufactured. Users with GD version Spark amp do not need to update the firmware.
 
+Macro: <u># Spark Amp::Firmware Update Log (GD)</u>
+ 
+
 #### AKM version
 > SN# Range: The 6th number of Serial Number is 1, 2, 3, 4, 5, 6, 7, 8, A
 > i.e. S040C1xxxxxx, S040CAxxxxxx
