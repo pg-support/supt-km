@@ -10,9 +10,9 @@ Positive Grid currently only has tax ID numbers for specific countries. As a res
 
 For the countries listed below, we can offer a VAT invoice, which allows customers to request a VAT refund from their local government. 
 
--  EU: France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), , Czech (CZ), Poland (PL)
-- Australia (AU)
-- United Kingdom (UK)
+-  EU: France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), , Czech (CZ), Poland (PL): + 22%
+- Australia (AU): +10%
+- United Kingdom (UK): +20%
 
 Positive Grid's valid VAT#:
 
