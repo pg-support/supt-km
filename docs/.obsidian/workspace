@@ -4,108 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71f03243fad60f5d",
+        "id": "54380bb8b1907c40",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "71f03243fad60f5d",
+              "leaf": "54380bb8b1907c40",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721165024.png\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.47.47 PM.jpeg\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721165846.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/1. PDP Entrance.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.54.56 PM.jpeg\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/1. PDP Entrance.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Screenshot 2023-07-21 at 4.54.56 PM.jpeg\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. FAQs/Promotions/BIAS FX 2 Free Trial.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":2.3741611005953343}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721163213.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Media/Pasted image 20230721164029.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164836.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164847.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20230721164836.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "71f03243fad60f5d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":22.305811799312888}"
             }
           ]
         },
         "state": {
-          "type": "image",
-          "state": {
-            "file": "Media/Pasted image 20230721165024.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -198,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Pasted image 20230721165024.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Pasted image 20230721165024.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +161,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/Pasted image 20230721165024.png"
-              }
+              "state": {}
             }
           },
           {
@@ -274,8 +184,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba0c67ef121453d7",
+  "active": "54380bb8b1907c40",
   "lastOpenFiles": [
+    "Media/Pasted image 20230721165024.png",
     "Media/Screenshot 2023-07-21 at 4.47.47 PM.jpeg",
     "Media/Pasted image 20230721165846.png",
     "Media/1. PDP Entrance.png",
@@ -284,7 +195,6 @@
     "5. Systems & Resources/Systems/How to sign into Amazon with Authenticator App.md",
     "Media/Pasted image 20230721163213.png",
     "Media/Pasted image 20230721164029.png",
-    "Pasted image 20230721164836.png",
-    "Pasted image 20230721164847.png"
+    "Pasted image 20230721164836.png"
   ]
 }
