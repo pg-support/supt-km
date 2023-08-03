@@ -23,7 +23,7 @@ S040C5**9A**xxxxx, S040C9**02**xxxxx, and S040C9**0C**xxxxx
 In this case, we'll assist the customer to return/exchange the amp (PG paid).
 
 
-~~Inform the customer:
+~~Inform the customer:~~
 
 ~~This issue has been identified in some of the previous models of the Spark amp that were manufactured during a specific period.~~ 
 
