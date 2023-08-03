@@ -9,6 +9,21 @@ Verify if only guitar sound is gone, or audio playback (Bluetooth/USB/Aux In) is
   
 -   Only audio playback is gone, verify which one is gone. Troubleshoot the output that has no output: Check connection, make sure it’s not blocked by other connections.
 
+- Special Case:
+
+  If the amp is out-of-warranty, please ask the customer to provide a clear photo of the serial number.
+  
+  Check if the 7th digit is 9 or 0:
+  S040C5**9A**xxxxx, S040C9**02**xxxxx, and S040C9**0C**xxxxx
+  ***It means the amp was manufactured in 2019 & 2020*
+  
+  Inform the customer:
+  This issue has been identified in some of the previous models of the Spark amp that were manufactured during a specific period.   
+  *Please note that not all Spark users experience this issue.
+  
+  In this case, we'll assist the customer to return/exchange the amp (PG paid).
+
+
 
 See also:  
 
