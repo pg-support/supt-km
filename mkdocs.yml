@@ -47,7 +47,6 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - open-in-new-tab
 
 extra_javascript:
   - javascripts/mathjax.js

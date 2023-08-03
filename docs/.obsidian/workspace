@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "54380bb8b1907c40",
+        "id": "721de675fe2f89a9",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "54380bb8b1907c40",
+              "leaf": "721de675fe2f89a9",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -184,7 +184,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54380bb8b1907c40",
+  "active": "721de675fe2f89a9",
   "lastOpenFiles": [
     "Media/Pasted image 20230721165024.png",
     "Media/Screenshot 2023-07-21 at 4.47.47 PM.jpeg",
