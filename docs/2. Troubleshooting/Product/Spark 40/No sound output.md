@@ -8,9 +8,10 @@ Verify if only guitar sound is gone, or audio playback (Bluetooth/USB/Aux In) is
 -   Only guitar sound is gone, verify if the guitar/guitar cable is working properly. If issue persists -> RMA
   
 -   Only audio playback is gone, verify which one is gone. Troubleshoot the output that has no output: Check connection, make sure it’s not blocked by other connections.
-     
-    
-    
+
+  
+  
+  
 - Special Case:
 
     If the amp is out-of-warranty, please ask the customer to provide a clear photo of the serial number.
