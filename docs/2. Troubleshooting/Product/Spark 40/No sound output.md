@@ -18,7 +18,8 @@ If the amp is out-of-warranty, please ask the customer to provide a clear photo 
 
 Check if the 7th digit is 9 or 0:
 S040C5**9A**xxxxx, S040C9**02**xxxxx, and S040C9**0C**xxxxx
- ***It means the amp was manufactured in 2019 & 2020*
+
+*It means the amp was manufactured in 2019 & 2020*
 
 In this case, we'll assist the customer to return/exchange the amp (PG paid).
 
