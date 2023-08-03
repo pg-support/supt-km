@@ -17,6 +17,7 @@ Verify if only guitar sound is gone, or audio playback (Bluetooth/USB/Aux In) is
   
     Check if the 7th digit is 9 or 0:
     S040C5**9A**xxxxx, S040C9**02**xxxxx, and S040C9**0C**xxxxx
+    
     ***It means the amp was manufactured in 2019 & 2020*
   
     Inform the customer:
