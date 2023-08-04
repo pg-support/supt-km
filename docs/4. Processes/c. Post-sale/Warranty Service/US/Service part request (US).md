@@ -11,7 +11,8 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
 
 - Spark 40 Handle Strap ($30): [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
   
-  ==Special Case== 
+  ==Special Case==   
+  
   Please also check the serial number on the Spark amp:
   If the 7th digit is 9, 0: S040C5**9**xxxxxx, S040C9**0**xxxxxx
   
