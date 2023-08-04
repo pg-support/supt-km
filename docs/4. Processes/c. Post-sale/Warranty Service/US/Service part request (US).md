@@ -10,9 +10,11 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
 - Spark 40 PSU ($35): [Link](https://www.positivegrid.com/products/power-supply-unit-detachable-power-cable-is-included)  
 
 - Spark 40 Handle Strap ($30): [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
-  ==Special Case==
+  
+  ==Special Case== 
   Please also check the serial number on the Spark amp:
   If the 7th digit is 9, 0: S040C5**9**xxxxxx, S040C9**0**xxxxxx
+  
   Or 7th digit is 1 with 8th alphabet 1~6: 
   S040**13**xxxxx, S040**16**xxxxx
   We can offer the customer the strap for free.
