@@ -1,4 +1,4 @@
-# License Deactivate
+# License Deactivate (403)
 
 If the customers encounter the "(403) Activation limit reached" alert pop-up in BIAS FX 2 Mobile, it means that the activation has reached its limit (5 devices).
 
@@ -28,6 +28,9 @@ Once you use the tool, you will be able to use the command on Slack in the futur
 *This command is only available in the "backend-issue" channel*
 
 Command: /iap
-![[Pasted image 20230808152834.png]]
+
+
 
 If you can't find the command, please follow the steps from the top again.
+
+![[Xnip2023-08-08_16-08-02.jpg]]

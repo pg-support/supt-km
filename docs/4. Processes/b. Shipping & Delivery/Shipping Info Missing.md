@@ -3,3 +3,5 @@
 2. Agent needs to ask the customer to provide the renewed information according to the rejected reason. For example, we do not ship to military addresses, so please ask for a new address for such orders.  
 3. Once sent/updated (new address updated in Shopify), fill in the form accordingly.  
 4. Our logistics team will follow up to the form and ship out the updated orders.
+
+
