@@ -7,6 +7,7 @@ A ticket comes with Category and Issue type when the customer fill in a support 
 ![[Xnip2023-08-08_17-28-06.jpg]]
 
 Before responding to a ticket, please make sure to select the appropriate category and corresponding type. 
+*The issue type doesn't have a filter feature (mistake proofing), please make sure the issue type is belong to the correct category before making any modifications.*
 
 | Issue Category            | Issue Type                         |
 | ------------------------- | ---------------------------------- |

@@ -4,7 +4,7 @@
 3. Once sent/updated (new address updated in Shopify), fill in the form accordingly.  
 4. Our logistics team will follow up to the form and ship out the updated orders.
 
-*We only need to manage orders on Shopify and Amazon, please disregard any other orders*
+*We only need to manage orders on Shopify and Amazon, please disregard any other orders.*
 
 Shopify orders: PG-xxxxx, EU-xxxxx, UK-xxxxx, etc...
 
