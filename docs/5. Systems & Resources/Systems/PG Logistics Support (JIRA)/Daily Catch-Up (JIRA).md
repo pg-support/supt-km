@@ -26,8 +26,12 @@ For reporting only: Please review [[Delivery-induced Damage]] for further detail
 4. Click Create on JIRA, select "Logistics Support (LS)" and choose "Daily Catch-up" in Issue Type.
    
 5. Change the Support Request accordingly.
-   ![[Pasted image 20230811184304.png]] 
-   6. Once the ticket is created, you can always track the status on the LS board.
-      ![[Pasted image 20230811185200.png]] 
+   ![[Pasted image 20230811184304.png]]
+
+6. Fill in agent's name (your name) in Summary.
+   ![[Pasted image 20230811190530.png]]
+
+7. Once the ticket is created, you can always track the status on the LS board.
+   ![[Pasted image 20230811185200.png]] 
 
 
