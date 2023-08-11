@@ -27,7 +27,8 @@
 
 1). If the order is in 'Awaiting fulfillment', reply the customer with Zendesk Macro: Spark Cancellation (Not Shipped) (Modify if needed).
 
-2). 1. Go to JIRA and create a ticket in Project: "Logistics Support (LS)":
+2). 1. Go to [JIRA](https://positivegrid.atlassian.net/jira/your-work) and create a ticket in Project: "Logistics Support (LS)":
+
     Issue Type: Cancellation  
 
 3). Once submitted, check back on Logistics Support (LS) the next working day. 
