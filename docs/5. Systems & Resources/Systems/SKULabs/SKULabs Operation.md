@@ -25,7 +25,7 @@ Product is in stock and address is valid. Awaiting shipment.
 ### Shipped
 Product shipped. TRK# should be available in the system.
 
-→ If TRK# is not available in SKULabs after 2 days staying in “Awaiting Fulfillment”, escalate via [[Daily Catch-up]].
+→ If TRK# is not available in SKULabs after 2 days staying in “Awaiting Fulfillment”, escalate via [[Daily Catch-up JIRA]].
 
 ### Opened
 Product is in stock but address is invalid. Check [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) for further details and inquire correct information.

@@ -41,7 +41,7 @@ FBM:
 ---
 ## Order Shipping Inquiry
 
-Please refer to [[SKULabs Operation]] and [[Daily Catch-up]] for further details on how to inquire about shipping status. 
+Please refer to [[SKULabs Operation]] and [[Daily Catch-Up (JIRA)]] for further details on how to inquire about shipping status. 
 
 ### Important Notice
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
@@ -149,7 +149,7 @@ Below are some common reasons and additional steps for Amazon order return:
   
 - Once the photos are uploaded, ask the customer to follow the official Amazon return process to return the product. 
   
-- Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Resend & Replacement]]), or [[#Order Refund]].
+- Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Resend & Replacement (JIRA)]]), or [[#Order Refund]].
   
 - We may offer a $5~10 partial refund for customer satisfaction, on a case-by-case basis. Please discuss with Tagui on this matter.
 
@@ -158,7 +158,7 @@ Below are some common reasons and additional steps for Amazon order return:
 
 - However, if a customer insists on returning the product due to technical issues, ask them to proceed with the official return process. 
 
-- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with either sending a replacement ([[Resend & Replacement]]) or [[#Order Refund]].
+- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with either sending a replacement ([[Resend & Replacement (JIRA)]]) or [[#Order Refund]].
 
 #### Customer-induced damages
 - Ask the customer to proceed with the official return process.
@@ -214,7 +214,7 @@ If the customer want to request for repair service, ask them to contact our offi
 
 ---
 ## Change Address
-Amazon's system does NOT support changing the address of an order. If the situations calls for it (special case), please fill in [[Daily Catch-up]] to request changing the address at the warehouse side.
+Amazon's system does NOT support changing the address of an order. If the situations calls for it (special case), please fill in [[Daily Catch-Up (JIRA)]] to request changing the address at the warehouse side.
 
 ---
 ## Swap / Add / Deduct Items in an Order
