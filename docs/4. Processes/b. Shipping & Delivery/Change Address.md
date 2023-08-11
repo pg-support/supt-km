@@ -33,8 +33,11 @@ This could lead to 2 scenarios:
 
 ### Scenario A: Customer will pay the fee
 1. Go to JIRA and create a ticket in Project: "Logistics Support (LS)":
+   
     Issue Type: Daily Catch-up  
+    
     Support Request: Change Address 
+    
     Make sure to fill in the PayPal account. 
 2. Go Shopify and also update the shipping address on the order.
 3. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and add a comment “Sent” in the Support Comment.
