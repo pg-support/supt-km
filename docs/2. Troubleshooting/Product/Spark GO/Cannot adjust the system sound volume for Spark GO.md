@@ -4,9 +4,11 @@ Instead of adjusting the volume for Spark GO, please follow the instructions bel
 
 1. Go to System -> Sound
    
+   ![[Pasted image 20230702131025.png]]
+   
 2. Find “Advanced” -> Volume mixer.
    
-3. Lower the “System sounds” in the Apps list.
+3. Adjust the “System sounds” in the Apps list.
 
 ![[Pasted image 20230702131025.png]]
 
