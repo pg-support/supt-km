@@ -32,10 +32,13 @@ Ask the customer to provide their PayPal account email (or regular email if they
 This could lead to 2 scenarios:
 
 ### Scenario A: Customer will pay the fee
-1. Go to Supt-Logistics Form and fill in a Daily Catch-up -> Change Address request. Make sure to fill in the PayPal account. 
+1. Go to JIRA and create a ticket in Project: "Logistics Support (LS)":
+    Issue Type: Daily Catch-up  
+    Support Request: Change Address 
+    Make sure to fill in the PayPal account. 
 2. Go Shopify and also update the shipping address on the order.
-3. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and change the Invoice Status (in Supt-Logistics Form (Responses)) to “Sent”.
-4. Once the customer has paid off the fee, Invoice Status will be updated to “Paid”. 
+3. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and add a comment “Sent” in the Support Comment.
+4. Once the customer has paid off the fee, please update the comment  to “Paid”. 
 5. Logistics team will then change the address and send out the order. TRK# should be available within 2 days since their update. 
 
 ### Scenario B: Customer wants to cancel 

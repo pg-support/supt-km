@@ -12,5 +12,5 @@
    
 4. Once uploaded, proceed with the [[DOA (Non-US)]] process (return & replacement)
    
-5. Once the case is settled, report to the logistics team via [[Daily Catch-up]] by submitting a support request (in Supt-Logistics form) accordingly. 
+5. Once the case is settled, report to the logistics team via [[Daily Catch-Up (JIRA)]] by submitting a ticket request in Logistics-Support (LS) accordingly. 
 6. Once the case is reported, the ticket can be closed.

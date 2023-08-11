@@ -27,9 +27,10 @@
 
 1). If the order is in 'Awaiting fulfillment', reply the customer with Zendesk Macro: Spark Cancellation (Not Shipped) (Modify if needed).
 
-2). Fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request.
+2). 1. Go to JIRA and create a ticket in Project: "Logistics Support (LS)":
+    Issue Type: Cancellation  
 
-3). Once submitted, check back on Supt-Logistics Form (Responses) the next working day. 
+3). Once submitted, check back on Logistics Support (LS) the next working day. 
 
 1. If the cancellation is successful, our logistics team will mark it as ‘Successful’. Proceed with the [[Refund Process]]. (<u>END</u>)
 
@@ -37,7 +38,7 @@
 
 4). If the order is shipped and the customer is instructed to refuse the shipment, check back on the tracking number to verify if it’s returned to sender or delivered.
 
-1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
+1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Logistics Support (LS)](https://positivegrid.atlassian.net/jira/software/projects/LS/boards/47). Proceed with the [[Refund Process]]. (END)
 
 2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
    
@@ -54,7 +55,7 @@
 
 2). If the order is shipped and the customer is instructed to refuse the shipment, check back on the tracking number to verify if it’s returned to sender or delivered.
 
-1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Supt-Logistics Form (Responses)](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing). Proceed with the [[Refund Process]]. (END)
+1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Logistics Support (LS)](https://positivegrid.atlassian.net/jira/software/projects/LS/boards/47). Proceed with the [[Refund Process]]. (END)
 
 2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)
    
