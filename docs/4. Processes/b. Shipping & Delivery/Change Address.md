@@ -39,6 +39,7 @@ This could lead to 2 scenarios:
     Support Request: Change Address 
     
     Make sure to fill in the PayPal account. 
+    
 2. Go Shopify and also update the shipping address on the order.
 3. Maines should issue the PayPal invoice directly to the customer’s inbox/PayPal account, and add a comment “Sent” in the Support Comment.
 4. Once the customer has paid off the fee, please update the comment  to “Paid”. 
