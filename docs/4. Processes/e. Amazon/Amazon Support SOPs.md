@@ -121,7 +121,7 @@ If we fail to acquire the correct information from the customer before the requi
 ### Within 30 days - Amazon's Return Process
 Within 30 days of purchase, we should always ask customers to return their unit (no matter the reason) via Amazon's system. This will leave a return record on Amazon and would be easier for tracking.
 
-However if the customer is particularly irate about the situation and wants PG to offer a pre-paid return label, please highlight to Tagui for further discussion.
+However if the customer is particularly irate about the situation and wants PG to offer a pre-paid return label, please highlight to Dans for further discussion.
 
 #### Returning a product via Amazon
 

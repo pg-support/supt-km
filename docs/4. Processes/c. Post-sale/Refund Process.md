@@ -62,7 +62,7 @@
 
 After the discontinuation of BC, our previous payment systems such as Braintree and Stripe have also been deactivated. If you have any existing orders on BC that needs to be refunded, we require assistance from the finance team to process refunds.
 
-Before proceeding, please verify the payment method and refund amount for your orders, and **forward the following information to Tagui/Joseph**:
+Before proceeding, please verify the payment method and refund amount for your orders, and **forward the following information to Joseph**:
 
 If it was a credit card payment, kindly request the following information from the customer:
 
