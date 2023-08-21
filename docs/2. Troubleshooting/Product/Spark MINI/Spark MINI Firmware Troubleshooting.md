@@ -19,6 +19,8 @@ If the 7th number of the SN is 2, please use the macro and provide the updater w
 
 The macro includes new updater tools with logs for both Windows and Mac with step-by-step instruction. It also adds the tag "firmware_new" for us to monitor the trend of this issue.
 
+The firmware version should read as "1.10.2.57" once update via the firmware updater successfully complete.
+
 If the workarounds resolve the issue, the case can be closed. (END)
 
 If the issue persists after the troubleshooting, ask the customer to provide the log file (generated with the updater tool) for further verification. 
