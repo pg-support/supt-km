@@ -35,7 +35,7 @@
 
 ### Firmware updated, Bluetooth no longer connects
 
-- First, verify if the connection issue has to do with the **known issue** where **devices running refresh rate higher than 60hz will cause Spark app to disconnect**.  
+~~- First, verify if the connection issue has to do with the **known issue** where **devices running refresh rate higher than 60hz will cause Spark app to disconnect**.~~  
   
 - If the issue only occurs after firmware update, ask the user to forget previous Bluetooth connection on their phone, and try connecting again.
   
