@@ -4,7 +4,15 @@
 Below are the details for the issue. Use it as reference for reply.
 
 - Certain iOS devices will encounter choppy Bluetooth playback when Spark Control is connected, however this only happens to a very little number of devices and we cannot be 100% certain that certain iOS + iPhone/iPad combinations will always produce this issue.
-- Currently, our team cannot successfully build a workable firmware release that can resolve the issue without bringing in other side effects. We'll continue to investigate the issue but we do not have any estimated time for the update. 
-- Suggest workaround: Playback music via other channels such as aux in or USB, or try another device (such as Android) if one is available.
 
-If there’s further complaint, please highlight for further advice.
+- Solution:
+  
+  1. Connect Spark Control, then open AirTurn (manager) app.
+  2. Find the connected device (Spark Control should start with SKC50S...) and click on it.
+  3. Go to 'Advanced' setting and change the connection speed to 'Low power mode'. 
+
+This should resolve the issue.
+
+
+![[Pasted image 20230821134954.png]]
+
