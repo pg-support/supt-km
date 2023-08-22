@@ -15,8 +15,12 @@
 → Login information: Each user’s company email
 
 [SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
-(Access permission: Tiny/Grace)
+(Access permission: Tiny)
 → Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
+
+[JIRA](https://positivegrid.atlassian.net/jira/your-work)
+(Access permission: Erica)
+→ Login information: Each user's company email
 
 [Kickflip](https://positivegrid.gokickflip.com/admin/orders)
 (Access permission: Tiny)

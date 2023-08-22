@@ -17,6 +17,7 @@ Method#1:
 Click "Get return label", the label will be downloaded on your computer.
 
 Attach the label to the email and send it to the customer.
+
 *Ensure modify the content accordingly
 
 ![[Pasted image 20230723141922.png]]

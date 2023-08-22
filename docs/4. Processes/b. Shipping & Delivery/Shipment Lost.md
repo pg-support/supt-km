@@ -8,9 +8,9 @@
 > -> Follow through the rest of this article.
 
 ## Notice for Amazon Orders
-**We do NOT ask customers who bought from Amazon to sign claim forms.**
-**We do NOT ask customers who bought from Amazon to sign claim forms.**
-**We do NOT ask customers who bought from Amazon to sign claim forms.**
+- **We do NOT ask customers who bought from Amazon to sign claim forms.**
+- **We do NOT ask customers who bought from Amazon to sign claim forms.**
+- **We do NOT ask customers who bought from Amazon to sign claim forms.**
 For Amazon orders, please proceed with step 3.
 
 ### 1 - Offer claim form
@@ -30,7 +30,7 @@ Once the customer replied with the signed claim form, [upload the claim form to 
 >Please make sure the customer has replied with a clear photo/scan of the claim form where the signature can be clearly identified, and Tracking Number & Shipping Carrier are filled. If not, please ask the customer to resend it.
 
 ### 3 - Fill out a resend request
-Once uploaded & updated, fill in the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) for resend.
+Once uploaded & updated, follow the [[Resend & Replacement (JIRA)]] for resend.
 
 1. ‘Hardware Product’, ‘1st Accessory’... should be selected according to what needs to be re-sent. If the whole order needs to be re-sent, select all the main products and accessories accordingly.
 2. ‘RS/RE Reason’ should be “Shipment lost, please resend.”

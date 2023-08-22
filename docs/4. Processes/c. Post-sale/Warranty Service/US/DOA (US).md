@@ -10,27 +10,34 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
 ### 2 - Create a return
 Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].
 
-![[Pasted image 20230424150952.png]]
+![[Pasted image 20230822174351.png]]
 
-### 3 - Approve the return
-Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation]] for further details.
+### 3 - Offer return label
 
-![[Pasted image 20230424152350.png]]
+- Method#1:
 
-### 4 - Offer return label
-Once the return is approved and all the shipping info properly updated, you may generate a return label and send it directly to the customer.
-![[Pasted image 20230424174843.png]]
+Click "Get return label", the label will be downloaded on your computer.
+
+Attach the label to the email and send it to the customer.
+
+*Ensure modify the content accordingly
+
+![[Pasted image 20230723141922.png]]
+
+
+- Method#2:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs3QqZKzBN0o5ipV_h_uIw4eBwK-XNbrj_6iTlMcildrtbDwsA2egFFqC7HB3QwTvN3DW-MHCIRhek/embed?start=false" frameborder="0" width="760" height="456" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
-### 5 - Check the TRK# for the returned package
+### 4 - Check the TRK# for the returned package
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-Fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JIRA)]])
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
    
