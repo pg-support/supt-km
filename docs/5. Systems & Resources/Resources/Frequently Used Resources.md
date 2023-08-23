@@ -10,8 +10,7 @@
 (Access permission: Tagui)
 → Login information: Each user’s company email
 
-[Shopify](<[https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup)>)
-(Access permission: Tiny)
+[Shopify](https://admin.shopify.com/store/positivegrid) (Access permission: Tiny)
 → Login information: Each user’s company email
 
 [SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
