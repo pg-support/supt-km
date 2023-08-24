@@ -37,11 +37,15 @@ Before responding to a ticket, please make sure to select the appropriate catego
 ### Trending Issue
 
  When a high-impact issue is verified, Dans or WT will create a “Problem” ticket in Zendesk.
+![[Pasted image 20230824103239.png]]
+
+Please select “Incident” in the “Type” to the corresponding issue and follow the instructions (internal note) in the main Problem ticket.
  
- Please adjust the ticket type to “Incident” and choose the relevant topic that corresponds to the problem.
- 
-![[Xnip2023-08-08_17-20-34.jpg]]
+ ![[Pasted image 20230824103337.png]]
+
+![[Pasted image 20230824103417.png]]
 
 This will assist us in tracking the issues throughout the process.
 
 If there is a trending issue without a relevant topic, please reach out to Dans or WT.
+
