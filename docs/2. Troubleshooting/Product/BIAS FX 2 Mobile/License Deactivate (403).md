@@ -5,10 +5,12 @@ If the customers encounter the "(403) Activation limit reached" alert pop-up in
 ![[Xnip2023-08-08_14-55-45.jpg]]
 
 To deactivate the license, please navigate to the related relevant topic in "backend-issue" channel on Slack:
-https://positivegrid.slack.com/archives/C4H4P850X/p1690251649714899
+[https://positivegrid.slack.com/archives/C4H4P850X/p1690251649714899
+](https://positivegrid.slack.com/archives/C4H4P850X/p1690251649714899
+)
 
 1.Before you use this tool, you have to click "Start Workflow" button from the link below:
-https://positivegrid.slack.com/docs/T0250SJH7/F05JH75JULC
+[https://positivegrid.slack.com/docs/T0250SJH7/F05JH75JULC](https://positivegrid.slack.com/docs/T0250SJH7/F05JH75JULC)
 
 ![[Xnip2023-08-08_15-03-20.jpg]]
 
