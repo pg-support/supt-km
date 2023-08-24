@@ -48,10 +48,8 @@ Free resend if missing.
 
 2. Tag Maines / Weiting in supt-private to bring their attention to the invoice request.
    
-3. Once confirm the payment
-   
-4. Create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
+3. **Once confirm the payment**, create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
 > ![[Pasted image 20230823133124.png]]
 > ![[Pasted image 20230823133251.png]]
 
-5. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
+4. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
