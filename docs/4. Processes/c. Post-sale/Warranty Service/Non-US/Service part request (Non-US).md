@@ -46,22 +46,12 @@ Free resend if missing.
 >  If so, ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal).
 >  
 
-2. Create an issue on JIRA (LS) and select "Service Part Request" in issue type.
+2. Tag Maines / Weiting in supt-private to bring their attention to the invoice request.
+   
+3. Once confirm the payment
+   
+4. Create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
 > ![[Pasted image 20230823133124.png]]
-> 
-> Fill in the product and Paypal account
 > ![[Pasted image 20230823133251.png]]
 
-
-3. Once submitted, go to the issue page and click share. 
-   Share this issue (Share in Slack) to "supt-private" with "Invoice needed".
-   
-   ![[Pasted image 20230823134542.png]]
-   
-4. Tag Maines / Weiting in the thread to bring their attention to the invoice request.
-   
-![[Pasted image 20230823134941.png]]
-   
-5. Once the invoice is paid, as Maines / Weiting to confirm the payment. If confirmed, they'll chance 'Invoice Status' to 'paid' in [PG Supt-Logistics Form](https://docs.google.com/spreadsheets/d/1Fy29NhrA1tZJXq3LkVxNPUamxsd1ddPnmv3llIYY2E4/edit?usp=sharing) (Service Part Request). 
-
-6. Once the ‘Invoice Status’ is changed to ‘Paid’, the logistics team will soon ship out the PSU. Check back for TRK# and provide it to the customer. (END)
+5. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
