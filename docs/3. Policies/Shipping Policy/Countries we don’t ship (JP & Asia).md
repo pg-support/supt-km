@@ -11,7 +11,7 @@ If there's no dealer available in the region, let the customer know accordingly 
 
 |            |                                              |            |
 | ---------- | -------------------------------------------- | ---------- |
-| Korea      | n/a                                          |            |
+| Korea      | [Sama D&I](https://samastore.co.kr/)                                          |            |
 | Taiwan     | [音樂城市](https://pangolinmusic.com/)       | 賀伊美樂器 |
 | Philippine | [RJ Guitar](https://www.rjguitarcenter.com/) |            |
 | Singapore  | [Swee Lee](https://www.sweelee.com.sg/)      |            |
