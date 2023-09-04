@@ -9,11 +9,11 @@
 [Zendesk](<[https://help.positivegrid.com/access/unauthenticated](https://help.positivegrid.com/access/unauthenticated)>) 
 (Access permission: Tagui)
 → Login information: Each user’s company email
-
+、
 [Shopify](https://admin.shopify.com/store/positivegrid) (Access permission: Tiny)
 → Login information: Each user’s company email
 
-[SKULabs](<[https://app.skulabs.com/](https://app.skulabs.com/)>)
+[SKULabs](https://app.skulabs.com/orders#processing)
 (Access permission: Tiny)
 → Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
