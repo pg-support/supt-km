@@ -5,7 +5,7 @@
 2. Agent needs to ask the customer to provide the renewed information according to the rejected reason. For example, we do not ship to military addresses, so please ask for a new address for such orders.  
    
 ***Always search the order number on Zendesk and check whether there is an existing ticket .
-
+***
 
 3. Once sent/updated (new address updated in Shopify), fill in the form accordingly.  
    
