@@ -46,7 +46,9 @@ Free resend if missing.
 >  If so, ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal).
 >  
 
-2. Tag Maines / Weiting in supt-private to bring their attention to the invoice request.
+2. Tag Maines / Weiting in supt-private to bring their attention to the invoice request. 
+   List: Ticket#, Original Order#, Email, Service Part Name 
+   
    
 3. **Once confirm the payment**, create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
 > ![[Pasted image 20230823133124.png]]
