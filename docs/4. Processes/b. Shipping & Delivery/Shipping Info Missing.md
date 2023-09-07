@@ -15,10 +15,10 @@ The order will be listed on the Shipping Info Missing form due to the following 
 
 3 . Create a new ticket and apply the macro accordingly:
 
-	For the cases include invalid address, phone number, recipient or the package was sent back to our warehouse (return to sender), use the macro:
+For the cases include invalid address, phone number, recipient or the package was sent back to our warehouse (return to sender), use the macro:
  <u># Shipping Info Missing::SIM</u>
 
-	For cases involving addresses that include a P.O. box, use the following macro:
+For cases involving addresses that include a P.O. box, use the following macro:
  <u># Shipping Info Missing::POBox</u>
 
 To effectively follow up the case, the macro will rename the ticket title to "Order#PG-xxxxx / Shipping Info Missing".
