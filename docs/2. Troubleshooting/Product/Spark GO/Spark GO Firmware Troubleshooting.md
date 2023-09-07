@@ -31,7 +31,7 @@
   
 - If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
   
-- If issue persists, please highlight to Dans and Felix, and collect the machine back to Taipei office for further investigation.
+- If issue persists, please highlight to Dans and WeiTing, and collect the machine back to Taipei office for further investigation.
 
 ### Firmware updated, Bluetooth no longer connects
 
@@ -47,5 +47,5 @@
 
 - If the amp is totally bricked and cannot power on anymore, please proceed with DOA/RMA. 
   
-- Highlight to Dans and Felix, and collect the machine back to Taipei office for further investigation.
+- Highlight to Dans and WeiTing, and collect the machine back to Taipei office for further investigation.
 

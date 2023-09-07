@@ -20,7 +20,7 @@ Upon confirmation of warranty service, request the following information:
 	- Country:
 	- Cell/Phone:
 
- Send the inquired information to @felix via slack or mail. 
+ Send the inquired information to @Anya Lien via slack or mail. 
  
  Once a replacement is sent to the customer, outbound TRK# will be updated directly to the agent.
  

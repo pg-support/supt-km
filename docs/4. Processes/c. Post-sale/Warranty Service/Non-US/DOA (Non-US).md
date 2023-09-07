@@ -33,7 +33,7 @@ Service center should send the return label directly to the agent’s inbox with
    
    ![](https://lh4.googleusercontent.com/lDx0h0DOqfyCQtzwrBgmCLRGjU4e3973SMu9CJ083jiRhrm2eW1XSKVY-PRJqQ-0QfEwTn8BV9-CKx3ezx5mL-zCERKlK5U9Tfp44TCqQctVWRghuoPpDF6ijgOuneo1WCN129s-YSs6s4pDsD_KNm9Oy50e_hXaVZ2eFaur3wcfDkPvcmNevkKHRcKn)
    
-> *If no label shows up within 3 days, please reach out to Felix Lin.
+> *If no label shows up within 3 days, please reach out to Anya Lien.
    
 Once received the return label, use macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the client.
 
