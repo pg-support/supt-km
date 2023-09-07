@@ -3,11 +3,12 @@
 1 . Orders that are missing certain information in their addresses, will be shown as “Opened” in shipping status (in SKULabs), and also listed in the [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing), each with its rejected reason.  
 
 The order will be listed on the Shipping Info Missing form due to the following reasons:
-	a. Invalid address (wrong zip code, non existent address).
-	b. Invalid phone number.
-	c. Invalid recipient. 
-	d. The initial shipment was returned to the sender (sent back to Positive Grid's warehouse). 
-	e. Address includes P.O. box.
+
+- Invalid address (wrong zip code, non existent address).
+- Invalid phone number.
+- Invalid recipient. 
+- The initial shipment was returned to the sender (sent back to Positive Grid's warehouse). 
+- Address includes P.O. box.
    
 2 . Agent needs to ask the customer to provide the renewed information according to the rejected reason. 
 
