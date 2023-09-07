@@ -9,20 +9,25 @@ The order will be listed on the Shipping Info Missing form due to the following 
 - Invalid recipient. 
 - The initial shipment was returned to the sender (sent back to Positive Grid's warehouse). 
 - Address includes P.O. box.
+
    
 2 . Agent needs to ask the customer to provide the renewed information according to the rejected reason. 
 
 ***Always search on Zendesk with the order number to check for any existing tickets before sending a new ticket to the customer.***
 
+
 3 . Create a new ticket and apply the macro accordingly:
 
 For the cases include invalid address, phone number, recipient or the package was sent back to our warehouse (return to sender), use the macro:
+
  <u># Shipping Info Missing::SIM</u>
 
 For cases involving addresses that include a P.O. box, use the following macro:
- <u># Shipping Info Missing::POBox</u>
+
+<u># Shipping Info Missing::POBox</u>
 
 To effectively follow up the case, the macro will rename the ticket title to "Order#PG-xxxxx / Shipping Info Missing".
+   
    
 4 . Once sent/updated (new address updated in Shopify), fill in the form.  
    
