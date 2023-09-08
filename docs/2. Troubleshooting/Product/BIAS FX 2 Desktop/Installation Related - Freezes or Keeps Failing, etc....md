@@ -10,7 +10,8 @@ Before following the troubleshooting guide, ensure the customer disable the fire
 -   Additionally, use a 3rd party uninstaller like [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [Geek Uninstaller](https://geekuninstaller.com/) to completely remove BIAS FX 2 from your computer. 
 -   Try install again.
 -   If any error message pops up, ask for a screenshot for further troubleshooting.
-
+ <br>
+ 
 > "Computer is running 32-bit Windows"
 
 - Inform the customer that the latest version of BIAS FX 2 does not support Windows running 32-bit. Provide the previous version of BIAS FX 2 with the link below:
