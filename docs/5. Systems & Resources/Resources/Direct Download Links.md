@@ -15,9 +15,9 @@ Mac AAX
 
 Windows 64bit
 [https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe)
-\
-\
-\
+
+
+
 **Ver. 2.6.0.6580** 
 
 Mac Standalone
