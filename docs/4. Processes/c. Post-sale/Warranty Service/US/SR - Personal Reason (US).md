@@ -14,19 +14,21 @@ Once confirmed that the customer would like to return the order (must be a full 
 ### 2 - Create a return
 Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].
 
-![[Pasted image 20230424150952.png]]
+![[Pasted image 20230822174351.png]]
 
-For the SN, please leave it in the comment section:
-![[Pasted image 20230620121942.png]]
+### 3 - Offer return label
 
-### 3 - Approve the return
-Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation]] for further details.
+- Method#1:
 
-![[Pasted image 20230424152350.png]]
+Click "Get return label", the label will be downloaded on your computer.
 
-### 4 - Offer return label
-Once the return is approved and all the shipping info properly updated, you may generate a return label and send it directly to the customer.
-![[Pasted image 20230424174843.png]]
+Attach the label to the email and send it to the customer.
+
+![[Pasted image 20230723141922.png]]
+
+
+- Method#2:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs3QqZKzBN0o5ipV_h_uIw4eBwK-XNbrj_6iTlMcildrtbDwsA2egFFqC7HB3QwTvN3DW-MHCIRhek/embed?start=false" frameborder="0" width="760" height="456" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]

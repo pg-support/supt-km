@@ -25,8 +25,6 @@ Click "Get return label", the label will be downloaded on your computer.
 
 Attach the label to the email and send it to the customer.
 
-*Ensure modify the content accordingly
-
 ![[Pasted image 20230723141922.png]]
 
 
@@ -36,13 +34,21 @@ Attach the label to the email and send it to the customer.
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
-### 4 - Check the TRK# for the returned package
-Check the tracking with the corresponding carrier. As soon as the package is on the road, we may request the replacement.
 
->Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
+### 4 - Aftership Follow Up
 
-Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JIRA)]])
+Inform the customer that he/she will receive a new tracking number for the replacement. (END)
 
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
+#### How to find the tracking number for the replacement?
 
-Forward the tracking information to the customer when available. Case can be closed. (END)
+Aftership will Change the Status to "Received" when the package is delivered to the service center.
+![[Pasted image 20230911141544.png]]
+
+![[Pasted image 20230911141605.png]]
+
+It will create a new order for the replacement automatically.
+![[Pasted image 20230911141805.png]]
+![[Pasted image 20230911141845.png]]
+
+Click on the Exchange order, it will redirect you to the exchange order page on Shopify.
+![[Pasted image 20230911142124.png]]
