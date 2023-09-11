@@ -25,22 +25,12 @@
 
 ### Awaiting fulfillment
 
-1). If the order is in 'Awaiting fulfillment', reply the customer with Zendesk Macro:  Cancellation (Awaiting Fulfillment).
+1). If the order is in 'Awaiting fulfillment', reply with Macro:  Cancellation (Awaiting Fulfillment).
 *Modify if needed*
 
-2). The macro will explain the situation and inform the customer to refuse the shipment. 
+2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. (END)
 
-
-
-~~1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Logistics Support (LS)](https://positivegrid.atlassian.net/jira/software/projects/LS/boards/47). Proceed with the [[Refund Process]]. (END)~~
-
-~~2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)~~
-   
-~~5). If order is delivered and~~
-
-~~1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)~~
-
-~~2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept (Non-US)]])~~
+3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
 
 
 ### Shipped
@@ -48,17 +38,6 @@
 1). If the order is shipped (tracking number is available), reply with Macro: Cancellation (Shipped)  
 *Modify if needed*
 
-2). The macro will explain the situation and inform the customer to refuse the shipment. 
+2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. (END)
 
-
-
-~~1. If the tracking number shows ‘Return to Sender’, update it accordingly in [Logistics Support (LS)](https://positivegrid.atlassian.net/jira/software/projects/LS/boards/47). Proceed with the [[Refund Process]]. (END)~~
-
-~~2. If the tracking number shows ‘Delivered’, update it accordingly in the form. Contact the customer to ask if they still want to return the order and be refunded. (Proceed with Step 5)~~
-   
-~~3). If order is delivered and~~
-
-~~1. the customer wants to keep the order, update it accordingly in the form as ‘Order Kept’. Case can be closed. (END)~~
-
-~~2. the customer still wants to return the order for refund, update it accordingly in the form as ‘SR’ and proceed with the sales return process. (To be continued in [[SR - Fail to Intercept (Non-US)]])~~
-
+3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
