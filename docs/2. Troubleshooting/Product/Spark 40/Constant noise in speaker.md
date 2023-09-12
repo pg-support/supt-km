@@ -17,6 +17,7 @@ In this case, we'll assist the customer to return/exchange the amp (PG paid).
 
 
 Provide the Information if it's necessary:
- 
- 
+<br>
 "Even though it has been more than X years since your warranty expiration date, I genuinely hope to enhance your user experience. With that in mind, I've taken special measures on your behalf. We will waive the out-of-warranty repair fee and provide you with a replacement free of charge."
+
+<br>
