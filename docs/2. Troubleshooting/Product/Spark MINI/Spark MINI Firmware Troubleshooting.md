@@ -8,12 +8,12 @@
 ### 1 - Verify the SN
 If the firmware update still fails, ask the customer to provide a clear photo of the serial number of the Spark MINI.
 
-If the 7th number (the letter after "G") of the SN is 1, e.g. S1011G12A00003A, please use the macro and provide the updater with logs:
+If the 7th number (the letter after "G") of the SN is 1, e.g. S1011G1xxxxxxxx, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (STM)</u>.
 
 or 
 
-If the 7th number (the letter after "G") of the SN is 2, e.g. S1011G22A00003A, please use the macro and provide the updater with logs:
+If the 7th number (the letter after "G") of the SN is 2, e.g. S1011G2xxxxxxxx, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (GD/MCU)</u>.
 
 
