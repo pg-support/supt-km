@@ -1,6 +1,6 @@
 # Aftership Operation
 > Currently, we only use Aftership (to generate return labels) for orders that are in the **US & Within Warranty & from Shopify**.
-
+<br>
 ## Login
 
 [Link](https://admin.aftership.com/)
@@ -8,7 +8,6 @@ You can find the login information in [PG Supt Login Information](https://docs.g
 
 ## Creating a Return
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 
 ## Getting the Return Label
 
