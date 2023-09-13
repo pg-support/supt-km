@@ -29,4 +29,4 @@ Once the return label is sent to the customer, instruct them to follow the guida
 
 <br>
 ### 4 - Create an Exchange Order Manually
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaw7MOH7ooz0m04TtuR2QaWIyJTO1ZrvZyI6yhkeP6WASC4WnHiZL_H5CuAhr5P_JgrbTXohHUxI41/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaw7MOH7ooz0m04TtuR2QaWIyJTO1ZrvZyI6yhkeP6WASC4WnHiZL_H5CuAhr5P_JgrbTXohHUxI41/embed?start=false&loop=false" frameborder="0" width="760" height="570" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
