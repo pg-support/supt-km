@@ -15,32 +15,43 @@ Once confirmed the customer has received an extra or incorrect item, insert Macr
    
 - Submit as pending. 
 
+<br>
 ### 2 - Create a return
-Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].
+Once the client replies with all the requested information, create a return as instructed below:
 
-![[Pasted image 20230424150952.png]]
+Due to the system limitations, we're unable to send a replacement item that differs from the original item in the order.  
+**If the customer receive the wrong item, please select "Refund to original payment method" in RESOLVE section.**
 
-### 3 - Approve the return
-Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation]] for further details.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
+### 3 - Offer return label
 
-![[Pasted image 20230424152350.png]]
+- Method#1:
 
-### 4 - Offer return label
-Once the return is approved and all the shipping info properly updated, you may generate a return label and send it directly to the customer.
-![[Pasted image 20230424174843.png]]
+Click "Get return label", the label will be downloaded on your computer.
+
+Attach the label to the email and send it to the customer.
+
+![[Pasted image 20230723141922.png]]
+
+
+- Method#2:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs3QqZKzBN0o5ipV_h_uIw4eBwK-XNbrj_6iTlMcildrtbDwsA2egFFqC7HB3QwTvN3DW-MHCIRhek/embed?start=false" frameborder="0" width="760" height="456" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
-### 5 - Check the TRK# for the returned package
+
+### 4 - Check the TRK# for the returned package
 Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
 
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the refund ASAP. Please wait for further notice. Thank you.
+> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the refund/resend the correct item ASAP. Please wait for further notice. Thank you.
 
-### 6 - Check the status of the received package
+### 5 - Check the status of the received package
 On the ETA of the returning package, check the tracking with the corresponding carrier to verify if the returned item is delivered. 
 
 Once delivered, verify whether the case is an operation error (we sent an extra item) or will require a resend (we sent a wrong item).
 
 1. Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
-2. Resend (we sent a wrong item):  Fill out a RS or Service Part request on the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801), depending on the item missing. Offer the TRK# to the customer once available. (END)
+   
+2. Resend (we sent a wrong item):  Fill out a RS or Service Part request on [[Resend & Replacement (JIRA)]] depending on the item missing. Offer the TRK# to the customer once available. (END)

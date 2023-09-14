@@ -7,11 +7,12 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
 
+<br>
 ### 2 - Create a return
-Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].
+Once the client replies with all the requested information, create a return as instructed below:
 
-![[Pasted image 20230822174351.png]]
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
 ### 3 - Offer return label
 
 - Method#1:
@@ -19,8 +20,6 @@ Once the client replies with all the requested information, create a return as i
 Click "Get return label", the label will be downloaded on your computer.
 
 Attach the label to the email and send it to the customer.
-
-*Ensure modify the content accordingly
 
 ![[Pasted image 20230723141922.png]]
 
@@ -31,6 +30,7 @@ Attach the label to the email and send it to the customer.
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
+<br>
 ### 4 - Check the TRK# for the returned package
 Check the tracking with the corresponding carrier and verify if the item is returned.
 

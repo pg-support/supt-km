@@ -1,5 +1,7 @@
 # Direct Download Links
 
+**Do NOT provide the direct download links to customers in a normal circumstance. Always ask them to download the latest version of software on My Account page.**
+
 ## BIAS FX 2
 
 **Ver. 2.6.1.6290**

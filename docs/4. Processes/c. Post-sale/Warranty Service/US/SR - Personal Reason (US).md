@@ -34,7 +34,7 @@ Once the return label is sent to the customer, instruct them to follow the guida
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
 
-### 5 - Check the TRK# for the returned package
+### 4 - Check the TRK# for the returned package
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 Go back to the ticket and update the estimated delivery date (according to the tracking number) in the subject:
@@ -49,7 +49,7 @@ Reply the ticket with a heads-up, and submit as ‘On-hold’:
 > 
 > Please wait for further notice. Thank you.
 
-### 6 - Check the status of the received package
+### 5 - Check the status of the received package
 On the ETA of the returning package, check the tracking with the corresponding carrier to verify if the returned item is delivered. 
 
 - Once delivered, the agent can proceed with the [[Refund Process]].
