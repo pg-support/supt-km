@@ -38,6 +38,6 @@
 1). If the order is shipped (tracking number is available), reply with Macro: Cancellation (Shipped)  
 *Modify if needed*
 
-2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. (END)
+2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. Don't forget to provide the customer with tracking number. (END)
 
 3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
