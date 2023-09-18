@@ -12,7 +12,15 @@ Before proceeding, please check the user's name & email and compare them with Sh
 Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
     ![](https://lh4.googleusercontent.com/KAG8xtMlvQ-3LweFYg0IfjHp1oYumblzKyDrRke6hFIcQQfhsZ78Zfg4x0UOkhniW2zgzKsbNFfpeqRygj_j-HYHTrIXIzC1-eSbniT4qRXbCl1rmfhC5zLAPLCHhkl75TJdvztYKhWPiOz4qZTNlvcHOVpMVKzqx-sUTXnjGNpAuGcLKLYXQeJXV9uJ)  
 
-> If the customer provide a shipping address which is different from the original order, check [[Different Shipping Address for the Replacement]].
+ <br>
+ **Special Case:**
+ a. The customer request to change address for the replacement
+ 
+After inquiring about basic info, if the customer provides a shipping address which is different from the original order, follow up on step 2 in: [[Different Shipping Address for the Replacement]]
+<br>
+ b. The order included personalized grille
+ 
+After inquiring about basic info, if the customer's order includes personalized grille, follow up on step 2 in: [[RMA, DOA Includes a Personalized Grille]]
 
 <br>
 ### 2 - Create a return
