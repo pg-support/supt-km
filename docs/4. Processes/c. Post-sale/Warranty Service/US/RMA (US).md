@@ -14,14 +14,16 @@ Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the 
 
  <br>
  **Special Case:**
+ <br>
  a. The customer request to change address for the replacement
- 
-After inquiring about basic info, if the customer provides a shipping address which is different from the original order, follow up on step 2 in: [[Different Shipping Address for the Replacement]]
+ <br>
+After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
 <br>
  b. The order included personalized grille
- 
-After inquiring about basic info, if the customer's order includes personalized grille, follow up on step 2 in: [[RMA, DOA Includes a Personalized Grille]]
+ <br>
+After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
 
+<br>
 <br>
 ### 2 - Create a return
 Once the client replies with all the requested information, create a return as instructed below:

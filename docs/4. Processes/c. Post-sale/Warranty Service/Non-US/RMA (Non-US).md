@@ -1,4 +1,4 @@
-# RMA
+# RMA (Non-US)
 > For all RMA cases at this time, please proceed by sending a replacement.
 
 ### 0 - Verify the warranty
@@ -41,7 +41,7 @@ The service center should send the return label directly to the agent’s inbox 
 > *If no label shows up within 3 days, please reach out to Anya Lien.*
 
 
-Once received the return label, use macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the client. 
+Once received the return label (which will be sent to agents' inbox), use macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the client. 
    
 Make sure to provide the correct RMA number (auto-generated when submitted). Submit as ‘Pending’.
 
@@ -54,7 +54,7 @@ Check the tracking with the corresponding carrier. As soon as the package is on 
 
 >Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
 
-Fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Request replacement on [[Resend & Replacement (JIRA)]]  
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 
