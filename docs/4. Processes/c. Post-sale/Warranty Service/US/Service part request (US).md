@@ -13,7 +13,7 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
   
   If the customer received the Spark amp with 2-pin power supply, we can send a grounded (3-pin) power supply for free. 
   Macro: # Spark Amp > Troubleshooting:: Spark Hum 1 
-
+<br>
 
 - Spark 40 Handle Strap ($30): [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
   
@@ -26,7 +26,7 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
   S040**13**xxxxx, S040**16**xxxxx
   We can offer the customer the strap for free.
   
-  
+  <br>
 
 - Spark MINI Handle Strap ($30): [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-mini)
 

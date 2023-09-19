@@ -49,7 +49,7 @@ Check the tracking with the corresponding carrier and verify whether the case wi
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-Fill in [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801) to request a replacement. 
+Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JIRA)]]).
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
    

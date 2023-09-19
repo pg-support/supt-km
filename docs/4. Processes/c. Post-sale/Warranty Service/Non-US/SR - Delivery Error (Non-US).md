@@ -65,4 +65,4 @@ If ‘Case Status’ is updated to ‘Missing Items’, it means there’re miss
 If ‘Case Status’ is updated to ‘Ready for Warranty Service', please proceed with the corresponding actions:
 
 1. Warranty Service = Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
-2. Warranty Service = Resend (we sent a wrong item):  Fill out a RS or Service Part request on the [Supt-Logistics Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform?fbzx=4036418607483484801), depending on the item missing. Offer the TRK# to the customer once available. (END)
+2. Warranty Service = Resend (we sent a wrong item): Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JIRA)]]), depending on the item missing. Offer the TRK# to the customer once available. (END)
