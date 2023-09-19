@@ -8,9 +8,7 @@ Currently, Aftership automatically arranges for the replacement shipment to be s
 
 If the customer provide a shipping address which is different from the original address, please follow the instructions below:
 <br>
-### 2 - Create Return
-
-## Creating a Return
+### 2 - Create a Return
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 ### 3 - Offer return label
@@ -22,6 +20,7 @@ Click "Get return label", the label will be downloaded on your computer.
 Attach the label to the email and send it to the customer.
 
 ![Pasted image 20230723141922.png](https://pg-support.github.io/supt-km/Media/Pasted%20image%2020230723141922.png)
+<br>
 
 - Method#2:
 
