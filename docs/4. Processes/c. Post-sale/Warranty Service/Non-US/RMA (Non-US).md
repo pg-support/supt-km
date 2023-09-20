@@ -4,7 +4,7 @@
 ### 0 - Verify the warranty
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.  
 
-> If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s still within 1 year of the purchase). Once verified, proceed with the RMA process. 
+> If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s still within 1-year of the purchase/2-year in the EU). Once verified, proceed with the RMA process. 
 
 ### 1 - Inquire about basic info
 Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
