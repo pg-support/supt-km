@@ -10,8 +10,6 @@
    
 ![](https://lh6.googleusercontent.com/UjVtclkEzvmWK47cycvRXMdJAxzPnBlM8JMXx3LJUaUVlEPOUsffSaP1MFZrNJvXBP-YtZspvhjxlAxHn0GkZz3p1YRze3COZM4MbGFgrc6c5axfWss3XCo37CXecmyuPTnosCV2324rjA5AANuc3Sw)
    
-4. If it is confirmed that the wrong cable is being used, as for now we do not have the correct cables for resend yet, [please log the case in this sheet](https://docs.google.com/spreadsheets/d/1MgfoWIEz_Gg4RgqH5WLKUzIgj0abqpnAE8CaexazFBE/edit?usp=sharing).
+4. If it is confirmed that the wrong cable is being used, follow the Service Part Request process: [[Service part request (US)]] or [[Service part request (Non-US)]].
    
-5. Upon further notice, request a the correct cable to be sent to the user via [[Service part request (Non-US)]].
-   
-6. In the event that the correct cable is being used but the issue persists, initiate a replacement of the entire unit through the RMA process.
+5. In the event that the correct cable is being used but the issue persists, initiate a replacement of the entire unit through the RMA process.
