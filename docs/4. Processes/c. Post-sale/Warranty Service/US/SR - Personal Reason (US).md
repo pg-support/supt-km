@@ -33,8 +33,12 @@ Attach the label to the email and send it to the customer.
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
+Aftership will change the status of the order to "Received" when the package is delivered to the service center.
+![[Pasted image 20230911141544.png]]
 
-### 4 - Check the TRK# for the returned package
+![[Pasted image 20230911141605.png]]
+<br>
+### 4 - Aftership Follow Up
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 Go back to the ticket and update the estimated delivery date (according to the tracking number) in the subject:
