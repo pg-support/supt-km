@@ -53,7 +53,7 @@ Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JI
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
    
-Forward the tracking information to the customer when available. Case can be closed. (END)
+Forward the tracking information (on SKULabs) to the customer when available. Case can be closed. (END)
 
 
 #### Refund
