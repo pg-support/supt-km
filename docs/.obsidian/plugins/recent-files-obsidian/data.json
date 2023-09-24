@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
-    },
-    {
       "basename": "Bluetooth choppy audio when Spark Control is connected",
       "path": "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md"
     },
@@ -47,6 +43,10 @@
     {
       "basename": "RIFF has high noise floor or hiss noise when playing",
       "path": "2. Troubleshooting/Product/RIFF/RIFF has high noise floor or hiss noise when playing.md"
+    },
+    {
+      "basename": "Aftership Operation",
+      "path": "5. Systems & Resources/Systems/Aftership Operation.md"
     },
     {
       "basename": "Auto-gain says the input is low",
@@ -155,6 +155,10 @@
     {
       "basename": "No input in Mac",
       "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/No input in Mac.md"
+    },
+    {
+      "basename": "Installation freezes or keeps failing",
+      "path": "2. Troubleshooting/Product/BIAS FX 2 Desktop/Installation freezes or keeps failing.md"
     },
     {
       "basename": "Cannot download the installer",
