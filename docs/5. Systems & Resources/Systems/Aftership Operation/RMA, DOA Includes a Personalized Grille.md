@@ -29,4 +29,3 @@ Once the return label is sent to the customer, instruct them to follow the guida
 <br>
 ### 4 - Create a $0 Order Manually on Shopify
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmaNHjItq-Iqz9jDkvXASg5lPtPByuK8hYI7dLbhZfmpCVzGvSDLujF76qxRCVE-Q19oCcl9ACiFjg/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-

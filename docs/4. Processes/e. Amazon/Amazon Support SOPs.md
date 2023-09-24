@@ -68,11 +68,6 @@ Please refer to [[SKULabs Operation]] and [[Daily Catch-Up (JIRA)]] for further 
 
 - Once the form is updated, the logistics team will modify the shipment information accordingly and ship out the order.
 
-### Invoice Request
-
-- The customer can request the invoice from Amazon directly.
-
-[View, download, or create reporting on your invoices](https://www.amazon.com/gp/help/customer/display.html?ref_=help_search_1-10&nodeId=GB2ABKD25MGSPE6Q&qid=1695268512540&sr=1-10)
 
 ---
 
