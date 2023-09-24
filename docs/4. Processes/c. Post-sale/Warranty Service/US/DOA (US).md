@@ -29,21 +29,32 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
 <br>
-### 4 - Check the TRK# for the returned package
+Aftership will change the status of the order to "Received" when the package is delivered to the service center.
+![[Pasted image 20230911141544.png]]
+
+![[Pasted image 20230911141605.png]]
+<br>
+### 4 - Aftership Follow Up
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
-#### Replacement
-If the case requires a replacement, it can be requested as soon as the package is on the road. 
+### Replacement
+If the case requires a replacement, Aftership will create an "Exchange Order" when the defective package is delivered to our service center.
 
-Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement (JIRA)]]).
-   
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
-   
-Forward the tracking information to the customer when available. Case can be closed. (END)
+Inform the customer that they will receive a new tracking number once the replacement is shipped. (END)
+<br>
+<br>
+#### How to find the tracking number for the replacement?
 
 
+Aftership will create a new order (Exchange Order) for the replacement automatically.
+![[Pasted image 20230911141805.png]]
+![[Pasted image 20230911141845.png]]
+
+Click on the Exchange order, it will redirect you to the exchange order page on Shopify.
+![[Pasted image 20230911142124.png]]
+
+<br>
 #### Refund
 If the case requires a refund, we need to wait for the package to be received by our service center. Once we can see the package is on the road, communicate with the customer as below:
 

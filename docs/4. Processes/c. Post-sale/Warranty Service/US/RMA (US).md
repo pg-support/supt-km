@@ -50,22 +50,20 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
-
-### 4 - Aftership Follow Up
-
-Inform the customer that he/she will receive a new tracking number for the replacement. (END)
-
 <br>
-<br>
-#### How to find the tracking number for the replacement?
-
 Aftership will change the status of the order to "Received" when the package is delivered to the service center.
 ![[Pasted image 20230911141544.png]]
 
 ![[Pasted image 20230911141605.png]]
+<br>
+### 4 - Aftership Follow Up
 
-And it will create a new order for the replacement automatically.
+Inform the customer that they will receive a new tracking number once the replacement is shipped. (END)
+<br>
+<br>
+#### How to find the tracking number for the replacement?
+
+Aftership will create a new order (Exchange Order) for the replacement automatically.
 ![[Pasted image 20230911141805.png]]
 ![[Pasted image 20230911141845.png]]
 

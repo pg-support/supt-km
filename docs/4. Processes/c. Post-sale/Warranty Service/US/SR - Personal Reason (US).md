@@ -12,10 +12,11 @@ Once confirmed that the customer would like to return the order (must be a full 
 ![](https://lh6.googleusercontent.com/B9WsXkXUGJz2mZjdxPtBNdhj_RA0aMjHmyLJj1KIXhqP0qyvR96VTB1p2ZomNWsFZtsHzU-wiEU_l1jXmEAYUXnDFZco-3TAy3lpaN5J4E5txpc1ENwka_Cs8pbb0Th4-LZ78YfyNngGE_Wpgq3Yceoxndy_vkQcL1eCB4I6OxGB84Kw_yzcHsSZLcrc)
 
 ### 2 - Create a return
-Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].
+Once the client replies with all the requested information, create a return as instructed below:
 
-![[Pasted image 20230822174351.png]]
-
+**If the customer receive an extra item, please select "Refund to original payment method" in RESOLVE section.**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
 ### 3 - Offer return label
 
 - Method#1:
@@ -33,8 +34,12 @@ Attach the label to the email and send it to the customer.
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
+Aftership will change the status of the order to "Received" when the package is delivered to the service center.
+![[Pasted image 20230911141544.png]]
 
-### 4 - Check the TRK# for the returned package
+![[Pasted image 20230911141605.png]]
+<br>
+### 4 - Aftership Follow Up
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 Go back to the ticket and update the estimated delivery date (according to the tracking number) in the subject:

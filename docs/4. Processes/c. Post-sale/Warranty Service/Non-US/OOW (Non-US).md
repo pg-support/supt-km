@@ -96,4 +96,4 @@ Once a TRK# is provided so we can confirm the returned package is on the way, th
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 
-Forward the tracking information to the customer when available. Case can be closed. (END)
+Forward the tracking information (on SKULabs) to the customer when available. Case can be closed. (END)

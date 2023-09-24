@@ -3,10 +3,13 @@
 > For old BIAS hardware products (BIAS Head/Rack/MINI Guitar&Bass), currently we have enough stock in Taiwan to offer replacements for users in US/CA/EU/UK/AU.
 
 <u>BIAS Head/Rack/MINI Guitar & Bass/Pedal</u>
-- US/CA
-  Main product (Charge for replacement) - $100
-- EU/UK/AU
-  Main product (Charge for replacement) - $200
+
+| Product    | US/CA | EU/UK/ AU |  
+| ---------- | -------------|-----|
+| BIAS MINI GUitar/Bass | $100 | $200 |
+| BIAS Head/Head Processor | $100 | $200 |
+| BIAS Rack/Rack Processor | $100 | $200 |
+| BIAS Pedal | $100  | $150 |
 
 *If the customer is out of the service region, please reach out to Anya Lien directly.
 

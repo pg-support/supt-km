@@ -1,4 +1,4 @@
-# Custom Grille Design Reject/Reprint
+# Custom Grille Design Reject/Reprint (For Victor)
 > If the design violates our [Submission Guidelines](https://help.positivegrid.com/hc/en-us/articles/9291263379341-Personalized-Product-Submission-Guidelines), or consists of system/design error, please follow through this process for rejecting/reprinting the order, based on whether it includes other products.
 
 ## Reject - Order only includes customized product(s)
@@ -11,8 +11,13 @@
 ## Reprint - Order includes other product(s)
 
 > If an order includes products besides the custom grille, the other products will be shipped separately by our logistics team as long as they're in stock. 
-> 
-> In such cases, we should prioritize asking the customer to proceed with the **reprint process**. 
-> 
-> However if the user would like to be refunded instead, we can offer partial refund for the customized item. Please proceed by removing the customized item from the order in Shopify and offer partial refund.
+> <br>
+> In such cases, we should prioritize asking the customer to proceed with the **reprint process**. Because the customer might want to cancel the whole order if we reject the design.
+> <br>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1-7e6GoWxdNYOPiH08rKDqEz1GKPOvbQl_bIHcnqkM5yz-_fgK_7kW1sIQ7vV2wJUV2exHpjo6M21/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+> However if the user would like to be refunded instead, we can offer partial refund for the customized item. Please proceed by removing the customized item from the order in Shopify and offer partial refund. (retrieve the delivered item by processing [[SR - Personal Reason (US)]]).
+
+
+## Support team needs to link the new order to the old one on Shopify 
+
+![[Pasted image 20230921102130.png]]

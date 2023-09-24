@@ -29,4 +29,4 @@ The customer can reply "STOP" to the message to unsubscribe or visit the link to
 
 > Delete all personal data / information
 
-If the user also wants us to delete their email info / personal information from our database, check the “Personal information delete” option. Joseph will manually remove the user’s email data from our database.
+If the user also wants us to delete their email info / personal information from our database, fill in the information in  the “[Personal Information Management](https://docs.google.com/spreadsheets/d/1SKvxEdenGdrKdzYuD8PZPvYOlxtCMAf5RNubbkMdfho/edit#gid=0)”. Joseph will manually remove the user’s email data from our database.
