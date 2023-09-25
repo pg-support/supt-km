@@ -59,6 +59,7 @@ Inform the customer that he/she will receive a new tracking number for the repla
 <br>
 <br>
 #### How to find the tracking number for the replacement?
+*Customer will receive the tracking number when the replacement is shipped. Instructions below will show you how to find the tracking for the replacement manually*
 
 Aftership will change the status of the order to "Received" when the package is delivered to the service center.
 ![[Pasted image 20230911141544.png]]
