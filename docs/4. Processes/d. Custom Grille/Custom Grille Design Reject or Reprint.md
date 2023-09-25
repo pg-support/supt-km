@@ -20,6 +20,7 @@
 Victor Huang will send the ticket with coupon code to the customer. Support Team needs to link the new and old order together by tagging the old order number onto the new one.
 
 Go to Shopify and locate the new order, select "Orders" and type the old order number to the comment.
+
 ![[Pasted image 20230925130517.png]]
 
 ![[Pasted image 20230925130533.png]]
