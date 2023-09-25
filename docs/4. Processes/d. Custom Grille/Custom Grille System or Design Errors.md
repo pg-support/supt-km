@@ -1,6 +1,6 @@
 # Custom Grille System/Design Errors
 ## Common errors
-### 1 - Backend Management System cannot read the file (does not show the preview)
+### - Backend Management System cannot read the file (does not show the preview)
 
 a. Go to [Kickflip](https://positivegrid.gokickflip.com/admin/home) to find the order.
 
@@ -21,21 +21,21 @@ c. Find the original design in 'Print Files' and make sure it matches the previe
 ![[Pasted image 20230223121649.png]]
 
 
-### 2 - The preview and the full-sized photo shows different designs (some elements are off)
+### - The preview and the full-sized photo shows different designs (some elements are off)
 
 ![](https://lh5.googleusercontent.com/nW8aKd7vQj61-fmEZE1GgNLiU-U3HgcTlogLlaXJzMO7b8Z5A6lC6aYht1s5buzw8J5GhuYX7CP7Us6QBaOVt9EujDIn35fknMb11CgrOrN7egUZ-8NY9Vk8TKxSDJbemDq-ctPqhkNqS2Zxs_FuayU)![](https://lh4.googleusercontent.com/JQ0_Uy7BklOAIMH949cyPIGQPTKZARMzC7RX4sK9eLX8-37kJl8Imw5RSbSAMmbLRig0B3bjJ6_Igjd0jw03hwYMQC1w__6wu3tmS1929EBUjEDIHQLkkhIqNFVNj3hRgHBJfAjbzFB18mFxlC_Mgco)
 
 Report the issue on [Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), then proceed with the [[Custom Grille Design Reject or Reprint|reprint process]].
 
 
-### 3 - The preview and the full-sized photo shows different colors (inverted)
+### - The preview and the full-sized photo shows different colors (inverted)
 
 ![](https://lh3.googleusercontent.com/5bfClL_6RLs9AND9KR5IdOhdZLNVsJJO4l5jn_lN8WjpdpuvjSWRueCmFznZ8ZwyOXxYr5_FKLcsp9C3s_QNqHwi6DXhdJ-LgGUyOzfLzog5F1ddOHUMLigfW1iZZjs1GEf5i-FOxvTMrAMqTG5vWWo)![](https://lh3.googleusercontent.com/dOY7CLVabc3Gowz3aa8lF2eb-HaNOo9Rd5VE5uLimVJRTT0ml4qszGhBZtV8P1S38joEq-06eH2WNl_aLkwnGc4Kscsg7bZ81uR3V6TL1ug28bJGV1sfr7atPfmCVnuxaRV6JIklJnnkqscZslGjuuI)
 
 Report the issue on [Kickflip Issue Trackers](https://docs.google.com/spreadsheets/d/1QWlU9GCxHrK5SsvI39NrN39Xlavc271mEfhcQ6IJk6k/edit#gid=191533831), then proceed with the [[Custom Grille Design Reject or Reprint|reprint process]].
 
 
-### 4 - Extra 'X' sticker in the design 
+### - Extra 'X' sticker in the design 
 > This is NOT a system error, instead it can potentially be a mistake from the user. We want to verify with the user to see if the 'X' is part of the design. 
 
   **![](https://lh3.googleusercontent.com/D4lXIoO81aqVPZi-tz83BgTOeIkz7j9iMwaxAt8P7UYUmSGo2t8tGri8Wl_nXCex5X4QGptlyEayK_aY31Pv_aVU9PYZUGkqapItCWisB2S08KF0U2Sqp-Ym205T-LE5Pt6-xMg4orsAK4662m6QqoE)![](https://lh4.googleusercontent.com/XS7pvUtDK0iVDfl4-WsPLVYFKUORxOB-66xylRbHV6fH_-LE6_3MX4G7J7-HHGNteTY777_RoxNfcC_1hYFu-TABi9uufE_RXd8Gtx1fj2z2ba_zMZXaFTx_wcbtIZ1H3GLCPfKgBoFK4Yv5B06EUP0)**
