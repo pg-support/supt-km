@@ -9,7 +9,7 @@
 [Zendesk](<[https://help.positivegrid.com/access/unauthenticated](https://help.positivegrid.com/access/unauthenticated)>) 
 (Access permission: Tagui)
 → Login information: Each user’s company email
-、
+
 [Shopify](https://admin.shopify.com/store/positivegrid) (Access permission: Tiny)
 → Login information: Each user’s company email
 
