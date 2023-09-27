@@ -21,6 +21,6 @@ Provide the Information if it's necessary:
 "Even though it has been more than X years since your warranty expiration date, I genuinely hope to enhance your user experience. With that in mind, I've taken special measures on your behalf. We will waive the out-of-warranty repair fee and provide you with a replacement free of charge."
 
 
-#noise #white #hum #psu
+Keywords: noise, white noise, hum, psu, grounded
 
 <br>
