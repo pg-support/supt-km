@@ -34,7 +34,7 @@ macro: <u># Shipping Info Missing::Address Updated</u>
    <br>
 5 . Logistics team will follow up on the form and ship out the updated orders.
 <br>
-6 . Don't forget to close the ticket **with a proper reason** (update the status to **Order Shipped / Delivered / Resolved**). 
+6 . Don't forget to close the ticket **with a proper reason**, e.g. "No reply from the customer, refunded" or "RS item delivered, Order#RS-PGXXXXX", and update the status to **Order Shipped / Delivered / Resolved** on [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing). 
 <br>
 <br>
 We only need to manage orders on Shopify and Amazon, please disregard any other orders.*
