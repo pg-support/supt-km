@@ -34,7 +34,7 @@ macro: <u># Shipping Info Missing::Address Updated</u>
    <br>
 5 . Logistics team will follow up on the form and ship out the updated orders.
 <br>
-6 . Don't forget to close the ticket (update the status to **Order Shipped / Delivered / Resolved**). 
+6 . Don't forget to close the ticket **with a proper reason** (update the status to **Order Shipped / Delivered / Resolved**). 
 <br>
 <br>
 We only need to manage orders on Shopify and Amazon, please disregard any other orders.*
