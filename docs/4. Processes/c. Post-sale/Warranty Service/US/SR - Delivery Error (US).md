@@ -48,9 +48,9 @@ Check the tracking with the corresponding carrier. Once the package is on the ro
 > We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the refund/resend the correct item ASAP. Please wait for further notice. Thank you.
 
 ### 5 - Check the status of the received package
-On the ETA of the returning package, check the tracking with the corresponding carrier to verify if the returned item is delivered. 
+On the ETA of the returning package, check the tracking with the corresponding carrier to verify if it's on the way to our service center. 
 
-Once delivered, verify whether the case is an operation error (we sent an extra item) or will require a resend (we sent a wrong item).
+Once the package is on its way, verify whether the case is an operation error (we sent an extra item) or will require a resend (we sent a wrong item).
 
 1. Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
    

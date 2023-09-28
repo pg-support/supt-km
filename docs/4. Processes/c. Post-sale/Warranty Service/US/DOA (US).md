@@ -51,8 +51,4 @@ If the case requires a refund, we need to wait for the package to be received by
 > 
 > Kindly wait for further notice. Thank you.
 
-If an ETA is available on the tracking site (of the carrier), you may note it in the ticket in order to check back.
-
-On the ETA of the returning package, check on the carrier's site to verify if the item is delivered.
-
-Once the package is delivered, proceed with the [[Refund Process]]. [END]
+If an ETA is available on the tracking site (of the carrier), you proceed with the [[Refund Process]]. [END]. (because the label is provided by Positive Grid)
