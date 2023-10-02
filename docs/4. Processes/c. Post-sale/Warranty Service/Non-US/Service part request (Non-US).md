@@ -35,6 +35,9 @@ Free resend if missing.
 <u>Handle Strap (black/white)</u> - $30  
 <u>USB Cable (type A to C)</u> - $20
 
+#### Spark GO
+<u>USB Cable (type A to C)</u> - $20
+
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20
 

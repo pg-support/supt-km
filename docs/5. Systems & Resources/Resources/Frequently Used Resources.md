@@ -65,6 +65,7 @@
 
 > Use Zendesk macro *Support Coupon Terms & Conditions* for additional terms and conditions.
 
+[Spark Hardware Serial Number Sheet](https://docs.google.com/spreadsheets/d/1AZhKe2_M6kJ3lGqEUEWCN24ziOnW5gmV-DrV_mV2GEY/edit#gid=1719610527) - Serial number for the Spark series.
 ## Useful Tools
 
 [Magical – Text Expansion](https://chrome.google.com/webstore/detail/magical-%E2%80%93-text-expansion/iibninhmiggehlcdolcilmhacighjamp)
