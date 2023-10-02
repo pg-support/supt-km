@@ -44,5 +44,3 @@ Once submitted, inform the customer that we’ll arrange another shipment, ask t
 
 ### 4 - Offer TRK# for the new shipment
 Please follow up to the ticket and make sure to provide the tracking information to the customer when the new shipment is out for delivery, before closing the ticket.
-<br>
-#### **If the carrier fail to deliver the package again, kindly guide the customer to our authorized retailers, e.g. Guitar Center, Amazon, and proceed with issuing a refund for the original order.**
