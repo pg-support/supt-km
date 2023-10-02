@@ -1,11 +1,11 @@
 # Countries with free shipping
-- **United States** 
+##### **United States** 
 
 $99+ order value = free shipping
 Applicable only to the contiguous United States. Orders shipping to Alaska, Hawaii, or under $99 are subject to a shipping charge. This offer is subject to change without notice.
 <br>
 <br>
-- **Canada**
+##### **Canada**
   
 $0 - $69 order value = $8 shipping charge  
 
@@ -16,19 +16,19 @@ $129+ order value = free shipping
 *Currency: Canadian Dollar*
 <br>
 <br>
-- France
+##### France
 
-- Germany
+##### Germany
 
-- Ireland
+##### Ireland
 
-- Italy
+##### Italy
 
-- Netherlands
+##### Netherlands
 
-- Poland
+##### Poland
 
-- Sweden
+##### Sweden
 
 €0 - €44 order value = €5 shipping charge
 
@@ -38,8 +38,8 @@ $129+ order value = free shipping
 
 €119 order value = free shipping
 <br>
-<br>
-- United Kingdom
+<br> 
+##### United Kingdom
 
 £0 - £39 order value = £5 shipping charge
 
@@ -50,4 +50,4 @@ $129+ order value = free shipping
 £99+ order value = free shipping
 <br>
 <br>
-- Australia
+##### Australia
