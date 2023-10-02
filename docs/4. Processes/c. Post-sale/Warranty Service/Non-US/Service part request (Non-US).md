@@ -30,17 +30,19 @@ Free resend if missing.
 - Mexico - $126 USD
 
 <u>Handle Strap</u> - $30
-
+<br>
 #### Spark MINI
 <u>Handle Strap (black/white)</u> - $30  
 <u>USB Cable (type A to C)</u> - $20
-
+<u>Volume Knob</u>:
+We currently do not have knobs in stock, please ask the customer to consider purchasing the replacement on [Amazon](https://www.amazon.com/dp/B01F6XUK9G/ref=twister_B07588G6BZ?_encoding=UTF8&th=1).
+<br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20
-
+<br>
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20
-
+<br>
 
 ### Process (non-US)
 

@@ -38,26 +38,23 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
 Inform the customer about the price and refer them to the corresponding purchase link below for the accessory.
 
 Once they check out and complete the order, the shipment will be arranged promptly. (END)
-
+<br>
 #### Spark 40 
 <u>PSU (Power Supply)</u> - $35: [Link](https://www.positivegrid.com/products/power-supply-unit-detachable-power-cable-is-included)  
 <u>Handle Strap</u> - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
 <u>USB Cable (USB-A to USB-B)</u> - $20: [Link](https://www.positivegrid.com/products/usb-a-to-usb-b-cable)
-
+<br>
 #### Spark MINI
 <u>Handle Strap (black/white)</u> - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-mini)  
 <u>USB Cable (type A to C)</u> - $20: [Link](https://www.positivegrid.com/products/usb-c-to-usb-a-cable)
 <u>Volume Knob</u>:
 We currently do not have knobs in stock, please ask the customer to consider purchasing the replacement on [Amazon](https://www.amazon.com/dp/B01F6XUK9G/ref=twister_B07588G6BZ?_encoding=UTF8&th=1).
-
+<br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20: [Link](https://www.positivegrid.com/products/usb-c-to-usb-a-cable)
-
+<br>
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20: [Link](https://www.positivegrid.com/products/usb-a-to-9v-charging-dc-cable)  
-
-
-
 
 
 ---
