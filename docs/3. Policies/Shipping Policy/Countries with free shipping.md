@@ -14,11 +14,17 @@ $129+ order value = free shipping
 <br>
 <br>
 - France
+
 - Germany
+
 - Ireland
+
 - Italy
+
 - Netherlands
+
 - Poland
+
 - Sweden
 
 €0 - €44 order value = €5 shipping charge
