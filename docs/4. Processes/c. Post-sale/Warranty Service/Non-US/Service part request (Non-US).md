@@ -31,19 +31,22 @@ Free resend if missing.
 
 <u>Handle Strap</u> - $30
 <br>
+<br>
 #### Spark MINI
 <u>Handle Strap (black/white)</u> - $30  
 <u>USB Cable (type A to C)</u> - $20
 <u>Volume Knob</u>:
 We currently do not have knobs in stock, please ask the customer to consider purchasing the replacement on [Amazon](https://www.amazon.com/dp/B01F6XUK9G/ref=twister_B07588G6BZ?_encoding=UTF8&th=1).
 <br>
+<br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20
+<br>
 <br>
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20
 <br>
-
+<br>
 ### Process (non-US)
 
 1. Inform the customer about the pricing (as listed), and verify if the customer is willing/has to pay for a service part. 

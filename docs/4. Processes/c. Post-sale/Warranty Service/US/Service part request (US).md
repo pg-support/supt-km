@@ -44,14 +44,17 @@ Once they check out and complete the order, the shipment will be arranged prompt
 <u>Handle Strap</u> - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
 <u>USB Cable (USB-A to USB-B)</u> - $20: [Link](https://www.positivegrid.com/products/usb-a-to-usb-b-cable)
 <br>
+<br>
 #### Spark MINI
 <u>Handle Strap (black/white)</u> - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-mini)  
 <u>USB Cable (type A to C)</u> - $20: [Link](https://www.positivegrid.com/products/usb-c-to-usb-a-cable)
 <u>Volume Knob</u>:
 We currently do not have knobs in stock, please ask the customer to consider purchasing the replacement on [Amazon](https://www.amazon.com/dp/B01F6XUK9G/ref=twister_B07588G6BZ?_encoding=UTF8&th=1).
 <br>
+<br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20: [Link](https://www.positivegrid.com/products/usb-c-to-usb-a-cable)
+<br>
 <br>
 #### Spark Control
 <u>USB Cable (type A to 9V DC)</u> - $20: [Link](https://www.positivegrid.com/products/usb-a-to-9v-charging-dc-cable)  
