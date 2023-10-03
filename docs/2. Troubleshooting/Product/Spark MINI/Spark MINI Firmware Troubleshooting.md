@@ -47,3 +47,5 @@ Please use the macro and provide the BT firmware updater:
 <u> # SparkMINI::BT Firmware Update</u>
 
 If the workarounds resolve the issue, the case can be closed. (END)
+
+
