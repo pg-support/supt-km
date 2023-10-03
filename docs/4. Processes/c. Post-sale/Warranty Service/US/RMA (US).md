@@ -11,22 +11,20 @@ Before proceeding, please check the user's name & email and compare them with Sh
 ### 1 - Inquire about basic info
 Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
     ![](https://lh4.googleusercontent.com/KAG8xtMlvQ-3LweFYg0IfjHp1oYumblzKyDrRke6hFIcQQfhsZ78Zfg4x0UOkhniW2zgzKsbNFfpeqRygj_j-HYHTrIXIzC1-eSbniT4qRXbCl1rmfhC5zLAPLCHhkl75TJdvztYKhWPiOz4qZTNlvcHOVpMVKzqx-sUTXnjGNpAuGcLKLYXQeJXV9uJ)  
-
- <br>
+<br>
+<br>
  **Special Case:**
  <br>
  <br>
- 
  a. The customer request to change address for the replacement
  <br>
 After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
 <br>
 <br>
-
  b. The order included personalized grille
  <br>
 After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
-
+<br>
 <br>
 <br>
 ### 2 - Create a return
@@ -50,7 +48,6 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
 
 ### 4 - Aftership Follow Up
 

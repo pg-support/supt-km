@@ -6,7 +6,21 @@
 Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the correct country in the email subject. Submit as pending. (If the customer does not want replacement but refund instead, please modify the macro accordingly.)
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
-
+<br>
+<br>
+ **Special Case:**
+ <br>
+ <br>
+ a. The customer request to change address for the replacement
+ <br>
+After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
+<br>
+<br>
+ b. The order included personalized grille
+ <br>
+After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
+<br>
+<br>
 <br>
 ### 2 - Create a return
 Once the client replies with all the requested information, create a return as instructed below:
@@ -30,7 +44,6 @@ Attach the label to the email and send it to the customer.
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
-<br>
 ### 4 - Check the TRK# for the returned package
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
