@@ -32,6 +32,7 @@ Once the client replies with all the requested information, create a return as i
 - Method#1:
 
 Click "Get return label", the label will be downloaded on your computer.
+*If you don't see this button, please refresh the page.*
 
 Attach the label to the email and send it to the customer.
 
