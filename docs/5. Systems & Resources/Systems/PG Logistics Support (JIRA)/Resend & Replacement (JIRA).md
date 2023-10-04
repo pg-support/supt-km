@@ -6,8 +6,8 @@
 All the Resend/Replacement requests should be done via JIRA now.
 ## Resend & Replacement Instructions:
 
-- For Resend request, inquire with the customer if they have an alternative address where the package can be successfully received. 
-   If the carrier fail to deliver the package again (RS fail), kindly guide the customer to our authorized retailers, e.g. Guitar Center, Amazon, and proceed with issuing a refund for the original order.
+
+- For Resend request, inquire with the customer if they have an alternative address where the package can be successfully received. If the carrier fail to deliver the package again (RS fail), proceed with issuing a refund and kindly guide the customer to our authorized retailers, e.g. Guitar Center, Amazon.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhQBqTTLAy4OOCYmXLg4WHxy1qkpBKoP33VcyLC8RJ5IVy3vbws5efGXui9dcwzNWKtpFghZRUo-z5/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 -   Make sure to correctly select ALL items that need to be re-sent. If the whole order needs to be re-sent, select all the main products and accessories accordingly. 
