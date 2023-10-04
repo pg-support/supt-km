@@ -8,14 +8,21 @@ Always capitalize our brand names products and trademarked names!
 
 ## Spark GO
 
+## Spark CAB
+
 ## Spark Control
 
 ## RIFF
 ## BIAS FX 2
 
 ## BIAS AMP 2
+BIAS Head/Rack
+BIAS MINI Guitar/Bass
 
 ## BIAS PEDAL
+BIAS Distortion
+BIAS Modulation
+BIAS Delay
 
 ## OMNYSS
 ## Experience Jimi Hendrix™ for Spark
