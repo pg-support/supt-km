@@ -17,11 +17,14 @@ Always capitalize our brand names products and trademarked names!
 
 ## BIAS AMP 2
 BIAS Head/Rack
+
 BIAS MINI Guitar/Bass
 
 ## BIAS PEDAL
 BIAS Distortion
+
 BIAS Modulation
+
 BIAS Delay
 
 ## OMNYSS
