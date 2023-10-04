@@ -1,5 +1,6 @@
-# Product Names
-Always capitalize our brand names products and trademarked names!
+# Product Name List
+Always capitalize our brand names, products and trademarked names!
+## Positive Grid
 ## Spark / Spark 40 / Spark Amp 
 
 ## Spark Traveler Gig Bag
