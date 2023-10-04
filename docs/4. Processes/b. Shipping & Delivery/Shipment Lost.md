@@ -36,6 +36,8 @@ Once the customer replied with the signed claim form, [upload the claim form to 
 ### 3 - Fill out a resend request
 Once uploaded & updated, follow the [[Resend & Replacement (JIRA)]] for resend with the customer's substitutive address.
 
+*For Resend request, inquire with the customer if they have an alternative address where the package can be successfully received. If the carrier fail to deliver the package again (RS fail), proceed with issuing a refund and kindly guide the customer to our authorized retailers, e.g. Guitar Center, Amazon.*
+
 1. ‘Hardware Product’, ‘1st Accessory’... should be selected according to what needs to be re-sent. If the whole order needs to be re-sent, select all the main products and accessories accordingly.
 2. ‘RS/RE Reason’ should be “Shipment lost, please resend.”
 3. **Fill in the substitutive shipping info to the request (JIRA).**
@@ -44,3 +46,6 @@ Once submitted, inform the customer that we’ll arrange another shipment, ask t
 
 ### 4 - Offer TRK# for the new shipment
 Please follow up to the ticket and make sure to provide the tracking information to the customer when the new shipment is out for delivery, before closing the ticket.
+
+
+
