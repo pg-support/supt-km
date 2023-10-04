@@ -16,25 +16,11 @@ $129+ order value = free shipping
 *Currency: Canadian Dollar*
 <br>
 <br>
-##### France
-
-##### Germany
-
-##### Ireland
-
-##### Italy
-
-##### Netherlands
-
-##### Poland
-
-##### Sweden
+##### European Union
 
 €0 - €44 order value = €5 shipping charge
 
-
 €45 - €118 order value = €10 shipping charge
-
 
 €119 order value = free shipping
 <br>
@@ -43,9 +29,7 @@ $129+ order value = free shipping
 
 £0 - £39 order value = £5 shipping charge
 
-
 £40 - £98 order value = £10 shipping charge
-
 
 £99+ order value = free shipping
 <br>
