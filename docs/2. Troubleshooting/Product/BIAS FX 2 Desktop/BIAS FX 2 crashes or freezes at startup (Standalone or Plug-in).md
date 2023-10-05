@@ -27,23 +27,22 @@ _*If you haven't installed BIAS FX 2 Standalone, please download and install it 
   
 	     ⚠You **have to** locate the hidden Library folder by the following instructions:  
 
-	     1). Launch Finder.  
+	     a). Launch Finder.  
   
-	     2). Click "Shift + Command + G" then copy & paste "~/Library/Application Support/PositiveGrid" to the ​"Go to the folder" window.
+	     b). Click "Shift + Command + G" then copy & paste "~/Library/Application Support/PositiveGrid" to the ​"Go to the folder" window.
 ![](https://positivegrid.zendesk.com/attachments/token/K2kkpxHe3dKuFPfRTE6bUKCs2/?name=Screen+Shot+2021-04-21+at+5.04.43+PM.png)
 	     
-	     3). Find the "settings" file and delete it    
-	     
+	     c). Find the "settings" file and delete it    
+
 3. Uninstall BIAS FX 2 on your computer.
 
 4. Restart your computer.
 
 5. Download and install the latest version of BIAS FX 2 from the links below:
 
-[Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
-
-
-[Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
+	[Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
+	
+	[Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
 
 
 6. Launch BIAS FX 2 and see whether it works properly.
@@ -64,7 +63,7 @@ To resolve this, please follow the instructions below to reset BIAS FX 2 on your
 2. Navigate to the following folder: "\Documents\PositiveGrid".
 ![](https://dl3.pushbulletusercontent.com/wsz6PAEczDxl1QQpBC7k0zzfHFvg5sXW/Screenshot%202023-05-30%20152607.png)
 
-  
+
 3. Rename the BIAS_FX2 folder in \Documents\PositiveGrid to "BIAS_FX2 backup".
 ![](https://positivegrid.zendesk.com/attachments/token/neBlHgbsrEeJOtGEKZCYtNxn7/?name=image.png)
 
