@@ -6,43 +6,45 @@ If you confirm that BIAS FX 2 Standalone/Plug-in freezes on the initial loading 
 #### macOS:
 Freeze/Crash on macOS
 <br>
-##### Windows:
+#### Windows:
 Freeze/Crash on Windows
 
 ---
 
 This macro provides detailed instructions on how to reset BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
-
+<br>
 #### macOS:
 
 To resolve this, please follow the instructions below to reset BIAS FX 2 on your computer:
 
 1. Launch BIAS FX 2 Standalone and close it.
-
 _*If you haven't installed BIAS FX 2 Standalone, please download and install it from [here](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)._
-  
-2. Rename the BIAS_FX2 folder in "Documents/PositiveGrid to "BIAS_FX2 backup"  
-  
-3. Navigate to the hidden "~/Library" folder and delete BIAS FX2.settings.
-  
-     ⚠You **have to** locate the hidden Library folder by the following instructions:  
 
-     1). Launch Finder.  
+
+1. Rename the BIAS_FX2 folder in "Documents/PositiveGrid to "BIAS_FX2 backup"  
+
+2. Navigate to the hidden "~/Library" folder and delete BIAS FX2.settings.
   
-     2). Click "Shift + Command + G" then copy & paste "~/Library/Application Support/PositiveGrid" to the ​"Go to the folder" window.
+	     ⚠You **have to** locate the hidden Library folder by the following instructions:  
+
+	     1). Launch Finder.  
+  
+	     2). Click "Shift + Command + G" then copy & paste "~/Library/Application Support/PositiveGrid" to the ​"Go to the folder" window.
      ![](https://positivegrid.zendesk.com/attachments/token/K2kkpxHe3dKuFPfRTE6bUKCs2/?name=Screen+Shot+2021-04-21+at+5.04.43+PM.png)
      
-     3). Find the "settings" file and delete it    
+	     3). Find the "settings" file and delete it    
      ![](https://positivegrid.zendesk.com/attachments/token/Nxw9znkeUrzPh11R8VNX7TnBj/?name=Screen+Shot+2021-04-21+at+5.05.24+PM.png)
-4. Uninstall BIAS FX 2 on your computer.
+3. Uninstall BIAS FX 2 on your computer.
 
-5. Restart your computer.
+4. Restart your computer.
 
-6. Download and install the latest version of BIAS FX 2 from the links below:
+5. Download and install the latest version of BIAS FX 2 from the links below:
 
 [Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
 [Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
-7. Launch BIAS FX 2 and see whether it works properly.
+
+
+6. Launch BIAS FX 2 and see whether it works properly.
 
 If the issue persists, kindly inform us if BIAS FX 2 can still produce sound even if the user interface doesn't appear. 
 
