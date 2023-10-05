@@ -20,12 +20,11 @@ Freeze/Crash on Windows
 <br>
 3. Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
       
-      If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
+     If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
 <br>
 
 4. WeiTing will provide additional details after the RD team has reviewed the problem.
-<br>   
-
+<br>
 5. Inform the customer of the solution/current situation. [END]
 
 ---
