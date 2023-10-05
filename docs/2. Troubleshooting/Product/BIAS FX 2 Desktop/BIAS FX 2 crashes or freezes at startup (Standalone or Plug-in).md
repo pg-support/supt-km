@@ -7,6 +7,7 @@
      
      Windows: Freeze/Crash on Windows
 <br>
+<br>
 
 2. If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
 
@@ -15,6 +16,8 @@
       2. Issue Brief
 
       3. Log File
+
+
 <br>
 3. Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
    If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
