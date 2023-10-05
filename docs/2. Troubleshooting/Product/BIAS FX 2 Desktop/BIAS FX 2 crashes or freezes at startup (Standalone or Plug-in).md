@@ -53,6 +53,7 @@ Please also assist us by collecting logs from your computer:
 
 [Log Collection Tool (macOS)](https://help.positivegrid.com/hc/en-us/articles/20051480816013-Log-Collection-Tool-macOS-)
 
+<br>
 
 #### Windows:
 
@@ -91,45 +92,13 @@ Please also assist us by collecting logs from your computer:
 [Log Collection Tool (Windows)](https://help.positivegrid.com/hc/en-us/articles/20050988385549-Log-Collection-Tool-Windows-)
 
 
-### 1 - Log
 
-Ask the user to download the support tool and follow the steps below to send us the files for verifying:
-
-<u>Windows</u>
-[Log Collection Tool (Windows)](https://help.positivegrid.com/hc/en-us/articles/20050988385549)
-
-<u>Mac</u>
-[Log Collection Tool (macOS)](https://help.positivegrid.com/hc/en-us/articles/20051480816013-Log-Collection-Tool-macOS-) 
-
----
-### 2 - Does the program still produce sound (even without the UI showing up)?
-
-Answer 'N/A' if unable to verify (for example, if it's the first time launching the program).
-
----
-
-### 3 - Try the following workarounds and tell us if the issue persists
-
-1). Rename the BIAS_FX2 folder in Documents/PositiveGrid to "BIAS_FX2 backup".
-
-2). Delete BIAS FX2.settings in the following directory:
-
-<u>Windows</u>
-
-%APPDATA%\PositiveGrid\BIAS FX2.settings
-
-(APPDATA might be a hidden folder on your PC, please refer to [the link](https://www.pcworld.com/article/2690709/windows/whats-in-the-hidden-windows-appdata-folder-and-how-to-find-it-if-you-need-it.html) for further details.)
-
-<u>Mac</u>
-
-username/Library/Application Support/PositiveGrid/BIAS FX2.settings
-
-(Please Click on the 'Go' menu in Finder while holding down [Option/Alt] to access the 'username/Library' folder. Also see video: [How to find 'username/Library'](https://www.idownloadblog.com/2015/03/12/library-folder-mac/).)
-
-3). Make sure all cloud-based services (Google Drive, One Drive, iCloud, etc) are disabled for Documents folder & Desktop on your PC.
-
-4). Switch off the internet when launching the program.
  
 ---
 
-Once all the above information is collected, please forward it to Dans for further assistance. 
+Once all the above information is collected, tag WeiTing in the Supt-private channel with following info:
+
+
+1. Ticket#
+2. Issue Brief
+3. Log File
