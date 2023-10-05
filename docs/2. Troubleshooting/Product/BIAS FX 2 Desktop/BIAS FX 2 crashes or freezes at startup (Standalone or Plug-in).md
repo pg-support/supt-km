@@ -1,30 +1,27 @@
 # BIAS FX 2 crashes / freezes at startup (Standalone / Plug-in)
 > BIAS FX 2 freeze at launch in a black screen (get stuck on the initial loading page.
 
-1. Use the appropriate macro based on the customer's operating system:
+## 1 - Use the appropriate macro based on the customer's operating system:
 
-     macOS: Freeze/Crash on macOS
-     
-     Windows: Freeze/Crash on Windows
+- macOS: Freeze/Crash on macOS
+- Windows: Freeze/Crash on Windows
 <br>
+## 2- Report to team 
+If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
+1. Ticket#
+2. Issue Brief
+3. Log File
 <br>
+## 3 - Inform the customer 
+Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
 
-2. If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
-
-      1. Ticket#
-
-      2. Issue Brief
-
-      3. Log File
-
-
+If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
 <br>
-3. Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
-   If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
+## 4 - Follow up on the case 
+WeiTing will provide additional details after the RD team has reviewed the problem.
 <br>
-4. WeiTing will provide additional details after the RD team has reviewed the problem.
-<br>
-5. Inform the customer of the solution/current situation. [END]
+## 5 - Case Close 
+Inform the customer of the solution/current situation. [END]
 
 ---
 
