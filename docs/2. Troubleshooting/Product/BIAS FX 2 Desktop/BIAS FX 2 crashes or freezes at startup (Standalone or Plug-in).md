@@ -1,7 +1,8 @@
 # BIAS FX 2 crashes / freezes at startup (Standalone / Plug-in)
 > BIAS FX 2 freeze at launch in a black screen (get stuck on the initial loading page.
 
-## 1 - Use the appropriate macro based on the customer's operating system:
+## 1 - Reset BIAS FX 2
+Use the appropriate macro based on the customer's operating system:
 
 - macOS: Freeze/Crash on macOS
 - Windows: Freeze/Crash on Windows
