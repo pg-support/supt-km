@@ -189,6 +189,7 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 > 
 > To request a refund for a European order, please obtain the following information and  @Emma Liao in the amazon-support-internal channel (Slack):
 > <br>
+> 
 > 1. Country
 >    
 > 2. Order number
