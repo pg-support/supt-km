@@ -188,8 +188,11 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 > Due to account restrictions, we are currently unable to process refunds for European orders (the refund option is also not visible on the order). 
 > 
 > To request a refund for a European order, please obtain the following information and  @Emma Liao in the amazon-support-internal channel (Slack):
+> <br>
 > 1. Country
+>    
 > 2. Order number
+>    
 > 3. Tracking number for the return pacakage
 
 - For returned items, **customer may notify us after they have shipped the product(s), and we'll proceed with the order refund process.** If the customer didn't notify us, they may wait for the system's automatic refund (which will take longer).
