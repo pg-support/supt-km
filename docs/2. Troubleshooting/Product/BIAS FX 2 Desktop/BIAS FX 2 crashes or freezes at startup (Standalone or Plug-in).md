@@ -1,17 +1,28 @@
 # BIAS FX 2 crashes / freezes at startup (Standalone / Plug-in)
-> BIAS FX 2 freeze at launch in a black screen.
+> BIAS FX 2 freeze at launch in a black screen (get stuck on the initial loading page.
 
-If you confirm that BIAS FX 2 Standalone/Plug-in freezes on the initial loading page, use the macro in the first reply:
-<br>
-#### macOS:
+1. Use the appropriate macro based on the customer's operating system:
+   #### macOS:
 Freeze/Crash on macOS
 <br>
 #### Windows:
 Freeze/Crash on Windows
 
+<br>
+2. If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
+      1. Ticket#
+      2. Issue Brief
+      3. Log File
+<br>
+3. Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold)
+<br>
+4. WeiTing will provide additional details after the RD team has reviewed the problem.
+<br>   
+5. Inform the customer of the solution/current situation. [END]
+
 ---
 
-This macro provides detailed instructions on how to reset BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
+This macro provides detailed instructions on how to reset and install the latest version of BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
 <br>
 #### macOS:
 
@@ -52,9 +63,8 @@ If the issue persists, kindly inform us if BIAS FX 2 can still produce sound eve
 Please also assist us by collecting logs from your computer:
 
 [Log Collection Tool (macOS)](https://help.positivegrid.com/hc/en-us/articles/20051480816013-Log-Collection-Tool-macOS-)
-
 <br>
-
+<br>
 #### Windows:
 
 To resolve this, please follow the instructions below to reset BIAS FX 2 on your computer:
@@ -92,13 +102,5 @@ Please also assist us by collecting logs from your computer:
 [Log Collection Tool (Windows)](https://help.positivegrid.com/hc/en-us/articles/20050988385549-Log-Collection-Tool-Windows-)
 
 
-
- 
 ---
 
-Once all the above information is collected, tag WeiTing in the Supt-private channel with following info:
-
-
-1. Ticket#
-2. Issue Brief
-3. Log File
