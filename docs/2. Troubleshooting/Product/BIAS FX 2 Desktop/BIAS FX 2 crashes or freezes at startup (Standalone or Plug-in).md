@@ -30,10 +30,10 @@ _*If you haven't installed BIAS FX 2 Standalone, please download and install it 
 	     1). Launch Finder.  
   
 	     2). Click "Shift + Command + G" then copy & paste "~/Library/Application Support/PositiveGrid" to the ​"Go to the folder" window.
-     ![](https://positivegrid.zendesk.com/attachments/token/K2kkpxHe3dKuFPfRTE6bUKCs2/?name=Screen+Shot+2021-04-21+at+5.04.43+PM.png)
-     
+![](https://positivegrid.zendesk.com/attachments/token/K2kkpxHe3dKuFPfRTE6bUKCs2/?name=Screen+Shot+2021-04-21+at+5.04.43+PM.png)
+	     
 	     3). Find the "settings" file and delete it    
-     ![](https://positivegrid.zendesk.com/attachments/token/Nxw9znkeUrzPh11R8VNX7TnBj/?name=Screen+Shot+2021-04-21+at+5.05.24+PM.png)
+	     
 3. Uninstall BIAS FX 2 on your computer.
 
 4. Restart your computer.
@@ -41,6 +41,8 @@ _*If you haven't installed BIAS FX 2 Standalone, please download and install it 
 5. Download and install the latest version of BIAS FX 2 from the links below:
 
 [Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
+
+
 [Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
 
 
@@ -49,6 +51,7 @@ _*If you haven't installed BIAS FX 2 Standalone, please download and install it 
 If the issue persists, kindly inform us if BIAS FX 2 can still produce sound even if the user interface doesn't appear. 
 
 Please also assist us by collecting logs from your computer:
+
 [Log Collection Tool (macOS)](https://help.positivegrid.com/hc/en-us/articles/20051480816013-Log-Collection-Tool-macOS-)
 
 
