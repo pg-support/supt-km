@@ -11,7 +11,7 @@ Freeze/Crash on Windows
 
 ---
 
-This macro contains the instructions of how to reset BIAS FX 2 on macOS/Windows:
+This macro provides detailed instructions on how to reset BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
 
 #### macOS:
 
@@ -49,6 +49,42 @@ If the issue persists, kindly inform us if BIAS FX 2 can still produce sound eve
 Please also assist us by collecting logs from your computer:
 [Log Collection Tool (macOS)](https://help.positivegrid.com/hc/en-us/articles/20051480816013-Log-Collection-Tool-macOS-)
 
+
+#### Windows:
+
+To resolve this, please follow the instructions below to reset BIAS FX 2 on your computer:
+  
+1. Launch BIAS FX 2 Standalone and close it.  
+
+2. Navigate to the following folder: "\Documents\PositiveGrid".
+![](https://dl3.pushbulletusercontent.com/wsz6PAEczDxl1QQpBC7k0zzfHFvg5sXW/Screenshot%202023-05-30%20152607.png)
+
+  
+3. Rename the BIAS_FX2 folder in \Documents\PositiveGrid to "BIAS_FX2 backup".
+![](https://positivegrid.zendesk.com/attachments/token/neBlHgbsrEeJOtGEKZCYtNxn7/?name=image.png)
+
+
+4. Navigate to the %APPDATA% folder by typing "%APPDATA%\PositiveGrid\" in the address bar.
+![](https://dl3.pushbulletusercontent.com/9zC0boU0hWrq3mSkhEQaVPanCIdU6fG9/Screenshot%202023-05-30%20152320.png)
+
+
+5. Delete BIAS_FX2.settings at "%APPDATA%\PositiveGrid\".
+![](https://positivegrid.zendesk.com/attachments/token/YZVy1aL4oRj1LSMeIY18i17ku/?name=image.png)
+
+6. Uninstall BIAS FX 2.
+
+7. Restart your computer.
+
+8. Download and install the latest version of BIAS FX 2 from the links below:
+[Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe)
+
+9. Launch BIAS FX 2 and see whether it works properly.
+
+If the issue persists, kindly inform us if BIAS FX 2 can still produce sound even if the user interface doesn't appear.   
+
+Please also assist us by collecting logs from your computer:
+
+[Log Collection Tool (Windows)](https://help.positivegrid.com/hc/en-us/articles/20050988385549-Log-Collection-Tool-Windows-)
 
 
 ### 1 - Log
