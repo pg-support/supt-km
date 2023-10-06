@@ -2,6 +2,11 @@
 
 Because Aftership can't automatically arrange the shipment of replacement includes personalized products, we'll need to generate the order manually.
 <br>
+### 1 - Inquire about basic info
+Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
+    ![](https://lh4.googleusercontent.com/KAG8xtMlvQ-3LweFYg0IfjHp1oYumblzKyDrRke6hFIcQQfhsZ78Zfg4x0UOkhniW2zgzKsbNFfpeqRygj_j-HYHTrIXIzC1-eSbniT4qRXbCl1rmfhC5zLAPLCHhkl75TJdvztYKhWPiOz4qZTNlvcHOVpMVKzqx-sUTXnjGNpAuGcLKLYXQeJXV9uJ)  
+<br>
+<br>
 ### 2 - Create a Return
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
