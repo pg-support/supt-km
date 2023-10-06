@@ -33,7 +33,7 @@ Inform the customer of the solution/current situation. [END]
 
 ---
 
-This macro provides detailed instructions on how to reset and install the latest version of BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
+The macro "Freeze/Crash on macOS & Freeze/Crash on Windows" provides detailed instructions on how to reset and install the latest version of BIAS FX 2 on both macOS and Windows platforms. It also guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
 <br>
 #### macOS:
 
