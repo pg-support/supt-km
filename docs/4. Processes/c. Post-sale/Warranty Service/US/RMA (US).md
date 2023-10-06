@@ -16,6 +16,8 @@ Before proceeding, please check the user's name & email and compare them with Sh
  <br>
 After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
 <br>
+If the customer's order is a personalized product, please check **Special Case b**.
+<br>
 <br>
  b. The order included personalized grille
  <br>

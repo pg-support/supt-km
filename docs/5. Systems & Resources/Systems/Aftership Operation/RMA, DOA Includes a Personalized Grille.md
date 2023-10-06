@@ -17,6 +17,8 @@ Before offering a return label, ask them to **remove the personalized grille**.
 
 "Please **remove** the crimson grille before packing everything!"
 
+"Please **remove** the personalized grille before packing everything!"
+
 <br>
 - Method#1:
 
