@@ -5,8 +5,8 @@
 ## 0 - PG Bot license check  
 
 Before sending the first reply, please check the license status with PG Bot:
-      - Verify the customer’s license(s) via PGBot ([[PGBot Commands]]), see if the license is listed under the account.
-      - Also ensure the activation count is less than 5 times.      
+	- Verify the customer’s license(s) via PGBot ([[PGBot Commands]]), see if the license is listed under the account.
+	- Also ensure the activation count is less than 5 times.      
 → If it's over 5 times, deactivate with PG Bot and let the customer knows that they can remove the activation record on "License & Download" page in the future.
 
 Macro: License Deactivated
@@ -16,7 +16,6 @@ Macro: License Deactivated
 
 
 -   If the license is not associated with the customer's account, use macro: **Order Trackback** to get the information from the customer:
-
       -   Verify the customer’s purchase (if the order is successful placed)
       -   Verify if the email is correct (same as user’s account)
       -   Transfer license(s) if needed. (Info the customer first!) 
