@@ -19,6 +19,7 @@ After inquiring about basic info, if the customer provides a shipping address th
 If the customer's order is a personalized product, please check **Special Case b**.
 <br>
 <br>
+
  b. The order included personalized/crimson grille
  <br>
 After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
