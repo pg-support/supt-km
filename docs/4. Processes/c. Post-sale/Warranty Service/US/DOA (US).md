@@ -14,8 +14,9 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
  a. The customer request to change address for the replacement
  <br>
 After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
+
 <br>
-If the customer's order is a personalized product, please check Special Case b.
+If the customer's order is a personalized product, please check **Special Case b**.
 <br>
 <br>
  b. The order included personalized/crimson grille
