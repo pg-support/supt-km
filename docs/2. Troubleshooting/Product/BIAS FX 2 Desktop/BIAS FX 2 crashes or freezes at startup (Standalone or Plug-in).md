@@ -7,7 +7,7 @@ Use the appropriate macro based on the customer's operating system:
 - macOS: Freeze/Crash on macOS
 - Windows: Freeze/Crash on Windows
 <br>
-## 2- Report to team 
+## 2 - Report to team 
 If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
 
 1. Ticket#
