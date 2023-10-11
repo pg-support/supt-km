@@ -55,12 +55,24 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 >  If so, ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal).
 >  
 
-2. Tag Maines / Weiting in supt-private to bring their attention to the invoice request. 
-   List: Ticket#, Original Order#, Email, Service Part Name 
+2. Tag Maines / WeiTing in supt-private to bring their attention to the invoice request. 
+   List: 
+   <br>
+   Ticket#
+   <br>
+   Original Order#
+   <br>
+   Email
+   <br>
+   Service Part Name 
+   <br>
+   Amount ($)
+<br>
+3. The invoice will be sent to the customer's inbox, ask them to inform us once the invoice is paid.
    
    
-3. **Once confirm the payment**, create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
+4. **Once confirm the payment** (ask Maines or WeiTing), create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
 > ![[Pasted image 20230823133124.png]]
 > ![[Pasted image 20230823133251.png]]
 
-4. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
+5. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
