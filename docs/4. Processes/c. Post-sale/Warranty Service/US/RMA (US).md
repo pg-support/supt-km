@@ -8,10 +8,6 @@ Before proceeding, please check the user's name & email and compare them with Sh
 
 > If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s still within 1 year of the purchase). Once verified, proceed with the RMA process. 
 
-### 1 - Inquire about basic info
-Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
-    ![](https://lh4.googleusercontent.com/KAG8xtMlvQ-3LweFYg0IfjHp1oYumblzKyDrRke6hFIcQQfhsZ78Zfg4x0UOkhniW2zgzKsbNFfpeqRygj_j-HYHTrIXIzC1-eSbniT4qRXbCl1rmfhC5zLAPLCHhkl75TJdvztYKhWPiOz4qZTNlvcHOVpMVKzqx-sUTXnjGNpAuGcLKLYXQeJXV9uJ)  
-<br>
 <br>
  **Special Case:**
  <br>
@@ -19,12 +15,20 @@ Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the 
  a. The customer request to change address for the replacement
  <br>
 After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
+
+<br>
+If the customer's order is a personalized product, please check **Special Case b**.
 <br>
 <br>
+
  b. The order included personalized grille
  <br>
 After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
 <br>
+<br>
+### 1 - Inquire about basic info
+Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as ‘Pending’.  
+    ![](https://lh4.googleusercontent.com/KAG8xtMlvQ-3LweFYg0IfjHp1oYumblzKyDrRke6hFIcQQfhsZ78Zfg4x0UOkhniW2zgzKsbNFfpeqRygj_j-HYHTrIXIzC1-eSbniT4qRXbCl1rmfhC5zLAPLCHhkl75TJdvztYKhWPiOz4qZTNlvcHOVpMVKzqx-sUTXnjGNpAuGcLKLYXQeJXV9uJ)  
 <br>
 <br>
 ### 2 - Create a return
