@@ -13,7 +13,6 @@ If the customer requests a promotion price, check the situation and use the macr
 
 - With Order Number
 If the customer has placed the order and includes the order number in the ticket, issue a partial refund for the price difference and use macro: 
-
 <u>#Price Match::With Order# </u>  [END]
 <br>
 <br>
