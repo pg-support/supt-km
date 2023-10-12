@@ -20,6 +20,7 @@ All the Resend/Replacement requests should be done via JIRA now.
 ## Follow Up
 
 - Once logistics team arranges the shipment of the replacement, you will receive a notification via Gmail.
+
 ![[Pasted image 20230920112419.png]]
 
 - Click “View Issue” and you should see the update information. The update Order Number is the one for the RS/RE item, the tracking number can be found on SKULabs (when it’s available).

@@ -16,17 +16,17 @@ For Amazon orders, please proceed with step 3.
 
 
 ### 1 - Offer claim form and ask for a substitutive address
-Insert the following macros (according to the regions & carrier) and submit.
+Insert the following macros and submit.
 
-- <u>GLS Claim (EU)</u>
-- <u>DHL Claim (EU)</u>
-- <u>FedEx/UPS/USPS/Yodel Claim</u>
+- <u>Shipment Lost</u>
 
->Please make sure to insert the correct tracking number for the customer to fill into the claim form.
 
-![](https://lh4.googleusercontent.com/Yf8M1aMa40YUcpdOCN7DY9nN6JAzjHK-ypZd3XqAC29TWHqYhgxbAz9YQHc680kLWGHCF4K5x-Hgj2L2hxfipeSXdNTihA2MTVgzX33fcLBF_NcfeM4176Ot8soDLnOM_OF0PLkxc_euYXlvVgmTMF4_HFV6wMpxTERQwkT8BZRoiVbHhPuzrM3Gk1hH)
+>Please make sure to insert the correct order number, tracking number and the carrier's name for the customer to fill into the claim form.
+>
+>This macro will also request the customer to provide an alternative shipping address. 
 
-And ask the customer to provide a substitutive shipping address.
+![[Pasted image 20231012103525.png]]
+
 <br>
 ### 2 - Upload claim form
 Once the customer replied with the signed claim form, [upload the claim form to this link](https://drive.google.com/drive/folders/13HASKVjrrMchxOh_DgiTbrQe9ner-2bY?usp=sharing), and make sure the file name is formatted as “Carrier#OrderNumber” (e.g., FedEx#423412, GLS#351442).
