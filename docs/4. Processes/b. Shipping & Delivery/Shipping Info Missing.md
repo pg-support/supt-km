@@ -20,7 +20,7 @@ The order will be listed on the Shipping Info Missing form due to the following 
 
 For the cases include invalid address, phone number, recipient or the package was sent back to our warehouse (return to sender), use the macro:
 
- <u># Shipping Info Missing::SIM</u>
+ <u>#Shipping Info Missing::SIM</u>
 
 For cases involving addresses that include a P.O. box, use the following macro:
 
@@ -30,7 +30,7 @@ To effectively follow up the case, the macro will rename the ticket title to "Or
 <br>   
 <br>   
 4 . Once sent/updated (new address updated in Shopify), fill in the form (END).  
-macro: <u># Shipping Info Missing::Address Updated</u>
+macro: <u>#Shipping Info Missing::Address Updated</u>
    <br>
 5 . Logistics team will follow up on the form and ship out the updated orders.
 <br>

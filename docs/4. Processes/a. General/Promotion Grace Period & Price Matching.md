@@ -10,12 +10,16 @@ Internally, we'll have a 2-day grace period (prior and after) for most promotion
 If the customer requests a promotion price, check the situation and use the macro accordingly:
 
 ## - With Order Number
-If the customer has placed the order and includes the order number in the ticket, issue a partial refund for the price difference and use macro: "#Price Match::With Order#". [END]
+If the customer has placed the order and includes the order number in the ticket, issue a partial refund for the price difference and use macro: 
+<u>#Price Match::With Order# </u> [END]
 
 ## - Without Order Number
-If the customer ask for the promotion price without an order number, use macro: "#Price Match::Without Order#". 
+If the customer ask for the promotion price without an order number, use macro: 
+<u>#Price Match::Without Order#</u> 
 
-Once you get the order number, issue a partial refund for the price difference and use macro: "#Price Match::Refund#". [END]
+Once you get the order number, issue a partial refund for the price difference and use macro: 
+<u>#Price Match::Refund#</u> [END]
 
 ## - Reject
-If the order is not in the 2-day grace period, use macro: "#Price Match::Refund". [END]
+If the order is not in the 2-day grace period, use macro: 
+<u>#Price Match::Refund</u> [END]
