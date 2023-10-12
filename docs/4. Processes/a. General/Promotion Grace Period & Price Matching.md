@@ -13,19 +13,23 @@ If the customer requests a promotion price, check the situation and use the macr
 
 - With Order Number
 If the customer has placed the order and includes the order number in the ticket, issue a partial refund for the price difference and use macro: 
+
 <u>#Price Match::With Order# </u>  [END]
 <br>
 <br>
 
 - Without Order Number (within the grace period)
 
-1 . If the customer ask for the promotion price without an order number, use macro: 
-<u>#Price Match::Without Order#</u> 
+	1 . If the customer ask for the promotion price without an order number, use macro: 
+	
+	<u>#Price Match::Without Order#</u> 
 
-2 . Once you get the order number, issue a partial refund for the price difference and use macro: 
-<u>#Price Match::Refund#</u> [END]
+	2 . Once you get the order number, issue a partial refund for the price difference and use macro: 
+	
+	<u>#Price Match::Refund#</u> [END]
 <br>
 ## - Out of the Grace Period
 
 If the order is not in the 2-day grace period, use macro: 
+
 <u>#Price Match::Reject</u> [END]
