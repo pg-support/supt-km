@@ -36,4 +36,5 @@ If the order is not in the 2-day grace period, use macro:
 <u>#Price Match::Reject</u> [END]
 
 
-#pricematch price match
+
+Tags: "price match", "promotion", "promotions", "sales"
