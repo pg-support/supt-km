@@ -3,15 +3,13 @@
 #### AUDIO SPECIFICATIONS
 
 - FREQUENCY RANGE
-  
-  20-20,000 Hz
+	  20-20,000 Hz
 
 - STEREO/MONO
-  
-  Stereo
+	  Stereo
 
 - MAXIMUM SOUND PRESSURE LEVEL
-  116 dB SPL @1m
+	  116 dB SPL @1m
 
 - CABINET PRINCIPLE
   Bass-reflex
