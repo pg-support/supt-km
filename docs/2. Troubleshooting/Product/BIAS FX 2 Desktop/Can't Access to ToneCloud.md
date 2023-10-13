@@ -11,7 +11,8 @@ Normally, the issue can be resolved by logging out and logging into BIAS FX 2.
 
 ## 1 - Change the Internet environment
 
-- Information is included in the macro on step 0:
+Information is included in the macro on step 0:
+
   Ensure that your firewall, VPN, and cloud-based services (such as iCloud, One Drive, etc.) are disabled, including any syncing processes for files in Documents & Desktop.
 <br>
 ## 2 - Collect the info and forward it to team 
@@ -41,6 +42,7 @@ Inform the customer of the solution/current situation. [END]
 The macro "ToneCloud Issue" is similar to macro "Login Issue" It require the customer to log out and log into BIAS FX 2.
 
 It also provides detailed instructions on how to disable anti-virus, firewall, VPN, cloud-based, and reset hosts file.  It also recommends trying a smartphone hotspot as the Internet connection.
+
 It will guides the customer on how to collect the necessary log files and effectively send them to us for analysis:
 
   
