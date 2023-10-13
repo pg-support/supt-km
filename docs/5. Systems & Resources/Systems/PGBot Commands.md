@@ -78,6 +78,8 @@ Insert /pg_find_redeem (<u>code</u>) to find further information on a code, whet
 ### Migrate account (move all licenses)
 Scenario: User wants to move all licenses to another account, or wants to change their login email (since we don’t allow changing the account email, user must sign up a new account for us to migrate the old one into).
 
+***Note: Inform the customer that the Cloud Banks feature in BIAS FX 2 is linked to the Positive Grid account. After the successful migration of two accounts, Cloud Banks associated with those accounts will be removed.*** 
+
 1. Insert /pg_user_info (<u>username or email</u>) to find the customer’s user data.
 2. Hit the ‘Migrate account’ button and insert the account email you want to migrate to.
 3. The bot will list out all the details and ask you to double check. 
