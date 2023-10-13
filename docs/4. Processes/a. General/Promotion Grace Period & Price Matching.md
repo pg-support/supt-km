@@ -27,8 +27,12 @@ If the customer has placed the order and includes the order number in the ticket
 	
 	<u>#Price Match::Refund#</u> [END]
 <br>
+<br>
 ## - Out of the Grace Period
 
 If the order is not in the 2-day grace period, use macro: 
 
 <u>#Price Match::Reject</u> [END]
+
+
+#pricematch price match
