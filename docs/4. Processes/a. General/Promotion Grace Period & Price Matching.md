@@ -37,4 +37,4 @@ If the order is not in the 2-day grace period, use macro:
 
 
 
-Tags: "price match", "promotion", "promotions", "sales"
+Tags: "price match", "promotion", "promotions", "sales",
