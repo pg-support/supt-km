@@ -6,7 +6,7 @@
 
 Ensure the driver for the audio interface and ASIO4ALL are both installed on the computer, use Macro:
 
-	<u>#BIAS FX 2::Audio Settings (Win)</u>
+<u>#BIAS FX 2::Audio Settings (Win)</u>
 
 This macro will also ensure the customer connect the audio interface to the computer before launching BIAS FX 2. 
 
