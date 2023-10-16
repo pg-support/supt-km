@@ -7,12 +7,14 @@ Use macro: <u>#BIAS FX 2::Audio Settings (Win)</u>
 1. Download and install the latest driver for your audio interface from its manufacturer's website.  
   
 2. Download and install the [ASIO4ALL](https://asio4all.org/downloads/ASIO4ALL_2_14_English.exe) driver (2.14).
+   
 For more information, please check the link below:
 [Installing and Using ASIO4ALL for Windows](https://www.sweetwater.com/sweetcare/articles/installing-and-using-asio4all-for-windows/)
 
 3. Restart the computer.  
   
 4. Launch BIAS FX 2 and go to Settings -> Audio Settings.
+   
 **_*Before launching BIAS FX 2,_ ensure that the audio interface is properly connected to the computer.**
   
 5. Select ASIO for Audio Driver Type in BIAS FX 2 (to get the best experience, please don't use Windows Audio).  
@@ -30,7 +32,9 @@ Use macro: <u>#BIAS FX 2::Audio Settings (macOS)</u>
 1. Restart your computer.  
   
 2. Launch BIAS FX 2 and go to Settings -> Audio Settings.
+   
 **_*Before launching BIAS FX 2,_ ensure that the audio interface is properly connected to the computer.**
+
 
 3. Set the **Output** and **Input Device** to your audio interface accordingly.  
 ​  
