@@ -10,6 +10,7 @@ If the customer requests a promotion price, check the situation and use the macr
 ## 0 . Check the order number
 - If the customer provides the order, skip this step and process with step 1.
 <br>
+
 - If the customer requests the promotion price without an order number, use macro:
 
 <u>#Price Match::Ask the Order#</u>
