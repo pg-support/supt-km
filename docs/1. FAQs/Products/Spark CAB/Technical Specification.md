@@ -10,21 +10,26 @@
 
 	  MONO
 
+
 - MAXIMUM SOUND PRESSURE LEVEL
 
 	  117 dB (RMS), 120 dB (Peak)
+
 
 - CABINET PRINCIPLE**
 
 	  Bass Reflex
 
+
 - POWER AMPLIFIERS**
 
 	  140 Watt Class D Amplifier
 
+
 - SPEAKERS
 
 	  1x 10-inch Woofer, 2x 1-inch (25mm) Tweeter
+
 
 - TOTAL IMPEDANCE**
 
@@ -36,13 +41,15 @@
 
 	  AC 100-240V
 
+
 - DC POWER OUTPUT For Spark 40
 
 	  DC 19V/2.5A
 
+
 USB-C POWER OUTPUT For Spark MINI & GO**
 
-	  DC 5V/2A
+		DC 5V/2A
 
 #### **CONTROLS AND CONNECTIVITY**
 
@@ -58,6 +65,7 @@ USB-C POWER OUTPUT For Spark MINI & GO**
 	
 	Contour Switch - Boosts low and high frequencies to improve balance at low volumes  
   
+
 - WIRED CONNECTIVITY**
 
 	1 x 1/8-inch (3.5mm) Dedicated Stereo Input for Spark Amp  
@@ -88,18 +96,22 @@ USB-C POWER OUTPUT For Spark MINI & GO**
 	19.39 x 15.74 x 10.04 in with rubber feet  
 	(492.5 x 399.8 x 255 mm)
 
+
 - WEIGHT**
 
 	13.5 kg  
 	29.76 lbs
 
+
 - GRILLE CLOTH
 
 	Woven 
 
+
 - HANDLE
 
 	2 Recessed Speaker Handles
+
 
 - CABLE TIE**
 
