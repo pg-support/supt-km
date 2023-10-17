@@ -30,7 +30,7 @@
   
 	  4 ohms
 
-### POWER
+#### POWER
 
 - MAINS INPUT VOLTAGE
   
