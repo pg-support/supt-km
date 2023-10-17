@@ -7,7 +7,7 @@ Below are the details for the issue. Use it as reference for reply.
 
 - Solution:
   
-  1. Back up the presets on the Spark amp, and reset it 
+  1. Back up the presets on the Spark amp, and perform a factory reset [[How to factory reset Spark 40]].
   2. Connect Spark Control, then open AirTurn (manager) app.
   3. Find the connected device (Spark Control should start with SKC50S...) and click on it.
   4. Go to 'Advanced' setting and change the connection speed to 'Low power mode'. 
