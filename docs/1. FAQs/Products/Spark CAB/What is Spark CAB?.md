@@ -1,0 +1,3 @@
+# What is Spark CAB?
+
+Spark CAB is a 140-watt powered **FRFR guitar cabinet/speaker** (check below for more information) designed to work seamlessly with Spark 40, Spark MINI, and Spark GO amps - providing a hassle-free setup and operation, as well as other gear and digital modeling processors. The Spark CAB provides guitarists with a versatile and high-quality sound reproduction solution for use in live performances, recording sessions, and home practice. The cabinet features a 10-inch woofer and 2 high-frequency dome tweeters, powered by a built-in 140-watt Class D amplifier.
