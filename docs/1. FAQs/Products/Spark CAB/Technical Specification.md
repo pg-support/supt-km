@@ -97,7 +97,7 @@
 	(492.5 x 399.8 x 255 mm)
 
 
-- WEIGHT**
+- WEIGHT
 
 	13.5 kg  
 	29.76 lbs
@@ -113,6 +113,6 @@
 	2 Recessed Speaker Handles
 
 
-- CABLE TIE**
+- CABLE TIE
 
 	1 Adjustable Cable Tie for Fixing Instrument and Audio Cables on the Back
