@@ -16,12 +16,12 @@
 	  117 dB (RMS), 120 dB (Peak)
 
 
-- CABINET PRINCIPLE**
+- CABINET PRINCIPLE
 
 	  Bass Reflex
 
 
-- POWER AMPLIFIERS**
+- POWER AMPLIFIERS
 
 	  140 Watt Class D Amplifier
 
@@ -31,7 +31,7 @@
 	  1x 10-inch Woofer, 2x 1-inch (25mm) Tweeter
 
 
-- TOTAL IMPEDANCE**
+- TOTAL IMPEDANCE
 
 	  4 ohms  
 
@@ -66,7 +66,7 @@
 	Contour Switch - Boosts low and high frequencies to improve balance at low volumes  
   
 
-- WIRED CONNECTIVITY**
+- WIRED CONNECTIVITY
 
 	1 x 1/8-inch (3.5mm) Dedicated Stereo Input for Spark Amp  
 	2 x Mono XLR/TRS Combo Inputs   
