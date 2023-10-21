@@ -30,7 +30,7 @@ PGBot can be found in Positive Grid's Slack channel.
 
 ![](https://lh3.googleusercontent.com/9SAfgL1yRLOAef4j_B-MtZtZdmAQsUsF2eH7QHNUVecT_TZsvAzDsWMpRGGaj3Zl2NRTsrzWicVbLZJ2--WU1MUPKc57w_ItgfNIxnkaKewgjqu4nutBI4bvqU-8nsrHaIO-pxOX8s7zYSMytYajpQ)
 
-### Reset license activation records
+### Reset license activation records (Desktop)
 > Scenario: User has reached the activation limit (5 computers), resulting in demo mode in their software. 
 
 1. Find the ‘Deactivate all devices’ button under /pg_license, if the user’s license has activation records. 
@@ -44,6 +44,42 @@ PGBot can be found in Positive Grid's Slack channel.
 > Let me know if everything's working correctly. Thank you.
 
 **![](https://lh5.googleusercontent.com/zhJ0Yd4oS4nsju2N4pg_g7mXKB3Y4vUgKea79dgrbyV6CnELnsgy1cxYNbF86bnPeFfvIxiLncmj7UOSpQw9wcmvrDr2Almt9h32SCwwYbJDH-H44wmyaZk0W0UrCv1KDtK-GqGtgzbMmQ3mPiakug)**
+
+### Reset license activation records (Mobile)
+> Scenario: User has reached the activation limit (5 devices), the app (BIAS FX 2 Mobile/Spark app) shows activation limit message.
+
+To deactivate the license, please navigate to the related relevant topic in "backend-issue" channel on Slack:
+https://positivegrid.slack.com/archives/C4H4P850X/p1690251649714899
+
+
+1.Before you use this tool, you have to click "Start Workflow" button from the link below:
+[https://positivegrid.slack.com/docs/T0250SJH7/F05JH75JULC](https://positivegrid.slack.com/docs/T0250SJH7/F05JH75JULC)
+
+![[Xnip2023-08-08_15-03-20.jpg]]
+
+2.Select "backend-issue" to run this workflow:
+   
+ ![[Xnip2023-08-08_15-03-42.jpg]]
+
+3.Type in the customer's Positive Grid account and select BIAS FX 2:
+   
+![[Xnip2023-08-08_15-06-14.jpg]]
+
+4.The result will be listed in the "backend-issue" channel:
+
+![[Xnip2023-08-08_15-07-28.jpg]]
+
+Once you use the tool, you will be able to use the command on Slack in the future.
+*This command is only available in the "backend-issue" channel*
+
+Command: /iap
+
+
+
+If you can't find the command, please follow the steps from the top again.
+
+![[Xnip2023-08-08_16-08-02.jpg]]
+
 
 ### Transfer license
 > Scenario: User wants to give away a number of licenses to another user.
