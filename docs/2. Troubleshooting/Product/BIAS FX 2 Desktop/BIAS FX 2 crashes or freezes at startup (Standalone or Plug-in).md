@@ -17,7 +17,7 @@ If the reset workaround doesn't work, the customer should send the log file to u
    
 2. Issue Brief
    
-3. Log File
+3. Log File (Name it with the ticket number and upload it to Google Drive).
 <br>
 ## 3 - Inform the customer 
 Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
