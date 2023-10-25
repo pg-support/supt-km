@@ -1,4 +1,4 @@
-# Empty Audio Settings (Windows)
+# Empty Audio Settings
 >"The audio settings are empty."
 ![[Pasted image 20231016134055.png]]
 
