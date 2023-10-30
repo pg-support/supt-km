@@ -28,15 +28,21 @@ A: Yes -> Case close (user error).
 No ->  go to step 2
 
 2. Do all five LEDs blink constantly? 
+   
 A: Yes -> [[Spark 40 Firmware Troubleshooting]]
+
 No -> go to step 3
 
 3. Does the issue occur after firmware update?
+   
 A: Yes -> [[Spark 40 Firmware Troubleshooting]]
+
 No -> go to step 4
 
 4. Is there any sound from Bluetooth / USB / Aux In audio playback?
+   
 A:  Yes -> [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Guitar Input
+
 No ->  [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Sound from any Output
 
 
