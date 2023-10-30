@@ -5,7 +5,8 @@ Below are the details for the issue. Use it as reference for reply.
 
 - Certain iOS devices will encounter choppy Bluetooth playback when Spark Control is connected, however this only happens to a very little number of devices and we cannot be 100% certain that certain iOS + iPhone/iPad combinations will always produce this issue.
 
-- Solution:
+<br>
+Solution:
   
   1. Back up the presets on the Spark amp, and perform a factory reset [[How to factory reset Spark 40]].
   2. Connect Spark Control, then open AirTurn (manager) app.
