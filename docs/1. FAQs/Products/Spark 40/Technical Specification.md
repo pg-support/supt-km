@@ -54,7 +54,7 @@
 - REAR PANEL
   
 	  USB Port
-	  AUX in
+	  AUX in (Impedance 10K Ω)
 	  DC in
 
 - ONBOARD EFFECTS
@@ -67,7 +67,7 @@
   
 	  1/4" Guitar Input
 	  1/8" Aux Input
-	  1/8" Headphone
+	  1/8" Headphone (supports with 32~64 ohms impedance)
 
 - WIRELESS CONNECTIVITY
   

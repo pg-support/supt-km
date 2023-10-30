@@ -1,3 +1,5 @@
+# How to factory reset Spark 40
+
 This process will reset all four presets stored on the hardware as well as Bluetooth pairing information. 
 
 **Always inform the customer to back up the presets before performing a factory reset!**
