@@ -24,26 +24,26 @@ Follow the steps to diagnose the issue:
 
 1. Try using a different guitar and instrument cable to check if the Spark 40 produces sound properly. If you're using an acoustic guitar with a pickup or a guitar with active pickups, ensure the battery is fully charged.
 Does it help?  
-A: Yes -> Case close (user error).
+Yes -> Case close (user error).
 No ->  go to step 2
 
 2. Do all five LEDs blink constantly? 
    
-A: Yes -> [[Spark 40 Firmware Troubleshooting]]
-
-No -> go to step 3
+	Yes -> [[Spark 40 Firmware Troubleshooting]]
+	
+	No -> go to step 3
 
 3. Does the issue occur after firmware update?
    
-A: Yes -> [[Spark 40 Firmware Troubleshooting]]
-
-No -> go to step 4
+	Yes -> [[Spark 40 Firmware Troubleshooting]]
+	
+	No -> go to step 4
 
 4. Is there any sound from Bluetooth / USB / Aux In audio playback?
    
-A:  Yes -> [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Guitar Input
-
-No ->  [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Sound from any Output
+	Yes -> [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Guitar Input
+	
+	No ->  [[RMA (US)]] , [[RMA (Non-US)]] Reason: No Sound from any Output
 
 
 
