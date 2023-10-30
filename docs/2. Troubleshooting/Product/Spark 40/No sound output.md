@@ -22,10 +22,10 @@ Does it help?
 
 Follow the steps to diagnose the issue:
 
-1. Try using a different guitar and instrument cable to check if the Spark 40 produces sound properly. If you're using an acoustic guitar with a pickup or a guitar with active pickups, ensure the battery is fully charged.
-Does it help?  
-Yes -> Case close (user error).
-No ->  go to step 2
+1. Try using a different guitar and instrument cable to check if the Spark 40 produces sound properly. If you're using an acoustic guitar with a pickup or a guitar with active pickups, ensure the battery is fully charged.Does it help?  
+   
+	Yes -> Case close (user error).
+	No ->  go to step 2
 
 2. Do all five LEDs blink constantly? 
    
