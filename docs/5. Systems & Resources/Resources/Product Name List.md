@@ -114,7 +114,8 @@ Always capitalize our brand names, products and trademarked names!
 
 ### BIAS AMP 2 Mobile
 
-### BIAS PEDAL (Desktop)
+------------------------------------------------------
+### BIAS PEDAL (Desktop):
 ### BIAS Distortion
 	License: BIAS Pedal Distortion
 	Product Line: pedal
@@ -135,7 +136,8 @@ Always capitalize our brand names, products and trademarked names!
 	License: [IAP] - Essential/Ultimate License
 	Product Line: iap_fx1
 
-### Pro Series
+------------------------------------------------------
+### Pro Series:
 
 ### Pro Series Compressor
 	License: Pro Series Compressor
