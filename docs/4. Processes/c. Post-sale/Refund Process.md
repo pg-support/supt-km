@@ -56,6 +56,26 @@
    
    ![[Pasted image 20230323174257.png]]
 
+### Partial Refund in Shopify
+
+1). Head to Shopify's system website and log in using your company email.
+
+2). Find the correct store that corresponds to the user's location. If it's a US customer, navigate to the US store.
+
+3). Use the search bar to find the user's order by entering the order number or user email.
+
+4). Click on the "Refund" option located at the top right corner of the order details page.
+   
+![[Pasted image 20230323163122.png]]
+   
+5). Do NOT select the item in the order. Instead, directly enter the partial refund amount under the “Refund Amount” section.
+   
+![[Pasted image 20231031113624.png]]
+   
+6). Confirm the action. Note that the refund may take several business days to appear on the customer's account.
+
+7). Inform the customer about the refund via Zendesk by using the macro "Already refund..." for reference. Make sure to provide all the relevant details and answer any additional questions they may have. (END)
+
 ## Refund in BigCommerce
 
 > In some rare special cases, we'll need to refund orders from BigCommerce, which used to be our financial service platform.
