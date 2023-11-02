@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e973a6df87cafb5",
+        "id": "7dea930fd3dfcc3e",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8e973a6df87cafb5",
+              "leaf": "7dea930fd3dfcc3e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5. Systems & Resources/Spark 40 SN Tool.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
@@ -184,7 +184,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e973a6df87cafb5",
+  "active": "7dea930fd3dfcc3e",
   "lastOpenFiles": [
     "5. Systems & Resources/Spark 40 SN Tool.md",
     "2. Troubleshooting/Product/Spark Control/Bluetooth choppy audio when Spark Control is connected.md",
