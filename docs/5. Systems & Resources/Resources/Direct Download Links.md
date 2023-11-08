@@ -4,6 +4,22 @@
 
 ## BIAS FX 2
 
+**Ver. 2.7.0.6600**
+
+Mac Standalone
+[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_7_0_6600.dmg)
+
+Mac AU_VST
+[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_7_0_6600.dmg)
+
+Mac AAX
+[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_7_0_6600.dmg)
+
+Windows 64bit
+[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_7_0_6600.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_7_0_6600.exe)
+ <br>
+ <br>
+  <br>
 **Ver. 2.6.1.6290**
 
 Mac Standalone
