@@ -52,6 +52,7 @@ Customers from countries in the EU (other than Germany) requesting a VAT invoice
 Customers from other countries, such as the UK and AU, who request a VAT invoice, similar to customers in DE, will receive an invoice from Shopify containing all the necessary details and the corresponding VAT number.
 
 United Kingdom (UK): GB374894639
+
 Australia (AU): 14 526 244 781 
 
 

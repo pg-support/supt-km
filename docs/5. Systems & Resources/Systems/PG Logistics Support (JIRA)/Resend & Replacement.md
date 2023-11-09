@@ -1,9 +1,10 @@
-# Resend & Replacement (JIRA)
+# Resend & Replacement
 > Resend: Request for resending the whole order or particular item.
+> 
 > Replacement: Request for sending a replacement for DOA/RMA process. 
 <br>
 
-All the Resend/Replacement requests should be done via JIRA now.
+All the Resend/Replacement requests should be done on Shopify now.
 ## Resend & Replacement Instructions:
 
 

@@ -54,4 +54,4 @@ Once the package is on its way, verify whether the case is an operation error (w
 
 1. Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
    
-2. Resend (we sent a wrong item):  Fill out a RS or Service Part request on [[Resend & Replacement (JIRA)]] depending on the item missing. Offer the TRK# to the customer once available. (END)
+2. Resend (we sent a wrong item):  Fill out a RS or Service Part request on [[Resend & Replacement]] depending on the item missing. Offer the TRK# to the customer once available. (END)
