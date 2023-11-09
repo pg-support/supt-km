@@ -17,9 +17,9 @@
 > However if the user would like to be refunded instead, we can offer partial refund for the customized item. Please proceed by removing the customized item from the order in Shopify and offer partial refund.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1-7e6GoWxdNYOPiH08rKDqEz1GKPOvbQl_bIHcnqkM5yz-_fgK_7kW1sIQ7vV2wJUV2exHpjo6M21/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**IMPORTANT: Issue a partial refund for the shipping fee AFTER the package is shipped from NMotion. (temporary 23.10.19)**
+~~**IMPORTANT: Issue a partial refund for the shipping fee AFTER the package is shipped from NMotion. (temporary 23.10.19)**~~
 
-Victor Huang will send the ticket with coupon code to the customer. Support Team needs to link the new and old order together by tagging the old order number onto the new one.
+Victor Huang will send the ticket with coupon code (for the reprint item itself and a corresponding shipping  discount code) to the customer. Support Team needs to link the new and old order together by tagging the old order number onto the new one.
 
 Go to Shopify and locate the new order, select "Orders" and type the old order number to the comment.
 
