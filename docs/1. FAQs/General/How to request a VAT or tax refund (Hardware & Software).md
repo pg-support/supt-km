@@ -52,9 +52,10 @@ For countries such as Canada (CA) Japan (JP) where we don't charge VAT during ch
 
 
 
-~~EU: France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), Czech (CZ), Poland (PL): + 22%
-Australia (AU): +10%
-United Kingdom (UK): +20%
+
+~~EU: France (FR), Germany (DE), Italy (IT), Netherland (NL), Spain (ES), Czech (CZ), Poland (PL): + 22%~~
+~~Australia (AU): +10%~~
+~~United Kingdom (UK): +20%~~
 
 ~~Positive Grid's valid VAT#:~~
 
