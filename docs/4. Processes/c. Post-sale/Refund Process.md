@@ -21,7 +21,7 @@
    
 6). If the order is eligible for a refund, click on "Refund order."
 
-7). A refund process window will pop up. Select the correct item(s) for refund, deselect the "Restock" option, and input the reason for the refund as stated in the ticket.
+7). A refund process window will pop up. Select the correct item(s) for refund, deselect the "Restock" option, and **input the reason for the refund as stated in the ticket**.
    
    ![[Pasted image 20230323162320.png]]
 
@@ -44,7 +44,7 @@
    
 ![[Pasted image 20230323163122.png]]
    
-5). Select all the products that need to be refunded and **deselect** the "Restock item" option. (We should not restock any type of product during the refund process.) Fill in the refund reason accordingly.
+5). Select all the products that need to be refunded and **deselect** the "Restock item" option. (We should not restock any type of product during the refund process.) **Fill in the refund reason accordingly**.
    
    ![[Pasted image 20230323180526.png]]
    
