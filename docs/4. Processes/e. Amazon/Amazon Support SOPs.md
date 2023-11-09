@@ -124,6 +124,7 @@ If the customer contacts us directly to request a return/refund, please ask them
 
 When the customer request a refund/return on Amazon, the system automatically provides the following return instructions:
 
+![[Pasted image 20231109101212.png]]
 ---
 We understand that there may be situations where you need to return a purchased product. To ensure a smooth and hassle-free return process, please review the following instructions carefully:
 
