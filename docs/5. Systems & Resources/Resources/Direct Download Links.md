@@ -20,7 +20,7 @@ Windows 64bit
  <br>
  <br>
   <br>
-**Ver. 2.6.1.6290**
+**Ver. 2.6.1.6290 (The final version supports Windows 8 and macOS 10.13)**
 
 Mac Standalone
 [https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
