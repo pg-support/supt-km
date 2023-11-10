@@ -11,9 +11,13 @@ Please ask for the company's **VAT number** and **address** from the customer an
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="944" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 If the VAT number is valid, send the following information and ask Maines/WeiTing to create an invoice with VAT#:
+
 - Order#
+  
 - VAT#
+  
 - Billing Address (should be a company address)
+
 
 
 For Maines & WeiTing:
