@@ -54,7 +54,7 @@ Check the tracking with the corresponding carrier. As soon as the package is on 
 
 >Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
 
-Request a replacement by submitting a ticket on JIRA ([[Resend & Replacement]]).
+Request a replacement by submitting a ticket on JIRA ([[Replacement (JIRA)]]).
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing). 
 

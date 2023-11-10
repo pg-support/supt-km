@@ -19,7 +19,7 @@
 
 ### Non-US
 
-1. Request a service part request by submitting a ticket on JIRA ([[Resend & Replacement]]).
+1. Request a service part request by submitting a ticket on JIRA ([[Replacement (JIRA)]]).
 2. Make sure to fill in full contact information (submitted by the customer during “Hum 2” macro) in the form.
 3. After requesting service part on JIRA, please use the macro “Hum 3,” submit as ‘On-hold’ and wait for the tracking number.
 4. PSU will be shipped within roughly 2 days. Check back for TRK# and provide it to the customer. (END)

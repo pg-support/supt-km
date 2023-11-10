@@ -88,7 +88,7 @@ Once the user replies with tracking information, go back to the country’s [RMA
 ### 6 - Request for replacement
 >Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.
 
-Once a TRK# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a ticket on JIRA ([[Resend & Replacement]]).
+Once a TRK# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a ticket on JIRA ([[Replacement (JIRA)]]).
 
 > For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.
 
