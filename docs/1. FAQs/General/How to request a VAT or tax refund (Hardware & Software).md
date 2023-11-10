@@ -23,6 +23,9 @@ If the VAT number is valid, send the following information and ask Maines/WeiTin
 For Maines & WeiTing:
 
 ---
+# How to Calculate the Tax
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8sJcbLMk00F6QYYvQHs-JRoZsfiNHbm8YVMdiAPFoUqTkpbfg7QhGZ7wJnVef5a4BIujsRPMB8FX/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Direct VAT Refunds
 
 **This policy is applicable to all EU countries except Germany (DE).**
