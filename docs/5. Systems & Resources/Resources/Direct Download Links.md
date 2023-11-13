@@ -6,33 +6,25 @@
 
 **Ver. 2.7.0.6600**
 
-Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_7_0_6600.dmg)
+[BIAS FX 2 2.7.0.6600 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_7_0_6600.dmg)
 
-Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_7_0_6600.dmg)
+[BIAS FX 2 2.7.0.6600 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_7_0_6600.dmg)
 
-Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_7_0_6600.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_7_0_6600.dmg)
+[BIAS FX 2 2.7.0.6600 - Mac AAX ](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_7_0_6600.dmg)
 
-Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_7_0_6600.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_7_0_6600.exe)
+[BIAS FX 2 2.7.0.6600 - Windows 64bit ](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_7_0_6600.exe)
  <br>
  <br>
   <br>
 **Ver. 2.6.1.6290 (The final version supports Windows 8 and macOS 10.13)**
 
-Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
+[BIAS FX 2 2.6.1.6290 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_6_1_6290.dmg)
 
-Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
+[BIAS FX 2 2.6.1.6290 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_6_1_6290.dmg)
 
-Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_6_1_6290.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_6_1_6290.dmg)
+[BIAS FX 2 2.6.1.6290 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_6_1_6290.dmg)
 
-Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe)
+[BIAS FX 2 2.6.1.6290 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_6_1_6290.exe)
  <br>
  <br>
   <br>
