@@ -74,95 +74,95 @@ Windows 32bit
 **Ver. 2.5.1.6460 (OMNYSS Hotfix)**    
 
 Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_1_6560.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_0_6460.dmg)
+[BIAS FX 2 2.5.1.6560 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_0_6460.dmg)
 
 Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_1_6560.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_1_6560.dmg)
+[BIAS FX 2 2.5.1.6560 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_1_6560.dmg)
 
 Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_1_6560.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_1_6560.dmg)
+[BIAS FX 2 2.5.1.6560 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_1_6560.dmg)
      
 Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_1_6560.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_1_6560.exe)
+[BIAS FX 2 2.5.1.6560 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_1_6560.exe)
     
 Windows 32bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_1_6560.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_1_6560.exe)
+[BIAS FX 2 2.5.1.6560 - Windows 32bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_1_6560.exe)
  <br>
   <br>
  <br>
 **Ver. 2.5.0.6460 (OMNYSS)**  
 
 Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_0_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_0_6460.dmg)
+[BIAS FX 2 2.5.0.6460 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_5_0_6460.dmg)
 
 Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_0_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_0_6460.dmg)
+[BIAS FX 2 2.5.0.6460 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_5_0_6460.dmg)
 
 Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_0_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_0_6460.dmg)
+[BIAS FX 2 2.5.0.6460 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_5_0_6460.dmg)
 
 Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_0_6460.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_0_6460.exe)
+[BIAS FX 2 2.5.0.6460 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_5_0_6460.exe)
 
 Windows 32bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_0_6460.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_0_6460.exe)
+[BIAS FX 2 2.5.0.6460 - Windows 32bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_5_0_6460.exe)
  <br>
  <br>
  <br>
 **Ver. 2.4.6.6860**  
 
 Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_6_6860.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_6_6860.dmg)  
+[BIAS FX 2 2.4.6.6860 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_6_6860.dmg)  
  
 Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_6_6860.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_6_6860.dmg)
+[BIAS FX 2 2.4.6.6860 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_6_6860.dmg)
 
 Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_6_6860.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_6_6860.dmg)
+[BIAS FX 2 2.4.6.6860 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_6_6860.dmg)
 
 Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_6_6860.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_6_6860.exe)  
+[BIAS FX 2 2.4.6.6860 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_6_6860.exe)  
  
 Windows 32bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_6_6860.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_6_6860.exe)
+[BIAS FX 2 2.4.6.6860 - Windows 32bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_6_6860.exe)
  <br>
   <br>
  <br>
 **Ver. 2.4.5.6460**  
 
 Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6460.dmg)
+[BIAS FX 2 2.4.5.6460 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6460.dmg)
 
 Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6460.dmg)
+[BIAS FX 2 2.4.5.6460 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6460.dmg)
 
 Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6460.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6460.dmg)
+[BIAS FX 2 2.4.5.6460 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6460.dmg)
 
 Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6460.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6460.exe)
+[BIAS FX 2 2.4.5.6460 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6460.exe)
   
 Windows 32bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6460.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6460.exe)
+[BIAS FX 2 2.4.5.6460 - Windows 32bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6460.exe)
  <br>
   <br>
  <br>
 **Ver. 2.4.5.6360**  
 
 Mac Standalone
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6360.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6360.dmg)  
+[BIAS FX 2 2.4.5.6360 - Mac Standalone](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_Standalone_v2_4_5_6360.dmg)  
   
 Mac AU_VST
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6360.dmg
-](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6360.dmg)
+[BIAS FX 2 2.4.5.6360 - Mac AU_VST](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_VST_AU_Plugin_v2_4_5_6360.dmg)
+
 Mac AAX
-[https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6360.dmg](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6360.dmg)  
+[BIAS FX 2 2.4.5.6360 - Mac AAX](https://dlcf.positivegrid.com/BIAS_FX_2_Mac_AAX_Plugin_v2_4_5_6360.dmg)  
 
 Windows 64bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6360.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6360.exe)
+[BIAS FX 2 2.4.5.6360 - Windows 64bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows64bit_v2_4_5_6360.exe)
   
 Windows 32bit
-[https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6360.exe](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6360.exe)
+[BIAS FX 2 2.4.5.6360 - Windows 32bit](https://dlcf.positivegrid.com/BIAS_FX_2_Windows32bit_v2_4_5_6360.exe)
  <br>
   <br>
  <br>
