@@ -17,20 +17,11 @@ If the customer bought the amp second hand, ask the customer for the purchase da
 ### 1 - Inform about the charge upfront
 Once confirmed the issue, please first check with the customer whether he/she is willing to pay for the replacement/repair upfront, pricing listed as below:
    
-<u>Spark 40 / Spark Pearl </u>
--   Main product (Charge for replacement) - $60 USD
-
-<u>Spark MINI</u>
--   Main product (Charge for replacement) - $120 USD
-
-<u>Spark GO</u>
--   Main product (Charge for replacement) - $60 USD
-
-<u>Spark Control</u>
--   Main product (Charge for replacement) - $77 USD 
-
-<u>RIFF</u>
--   Main product (Charge for replacement) - $70 USD
+- Spark 40: $80
+- Spark MINI: $60
+- Spark GO: $40
+- Spark Control: $40
+- RIFF: $40
 
 ### 2 - Inquire information for payment
 Once confirmed the customer is willing to proceed and pay for the repair/replacement, insert Macro: <u>[Service Center] OOW - 1</u>.
