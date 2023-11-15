@@ -10,18 +10,24 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
 ### 2 - Fill out a DOA request on JIRA
 
 Once the client replies with all the requested information, fill in the details on JIRA - RMA-Support:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-1.  ‘Service Type’ = DOA.
-2.  ‘Warranty Service’ should normally be ‘Replacement’ unless the customer specifically asks for a refund. 
-3.  ‘Defective-User Scenario’ should be obtained via DOA Macro. Find the example below. (No need to fill in if the issue is related to cosmetics.) 
-4.  Fill in all address details accordingly.
+Provide required information when creating an issue ticket on JIRA:
+1.  **Summary:** OOW / Order# / Agent's name, for example, 'OOW / PG-xxxxx / WT'.
+2.  **Order Number (RMA):** Original order#, for example, EU-22446.
+3.  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+4.  **Service Type:** Select 'OOW'.
+5.  **Product:** Select the product accordingly.
+6.  **Invoice Amount:** Select the correct OOW price for the defective items.
+7.  **Invoice Address:** Fill in invoice address
+8. **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+9.  **Phone number / Email:** Fill in the customer's phone number & Email.
+10. **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
-![](https://lh3.googleusercontent.com/j401rXzMJqJLVK-tgrSg1LgZUYktWh_rpmjFZj-sP2fstrJgZUgJv7gl04lAuDv9-4-iZDyCvRlNAihqbXaYpVOrS-9MTiETTLu5KZ0Bifidrfy2mLS15IW4wYQHLqfHDkZ6dzjM4wVak6Vtt1SUGv5sDoIbCnwqKLEEZhnvPEPLFb0ZnWK_pLYOpIh2)
-
-### 3 - Request submitted, awaiting return label
-Once submitted, the service center will send the return label to the agent’s email. Agents can monitor the case status via each service center/region’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (DOA tab).
+### 3 - Ticket created, awaiting return label
+Once the ticket is created, our RMA specialist will tag the agent and attach the **return label** to the ticket. Agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
    
 Reply the ticket with a heads-up, for example:
    

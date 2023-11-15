@@ -36,7 +36,12 @@ For example, Order#EU-24504 has 20% tax, we will issue a partial refund €19.84
 
 ![[Pasted image 20231109122424.png]]
 
+If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
+
 Please leave the refund reason as "VAT return - VAT No.", for example, "VAT return - FR79894580356". 
+
+
+
 
 Refer to the [[Refund Process]] for further details.
 
