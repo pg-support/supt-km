@@ -1,4 +1,4 @@
-# DOA (Non-US) JIRA
+# DOA (Non-US) JIRA (under construction)
 
 > Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
 
@@ -22,19 +22,31 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
 
 Provide required information:
+
 1.  **Summary:** DOA / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+
 2.  **Order Number (RMA):** Original order#.
+
 3.  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+
 4.  **Service Type:** Select 'DOA'.
+
 5.  **Product:** Select the product accordingly.
+
 6.   **Invoice Amount:** Leave blank.
+
 7.   **Invoice Address:** Leave blank.
+
 8.  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+
 9.  **Phone number / Email:** Fill in the customer's phone number & Email.
+
 10. **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
+>JIRA Status: 'To Do' 
+>Assignee: Automatic (Vix Hsieh)
 
 ### 4 - Ticket created, awaiting return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
@@ -46,7 +58,15 @@ Reply the ticket with a heads-up, for example:
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
 ### 5 - Get the return label on JIRA
-Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket, and change the JIRA ticket status to changed to "progress" within 3 days. The ticket will be assigned to the agent who requests the RMA. 
+Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket, and change the JIRA ticket status to changed to 'In Progress' within 3 days. The ticket will be assigned to the agent who requests the RMA. 
+
+![[Xnip2023-11-16_16-46-21.jpg]]
+
+For Vix Hsieh:
+>JIRA Status: 'To Do' -> 'In Progress' 
+>Assignee: Vix Hsieh -> Agent who requests the RMA
+
+![[Xnip2023-11-16_14-22-20.jpg]]
 
 
 Once attached, the agent will be notified, and they can proceed with the return process.
@@ -60,8 +80,7 @@ Make sure to change the ticket's title and content in the macro to the correct R
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
 ### 6 - Check the tracking# for the returned package
-Check the tracking# with the corresponding carrier, if an ETA (estimated time of arrival) is available on the carrier's tracking site, please note it in the JIRA ticket and change the ticket status from "To Do" to "Pending -> In Progress":
-![[Xnip2023-11-16_14-22-20.jpg]]
+Check the tracking# with the corresponding carrier, if an ETA (estimated time of arrival) is available on the carrier's tracking site.
 
 Additionally, verify whether the case requests a replacement or refund.
 
