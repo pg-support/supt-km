@@ -43,7 +43,7 @@ Make sure to provide the correct RMA number (auto-generated when submitted). Sub
 
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
-### 5 - Check the TRK# for the returned package
+### 5 - Check the tracking# for the returned package
 Check the tracking with the corresponding carrier and verify whether the case will need a replacement or refund.
 
 #### Replacement
