@@ -64,6 +64,7 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 
 For Vix Hsieh:
 >JIRA Status: 'To Do' -> 'In Progress' 
+>
 >Assignee: Vix Hsieh -> Agent who requests the RMA
 
 ![[Xnip2023-11-16_14-22-20.jpg]]
