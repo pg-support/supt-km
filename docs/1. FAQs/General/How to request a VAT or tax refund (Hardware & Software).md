@@ -10,7 +10,7 @@ Please ask for the company's **VAT number** and **address** from the customer an
 [https://ec.europa.eu/taxation_customs/vies/#/vat-validation](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-If the VAT number is valid, send the following information and ask Maines/WeiTing to create an invoice with VAT#:
+If the VAT number is valid, send the following information and tag Maines/WeiTing on Supt-Private channel to create an invoice with VAT#:
 
 - Order#
   
@@ -18,11 +18,11 @@ If the VAT number is valid, send the following information and ask Maines/WeiTin
   
 - Billing Address (should be a company address)
 
-
+---
 
 For Maines & WeiTing:
 
----
+
 ## How to Calculate the Tax
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8sJcbLMk00F6QYYvQHs-JRoZsfiNHbm8YVMdiAPFoUqTkpbfg7QhGZ7wJnVef5a4BIujsRPMB8FX/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

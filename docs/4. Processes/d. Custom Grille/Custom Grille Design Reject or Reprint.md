@@ -21,6 +21,13 @@
 
 Victor Huang will send the ticket with coupon code (for the reprint item itself and a corresponding shipping  discount code) to the customer. Support Team needs to link the new and old order together by tagging the old order number onto the new one.
 
+Macro: 
+
+<u>Personalized Product Reprint (Kickflip Issue)</u>
+
+<u>Personalized Product Reprint (Mixed Order)</u>
+
+
 Go to Shopify and locate the new order, select "Orders" and type the old order number to the comment.
 
 ![[Pasted image 20230925130517.png]]

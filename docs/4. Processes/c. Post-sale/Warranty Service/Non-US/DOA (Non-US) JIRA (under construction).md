@@ -81,16 +81,19 @@ Make sure to change the ticket's title and content in the macro to the correct R
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
 ### 6 - Check the tracking# for the returned package
-Check the tracking# with the corresponding carrier, if an ETA (estimated time of arrival) is available on the carrier's tracking site.
+Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
+
+![[Pasted image 20231116170835.png]]
 
 Additionally, verify whether the case requests a replacement or refund.
+
 
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
 To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
    
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. Forward the tracking information to the customer when available. 
+Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
 #### Refund
 If the case requires a refund, we need to wait for the package to be received by our service center. Once we can see the package is on the road, communicate with the customer as below:
@@ -99,9 +102,11 @@ If the case requires a refund, we need to wait for the package to be received by
 > 
 > Kindly wait for further notice. Thank you.
 
-To request a replacement, proceed with the [[Refund Process]].
+When confirming the package is delivered, proceed with the [[Refund Process]].
 
-### 7. Close the JIRA ticket.
-Close the JIRA by changing the status from "In Progress" to "Closed". (END)
+After issuing a refund, close the support request on Zendesk.
+
+### 7. Close the JIRA ticket
+When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]
