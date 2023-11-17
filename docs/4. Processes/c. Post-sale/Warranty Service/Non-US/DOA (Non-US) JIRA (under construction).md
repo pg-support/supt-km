@@ -23,25 +23,25 @@ Once the customer replies with all the requested information, create a new RMA t
 
 Provide required information:
 
-1.  **Summary:** DOA / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+-  **Summary:** DOA / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
 
-2.  **Order Number (RMA):** Original order#.
+-  **Order Number (RMA):** Original order#.
 
-3.  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+-  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
 
-4.  **Service Type:** Select 'DOA'.
+-  **Service Type:** Select 'DOA'.
 
-5.  **Product:** Select the product accordingly.
+-  **Product:** Select the product accordingly.
 
-6.   **Invoice Amount:** Leave blank.
+-   **Invoice Amount:** Leave blank.
 
-7.   **Invoice Address:** Leave blank.
+-   **Invoice Address:** Leave blank.
 
-8.  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+-  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
 
-9.  **Phone number / Email:** Fill in the customer's phone number & Email.
+-  **Phone number / Email:** Fill in the customer's phone number & Email.
 
-10. **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 

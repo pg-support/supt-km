@@ -28,11 +28,11 @@ Once confirmed the customer is willing to proceed and pay for the repair/replace
 
 Insert the correct country in the email subject. Submit as ‘Pending’.
 
-![](https://lh5.googleusercontent.com/oNgL51TQ-U8DbnBd70LpyGQtI1DkGy-vQCFeTii74P0E6G_zaXpEZFYuonvaLnwJlS8xmoX-FnkquWXUMnmJCwbS349dDjeE0I5v_SK25zqVDRPYE6ZOUx6ri3Uv6SwRNw3HqF4iAwvyhpnivYyH8ymoS5xa9DhpaMreJfBCKXlIhWXgNJfsT7ybPM7F)
+![[Pasted image 20231117175406.png]]
 
-> <u>Important note for [Spark 40 OOW cases in CA, AU, UK]</u>: You'll be requesting a replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
+~~> <u>Important note for [Spark 40 OOW cases in CA, AU, UK]</u>: You'll be requesting a replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
 > 
-> Communicate with the following message: “In order to provide faster resolution, we'll offer a certified like-new replacement for you.”
+> Communicate with the following message: “In order to provide faster resolution, we'll offer a certified like-new replacement for you.”~~
 
 ### 3 - Log into to RMA board (JIRA)
 
@@ -45,25 +45,25 @@ Once the customer replies with all the requested information, create a new RMA t
 
 Provide required information:
 
-1.  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+-  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
 
-2.  **Order Number (RMA):** Original order#.
+-  **Order Number (RMA):** Original order#.
 
-3.  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+-  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
 
-4.  **Service Type:** Select 'OOW'.
+-  **Service Type:** Select 'OOW'.
 
-5.  **Product:** Select the product accordingly.
+-  **Product:** Select the product accordingly.
 
-6.  **Invoice Amount:** Select the correct OOW price for the defective items.
+-  **Invoice Amount:** Select the correct OOW price for the defective items.
 
-7.  **Invoice Address:** Fill in invoice address
+-  **Invoice Address:** Fill in invoice address
 
-8.  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+-  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
 
-9.  **Phone number / Email:** Fill in the customer's phone number & Email.
+-  **Phone number / Email:** Fill in the customer's phone number & Email.
 
-10. **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
