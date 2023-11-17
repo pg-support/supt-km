@@ -27,15 +27,19 @@ Provide required information:
 
 -  **Order Number (RMA):** Original order#.
 
+> *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
+> 
+> If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
+
 -  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
 
 -  **Service Type:** Select 'DOA'.
 
 -  **Product:** Select the product accordingly.
 
--   **Invoice Amount:** Leave blank.
+-  **Invoice Amount:** Leave blank.
 
--   **Invoice Address:** Leave blank.
+-  **Invoice Address:** Leave blank.
 
 -  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
 
@@ -48,7 +52,7 @@ Provide required information:
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
 
-### 4 - Ticket created, awaiting return label
+### 4 - Ticket created, awaiting the return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
    
 Reply the ticket with a heads-up, for example:
@@ -62,9 +66,9 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 
 ![[Xnip2023-11-16_16-46-21.jpg]]
 
+---
 For Vix Hsieh:
 >JIRA Status: 'To Do' -> 'In Progress' 
->
 >Assignee: Vix Hsieh -> Agent who requests the RMA
 
 ![[Xnip2023-11-16_14-22-20.jpg]]
@@ -93,7 +97,9 @@ If the case requires a replacement, it can be requested as soon as the package i
 
 To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
    
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. Forward the tracking information to the customer when available. Close the support request on Zendesk.
+Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
+
+Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
 #### Refund
 If the case requires a refund, we need to wait for the package to be received by our service center. Once we can see the package is on the road, communicate with the customer as below:
