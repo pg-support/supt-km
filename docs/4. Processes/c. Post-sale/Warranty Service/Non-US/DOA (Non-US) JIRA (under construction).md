@@ -112,6 +112,10 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 After issuing a refund, close the support request on Zendesk.
 
 ### 7. Close the JIRA ticket
+Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
+
+![[Pasted image 20231120171356.png]]
+
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]
