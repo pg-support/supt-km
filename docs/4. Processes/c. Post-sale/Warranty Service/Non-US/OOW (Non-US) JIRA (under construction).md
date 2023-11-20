@@ -6,6 +6,8 @@
 > 
 > All other OOW cases: B-stock (certified like-new) replacement
 
+![[OOW.png]]
+
 ### 0 - Verify the warranty
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.
 
@@ -37,18 +39,18 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 ### 3 - Log into to RMA board (JIRA)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### 4 - Fill out a OOW request on JIRA
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr5jPrbx3hS4wyH8A093YDTfpIu82_297NrIpQNgzxNciJc2v7_CvnSa3LJeWhHCtfqRGMVZQ2W96F/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr5jPrbx3hS4wyH8A093YDTfpIu82_297NrIpQNgzxNciJc2v7_CvnSa3LJeWhHCtfqRGMVZQ2W96F/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Provide required information:
 
 -  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
 
 -  **Order Number (RMA):** Original order#.
-
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
 > 
 > If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
@@ -79,8 +81,6 @@ Once the ticket is created on JIRA, agents can monitor the case status on the [R
 
 Vix Hsieh will send the invoice to the customer and notify the agent by assigning the JIRA ticket back to the agent.
 
-The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off.
-
 ---
 For Vix Hsieh:
 >JIRA Status: 'Invoice Needed' -> 'Awaiting Payment' 
@@ -90,14 +90,16 @@ For Vix Hsieh:
 ![[Xnip2023-11-16_14-22-20.jpg]]
 
 ### 6 - Confirm payment & offer info for return
-## 這段需要確認一下誰來負責檢視付款狀態
 
+The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off. Tag Vix / Maines / WeiTing on Supt-Private Channel to confirm the payment status.
+
+Vix will also check the payment status once a day.
 
 Once the invoice is confirmed to be paid off, ‘Invoice Status’ will be updated to 'To Do' Section in the ticket on JIRA. 
 
 ---
 For who is going to do this:
->JIRA Status: 'Awaiting Payment' -> 'To Do' 
+>JIRA Status: 'Awaiting Payment' -> 'Awaiting Tracking' 
 >Assignee: Agent who requests the RMA
 
 
@@ -117,8 +119,6 @@ C. Submit as pending.
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
-
-
 
 ### 8 - Request for replacement
 ~~>Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.~~

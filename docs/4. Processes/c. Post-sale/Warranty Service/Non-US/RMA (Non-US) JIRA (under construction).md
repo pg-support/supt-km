@@ -1,13 +1,16 @@
-# DOA (Non-US) JIRA (under construction)
-
-> Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
-
+# RMA (Non-US) JIRA (under construction)
+> For all RMA cases at this time, please proceed by sending a replacement.
 
 ![[DOA.png]]
 
+### 0 - Verify the warranty
+Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.  
+
+> If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s still within 1-year of the purchase/2-year in the EU). Once verified, proceed with the RMA process. 
+
 
 ### 1 - Inquire about basic info
-Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the correct country in the email subject. Submit as pending. (If the customer does not want replacement but refund instead, please modify the macro accordingly.)
+Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the correct country in the email subject. Submit as pending. (If the customer does not want replacement but refund instead, please modify the macro accordingly.)
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
 
@@ -15,21 +18,21 @@ Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### 3 - Fill out a DOA request on JIRA
+### 3 - Fill out a RMA request on JIRA
 
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3YTE5A14litVIRHZIVjPCoR_HqXI1fQObNRUYf-hPGyRB2Wy6RypTH1-uKP0ZlxCZTD5ESO0g1B9y/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrk2zOaLzrOk9-PegNYmb8wOdl5Ecvo03CZQt4l448H7yBMxsH-wVadcMSGTIvbtLwU_3e3hgmM6-b/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Provide required information:
 
--  **Summary:** DOA / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+-  **Summary:** RMA / Order# / Agent's name, for example, 'RMA / PG-xxxxx / WT'.
 
 -  **Order Number (RMA):** Original order#.
 
 -  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
 
--  **Service Type:** Select 'DOA'.
+-  **Service Type:** Select 'RMA'.
 
 -  **Product:** Select the product accordingly.
 
@@ -85,8 +88,7 @@ Check the tracking number with the corresponding carrier. If an estimated time o
 
 ![[Pasted image 20231116170835.png]]
 
-Additionally, verify whether the case requests a replacement or refund.
-
+Once the package is on its way to our service center, request a replacement.
 
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
@@ -96,17 +98,6 @@ To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JI
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
 
 Forward the tracking information to the customer when available. Close the support request on Zendesk.
-
-#### Refund
-If the case requires a refund, we need to wait for the package to be received by our service center. Once we can see the package is on the road, communicate with the customer as below:
-
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received and verified the package, we'll offer the refund for you ASAP.
-> 
-> Kindly wait for further notice. Thank you.
-
-When confirming the package is delivered, proceed with the [[Refund Process]].
-
-After issuing a refund, close the support request on Zendesk.
 
 ### 7. Close the JIRA ticket
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)

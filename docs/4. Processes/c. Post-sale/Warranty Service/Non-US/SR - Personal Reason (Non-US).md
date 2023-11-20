@@ -21,7 +21,7 @@ Once the client replied with all the requested information, fill in the [PG RMA 
 
 ![](https://lh5.googleusercontent.com/XniFgZ9BCMyQKhvwgjkkXRTupS5tTs2XNfpPLhY_OlrzXNK272evqW9gaOOLngq59MDrTRLW7X0wyuyCJ353jekrrFz0KUUKPuIJSgY7uGaLRUWxcHX4aIFepatU3cg1FQTh4DHCFUpbXFxhL_pHIg3e044LspzfPYAU1Dk-RO8nRmVRIi_pNafxicIE)
 
-### 4 - Offer info for return
+### 3 - Offer info for return
 Reply the ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
 
 A. Insert the corresponding RMA number in the subject & context. 
