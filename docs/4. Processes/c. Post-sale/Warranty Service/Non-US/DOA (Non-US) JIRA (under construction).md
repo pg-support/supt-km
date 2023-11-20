@@ -46,7 +46,9 @@ Provide required information:
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 >JIRA Status: 'To Do' 
+>
 >Assignee: Automatic (Vix Hsieh)
+
 
 ### 4 - Ticket created, awaiting the return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
@@ -65,7 +67,8 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 ---
 For Vix Hsieh:
 >JIRA Status: 'To Do' -> 'In Progress' 
->Assignee: Vix Hsieh -> Agent who requests the RMA
+>
+>Assignee: Vix Hsieh -> 'Reporter'
 
 ![[Xnip2023-11-16_14-22-20.jpg]]
 
