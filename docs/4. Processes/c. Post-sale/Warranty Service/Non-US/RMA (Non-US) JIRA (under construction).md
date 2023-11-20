@@ -61,7 +61,7 @@ Reply the ticket with a heads-up, for example:
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
 ### 5 - Get the return label on JIRA
-Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket, and change the JIRA ticket status to changed to 'In Progress' within 3 days. The ticket will be assigned to the agent who requests the RMA. 
+Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket, and change the JIRA ticket status to 'In Progress' within 3 days. The ticket will be assigned to the agent who requests the RMA. 
 
 ![[Xnip2023-11-16_16-46-21.jpg]]
 
@@ -88,16 +88,10 @@ Check the tracking number with the corresponding carrier. If an estimated time o
 
 ![[Pasted image 20231116170835.png]]
 
-Once the package is on its way to our service center, request a replacement.
+Once the package is on its way to our service center, follow the resend process:
+[[Resend (Shopify)]]
 
-#### Replacement
-If the case requires a replacement, it can be requested as soon as the package is on the road. 
-
-To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
-   
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
-
-Forward the tracking information to the customer when available. Close the support request on Zendesk.
+Inform the customer that they will receive the tracking number when the palckage is on its way. Close the support request on Zendesk.
 
 ### 7. Close the JIRA ticket
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)

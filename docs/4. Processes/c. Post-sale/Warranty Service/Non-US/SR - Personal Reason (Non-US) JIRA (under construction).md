@@ -31,7 +31,7 @@ Provide required information:
 
 -  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
 
--  **Service Type:** Select 'SR'.
+-  **Service Type:** Select 'SR - Personal Reason'.
 
 -  **Product:** Select the product accordingly.
 
