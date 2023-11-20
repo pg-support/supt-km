@@ -49,6 +49,7 @@ Provide required information:
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 >JIRA Status: 'To Do' 
+>
 >Assignee: Automatic (Vix Hsieh)
 
 ### 4 - Ticket created, awaiting the return label
@@ -68,7 +69,8 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 ---
 For Vix Hsieh:
 >JIRA Status: 'To Do' -> 'In Progress' 
->Assignee: Vix Hsieh -> Agent who requests the RMA
+>
+>Assignee: Vix Hsieh -> 'Reporter'
 
 ![[Xnip2023-11-16_14-22-20.jpg]]
 
@@ -88,12 +90,22 @@ Check the tracking number with the corresponding carrier. If an estimated time o
 
 ![[Pasted image 20231116170835.png]]
 
-Once the package is on its way to our service center, follow the resend process:
-[[Resend (Shopify)]]
+Once the package is on its way to our service center, request a replacement.
 
-Inform the customer that they will receive the tracking number when the palckage is on its way. Close the support request on Zendesk.
+#### Replacement
+If the case requires a replacement, it can be requested as soon as the package is on the road. 
+
+To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
+   
+Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
+
+Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
 ### 7. Close the JIRA ticket
+Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
+
+![[Pasted image 20231120171356.png]]
+
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]
