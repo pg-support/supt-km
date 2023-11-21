@@ -15,15 +15,12 @@ Information is included in the macro on step 0:
 
   Ensure that your firewall, VPN, and cloud-based services (such as iCloud, One Drive, etc.) are disabled, including any syncing processes for files in Documents & Desktop.
 <br>
-## 2 - Collect the info and forward it to team 
+## 2 - Delete the caches files (Windows)
 
-If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
+	Navigate to the following folder and delete the 'cef3' folder:
+	 Users\USERPROFILE\AppData\Local\Temp\PositiveGrid\BIAS_FX2
 
-1. Ticket#
-   
-2. Issue Brief
-   
-3. Log File
+![[Pasted image 20231121105157.png]]
 <br>
 
 ## 3 - Inform the customer 
