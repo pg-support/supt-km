@@ -1,15 +1,20 @@
-# DOA (Non-US) JIRA (under construction)
+# DOA (Non-US) JIRA
 
-> Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty. 
+> **DOA (Dead on Arrival)**
+> The DOA process only applies to orders that still within 30 days of delivery.
 
 
 ![[DOA.png]]
 
 
+### 0 - Verify the product issue and the purchase date
+Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
+<br>
 ### 1 - Inquire about basic info
 Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the correct country in the email subject. Submit as pending. (If the customer does not want replacement but refund instead, please modify the macro accordingly.)
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
+<br>
 <br>
 ### 2 - Fill out a DOA request on JIRA
 
@@ -23,7 +28,7 @@ Once the customer replies with all the requested information, create a new RMA t
 
 Provide required information:
 
--  **Summary:** DOA / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+-  **Summary:** DOA (Refund or Replacement) / Order# / Agent's name, for example, 'DOA (Refund) / PG-99999 / WT'.
 
 -  **Order Number (RMA):** Original order#.
 
@@ -89,7 +94,6 @@ Check the tracking number with the corresponding carrier. If an estimated time o
 ![[Pasted image 20231116170835.png]]
 
 Additionally, verify whether the case requests a replacement or refund.
-
 
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
