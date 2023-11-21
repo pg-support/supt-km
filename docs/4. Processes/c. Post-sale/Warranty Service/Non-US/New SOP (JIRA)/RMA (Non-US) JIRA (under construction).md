@@ -3,7 +3,7 @@
 
 ![[DOA.png]]
 
-### 0 - Verify the warranty
+### 0 - Verify the product issue and the purchase date
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.  
 
 > If the customer bought from another dealer, the agent must ask for the receipt in order to verify the warranty (if it’s still within 1-year of the purchase/2-year in the EU). Once verified, proceed with the RMA process. 
