@@ -48,7 +48,7 @@ Once the return label is sent to the customer, instruct them to follow the guida
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
 
-### 4 - Check the TRK# for the returned package
+### 4 - Check the tracking# for the returned package
 Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
 
 > We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the refund/resend the correct item ASAP. Please wait for further notice. Thank you.
@@ -60,4 +60,4 @@ Once the package is on its way, verify whether the case is an operation error (w
 
 1. Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
    
-2. Resend (we sent a wrong item):  Fill out a RS: [[Resend (Shopify)]] or resend service part: [[Service part request (US)]] depending on the item missing. Offer the TRK# to the customer once available. (END)
+2. Resend (we sent a wrong item):  Fill out a RS: [[Resend (Shopify)]] depending on the item missing. Offer the tracking# to the customer once available. (END)
