@@ -58,13 +58,16 @@ Once the return label is sent to the customer, instruct them to follow the guida
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 #### Replacement
-If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-Request a replacement by submitting a ticket on JIRA ([[Replacement (JIRA)]]).
+Aftership will follow up on the tracking number and create a new order for the replacement.
+
+~~If the case requires a replacement, it can be requested as soon as the package is on the road. 
+
+~~Request a replacement by submitting a ticket on JIRA ([[Replacement (JIRA)]]).~~
    
-Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.
+~~Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs.~~~~
    
-Forward the tracking information to the customer when available. Case can be closed. (END)
+Inform the customer that they will receive a new tracking number for the replacement. (END)
 
 
 #### Refund
@@ -74,4 +77,24 @@ If the case requires a refund, we need to wait for the package to be received by
 > 
 > Kindly wait for further notice. Thank you.
 
-If an ETA is available on the tracking site (of the carrier), you proceed with the [[Refund Process]]. [END]. (because the label is provided by Positive Grid)
+If an ETA is available on the tracking site (of the carrier), you proceed with the [[Refund Process]]. (END) (because the label is provided by Positive Grid)
+
+
+
+
+
+
+#### How to find the tracking number for the replacement?
+*Customer will receive the tracking number when the replacement is shipped. Instructions below will show you how to find the tracking for the replacement manually*
+
+Aftership will change the status of the order to "Received" when the package is delivered to the service center.
+![[Pasted image 20230911141544.png]]
+
+![[Pasted image 20230911141605.png]]
+
+And it will create a new order for the replacement automatically.
+![[Pasted image 20230911141805.png]]
+![[Pasted image 20230911141845.png]]
+
+Click on the Exchange order, it will redirect you to the exchange order page on Shopify.
+![[Pasted image 20230911142124.png]]

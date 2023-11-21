@@ -56,7 +56,7 @@ Once the return label is sent to the customer, instruct them to follow the guida
 
 ### 4 - Aftership Follow Up
 
-Inform the customer that he/she will receive a new tracking number for the replacement. (END)
+Inform the customer that they will receive a new tracking number for the replacement. (END)
 
 <br>
 <br>
