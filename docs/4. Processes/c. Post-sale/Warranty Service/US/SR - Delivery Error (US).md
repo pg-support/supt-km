@@ -18,7 +18,7 @@ Once confirmed the customer has received an extra or incorrect item, insert Macr
 - Submit as pending. 
 
 <br>
-### 2 - Create a return
+### 2 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 
 Due to the system limitations, we're unable to send a replacement item that differs from the original item in the order.  
