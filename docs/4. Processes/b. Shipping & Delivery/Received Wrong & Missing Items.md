@@ -1,7 +1,7 @@
 # Received Wrong & Missing Items
 1. Make sure all the items in the order have been shipped. If anything is NOT shipped yet (instead of 'missing'), please verify when it'll be shipped and communicate accordingly with the customer.
    
-2. If everything in the order is shipped and there're wrong/missing items, ak the customer to provide the following information:
+2. If everything in the order is shipped and there're wrong/missing items, ask the customer to provide the following information:
 	1. Clear photos of all received packages
 	2. Clear photos of all shipping labels for the received items
 	3. Clear photos of all unboxed items
@@ -15,4 +15,5 @@
 	2. Missing items: Resend request (RS or Service Parts request, depending on the missing item)
 	   
 5. Once the correct item is resent to the customer, report to the logistics team via [[Daily Catch-Up (JIRA)]] by submitting a support request (in Supt-Logistics form) accordingly. 
-6. Once the case is reported, the ticket can be closed.
+6. Process [[Resend (Shopify)]] to resend the missing item to the customer.
+7. Once the resend order is created, the ticket can be closed.
