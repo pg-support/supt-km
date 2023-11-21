@@ -1,8 +1,12 @@
-# SR - Delivery Error (Non-US) JIRA (under construction)
+# SR - Delivery Error (Non-US) JIRA
 
 > Delivery Error - Return Only (Paid by PG)
 
 ![[DOA.png]]
+
+### 0 - Verify the product issue and the purchase date
+Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
+
 
 ### 1 - Inquire about basic info
 Once confirmed the customer has received the order that was requested to be canceled, insert Macro: <u>[Service Center] SR (PG pay)</u>. 
@@ -48,9 +52,8 @@ Provide required information:
 
 -  **Phone number / Email:** Fill in the customer's phone number & Email.
 
--  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Description:** Fill in the situation: the customer received an extra item or received a wrong item.
 
-![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
@@ -89,31 +92,24 @@ Make sure to change the ticket's title and content in the macro to the correct R
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
 
-### 5 - Check the TRK# for the returned package
+### 5 - Check the tracking# for the return package
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
 
-Once the package is on its way to our service center, request a replacement.
 
+Check the tracking with the corresponding carrier and verify if the item is returned, contact the customer and mention the following:
 
+#### Received an extra item
+Thank the customer for cooperation and close the ticket, no further action needed. (END)
+<br>
+<br>
+#### Received a wrong item
 
+Aftership will monitor the tracking number and automatically generate a new order for the replacement once the return package is delivered.
 
-### 6 - Check the TRK# for the returned package
-Check the tracking with the corresponding carrier. Once the package is on the road, contact the customer and mention the following:
+Inform the customer that they will be provided with a new tracking number for the replacement:
 
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received and verified the package, we’ll issue the refund ASAP. Please wait for further notice. Thank you.
+> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the resend the correct item ASAP. Please wait for further notice. Thank you.
 
-### 7 - Check the status of the received package
-Check the tracking with the corresponding carrier. On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it. 
-
-#### Missing Items
-If ‘Case Status’ is updated to ‘Missing Items’, it means there’re missing item(s) according to the form.	Service center will address what’s missing in ‘Warehouse Notes’. Agent shall contact the customer to further verify the missing item before proceeding.
-
- ![](https://lh4.googleusercontent.com/hlZGkgsGxrlifPoJDialqF9Qz5H0ZHeIVqyZidNyTN_EI90S4OhyUy4WURBDbD8pkRH6VULo8pv0c36JGBOq1aqddy6QpWjv5xrukiqhACO5Ie0Mi1xA8r1k4P4R-Wmgor3lMt3i__an7u0Xd5997N1awHFBgmhXTkCkw-LQpbrX08q0NUurCls_I2aV)
-
-#### Ready for Warranty Service
-If ‘Case Status’ is updated to ‘Ready for Warranty Service', please proceed with the corresponding actions:
-
-1. Warranty Service = Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
-2. Warranty Service = Resend (we sent a wrong item): Request a replacement by submitting a ticket on JIRA ([[Replacement (JIRA)]]), depending on the item missing. Offer the TRK# to the customer once available. (END)
+(END)

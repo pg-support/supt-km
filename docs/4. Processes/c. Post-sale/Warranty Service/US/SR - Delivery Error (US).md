@@ -63,7 +63,7 @@ Once the return label is sent to the customer, instruct them to follow the guida
 ### 4 - Check the tracking# for the return package
 Once the package is on its way, verify whether the case is an operation error (the customer received an extra item) or will require a resend (the customer received a wrong item).
 
-Check the tracking with the corresponding carrier and verify if the item is returned, contact the customer and mention the following:
+Check the tracking with the corresponding carrier and verify if the item is returned, follow the instructions below:
 
 #### Received an extra item
 Thank the customer for cooperation and close the ticket, no further action needed. (END)

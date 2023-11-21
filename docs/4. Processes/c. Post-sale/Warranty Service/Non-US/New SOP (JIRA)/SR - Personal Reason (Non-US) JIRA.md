@@ -1,4 +1,4 @@
-# SR - Personal Reason (Non-US) JIRA (under construction)
+# SR - Personal Reason (Non-US) JIRA
 
 > Personal Reason - Return (Paid by the customer) & Refund
 > 
@@ -6,6 +6,9 @@
 
 
 ![[DOA.png]]
+
+### 0 - Verify the product issue and the purchase date
+Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
 
 
 ### 1 - Inquire about basic info
@@ -45,9 +48,8 @@ Provide required information:
 
 -  **Phone number / Email:** Fill in the customer's phone number & Email.
 
--  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Description:** Fill in the return reason
 
-![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
@@ -66,7 +68,7 @@ B. Leave only the address for the customer’s located country. 
 
 C. Submit as pending.
 
-### 4 - Check the tracking# for the returned package 
+### 4 - Check the tracking# for the return package 
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231120143126.png]]

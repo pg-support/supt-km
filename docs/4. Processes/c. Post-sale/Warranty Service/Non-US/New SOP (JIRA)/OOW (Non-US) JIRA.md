@@ -1,4 +1,4 @@
-# OOW (Non-US) JIRA (under construction)
+# OOW (Non-US) JIRA
 
 > US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair)]])
 > 
@@ -32,7 +32,7 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 
 ![[Pasted image 20231117175406.png]]
 
-~~> <u>Important note for [Spark 40 OOW cases in CA, AU, UK]</u>: You'll be requesting a replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
+~~Important note for [Spark 40 OOW cases in CA, AU, UK]: You'll be requesting a replacement as B-stock, which will be our certified like-new products. (For other products, proceed with regular replacements.)
 > 
 > Communicate with the following message: “In order to provide faster resolution, we'll offer a certified like-new replacement for you.”~~
 
@@ -84,9 +84,6 @@ Vix Hsieh will send the invoice to the customer and notify the agent by assignin
 For Vix Hsieh:
 >JIRA Status: 'Invoice Needed' -> 'Awaiting Payment' 
 >Assignee: Vix Hsieh
-
-## 補圖
-![[Xnip2023-11-16_14-22-20.jpg]]
 
 ### 6 - Confirm payment & offer info for return
 
