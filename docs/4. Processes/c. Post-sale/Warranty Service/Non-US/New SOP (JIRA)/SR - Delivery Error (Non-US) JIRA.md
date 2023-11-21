@@ -101,15 +101,26 @@ Check the tracking number with the corresponding carrier. If an estimated time o
 Check the tracking with the corresponding carrier and verify if the item is returned, contact the customer and mention the following:
 
 #### Received an extra item
-Thank the customer for cooperation and close the ticket, no further action needed. (END)
+Thank the customer for cooperation and close the ticket, no further action needed. 
 <br>
 <br>
 #### Received a wrong item
 
-Aftership will monitor the tracking number and automatically generate a new order for the replacement once the return package is delivered.
+Follow the [[Replacement (JIRA)]] to request a replacement.
 
 Inform the customer that they will be provided with a new tracking number for the replacement:
 
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the resend the correct item ASAP. Please wait for further notice. Thank you.
+> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll arrange a shipment of the correct item ASAP. Please wait for further notice. Thank you.
 
-(END)
+Send the tracking number of the replacement to the customer.
+
+
+
+### 6 - Close the JIRA ticket
+Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
+
+![[Pasted image 20231120171356.png]]
+
+When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
+
+![[Pasted image 20231116143311.png]]

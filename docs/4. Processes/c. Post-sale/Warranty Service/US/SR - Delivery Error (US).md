@@ -75,6 +75,6 @@ Aftership will monitor the tracking number and automatically generate a new orde
 
 Inform the customer that they will be provided with a new tracking number for the replacement:
 
-> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll issue the resend the correct item ASAP. Please wait for further notice. Thank you.
+> We can see that your package is on its way back to our service center. Please be advised that once our service center has received the package, we’ll arrange a shipment of the correct item ASAP. Please wait for further notice. Thank you.
 
 (END)

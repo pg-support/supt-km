@@ -75,7 +75,7 @@ Provide required information:
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
 
-### 5 - Ticket created, awaiting the invoice
+### 4 - Ticket created, awaiting the invoice
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
 
 Vix Hsieh will send the invoice to the customer and notify the agent by assigning the JIRA ticket back to the agent.
@@ -85,7 +85,7 @@ For Vix Hsieh:
 >JIRA Status: 'Invoice Needed' -> 'Awaiting Payment' 
 >Assignee: Vix Hsieh
 
-### 6 - Confirm payment & offer info for return
+### 5 - Confirm payment & offer info for return
 
 The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off. Tag Vix / Maines / WeiTing on Supt-Private Channel to confirm the payment status.
 
@@ -111,27 +111,21 @@ B. Leave only the address for the customer’s located country. 
 
 C. Submit as pending.
 
-### 7 - Check the tracking# for the returned package
+### 6 - Check the tracking# for the returned package
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
 
-### 8 - Request for replacement
-~~>Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.~~
+### 7 - Request for replacement
 
 Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement ticket on JIRA ([[Replacement (JIRA)]]).
-
-
-~~> For <u>[Spark 40 OOW cases in CA, AU, UK]</u>, please request a corresponding B-stock unit for the replacement.~~
-
-![](https://lh5.googleusercontent.com/Q3wBpCHP7y2evZ6tTa-HDcMVUqrz530esCx8LGH8H1n6R_79HHhQw10BQPuUtJeWmIz4foI8F_mIFY84LlzgWwytNTiqKeNNaX2mNzfgxclISJSmThXDUihpQQ0aQQT3kxouWPbchqDEG3TCWZ_3zPEPwC-akPnNfSCEBI2R_wr4U0JSGl0RGIfs8NBm)
 
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).
 
 Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
-### 8. Close the JIRA ticket
+### 8 - Close the JIRA ticket
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

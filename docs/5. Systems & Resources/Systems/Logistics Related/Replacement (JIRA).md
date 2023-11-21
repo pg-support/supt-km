@@ -17,5 +17,5 @@ Replacement requests should be done on JIRA.
 
 ![[Pasted image 20230920112419.png]]
 
-- Click “View Issue” and you should see the update information. The update Order Number is the one for the RS/RE item, the tracking number can be found on SKULabs (when it’s available).
+- Click “View Issue” and you should see the update information. The update Order Number is the one for the RE item, the tracking number can be found on SKULabs (when it’s available).
 ![[Pasted image 20230920112445.png]]
