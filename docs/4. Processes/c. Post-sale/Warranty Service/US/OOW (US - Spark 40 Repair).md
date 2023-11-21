@@ -1,5 +1,9 @@
 # OOW (US - Spark 40 Repair)
+> **OOW (Out of Warranty)**
 > This SOP is for OOW - US - Spark 40 only.
+> 
+> The OOW process applies to orders that are out of warranty or the customers who can't provide a valid receipt/order number of the products.
+> 
 > For everything else, please refer to [[OOW (Non-US)]]
 
 ### 0 - Verify the warranty
@@ -13,23 +17,40 @@ If the customer bought the amp second hand, ask the customer for the purchase da
 ### 1 - Inform about the paid repair
 Once confirmed, insert Macro: <u>[Service Center] OOW (US Spark 40 Repair)</u>.
 
-### 2 - Fill out a OOW request
-Once the client confirmed they want to proceed with the repair and replied with all the requested information, fill in the [PG RMA Form](https://docs.google.com/forms/d/e/1FAIpQLSf5GIKG13O87EsoMWnhCpnZyUxLOqDISNz81wRifBN53Fp7Xw/viewform):
+### 2 - Fill out an OOW request on JIRA
 
-1. ‘Service Type’ = CID/OOW.
-2. ‘PayPal Account’ = No need for US - OOW - Spark 40.
-3. ‘Invoice Amount’ = No need for US - OOW - Spark 40.
-4. ‘Warranty Service’ should be ‘Repair’.
-5. ‘Defective-User Scenario’ should be obtained via OOW Macro. Find the example below.
-6. Fill in all address details accordingly.
+Log into to RMA board (JIRA):
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-> *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’.
-> If the unit is a second hand purchase, put the purchase date in ‘Order Number’.
+Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr5jPrbx3hS4wyH8A093YDTfpIu82_297NrIpQNgzxNciJc2v7_CvnSa3LJeWhHCtfqRGMVZQ2W96F/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Provide required information:
+
+-  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+
+-  **Order Number (RMA):** Original order#.
+> *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
+> 
+> If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
+
+-  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+
+-  **Service Type:** Select 'OOW'.
+
+-  **Product:** Select the product accordingly.
+
+-  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+
+-  **Phone number / Email:** Fill in the customer's phone number & Email.
+
+-  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
-![](https://lh3.googleusercontent.com/j401rXzMJqJLVK-tgrSg1LgZUYktWh_rpmjFZj-sP2fstrJgZUgJv7gl04lAuDv9-4-iZDyCvRlNAihqbXaYpVOrS-9MTiETTLu5KZ0Bifidrfy2mLS15IW4wYQHLqfHDkZ6dzjM4wVak6Vtt1SUGv5sDoIbCnwqKLEEZhnvPEPLFb0ZnWK_pLYOpIh2)
-
+>JIRA Status: 'To Do' 
+>Assignee: Automatic (Vix Hsieh)
 
 ### 3 - Offer info for return
 Once the request is submitted, follow the steps below and offer the info for return:
@@ -48,7 +69,7 @@ Mail: fixmyamplifier@aol.com
 
 C. Submit as pending.
 
-### 4 - Check the TRK# for the returned package
+### 4 - Check the tracking# for the returned package
 Once the user replies with tracking information, go back to the country’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (OOW tab) and update ‘Inbound Tracking Number (Agent only)’.
 
 ![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)

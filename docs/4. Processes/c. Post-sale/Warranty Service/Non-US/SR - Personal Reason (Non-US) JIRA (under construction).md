@@ -13,11 +13,13 @@ Once confirmed the issue, insert Macro:  <u>[Service Center] SR (Regular) - 1</u
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
 
-### 2 - Log into to RMA board (JIRA)
+<br>
+<br>
+### 2 - Fill out a SR request on JIRA
+
+Log into to RMA board (JIRA)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### 3 - Fill out a SR request on JIRA
 
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
 
@@ -52,7 +54,7 @@ Provide required information:
 
 Once the ticket is created on JIRA, the ticket will be automatically assigned to "Awaiting Tracking" section.
 
-### 4 - Offer info for return
+### 3 - Offer info for return
 Reply the ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
 
 A. Insert the corresponding RMA number in the subject & context. 
@@ -64,7 +66,7 @@ B. Leave only the address for the customer’s located country. 
 
 C. Submit as pending.
 
-### 5 - Check the tracking# for the returned package 
+### 4 - Check the tracking# for the returned package 
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231120143126.png]]
@@ -75,7 +77,7 @@ Reply the ticket with a heads-up, for example:
 > 
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
-### 6 - Check the status of the received package
+### 5 - Check the status of the received package
 Check the tracking with the corresponding carrier. On the ETA of the returning package, check the tracking# to verify if the service center has received it.  
 
 Follow the refund process to issue a refund for the customer.
@@ -91,7 +93,7 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 
 After issuing a refund, close the support request on Zendesk.
 
-### 7. Close the JIRA ticket
+### 6 - Close the JIRA ticket
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

@@ -36,11 +36,10 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 > 
 > Communicate with the following message: “In order to provide faster resolution, we'll offer a certified like-new replacement for you.”~~
 
-### 3 - Log into to RMA board (JIRA)
+### 3 - Fill out a OOW request on JIRA
 
+Log into to RMA board (JIRA):
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### 4 - Fill out a OOW request on JIRA
 
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
 

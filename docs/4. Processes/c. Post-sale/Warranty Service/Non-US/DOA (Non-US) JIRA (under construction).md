@@ -10,12 +10,12 @@
 Once confirmed the issue, insert Macro: <u>[Service Center] DOA</u>. Insert the correct country in the email subject. Submit as pending. (If the customer does not want replacement but refund instead, please modify the macro accordingly.)
    
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
+<br>
+### 2 - Fill out a DOA request on JIRA
 
-### 2 - Log into to RMA board (JIRA)
+Log into to RMA board (JIRA)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### 3 - Fill out a DOA request on JIRA
 
 Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
 
@@ -50,7 +50,7 @@ Provide required information:
 >Assignee: Automatic (Vix Hsieh)
 
 
-### 4 - Ticket created, awaiting the return label
+### 3 - Ticket created, awaiting the return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
    
 Reply the ticket with a heads-up, for example:
@@ -59,7 +59,7 @@ Reply the ticket with a heads-up, for example:
 > 
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
-### 5 - Get the return label on JIRA
+### 4 - Get the return label on JIRA
 Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket, and change the JIRA ticket status to 'In Progress' within 3 days. The ticket will be assigned to the agent who requests the RMA. 
 
 ![[Xnip2023-11-16_16-46-21.jpg]]
@@ -83,7 +83,7 @@ Make sure to change the ticket's title and content in the macro to the correct R
 
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
-### 6 - Check the tracking# for the returned package
+### 5 - Check the tracking# for the returned package
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
@@ -111,7 +111,7 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 
 After issuing a refund, close the support request on Zendesk.
 
-### 7. Close the JIRA ticket
+### 6. Close the JIRA ticket
 Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
 
 ![[Pasted image 20231120171356.png]]
