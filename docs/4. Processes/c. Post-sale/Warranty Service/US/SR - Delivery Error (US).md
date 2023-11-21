@@ -23,6 +23,9 @@ Due to the system limitations, we're unable to send a replacement item that diff
 **If the customer receive the wrong item, please select "Refund to original payment method" in RESOLVE section.**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+If the customer received a wrong item, please select 'Replacement'.
+If the customer received an extra item, please select 'Refund'.
+<br>
 <br>
 ### 3 - Offer return label
 
@@ -54,4 +57,4 @@ Once the package is on its way, verify whether the case is an operation error (w
 
 1. Operation Error (we sent an extra item): Thank the customer for cooperation and close the ticket, no further action needed. (END)
    
-2. Resend (we sent a wrong item):  Fill out a RS or Service Part request on [[Resend (Shopify)]] or [[Replacement (JIRA)]] depending on the item missing. Offer the TRK# to the customer once available. (END)
+2. Resend (we sent a wrong item):  Fill out a RS: [[Resend (Shopify)]] or resend service part: [[Service part request (US)]] depending on the item missing. Offer the TRK# to the customer once available. (END)
