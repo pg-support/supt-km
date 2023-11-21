@@ -20,7 +20,7 @@ Statement 2:
 
 The audible noise floor in the Spark CAB, a powered cabinet, is affected by the input voltage of the incoming signal. We would like to clarify that this noise floor is a deliberate aspect of the Spark CAB’s design and is not indicative of a quality concern. In fact, it has been intentionally engineered to ensure optimal performance when used in conjunction with our Spark amp product line.
 
-One of the primary functions of the Spark CAB is to complement our existing Spark amp products, all of which require the use of their their headphone outputs to connect with the Spark CAB. It is important to understand that headphone outputs generally have lower output voltages compared to devices with dedicated line-outs. To ensure that the Spark CAB delivers an optimal audio experience when paired with any Spark amp, we have taken measures to accommodate the headphone output from the Spark amp, which may result in a slightly higher noise floor.
+One of the primary functions of the Spark CAB is to complement our existing Spark amp products, all of which require the use of their headphone outputs to connect with the Spark CAB. It is important to understand that headphone outputs generally have lower output voltages compared to devices with dedicated line-outs. To ensure that the Spark CAB delivers an optimal audio experience when paired with any Spark amp, we have taken measures to accommodate the headphone output from the Spark amp, which may result in a slightly higher noise floor.
 
 
 We want to assure you that this elevated noise floor does not pose any issues during normal usage. It has been carefully considered in the design process to ensure that your overall audio experience remains of the highest quality.
