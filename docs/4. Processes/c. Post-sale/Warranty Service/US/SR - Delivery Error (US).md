@@ -23,8 +23,11 @@ Due to the system limitations, we're unable to send a replacement item that diff
 **If the customer receive the wrong item, please select "Refund to original payment method" in RESOLVE section.**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-If the customer received a wrong item, please select 'Replacement'.
-If the customer received an extra item, please select 'Refund'.
+On silde#6:
+
+If the customer received a wrong item, please select 'Replace with the same item'.
+
+If the customer received an extra item, please select 'Refund to original payment method'.
 <br>
 <br>
 ### 3 - Offer return label
