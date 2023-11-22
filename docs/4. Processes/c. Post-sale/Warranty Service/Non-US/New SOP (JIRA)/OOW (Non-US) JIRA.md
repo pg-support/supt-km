@@ -59,6 +59,8 @@ Provide required information:
 
 -  **Product:** Select the product accordingly.
 
+- Serial Number: Fill in the product's serial number.
+
 -  **Invoice Amount:** Select the correct OOW price for the defective items.
 
 -  **Invoice Address:** Fill in invoice address

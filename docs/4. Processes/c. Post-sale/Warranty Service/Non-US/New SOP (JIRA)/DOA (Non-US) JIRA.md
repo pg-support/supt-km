@@ -41,6 +41,8 @@ Provide required information:
 
 -  **Product:** Select the product accordingly.
 
+- Serial Number: Fill in the product's serial number.
+
 -  **Invoice Amount:** Leave blank.
 
 -  **Invoice Address:** Leave blank.
