@@ -20,7 +20,7 @@ The order will be listed on the Shipping Info Missing form due to the following 
 
 For the cases include invalid address, phone number, recipient or the package was sent back to our warehouse (return to sender), use the macro:
 
- <u>#Shipping Info Missing::SIM</u>
+<u>#Shipping Info Missing::Return to Sender</u>
 
 For cases involving addresses that include a P.O. box, use the following macro:
 
