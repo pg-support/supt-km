@@ -35,7 +35,7 @@ Once the customer replied with the signed claim form, [upload the claim form to 
 >Please make sure the customer has replied with a clear photo/scan of the claim form where the signature can be clearly identified, and Tracking Number & Shipping Carrier are filled. If not, please ask the customer to resend it.
 
 ### 3 - Fill out a resend request
-Once uploaded & updated, follow the [[Resend (Shopify)]] for resend with the customer's substitutive address.
+Once uploaded & updated, follow the [[Resend (JIRA)]] for resend with the customer's substitutive address.
 
 >*For Resend request, inquire with the customer if they have an alternative address where the package can be successfully received. If the carrier fail to deliver the package again (RS fail), proceed with issuing a refund and kindly guide the customer to our authorized retailers, e.g. Guitar Center, Amazon.*
 

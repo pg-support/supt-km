@@ -1,8 +1,7 @@
-# Resend (Shopify)
+# Resend (Shopify) OLD
+
 > Resend: Request to resend the entire order or specific items (if customers haven't received the items).
-
 <br>
-
 All the Resend requests should be done on Shopify now.
 
 ## Resend Instructions:
