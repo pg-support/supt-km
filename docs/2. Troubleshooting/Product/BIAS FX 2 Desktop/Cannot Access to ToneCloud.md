@@ -8,7 +8,7 @@
 Normally, the issue can be resolved by logging out and logging into BIAS FX 2.
 
 - Use macro: <u>#BIAS FX 2::ToneCloud Issue</u>.
-
+<br>
 ## 1 - Change the Internet environment
 
 Information is included in the macro on step 0:
@@ -22,16 +22,21 @@ Information is included in the macro on step 0:
 
 ![[Pasted image 20231121105157.png]]
 <br>
+## 3 - Go to ToneCloud and remove the filter
+If the customer access to ToneCloud successfully, please ask them to reset the filter by changing the Genre and Preset View.
 
-## 3 - Inform the customer 
-Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
+![[Pasted image 20231124122906.png]]
+
+
+## 4 - Inform the customer 
+If the issue still exists after deleting the cache file, inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
 
 If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
 <br>
-## 4 - Follow up on the case 
+## 5 - Follow up on the case 
 WeiTing will provide additional details after the RD team has reviewed the problem.
 <br>
-## 5 - Case Close 
+## 6 - Case Close 
 Inform the customer of the solution/current situation. [END]
 
 
