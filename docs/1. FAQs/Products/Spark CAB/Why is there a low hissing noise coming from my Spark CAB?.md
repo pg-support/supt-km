@@ -7,7 +7,7 @@ Statement 1:
 
 The noise floor you may experience with Spark CAB can be influenced by several factors, including your specific environment and the devices connected to it.
 
-It’s also important to note that most powered cabinets and high-power active PA speaker such as Spark CAB, may exhibit some level of noise floor, which should be considered normal. Rest assured that it does not pose any quality issues for the product. 
+It’s also important to note that most powered cabinets and high-power active PA speakers such as Spark CAB, may exhibit some level of noise floor, which should be considered normal. Rest assured that it does not pose any quality issues for the product. 
 
 
 <br>
