@@ -59,7 +59,9 @@
 
 [Zendesk Ticket Tally Definition](https://docs.google.com/spreadsheets/d/1Ni6QIAENBi3pP-Gg0AG61HMr7fkI1fJ0/edit?usp=sharing&ouid=106361199666703858702&rtpof=true&sd=true) - Ticket tally definition
 
-[BigCommerce Order Record](https://drive.google.com/file/d/1_MX3zBQYtj2JVYEtrOVAESmvPTzOpsOd/view?usp=sharing) - Past order records (download link for .csv file)
+[BigCommerce Order Record](https://lookerstudio.google.com/u/0/reporting/b9205c2c-6b61-4f35-bb94-51350d2ccb78/page/p_07ghxu64bd)
+
+~~[BigCommerce Order Record (excel)](https://drive.google.com/file/d/1_MX3zBQYtj2JVYEtrOVAESmvPTzOpsOd/view?usp=sharing) - Past order records (download link for .csv file)~~
 
 [Support Coupon](https://docs.google.com/spreadsheets/d/14wsfMVwHhbsf5ztvkXnpwNhDYkt7WYIZCYWDKMu_SnM/edit?usp=sharing) - Support coupon for compensation. If you need a coupon with higher discount amount, please highlight for approval.
 
