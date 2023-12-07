@@ -65,17 +65,18 @@ Provide required information:
 ---
 For Vix Hsieh
 >JIRA Status: 'To Do' 
+>
 >Assignee: Automatic (Vix Hsieh)
 ---
 
 ### 3 - Ticket created, awaiting the return label
-Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
-
-Navigate to the Zendesk ticket and change the subject title to the RMA#:
-![[Pasted image 20231207151608.png]]
+Once the ticket is created on JIRA, agent can get the RMA Number immediately.
 
 The RMA Number can be found in the JIRA ticket:
-![[Pasted image 20231207100952.png]]
+![[Pasted image 20231207234913.png]]
+
+Navigate to the Zendesk ticket and change the subject title to the RMA#:
+![[Pasted image 20231207235302.png]]
 
 Reply the ticket with a heads-up, for example:
    
@@ -84,38 +85,32 @@ Reply the ticket with a heads-up, for example:
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
 ### 4 - Get the return label on JIRA
-Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket within 3 days. The ticket will be assigned to the agent who requests the RMA. 
+Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket within 3 days. The ticket will be assigned to the agent who requests a label. 
 
 ![[Xnip2023-11-16_16-46-21.jpg]]
 
 ---
 For Vix Hsieh:
 >Assignee: Vix Hsieh -> 'Reporter'
-
-![[Xnip2023-11-16_14-22-20.jpg]]
-
 ---
 
 Once attached, the agent will be notified, and they can proceed with the return process.
    
 > *If no label shows up within 3 days, please reach out to Vix Hsieh.
-   
+
+Download the label from JIRA and update the JIRA ticket status from 'To Do' to 'In Progress'.
+![[Pasted image 20231208001612.png]]
+
 Use the macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the customer.
 
 Ensure that the content in the macro corresponds accurately with the ticket subject for the correct RMA number.
 
 Submit as ‘Pending’.
-![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
+![[Pasted image 20231208000302.png]]
 
-
-Update the JIRA ticket status from 'To Do' to 'In Progress'.
 
 ### 5 - Check the tracking# for the returned package
-Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
-
-![[Pasted image 20231116170835.png]]
-
-Once the package is on its way to our service center, request a replacement.
+Because the label is prepared by Positive Grid, once the package is en route to the service center, the agent can proceed with the Replacement Request.
 
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
@@ -127,7 +122,7 @@ Logistics team should send out the replacement within roughly 2 days. The shippi
 Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
 ### 6 - Close the JIRA ticket
-Add a comment with the process to the ticket, for example, Replacement requested with RE order number or Refunded.
+Before close the JIRA ticket, please add a comment with the process to the ticket, for example, Replacement requested with RE order number (or RE JIRA ticket).
 
 ![[Pasted image 20231120171356.png]]
 

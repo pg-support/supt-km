@@ -69,26 +69,16 @@ For Vix Hsieh:
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 3 - Ticket created, awaiting the RMA
-
-Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
-
-Navigate to the Zendesk ticket and change the subject title to the RMA#:
-![[Pasted image 20231207151608.png]]
-
-
-The RMA Number can be found in the JIRA ticket:
-![[Pasted image 20231207100952.png]]
-
+### 3 - Ticket created, offer info for return
 After Vix confirms the SR request, he will change the assignee to the agent.
 
-Reply the ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
+Reply the Zendesk ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
 
 A. Ensure that the content in the macro corresponds accurately with the ticket subject for the correct RMA number.
 
-![](https://lh3.googleusercontent.com/RX4JW2MkM0d3daOB8j3Wqsqrl1Gv8gN5NgDmdOPMxoVpc2y_uiBf_2Kqq6w_9Fp0XVh60LNc6EXyYSaRloHn3asoyQ0dGj4V7jzMinSZ8aqGRoyax2bjjIEZdtsNQs5X984FfTlavbegvX_eaaRZvR7CA9ugHq9BmoBzxrOe86uUjxvtjNGisc3aQNNx)
+![[Pasted image 20231208000324.png]]
 
-The RMA Number can be found in the JIRA ticket:
+Once the ticket is created on JIRA, agent can get the RMA Number immediately.
 ![[Pasted image 20231207100952.png]]
 
 
