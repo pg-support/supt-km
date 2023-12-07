@@ -82,17 +82,17 @@ For Vix Hsieh:
 ---
 
 ### 4 - Ticket created, awaiting the invoice
+
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
 
-Change the subject title to the RMA#:
+Vix Hsieh will send the invoice to the customer and notify the agent by assigning the JIRA ticket back to the agent.
+
+Navigate to the Zendesk ticket and change the subject title to the RMA#:
 ![[Pasted image 20231207151608.png]]
 
 
 The RMA Number can be found in the JIRA ticket:
 ![[Pasted image 20231207100952.png]]
-
-
-Vix Hsieh will send the invoice to the customer and notify the agent by assigning the JIRA ticket back to the agent.
 
 The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off, for example:
    
@@ -124,7 +124,7 @@ For who is going to do this:
 
 The agent can then insert Macro: <u>[Service Center] OOW - 2</u>:
 
-A. Insert the corresponding RMA number in the subject & context. 
+A. Ensure that the content in the macro corresponds accurately with the ticket subject for the correct RMA number.
 
 ![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
 
