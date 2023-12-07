@@ -63,13 +63,16 @@ Provide required information:
 
 -  **Description:** Fill in the return reason
 
-
+---
+For Vix Hsieh:
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
+---
 
-Once the ticket is created on JIRA, the ticket will be automatically assigned to "Awaiting Tracking" section.
+### 3 - Ticket created, awaiting the RMA
 
-### 3 - Offer info for return
+Once Vix confirm the SR request, he will change the assignee to the agent.
+
 Reply the ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
 
 A. Insert the corresponding RMA number in the subject & context. 
@@ -85,7 +88,7 @@ B. Leave only the address for the customer’s located country. 
 C. Submit as pending.
 
 ### 4 - Check the tracking# for the return package 
-Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
+After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
 
 ![[Pasted image 20231120143126.png]]
    
@@ -112,6 +115,8 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 After issuing a refund, close the support request on Zendesk.
 
 ### 6 - Close the JIRA ticket
+Add a comment with the process to the ticket, for example, 'Refunded'.
+
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

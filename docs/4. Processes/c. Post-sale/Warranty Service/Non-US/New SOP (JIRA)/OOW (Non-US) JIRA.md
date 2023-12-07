@@ -46,13 +46,6 @@ Once the customer replies with all the requested information, create a new RMA t
 
 Provide required information:
 
--  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
-
--  **Order Number (RMA):** Original order#.
-> *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
-> 
-> If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
-
 -  **Summary:** OOW
 
 -  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
@@ -60,6 +53,9 @@ Provide required information:
 -  **Service Type:** OOW.
   
 -  **Order Number (RMA):** Original order#.
+> *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
+> 
+> If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
 
 -  **Agent's Name**: Your name.
 
@@ -79,30 +75,50 @@ Provide required information:
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
->JIRA Status: 'To Do' 
+---
+For Vix Hsieh:
+>JIRA Status: 'Invoice Needed' 
 >Assignee: Automatic (Vix Hsieh)
+---
 
 ### 4 - Ticket created, awaiting the invoice
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
 
+Change the subject title to the RMA#:
+![[Pasted image 20231207151608.png]]
+
+
+The RMA Number can be found in the JIRA ticket:
+![[Pasted image 20231207100952.png]]
+
+
 Vix Hsieh will send the invoice to the customer and notify the agent by assigning the JIRA ticket back to the agent.
+
+The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off, for example:
+   
+> I have requested our RMA specialist to prepare an invoice, and they will send it to your inbox.
+> 
+> Please inform me once payment has been made, as it will help expedite the process.
+> 
+> If you do not receive the invoice within 3 days, please let me know.
 
 ---
 For Vix Hsieh:
+>Issue Invoice on PayPal.
 >JIRA Status: 'Invoice Needed' -> 'Awaiting Payment' 
 >Assignee: Vix Hsieh
-
+---
 ### 5 - Confirm payment & offer info for return
 
-The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off. Tag Vix / Maines / WeiTing on Supt-Private Channel to confirm the payment status.
+Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Private Channel to confirm the payment status.
 
 Vix will also check the payment status once a day.
 
-Once the invoice is confirmed to be paid off, ‘Invoice Status’ will be updated to 'To Do' Section in the ticket on JIRA. 
+Once the invoice is confirmed as paid, please updated the ticket status from 'Awaiting Payment' to 'In Progress' Section in the ticket on JIRA. 
 
 ---
 For who is going to do this:
->JIRA Status: 'Awaiting Payment' -> 'Awaiting Tracking' 
+>JIRA Status: 'Awaiting Payment' -> 'In Progress' 
 >Assignee: Agent who requests the RMA
 
 
@@ -112,8 +128,6 @@ A. Insert the corresponding RMA number in the subject & context. 
 
 ![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
 
-The RMA Number can be found in the JIRA ticket:
-![[Pasted image 20231207100952.png]]
 B. Leave only the address for the customer’s located country. 
 
 ![](https://lh3.googleusercontent.com/ewy-lJjRb1kBlsRAnYgwIxiN5Y_hVxZrkqVLXeCXo7KCECm41GV_ZvLNwtw6UmpkECgbr7xiAoRrhKGjQOXHcbPNr4q7OsJbZen8I40EARFxJ2LFABD0A9RgvmLR2BV0YLCnWfZT_4fGuVAPnT6jtcqiOw5anhXf3VgD8PBrO2jzU5f8f7y-lns2jaGo)
@@ -121,20 +135,27 @@ B. Leave only the address for the customer’s located country. 
 C. Submit as pending.
 
 ### 6 - Check the tracking# for the returned package
-Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
+After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
 
 ### 7 - Request for replacement
 
+#### Replacement
 Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement ticket on JIRA ([[Replacement (JIRA)]]).
-
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).
 
 Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
+#### Repair (US Only)
+Inform the customers that Jeff will contact them directly at a later time.
+
 ### 8 - Close the JIRA ticket
+Add a comment with the process to the ticket, for example, Replacement requested with RE order number (or RE JIRA ticket).
+
+![[Pasted image 20231120171356.png]]
+
 When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

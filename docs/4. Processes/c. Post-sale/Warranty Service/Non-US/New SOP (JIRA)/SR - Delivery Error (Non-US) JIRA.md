@@ -69,14 +69,23 @@ Provide required information:
 
 -  **Description:** Fill in the situation: the customer received an extra item or received a wrong item.
 
-
+--- 
+For Vix:
 >JIRA Status: 'To Do' 
 >Assignee: Automatic (Vix Hsieh)
+---
 
 
 ### 3 - Ticket created, awaiting the return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
-   
+
+Change the subject title to the RMA#:
+![[Pasted image 20231207151608.png]]
+
+
+The RMA Number can be found in the JIRA ticket:
+![[Pasted image 20231207100952.png]]
+
 Reply the ticket with a heads-up, for example:
    
 > Thanks for providing the information. 
@@ -90,11 +99,8 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 
 ---
 For Vix Hsieh:
->JIRA Status: 'To Do' -> 'In Progress' 
->Assignee: Vix Hsieh -> Agent who requests the RMA
-
-![[Xnip2023-11-16_14-22-20.jpg]]
-
+>Assignee: Vix Hsieh -> 'Reporter'
+---
 
 Once attached, the agent will be notified, and they can proceed with the return process.
    
@@ -106,13 +112,13 @@ Make sure to change the ticket's title and content in the macro to the correct R
 
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
-The RMA Number can be found in the JIRA ticket:
-![[Pasted image 20231207100952.png]]
+
+Update the JIRA ticket status from 'To Do' to 'In Progress'.
+
 ### 5 - Check the tracking# for the return package
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
-
 
 Check the tracking with the corresponding carrier and verify if the item is returned, contact the customer and mention the following:
 
@@ -131,7 +137,7 @@ Forward the tracking information to the customer when available. Close the suppo
 
 
 ### 6 - Close the JIRA ticket
-Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
+Add a comment with the process to the ticket, for example, Replacement requested with RE order number (or RE JIRA ticket).
 
 ![[Pasted image 20231120171356.png]]
 

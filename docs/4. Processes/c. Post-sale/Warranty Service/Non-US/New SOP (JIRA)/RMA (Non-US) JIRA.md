@@ -65,12 +65,18 @@ Provide required information:
 ---
 For Vix Hsieh
 >JIRA Status: 'To Do' 
->
 >Assignee: Automatic (Vix Hsieh)
 ---
 
 ### 3 - Ticket created, awaiting the return label
 Once the ticket is created on JIRA, agents can monitor the case status on the [RMA board](https://positivegrid.atlassian.net/jira/software/projects/RMA/boards/63).
+
+Change the subject title to the RMA#:
+![[Pasted image 20231207151608.png]]
+
+
+The RMA Number can be found in the JIRA ticket:
+![[Pasted image 20231207100952.png]]
 
 Reply the ticket with a heads-up, for example:
    
@@ -97,14 +103,11 @@ Once attached, the agent will be notified, and they can proceed with the return 
    
 Use the macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the customer.
 
-Make sure to change the ticket's title and content in the macro to the correct RMA number (auto-generated when submitted). Submit as ‘Pending’.
+Make sure to change the ticket's subject and content in the macro to the correct RMA number (auto-generated when submitted). Submit as ‘Pending’.
 ![](https://lh4.googleusercontent.com/aFXpy4fy14uQl2hD2arD2cgokM_9v7Meim6stgbBx43Tj7T4L6CHq2I1xwgx1d3cfFO4kL-2Z2ckRdwDAsJbrXSDXoL7V5pSynZBnQgU3XU2aFRFGJ-Bf1mtV5vk66sHEkcXKOHuAuncPKdBH4pB2j62xjxyI6OGtDiRQ4ygHlFgYaETt0UL456f1H4H)
 
-The RMA Number can be found in the JIRA ticket:
-![[Pasted image 20231207100952.png]]
 
 Update the JIRA ticket status from 'To Do' to 'In Progress'.
-
 
 ### 5 - Check the tracking# for the returned package
 Check the tracking number with the corresponding carrier. If an estimated time of arrival (ETA) is available on the carrier's tracking site, please add it to the JIRA ticket.
@@ -123,7 +126,7 @@ Logistics team should send out the replacement within roughly 2 days. The shippi
 Forward the tracking information to the customer when available. Close the support request on Zendesk.
 
 ### 6 - Close the JIRA ticket
-Note the process on the ticket, for example, Replacement requested with RE order number or Refunded.
+Add a comment with the process to the ticket, for example, Replacement requested with RE order number or Refunded.
 
 ![[Pasted image 20231120171356.png]]
 
