@@ -57,11 +57,11 @@ Provide required information:
 > 
 > If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
 
--  **Agent's Name**: Your name.
-
 -  **Product:** Select the product accordingly.
 
 -  **Serial Number**: Fill in the product's serial number.
+
+-  **Accessory:** Fill in if it's necessary
 
 -  **Invoice Amount:** Select the correct OOW price for the defective items.
 

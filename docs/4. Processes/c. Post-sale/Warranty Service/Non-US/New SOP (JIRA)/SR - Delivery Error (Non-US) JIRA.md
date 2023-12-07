@@ -53,11 +53,11 @@ Provide required information:
   
 -  **Order Number (RMA):** Original order#.
 
--  **Agent's Name**: Your name.
-
 -  **Product:** Select the product accordingly.
 
 -  **Serial Number**: Fill in the product's serial number.
+
+-  **Accessory:** Fill in if it's necessary.
 
 -  **Invoice Amount:** Leave blank.
 

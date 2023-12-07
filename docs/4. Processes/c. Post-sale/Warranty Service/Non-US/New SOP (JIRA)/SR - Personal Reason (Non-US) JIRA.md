@@ -45,13 +45,11 @@ Provide required information:
   
 -  **Order Number (RMA):** Original order#.
 
--  **Service Type:** Select 'SR - Personal Reason'.
-  
--  **Agent's Name**: Your name.
-  
 -  **Product:** Select the product accordingly.
 
 -  **Serial Number**: Fill in the product's serial number.
+
+-  **Accessory:** Fill in if it's necessary.
 
 -  **Invoice Amount:** Leave blank.
 
@@ -66,6 +64,7 @@ Provide required information:
 ---
 For Vix Hsieh:
 >JIRA Status: 'To Do' 
+>
 >Assignee: Automatic (Vix Hsieh)
 ---
 
