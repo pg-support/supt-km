@@ -8,8 +8,8 @@ Once confirmed the issue, insert Macro: <u>[Service Center] RMA</u>. Insert the 
 <br>
 <br>
 ### 2 - Create a Return
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+On Slide#6, select 'Replace with the same item'.
 <br>
 ### 3 - Offer return label
 
