@@ -25,7 +25,7 @@ Log into to RMA board (JIRA)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
+Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3YTE5A14litVIRHZIVjPCoR_HqXI1fQObNRUYf-hPGyRB2Wy6RypTH1-uKP0ZlxCZTD5ESO0g1B9y/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -64,10 +64,10 @@ For Vix Hsieh
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 3 - Ticket created, awaiting the return label
-Once the ticket is created on JIRA, agent can get the RMA Number immediately.
+### 3 - Issue created, awaiting the return label
+Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
-The RMA Number can be found in the JIRA ticket:
+The RMA Number can be found in the JIRA issue:
 ![[Pasted image 20231207234913.png]]
 
 Navigate to the Zendesk ticket and change the subject title to the RMA#:
@@ -80,7 +80,7 @@ Reply the ticket with a heads-up, for example:
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
 
 ### 4 - Get the return label on JIRA
-Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the ticket within 3 days. The ticket will be assigned to the agent who requests a label. 
+Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the issue within 3 days. The issue will be assigned to the agent who requests a label. 
 
 ![[Xnip2023-11-16_16-46-21.jpg]]
 
@@ -95,12 +95,12 @@ Once attached, the agent will be notified, and they can proceed with the return 
    
 > *If no label shows up within 3 days, please reach out to Vix Hsieh.
 
-Download the label from JIRA and update the JIRA ticket status from 'To Do' to 'In Progress'.
+Download the label from JIRA and update the JIRA issue status from 'To Do' to 'In Progress'.
 ![[Pasted image 20231208001612.png]]
 
 Use the macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the customer.
 
-Ensure that the content in the macro corresponds accurately with the ticket subject for the correct RMA number.
+Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
 Submit as ‘Pending’.
 ![[Pasted image 20231208000245.png]]
 
@@ -114,7 +114,7 @@ Verify whether the case requests a replacement or refund.
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
+To request a replacement, create a replacement issue on JIRA ([[Replacement (JIRA)]]).
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
 
@@ -131,11 +131,11 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 
 After issuing a refund, close the support request on Zendesk.
 
-### 6 - Close the JIRA ticket
-Before close the JIRA ticket, please add a comment with the process to the ticket, for example, Replacement requested with RE order number (or RE JIRA ticket) or Refunded.
+### 6 - Close the JIRA issue
+Before close the JIRA issue, please add a comment with the process to the issue, for example, Replacement requested with RE order number (or RE JIRA issue) or Refunded.
 
 ![[Pasted image 20231120171356.png]]
 
-When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
+When everything is done, close the JIRA issue by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

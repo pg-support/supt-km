@@ -31,7 +31,7 @@ Log into to RMA board (JIRA)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
+Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvWZOSwZuJOcDUpmXQztHzGQv4YNVcNgYMCTEt5EFmEjXym_lbUMdePc9BR7AzVPC_NL2ZaBTg0wqL/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -68,7 +68,7 @@ For Vix Hsieh:
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 3 - Ticket created, offer info for return
+### 3 - Issue created, offer info for return
 After Vix confirms the SR request, he will change the assignee to the agent.
 
 Reply the Zendesk ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
@@ -77,7 +77,7 @@ A. Ensure that the content in the macro corresponds accurately with the ticket s
 
 ![[Pasted image 20231208000324.png]]
 
-Once the ticket is created on JIRA, agent can get the RMA Number immediately.
+Once the issue is created on JIRA, agent can get the RMA Number immediately.
 ![[Pasted image 20231207100952.png]]
 
 
@@ -87,11 +87,11 @@ B. Leave only the address for the customer’s located country. 
 C. Submit as pending.
 
 ### 4 - Check the tracking# for the return package 
-After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
+After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA issue.
 
 ![[Pasted image 20231120143126.png]]
    
-Reply the ticket with a heads-up, for example:
+Reply the Zendesk ticket with a heads-up, for example:
    
 > Thanks for providing the information. 
 > 
@@ -113,9 +113,9 @@ When confirming the package is delivered, proceed with the [[Refund Process]].
 
 After issuing a refund, close the support request on Zendesk.
 
-### 6 - Close the JIRA ticket
-Add a comment with the process to the ticket, for example, 'Refunded'.
+### 6 - Close the JIRA issue
+Add a comment with the process to the issue, for example, 'Refunded'.
 
-When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
+When everything is done, close the JIRA  issue by changing the status from "In Progress" to "Closed". (END)
 
 ![[Pasted image 20231116143311.png]]

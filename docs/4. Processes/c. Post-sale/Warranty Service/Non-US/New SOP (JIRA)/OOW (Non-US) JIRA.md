@@ -40,7 +40,7 @@ Insert the correct country in the email subject. Submit as ‘Pending’.
 Log into to RMA board (JIRA):
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJYyJaL00w9dJob_94CCS6jpHLrX6yDo7k1t2FjN_tHWuUxkFEVRRSzMDgvkg5Ejb1ya-ErAKwr-Hm/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Once the customer replies with all the requested information, create a new RMA ticket on JIRA and select the correct Issue type based on the customer's country.
+Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr5jPrbx3hS4wyH8A093YDTfpIu82_297NrIpQNgzxNciJc2v7_CvnSa3LJeWhHCtfqRGMVZQ2W96F/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -78,13 +78,14 @@ Provide required information:
 ---
 For Vix Hsieh:
 >JIRA Status: 'Invoice Needed' 
+>
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 4 - Ticket created, offer info for return
-Once the ticket is created on JIRA, agent can get the RMA Number immediately.
+### 4 - Issue created, offer info for return
+Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
-The RMA Number can be found in the JIRA ticket:
+The RMA Number can be found in the JIRA issue:
 ![[Pasted image 20231207234913.png]]
 
 Navigate to the Zendesk ticket and change the subject title to the RMA#:
@@ -110,9 +111,9 @@ For Vix Hsieh:
 
 Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Private Channel to confirm the payment status.
 
-Vix will also check the payment status once a day and assign the ticket back to agent.
+Vix will also check the payment status once a day and assign the JIRA issue back to agent.
 
-Once the invoice is confirmed as paid, please updated the ticket status from 'Awaiting Payment' to 'In Progress' Section in the ticket on JIRA. 
+Once the invoice is confirmed as paid, please updated the JIRA issue status from 'Awaiting Payment' to 'In Progress'. 
 
 ---
 For who is going to do this:
@@ -123,7 +124,7 @@ For who is going to do this:
 
 The agent can then insert Macro: <u>[Service Center] OOW - 2</u>:
 
-A. Ensure that the content in the macro corresponds accurately with the ticket subject for the correct RMA number.
+A. Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
 
 ![[Pasted image 20231208000330.png]]
 
@@ -134,14 +135,14 @@ B. Leave only the address for the customer’s located country. 
 C. Submit as pending.
 
 ### 6 - Check the tracking# for the returned package
-After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
+After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA issue.
 
 ![[Pasted image 20231116170835.png]]
 
 ### 7 - Request for replacement
 
 #### Replacement
-Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement ticket on JIRA ([[Replacement (JIRA)]]).
+Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement issue on JIRA ([[Replacement (JIRA)]]).
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).
 
@@ -150,8 +151,8 @@ Forward the tracking information to the customer when available. Close the suppo
 #### Repair (US Only)
 Inform the customers that Jeff will contact them directly at a later time.
 
-### 8 - Close the JIRA ticket
-Add a comment with the process to the ticket, for example, Replacement requested with RE order number (or RE JIRA ticket).
+### 8 - Close the JIRA issue
+Add a comment with the process to the issue, for example, Replacement requested with RE order number (or RE JIRA issue).
 
 ![[Pasted image 20231120171356.png]]
 

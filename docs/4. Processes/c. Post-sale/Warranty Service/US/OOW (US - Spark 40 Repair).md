@@ -30,18 +30,26 @@ Once the customer replies with all the requested information, create a new RMA t
 
 Provide required information:
 
--  **Summary:** OOW / Order# / Agent's name, for example, 'DOA / PG-xxxxx / WT'.
+-  **Summary:** OOW
 
+-  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+
+-  **Service Type:** OOW.
+  
 -  **Order Number (RMA):** Original order#.
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
 > 
 > If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
 
--  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
-
--  **Service Type:** Select 'OOW'.
-
 -  **Product:** Select the product accordingly.
+
+-  **Serial Number**: Fill in the product's serial number.
+
+-  **Accessory:** Fill in if it's necessary
+
+-  **Invoice Amount:** Select 'US Repair: Spark 40'.
+
+-  **Invoice Address:** Fill in invoice address
 
 -  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
 
@@ -51,8 +59,12 @@ Provide required information:
 
 ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
->JIRA Status: 'To Do' 
+---
+For Vix Hsieh:
+>JIRA Status: 'Invoice Needed' 
+>
 >Assignee: Automatic (Vix Hsieh)
+---
 
 ### 3 - Offer info for return
 Once the request is submitted, follow the steps below and offer the info for return:
@@ -60,6 +72,7 @@ Once the request is submitted, follow the steps below and offer the info for ret
 A. Insert the corresponding RMA number in the subject & context. 
 
 ![](https://lh6.googleusercontent.com/pxkKNAaNDkH6QfDu8fZRZ81_TESes5OuLWqK-Qlxbapc1XRTK6e8NtxoZfbRQY4gqks_ZM-CytI-K3jRn5Q8kUqlvCYj8xaMmYraqknWl4ZUeOiM1zrT-pIoVV8FNqJ80GihxJ7vLZ5-a9jWRym-nMDikYLeqQzbHBpMmmZ_ZMi3d-IzVBfjxsjqbb6W)
+
 
 B. Ask the user to send the item back to the following address (already informed in the first email), and provide the TRK#:
 
@@ -72,8 +85,12 @@ Mail: fixmyamplifier@aol.com
 C. Submit as pending.
 
 ### 4 - Check the tracking# for the returned package
-Once the user replies with tracking information, go back to the country’s [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) (OOW tab) and update ‘Inbound Tracking Number (Agent only)’.
+After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
 
-![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)
+![[Pasted image 20231116170835.png]]
 
-Once the TRK# is logged, inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. Case can be closed. (END)
+Once the TRK# is logged, inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. 
+
+When everything is done, close the Zendesk and JIRA ticket. (END)
+
+![[Pasted image 20231116143311.png]]
