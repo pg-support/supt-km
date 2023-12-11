@@ -26,6 +26,11 @@ Once confirmed the issue, please first check with the customer whether he/she is
 - Spark Control: $40
 - RIFF: $40
 
+
+  ==- Special Case:==
+- Spark 40 (US Repair): For US OOW only.
+- Others (Please leave the amount in Description section): For the special offer only.
+
 ### 2 - Inquire information for payment
 Once confirmed the customer is willing to proceed and pay for the repair/replacement, insert Macro: <u>[Service Center] OOW - 1</u>.
 
@@ -102,9 +107,9 @@ The agent should ask the customer to check their inbox for the invoice and infor
 For Vix Hsieh:
 >Issue Invoice on PayPal.
 >
->JIRA Status: 'Invoice Needed' -> 'Awaiting Payment' 
+>Reply to the issue and attach the Invoice.
 >
->Assignee: Vix Hsieh
+>JIRA will automatically assign the issue back to the reporter and update the issue status from 'Invoice Needed' to 'Awaiting Payment'.
 ---
 ### 5 - Confirm payment & offer info for return
 
@@ -112,11 +117,11 @@ Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Pr
 
 Vix will also check the payment status once a day and assign the JIRA issue back to agent.
 
-Once the invoice is confirmed as paid, please updated the JIRA issue status from 'Awaiting Payment' to 'In Progress'. 
+Once the invoice is confirmed as paid, please updated the JIRA issue status from 'Awaiting Payment' to 'To Do'. 
 
 ---
 For who is going to do this:
->JIRA Status: 'Awaiting Payment' -> 'In Progress' 
+>JIRA Status: 'Awaiting Payment' -> 'To Do' 
 >
 >Assignee: Agent who requests the RMA
 

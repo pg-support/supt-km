@@ -84,9 +84,9 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 
 ---
 For Vix Hsieh:
->Tag reporter and attach the label
+>Reply to the issue and attach the label.
 >
->Assignee: Vix Hsieh -> 'Reporter'
+>JIRA will automatically assign the issue back to the reporter.
 ---
 
 Once attached, the agent will be notified, and they can proceed with the return process.
@@ -99,6 +99,7 @@ Download the label from JIRA and update the JIRA issue status from 'To Do' to 'I
 Use the macro <u>Return Label</u> and forward all related information & return labels (attached to the email) to the customer.
 
 Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
+
 Submit as ‘Pending’.
 ![[Pasted image 20231208000245.png]]
 

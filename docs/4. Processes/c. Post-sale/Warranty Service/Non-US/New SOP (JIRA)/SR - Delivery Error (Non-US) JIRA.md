@@ -74,7 +74,6 @@ For Vix:
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-
 ### 3 - Issue created, awaiting the return label
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
@@ -96,8 +95,10 @@ Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return l
 ![[Xnip2023-11-16_16-46-21.jpg]]
 
 ---
-For Vix Hsieh:
->Assignee: Vix Hsieh -> 'Reporter'
+For Vix Hsieh
+>Reply to the issue and attach the label.
+>
+>JIRA will automatically assign the issue back to the reporter.
 ---
 
 Once attached, the agent will be notified, and they can proceed with the return process.
