@@ -90,9 +90,13 @@ After receiving the tracking number along with the corresponding carrier informa
    
 Reply the Zendesk ticket with a heads-up, for example:
    
-> Thanks for providing the information. 
+> According to the tracking number you provided, the return package will be delivered on Dec 13, 23.
 > 
-> I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
+> USPS 9534615060481056365290
+> 
+> I will issue the refund for your order right after the package is delivered. 
+> 
+> Please wait for further notice. Thank you.
 
 ### 5 - Check the status of the received package
 Check the tracking with the corresponding carrier. On the ETA of the returning package, check the tracking# to verify if the service center has received it.  
