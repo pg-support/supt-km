@@ -2,16 +2,48 @@
 > This guide provides the essential information for agents to process Amazon orders. 
 
 ## Daily Operation
-- Reply to support tickets & check feedback in BQool.
 - Reply to support tickets & feedback in Amazon Seller Central (for regions not covered by BQool).
 - Monitor [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) and [Amazon Tracking (Out of Stock Record)](https://docs.google.com/spreadsheets/d/1nD-WXOWSqSGU1kPgPHjNBVsPenH3vGkMFp8H5ZvwpZQ/edit?usp=sharing) , reach out to the customers that needs to be contacted.
+~~- Reply to support tickets & check feedback in BQool.~~
 
-## Important Notes
+## ⚠Important Notes
 - **Do NOT mention things like 'website', 'link', or provide any links to the customer in Amazon's support channel. This might violates the terms of Amazon and cause us great trouble.**
 
 - If we need to redirect customers from Amazon to PG Supt, simply tell them "**Please contact our official support team for further assistance.**" and nothing more. Do NOT give them any link.
-
+  
 - **We do NOT ask customers who bought from Amazon to sign claim forms.**
+
+---
+## Amazon Seller Central
+### What is Amazon Seller Central
+- **Support team will use Amazon Seller Central to reply to Amazon support tickets from regions that are not supported by BQool.**
+
+- Amazon Seller Central is a website that helps people and businesses sell their products on Amazon. It provides tools and services to help sellers manage their inventory, list and sell their products, handle customer service inquiries, and get sales data and analytics.
+
+### Amazon Seller Central Login Information
+See [[Frequently Used Resources]]
+
+### Switching Regions
+
+- Each of our service region has its own Amazon store. Each requires to be switched manually. 
+
+![[Pasted image 20230419111802.png]]
+
+### Support Ticket
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQqKuy0f7cET6HohSTQCg1alKavGiYDWp4kbRFyWFbM12rDShER2ZYLsum8OOsk3hCl9LhLEJj0T75/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Order Info
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkIMwsIk9xlOlYOKlrGIkQdTUGWJjZhaSRJgb4QCsDxcLyJwf_b1DX3teW-aOI_C7ouYQHa-VIk6qs/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Amazon Feedback
+
+- Go to Amazon Seller Central > Performance to check public feedbacks from the customers, and respond accordingly.
+
+  ![[Pasted image 20230412163419.png]]
+
+- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public.**
+
+
 
 ---
 ## BQool
@@ -81,35 +113,3 @@ There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo 
 
 - For other countries that are not covered by BQool, we need to check each region manually for the feedbacks.
   
-
----
-## Amazon Seller Central
-### What is Amazon Seller Central
-- **Support team will use Amazon Seller Central to reply to Amazon support tickets from regions that are not supported by BQool.**
-
-- Amazon Seller Central is a website that helps people and businesses sell their products on Amazon. It provides tools and services to help sellers manage their inventory, list and sell their products, handle customer service inquiries, and get sales data and analytics.
-
-### Amazon Seller Central Login Information
-See [[Frequently Used Resources]]
-
-### Switching Regions
-
-- Each of our service region has its own Amazon store. Each requires to be switched manually. 
-
-![[Pasted image 20230419111802.png]]
-
-### Support Ticket
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQqKuy0f7cET6HohSTQCg1alKavGiYDWp4kbRFyWFbM12rDShER2ZYLsum8OOsk3hCl9LhLEJj0T75/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Order Info
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkIMwsIk9xlOlYOKlrGIkQdTUGWJjZhaSRJgb4QCsDxcLyJwf_b1DX3teW-aOI_C7ouYQHa-VIk6qs/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Amazon Feedback
-
-- Go to Amazon Seller Central > Performance to check public feedbacks from the customers, and respond accordingly.
-
-  ![[Pasted image 20230412163419.png]]
-
-- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public.**
-
-

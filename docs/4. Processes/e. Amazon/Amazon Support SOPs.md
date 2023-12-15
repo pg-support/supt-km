@@ -43,7 +43,7 @@ FBM:
 
 Please refer to [[SKULabs Operation]] and [[Daily Catch-Up (JIRA)]] for further details on how to inquire about shipping status. 
 
-### Important Notice
+### ⚠Important Notice
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
@@ -168,7 +168,12 @@ These comprehensive guidelines are designed to assist you in navigating the retu
 ### Returning Defective Products
 
 #### Technical issues/Dead on Arrival
-- For technical issues/troubleshooting, it's best to advise customers to contact our official support team for further assistance on Zendesk.
+- For technical issues/troubleshooting, it's best to advise customers to contact our official support team for further assistance on Zendesk:
+
+	Dear Customer,  
+	Thank you for contacting us. I'm truly sorry about the issue you're facing. To resolve this promptly, could you please contact our official tech support? They'll promptly assist in troubleshooting. Should the unit be confirmed as defective, we'll promptly provide a return label for you to send it back, and arrange the refund or replacement you require.  
+	Your cooperation in resolving this matter is highly appreciated. Wishing you a fantastic day ahead!
+	
 
 - Follow the troubleshooting guides and the DOA/RMA process.
   [[DOA (US)]] [[DOA (Non-US)]] [[RMA (US)]] [[RMA (Non-US)]]
