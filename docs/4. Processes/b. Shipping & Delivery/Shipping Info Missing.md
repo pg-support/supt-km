@@ -43,6 +43,6 @@ Shopify orders: PG-xxxxx, EU-xxxxx, UK-xxxxx, etc...
 
 Amazon order: xxx-xxxxxxx-xxxxxxx 
 (begins with three number and dash)
-Please tag the agent who is handling Amazon operation this month in the Supt-Private channel.
+Please tag the agent responsible for Amazon operations this month in the Supt-Private channel and inform them of the situation.
 
 ![[Xnip2023-08-08_16-16-29.jpg]]
