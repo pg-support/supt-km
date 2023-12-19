@@ -2,7 +2,7 @@
 > This guide covers a range of issues that may arise with Amazon orders and provides instructions on how to handle them.
 
 ## Verify the Amazon Order
-> **Prior to handling the ticket, it is essential to verify whether an Amazon order is FBA or FBM.**
+> **Prior to handling the ticket, it is essential to verify whether an Amazon order is FBA (Fulfillment by Amazon) or FBM (Fulfillment by Merchant).**
 
 There are 2 types of Amazon orders: FBA & FBM.
 
@@ -31,6 +31,8 @@ FBM stands for "**Fulfillment by Merchant**," which means the seller is responsi
 
 FBA:
 **![](https://lh4.googleusercontent.com/ZjkQK_4iCq_KnvTZnWG62H45uCC0qN7FTcBl3H00oCyn7KCfNNxlvEAse9OvmNRG_3Tr-ALqvXHUzTUzLuGPaim1X6MxbDc4-B4xgzHt-vI8NKsQqn_zkdo3C1HyezZN0rVNI6x_8_nCDBMRMYYuYIY)**
+
+![[Pasted image 20231218163550.png]]
 
 FBM:
 **![](https://lh6.googleusercontent.com/kCPhVFRKwjCrHSf3dKshnVJlch_6q-ufh6xf0odPZ8CyUSRitVDYlPbathYR_GA12vlbsLjTnLjp3-V2E66TpcP5pjo5q9i4ItZbj3GF0xU81c5FTjb8H6jl9-VOb-JSJ0u-xA4RocAfgcbX5HL9Iw8)**
