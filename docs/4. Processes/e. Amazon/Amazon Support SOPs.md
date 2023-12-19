@@ -109,8 +109,12 @@ If we fail to acquire the correct information from the customer before the requi
 
 - If the order shows 'Not started / Opened / Delayed' in SKULab, manually cancel the order, and proceed by clicking the 'Cancel Order' option in the order details in Amazon Seller Central.
 
-- If the order shows 'Awaiting Fulfillment', fill in the [Supt-Logistics Form](https://docs.google.com/forms/d/e/1FAIpQLSdd0Hei0HZSqwf_bzUTIdutMvE_a_N2VGuOc5fta-jwun69PA/viewform) -> Cancellation request. 
-  If successful, proceed with clicking the 'Cancel Order' option in the order details in Amazon Seller Central; if unsuccessful, ask the customer to reject the shipment.
+
+- If the order is in 'awaiting fulfillment' or 'shipped' status, it cannot be cancelled and we'll need to ask the customer to refuse the shipment. 
+  
+  If the customer refuse the shipment and the package is confirmed on its way to our service center (return to sender), proceed by clicking the 'Cancel Order' option in the order details in Amazon Seller Central.
+  
+  If unsuccessful, instruct the customer to follow return process provided by Amazon.
 
 ![[Pasted image 20230419114234.png]]
 

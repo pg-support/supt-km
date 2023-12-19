@@ -9,7 +9,13 @@
    
    ![[Pasted image 20230209170313.png]]
    
-3). Determine whether the order is eligible for cancellation. The order can only be cancelled if it is in 'not started', 'opened', or 'delayed' status. If the order is in 'awaiting fulfillment' or 'shipped' status, it cannot be cancelled and we'll need to ask the customer to refuse the shipment. 
+3). Determine whether the order is eligible for cancellation. The order can only be cancelled if it is in 'not started', 'opened', or 'delayed' status. 
+
+If the order is in 'awaiting fulfillment' or 'shipped' status, it cannot be cancelled and we'll need to ask the customer to refuse the shipment.
+
+If the customer refuse the shipment and the package is confirmed on its way to our service center (return to sender), proceed with [[Refund Process]]. 
+
+If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
    
    ![[Pasted image 20230209170529.png]]
 
