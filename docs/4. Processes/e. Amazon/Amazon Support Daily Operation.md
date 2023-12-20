@@ -94,6 +94,8 @@ If you need to find a user's past tickets (because they opened a new ticket and 
 
 ![[Pasted image 20230420121203.png]]
 
+
+---
 #### Q&As in BQool
 There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo below.) 
 
