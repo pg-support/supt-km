@@ -42,7 +42,9 @@ See [[Frequently Used Resources]]
 
   ![[Pasted image 20230412163419.png]]
 
-- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public.**
+- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public. 
+
+- **If the issue can be resolved by following the troubleshooting process, we can contact the buyer directly.****
 
 
 
