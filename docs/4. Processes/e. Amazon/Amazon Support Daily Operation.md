@@ -4,7 +4,8 @@
 ## Daily Operation
 - Reply to support tickets & feedback in Amazon Seller Central (for regions not covered by BQool).
 - Monitor [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) and [Amazon Tracking (Out of Stock Record)](https://docs.google.com/spreadsheets/d/1nD-WXOWSqSGU1kPgPHjNBVsPenH3vGkMFp8H5ZvwpZQ/edit?usp=sharing) , reach out to the customers that needs to be contacted.
-~~- Reply to support tickets & check feedback in BQool.~~
+  
+- ~~Reply to support tickets & check feedback in BQool.~~
 
 ## ⚠Important Notes
 - **Do NOT mention things like 'website', 'link', or provide any links to the customer in Amazon's support channel. This might violates the terms of Amazon and cause us great trouble.**
@@ -41,7 +42,9 @@ See [[Frequently Used Resources]]
 
   ![[Pasted image 20230412163419.png]]
 
-- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public.**
+- **Find the feedbacks with negative rating and are comments about 1. Order, 2. Delivery, 3. Product inquiry, and reply to those feedbacks. Beware that the answer will be public. 
+
+- **If the issue can be resolved by following the troubleshooting process, we can contact the buyer directly.****
 
 
 
@@ -93,6 +96,8 @@ If you need to find a user's past tickets (because they opened a new ticket and 
 
 ![[Pasted image 20230420121203.png]]
 
+
+---
 #### Q&As in BQool
 There's a specific 'Q&A' type of inquiries that'll show up in BQool. (See photo below.) 
 

@@ -39,7 +39,9 @@
 
 - MAIN INPUT BATTERY
 
-	  AC 100-240V
+	 Voltage AC 100-240V
+	 Maximum current consumption 2.5A
+	 Maximum power consumption 250W	
 
 
 - DC POWER OUTPUT For Spark 40
