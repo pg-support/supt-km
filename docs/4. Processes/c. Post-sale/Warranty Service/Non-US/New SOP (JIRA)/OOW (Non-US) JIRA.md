@@ -160,6 +160,6 @@ Add a comment with the process to the issue, for example, Replacement requested 
 
 ![[Pasted image 20231120171356.png]]
 
-When everything is done, close the JIRA by changing the status from "In Progress" to "Closed". (END)
+When everything is done, close the JIRA issue by changing the status from "In Progress" to "Done". (END)
 
-![[Pasted image 20231116143311.png]]
+![[Pasted image 20231228105612.png]]

@@ -117,6 +117,6 @@ After issuing a refund, close the support request on Zendesk.
 ### 6 - Close the JIRA issue
 Add a comment with the process to the issue, for example, 'Refunded'.
 
-When everything is done, close the JIRA  issue by changing the status from "In Progress" to "Closed". (END)
+When everything is done, close the JIRA issue by changing the status from "In Progress" to "Done". (END)
 
-![[Pasted image 20231116143311.png]]
+![[Pasted image 20231228105612.png]]
