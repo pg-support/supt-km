@@ -1,5 +1,11 @@
 # Why is there a low hissing / noise coming from my Spark CAB?
 
+**2023/01/08 Updated**
+Starting today, we'll start offering Spark CAB replacements for users who experience loud hissing noise with their units. Below is the message we should stick to:
+
+'There has been a small percentage of units that we found this issue with. We will promptly send you a replacement and kindly request that you return your current unit. Please follow the provided instructions for the return process.'
+
+---
   >A certain level of hiss from the FRFR speaker cabinets is normal and might be heard in the absence of an audio signal or at low volumes. If the customer is concerned about this noise, please refer to Statement 1 for clarification.
 
 
@@ -24,3 +30,6 @@ One of the primary functions of the Spark CAB is to complement our existing Spar
 
 
 We want to assure you that this elevated noise floor does not pose any issues during normal usage. It has been carefully considered in the design process to ensure that your overall audio experience remains of the highest quality.
+
+
+
