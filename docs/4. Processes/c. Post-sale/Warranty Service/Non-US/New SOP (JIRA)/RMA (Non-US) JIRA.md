@@ -71,10 +71,10 @@ For Vix Hsieh
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
 The RMA Number can be found in the JIRA issue:
-![[Pasted image 20231207234913.png]]
+![[Pasted image 20240115161514.png]]
 
 Navigate to the Zendesk ticket and change the subject title to the RMA#:
-![[Pasted image 20231207235302.png]]
+![[Pasted image 20240115161612.png]]
 
 Reply the ticket with a heads-up, for example:
    
@@ -106,7 +106,7 @@ Use the macro <u>Return Label</u> and forward all related information & return l
 Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
 
 Submit as ‘Pending’.
-![[Pasted image 20231208000302.png]]
+![[Pasted image 20240115162420.png]]
 
 
 ### 5 - Check the tracking# for the returned package

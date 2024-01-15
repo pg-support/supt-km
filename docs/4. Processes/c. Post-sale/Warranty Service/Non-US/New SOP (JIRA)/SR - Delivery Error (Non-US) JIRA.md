@@ -39,7 +39,7 @@ Log into to RMA board (JIRA)
 
 Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvWZOSwZuJOcDUpmXQztHzGQv4YNVcNgYMCTEt5EFmEjXym_lbUMdePc9BR7AzVPC_NL2ZaBTg0wqL/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4R-4dck26t__9OVUQLloF3Px4LqawBbLJqoNzx8rb8ewUzXKSCVKu-UUOq_otvBDSdsffClVQkKbL/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Provide required information:
 
@@ -78,10 +78,10 @@ For Vix:
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
 The RMA Number can be found in the JIRA issue:
-![[Pasted image 20231207234913.png]]
+![[Pasted image 20240115161957.png]]
 
 Navigate to the Zendesk ticket and change the subject title to the RMA#:
-![[Pasted image 20231207235302.png]]
+![[Pasted image 20240115162131.png]]
 
 Reply the ticket with a heads-up, for example:
    
@@ -113,7 +113,7 @@ Use the macro <u>Return Label</u> and forward all related information & return l
 Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
 
 Submit as ‘Pending’.
-![[Pasted image 20231208000307.png]]
+![[Pasted image 20240115162509.png]]
 
 
 ### 5 - Check the tracking# for the return package
