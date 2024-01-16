@@ -18,6 +18,6 @@ The age restrictions for the Spark app are related to YouTube's policy and vary 
 
 You must be at least 13 years old to use the Service; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
 
-However, the age restrictions on Android Google Play is 3+, while on the Apple App Sotre, it's 17+.
+However, the age restrictions on Android Google Play is 3+, while on the Apple App Store, it's 17+.
 
 (Reported to Jun on 1/16/24)
