@@ -1,4 +1,4 @@
-## Support Tool - Log Collector
+## Support Tool - Log Collection
 
 
 
@@ -36,27 +36,6 @@ Please follow the instructions below to collect the logs on your computer.
 ![[5-2.png]]
 
 
-* You can upload the zip file to [wetransfer](https://wetransfer.com/) with the following steps: 
-
-  
-1. Go to [wetransfer](https://wetransfer.com/) and upload your file:  
- ​![[T1.png]]
- 
- 
-2. Hit the '...' icon on the bottom left, then select 'Get transfer link' and click "Get a link".
-![[T2.png]]
-
-  
-3. Copy the link generated in the window:  
-![[T3.png]]
-  
-4. Head back to your email and paste the link in your response to the support request email:   
-![[T4.png]]
-
-5. That way we will be able to access it when we receive your response:  
-![[T5.png]]
-
-
 ### Windows
 This tool, developed by our software engineering team, is designed to collect the essential logs from your computer.  These logs play a crucial role in helping our engineering team pinpoint the primary cause of the issue and work towards resolving it effectively.
 
@@ -80,23 +59,3 @@ Please follow the instructions below to collect the logs on your computer.
 ![[W5.png]]
 
 ![[W5-2.png]]
-
-* You can upload the zip file to [wetransfer](https://wetransfer.com/) with the following steps: 
-
-  
-1. Go to [wetransfer](https://wetransfer.com/) and upload your file:  
- ​![[T1.png]]
- 
- 
-2. Hit the '...' icon on the bottom left, then select 'Get transfer link' and click "Get a link".
-![[T2.png]]
-
-  
-3. Copy the link generated in the window:  
-![[T3.png]]
-  
-4. Head back to your email and paste the link in your response to the support request email:   
-![[T4.png]]
-
-5. That way we will be able to access it when we receive your response:  
-![[T5.png]]
