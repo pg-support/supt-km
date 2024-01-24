@@ -1,4 +1,4 @@
-# Technical Specification
+# Technical Specification (Spark 40)
 
 #### AUDIO SPECIFICATIONS
 
@@ -15,7 +15,7 @@
 	  116 dB SPL @1m
 
 - CABINET PRINCIPLE
-  
+
 	  Bass-reflex
 
 - POWER AMPLIFIERS

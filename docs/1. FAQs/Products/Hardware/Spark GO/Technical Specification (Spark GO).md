@@ -1,3 +1,4 @@
+# Technical Specification (Spark GO)
 #### AUDIO SPECIFICATIONS
 
 - FREQUENCY RANGE

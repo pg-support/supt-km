@@ -1,8 +1,8 @@
-# Technical Specification
+# Technical Specification (Spark LIVE)
 #### AUDIO SPECIFICATIONS  
 
 - STEREO/MONO
-  
+
 	2 x 1/4 inch line level outputs, supports stereo output
 
 - MAXIMUM SOUND PRESSURE LEVEL
@@ -41,15 +41,12 @@
 	Detachable 6,000 mAh rechargeable lithium battery (sold separately).
 
 - BATTERY TYPE (Spark Battery)
-
 	Detachable 6,000 mAh rechargeable lithium battery (sold separately).
 
 - PLAYTIME  
-
 	Up to 8 hours (on mid-volume)
 
 - CHARGING TIME  
-
 	3 hours
 
 #### **CONTROLS AND CONNECTIVITY**
