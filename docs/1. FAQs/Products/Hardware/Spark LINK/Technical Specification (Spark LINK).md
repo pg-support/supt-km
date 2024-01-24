@@ -1,11 +1,11 @@
 # Technical Specification (Spark LINK)
 #### TECHNICAL SPECIFICATIONS
 
-Frequency Range: 2.4GHz  
-Frequency Response: 20 - 20k Hz  
-Sample rate: 24-bit, 48 KHz  
-Latency: <3ms  
-Working Distance: at least 30 meters (98.43 Foot)
+	Frequency Range: 2.4GHz  
+	Frequency Response: 20 - 20k Hz  
+	Sample rate: 24-bit, 48 KHz  
+	Latency: <3ms  
+	Working Distance: at least 30 meters (98.43 Foot)
 
 
 #### BATTERY
