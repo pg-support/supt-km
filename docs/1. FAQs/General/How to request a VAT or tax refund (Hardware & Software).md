@@ -27,13 +27,15 @@ For Maines & WeiTing:
 ## How to Calculate the Tax
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8sJcbLMk00F6QYYvQHs-JRoZsfiNHbm8YVMdiAPFoUqTkpbfg7QhGZ7wJnVef5a4BIujsRPMB8FX/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ---
-## Offer a VAT Invoice with Tax Rate
+## Offer a VAT Invoice with a Corresponding Tax Rate
 
 Customers from **Germany**, **the UK**, and **Australia** with a valid VAT number and business address, who request a VAT invoice, will receive a comprehensive invoice from Shopify with all necessary details, including the corresponding VAT number.
 
 For customers who do NOT have a valid VAT number & business address who request a VAT invoice, we can issue a VAT invoice listing the tax (based on the country). 
 
 If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
+
+
 Do NOT issue a VAT refund for these cases.
 
 
@@ -46,20 +48,18 @@ Australia (AU): 14 526 244 781
 ![Pasted image 20231109122037.png](https://pg-support.github.io/supt-km/Media/Pasted%20image%2020231109122037.png)
 
 ---
-## Offer a VAT Invoice for Customers in the EU
+## Offer a VAT Invoice with a 0% Tax Rate
 
-Customers from countries in the EU (other than Germany) with a valid VAT number & business address, who request a VAT invoice, will receive one with a 0% tax rate.
+Customers from countries in the EU (other than Germany) with a valid VAT number & business address, who request a VAT invoice, will receive an invoice with a 0% tax rate.
 
-We'll also issue a partial refund as VAT refund on Spotify later.
+We'll also issue a partial refund directly as a VAT refund on Spotify later (depending on the tax being charged on Shopify).
 
 [Invoice form (0% tax rate)](https://drive.google.com/file/d/1IuwFTK23E03mR8xPRdKBe32qjRWX4JhC/view?usp=sharing)
 
 ![[Pasted image 20231109122002.png]]
 
 ## Direct VAT Refunds
-**This policy is applicable to all  customers with valid VAT number and business address in the EU countries except Germany (DE).**
-
-For the customers providing a valid VAT number in the EU, we will refund the VAT  directly to them.
+**This policy is applicable to all  customers with valid VAT number and business address in the EU countries except Germany (DE), we'll issue a partial refund directly as a VAT refund on Spotify later (depending on the tax being charged on Shopify).**
 
 For example, Order#EU-24504 has 20% tax, we will issue a partial refund €19.84 as tax return.
 
