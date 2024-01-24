@@ -6,8 +6,9 @@ VAT is charged for several regions, and the setup is based on a per Shopify stor
 
 ~~Positive Grid currently only has tax ID numbers for specific countries. As a result, we can only provide VAT invoices to customers from these selected countries who wish to request a VAT refund from their local government.~~ 
 
-Please ask for the company's **VAT number** and **address** from the customer and verify it with the following site:
-[https://ec.europa.eu/taxation_customs/vies/#/vat-validation](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
+Please ask for the company's **VAT number** and **business address** from the customer and verify it with the following site:
+[Check the VAT number](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 If the VAT number is valid, send the following information and tag Maines/WeiTing on Supt-Private channel to create an invoice with VAT#:
@@ -26,41 +27,39 @@ For Maines & WeiTing:
 ## How to Calculate the Tax
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8sJcbLMk00F6QYYvQHs-JRoZsfiNHbm8YVMdiAPFoUqTkpbfg7QhGZ7wJnVef5a4BIujsRPMB8FX/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ---
-## Offer a VAT Invoice for Customers with DE/AU/UK VAT
+## Offer a VAT Invoice with Tax Rate
 
-We provide a VAT invoice (tax rate 19%) with all the details from Shopify for customers in Germany (or those with a DE VAT number, AU, and UK).
+Customers from **Germany**, **the UK**, and **Australia** with a valid VAT number and business address, who request a VAT invoice, will receive a comprehensive invoice from Shopify with all necessary details, including the corresponding VAT number.
 
-[Invoice form (For DE/AU/UK)](https://drive.google.com/file/d/1iSxSFOeIL9L3QMC-IH03BTnV74HUtYlE/view?usp=sharing)
+For customers who do NOT have a valid VAT number & business address who request a VAT invoice, we can issue a VAT invoice listing the tax (based on the country). 
+
+If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
+Do NOT issue a VAT refund for these cases.
+
+
+Germany (DE): DE342046425
+United Kingdom (UK): GB374894639
+Australia (AU): 14 526 244 781 
+
+[Invoice form (For DE/AU/UK)](https://drive.google.com/file/d/1xSfXmj-50Tt7Fqwvw57jKR4zNYzwyJ50/view?usp=sharing)
 
 ![Pasted image 20231109122037.png](https://pg-support.github.io/supt-km/Media/Pasted%20image%2020231109122037.png)
-
-
-Customers from other countries, such as the UK and AU, who request a VAT invoice, similar to customers in DE, will receive an invoice from Shopify containing all the necessary details and the corresponding VAT number.
-
-United Kingdom (UK): GB374894639
-
-Australia (AU): 14 526 244 781 
 
 ---
 ## Offer a VAT Invoice for Customers in the EU
 
-Customers from countries in the EU (other than Germany) with a valid VAT number, who request a VAT invoice, will receive one with a 0% tax rate.
+Customers from countries in the EU (other than Germany) with a valid VAT number & business address, who request a VAT invoice, will receive one with a 0% tax rate.
 
-*For customers who don't have a VAT number but still request a VAT invoice, we can issue a VAT invoice listing the tax (based on the country). Use the form [Invoice form (For DE/AU/UK)](https://drive.google.com/file/d/1iSxSFOeIL9L3QMC-IH03BTnV74HUtYlE/view?usp=sharing)* 
-Do not issue a VAT refund for these cases.
-
+We'll also issue a partial refund as VAT refund on Spotify later.
 
 [Invoice form (0% tax rate)](https://drive.google.com/file/d/1IuwFTK23E03mR8xPRdKBe32qjRWX4JhC/view?usp=sharing)
 
 ![[Pasted image 20231109122002.png]]
 
-After that, follow the step below to issue a VAT refund for the customers.
-
 ## Direct VAT Refunds
+**This policy is applicable to all  customers with valid VAT number and business address in the EU countries except Germany (DE).**
 
-**This policy is applicable to all EU countries except Germany (DE).**
-
-For the customers providing a valid VAT number in the EU, we will refund the VAT  directly to them without offering a VAT invoice (Tax % depends on the order page).
+For the customers providing a valid VAT number in the EU, we will refund the VAT  directly to them.
 
 For example, Order#EU-24504 has 20% tax, we will issue a partial refund €19.84 as tax return.
 
