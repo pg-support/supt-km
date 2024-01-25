@@ -1,6 +1,6 @@
 # How to request a VAT or tax refund (Hardware & Software)
 
-> Info regarding VAT charges and refunds based on the country of purchase.
+> We can create the invoice w/wo VAT for orders on Shopify & Amazon.
 
 VAT is applied to several regions, and the configuration is established on a per Shopify store basis. Due to variations in the tax rate for each country, it cannot be set up individually for each country."
 
