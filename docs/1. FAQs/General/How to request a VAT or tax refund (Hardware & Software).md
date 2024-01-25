@@ -2,16 +2,17 @@
 
 > Info regarding VAT charges and refunds based on the country of purchase.
 
-VAT is charged for several regions, and the setup is based on a per Shopify store basis (it cannot be set up for each country individually).
+VAT is applied to several regions, and the configuration is established on a per Shopify store basis. Due to variations in the tax rate for each country, it cannot be set up individually for each country."
 
 ~~Positive Grid currently only has tax ID numbers for specific countries. As a result, we can only provide VAT invoices to customers from these selected countries who wish to request a VAT refund from their local government.~~ 
 
-Please ask for the company's **VAT number** and **business address** from the customer and verify it with the following site:
+To request an invoice with a VAT number, customers are required to provide both a valid VAT number and a business address. 
+
+The agent can verify the VAT number with the following site:
 [Check the VAT number](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-If the VAT number is valid, send the following information and tag Maines/WeiTing on Supt-Private channel to create an invoice with VAT#:
+Once the validity of the VAT number is confirmed, send the following information and tag Maines/WeiTing on Supt-Private channel to create an invoice with VAT number:
 
 - Order#
   
@@ -26,15 +27,17 @@ For Maines & WeiTing:
 
 ## How to Calculate the Tax
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8sJcbLMk00F6QYYvQHs-JRoZsfiNHbm8YVMdiAPFoUqTkpbfg7QhGZ7wJnVef5a4BIujsRPMB8FX/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+All results should be rounded to two decimal places.
+**Please ensure that the Total on the invoice equals the order's total.**
+
 ---
 ## Offer a VAT Invoice with a Corresponding Tax Rate
 
-Customers from **Germany**, **the UK**, and **Australia** with a valid VAT number and business address, who request a VAT invoice, will receive a comprehensive invoice from Shopify with all necessary details, including the corresponding VAT number.
+Customers from **Germany**, **the UK**, and **Australia** with a valid VAT number and business address, who request a VAT invoice, will receive a comprehensive invoice with all necessary details from Shopify, including the corresponding VAT number.
 
 For customers who do NOT have a valid VAT number & business address who request a VAT invoice, we can issue a VAT invoice listing the tax (based on the country). 
 
 If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
-
 
 Do NOT issue a VAT refund for these cases.
 
