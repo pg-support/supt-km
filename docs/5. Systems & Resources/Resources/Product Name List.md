@@ -15,7 +15,15 @@ Always capitalize our brand names, products and trademarked names!
 
 ### Spark CAB
 
+### Spark LIVE
+
+### Spark LINK
+
+### Spark Battery
+
 ### Spark Control
+
+### Spark Control X
 
 ### RIFF
 

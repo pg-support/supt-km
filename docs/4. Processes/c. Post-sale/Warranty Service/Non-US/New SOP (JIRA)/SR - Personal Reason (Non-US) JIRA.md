@@ -30,7 +30,7 @@ Log into to RMA board (JIRA)
 
 Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvWZOSwZuJOcDUpmXQztHzGQv4YNVcNgYMCTEt5EFmEjXym_lbUMdePc9BR7AzVPC_NL2ZaBTg0wqL/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4R-4dck26t__9OVUQLloF3Px4LqawBbLJqoNzx8rb8ewUzXKSCVKu-UUOq_otvBDSdsffClVQkKbL/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Provide required information:
 
@@ -75,7 +75,7 @@ A. Ensure that the content in the macro corresponds accurately with the ticket s
 ![[Pasted image 20231208000324.png]]
 
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
-![[Pasted image 20231207100952.png]]
+![[Pasted image 20240115162002.png]]
 
 
 B. Leave only the address for the customer’s located country. 

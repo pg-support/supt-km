@@ -90,10 +90,11 @@ For Vix Hsieh:
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
 The RMA Number can be found in the JIRA issue:
-![[Pasted image 20231207234913.png]]
+![[Pasted image 20240115155134.png]]
 
 Navigate to the Zendesk ticket and change the subject title to the RMA#:
-![[Pasted image 20231207235302.png]]
+![[Pasted image 20240115161228.png]]
+
 
 The agent should ask the customer to check their inbox for the invoice and inform us once it's paid off, for example:
    
@@ -130,7 +131,7 @@ The agent can then insert Macro: <u>[Service Center] OOW - 2</u>:
 
 A. Ensure that the content in the macro corresponds accurately with the Zendesk ticket subject for the correct RMA number.
 
-![[Pasted image 20231208000330.png]]
+![[Pasted image 20240115162317.png]]
 
 B. Leave only the address for the customer’s located country. 
 
