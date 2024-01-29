@@ -1,6 +1,6 @@
 # Service part request (US)
 > Service part request of the US only.
-
+> [Available Service Part List](https://docs.google.com/spreadsheets/d/17FoJeB3ylemRhV1klgWIiOZhmh5CjZy8d6Rh_Z6uioY/edit#gid=0)
 ## Free resend
 
 > We can resend accessories free of any charge if the PSU is ungrounded (also see [[Regular PSU requests]]) or any item is missing (also see [[Received Wrong & Missing Items]]).

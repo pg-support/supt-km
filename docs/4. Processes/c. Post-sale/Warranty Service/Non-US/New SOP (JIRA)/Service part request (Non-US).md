@@ -1,7 +1,9 @@
 # Service part request (Non-US)
->Service part request for non-US region. 
+> Service part request for non-US region. 
 >
->For the US, please refer to [[Service part request (US)]] instead.
+> For the US, please refer to [[Service part request (US)]] instead.
+>
+> [Available Service Part List](https://docs.google.com/spreadsheets/d/17FoJeB3ylemRhV1klgWIiOZhmh5CjZy8d6Rh_Z6uioY/edit#gid=0)
 
 ## Free resend
 
