@@ -55,7 +55,7 @@ Australia (AU): 14 526 244 781
 
 Customers from countries in the EU (other than Germany) with a valid VAT number & business address, who request a VAT invoice, will receive an invoice with a 0% tax rate.
 
-We'll also issue a partial refund directly as a VAT refund on Spotify later (depending on the tax being charged on Shopify).
+We'll also issue a partial refund directly as a VAT refund on Shopify later (depending on the tax being charged on Shopify).
 
 [Invoice form (0% tax rate)](https://drive.google.com/file/d/1IuwFTK23E03mR8xPRdKBe32qjRWX4JhC/view?usp=sharing)
 
