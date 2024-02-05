@@ -1,4 +1,4 @@
-# Intermittent noise in speaker (Popping Noise)
+# Intermittent noise from the speaker (Popping Noise)
 > Sometimes there’s this noise in my Spark.
 > Speaker rattles/crackles when playing.
 > There's a popping noise with Spark.
