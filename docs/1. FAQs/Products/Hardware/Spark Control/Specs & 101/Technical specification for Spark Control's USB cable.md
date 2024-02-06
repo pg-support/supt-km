@@ -1,4 +1,4 @@
-# Technical specification for the USB cable
+# Technical specification for Spark Control's USB cable
 
 9V to USB
 

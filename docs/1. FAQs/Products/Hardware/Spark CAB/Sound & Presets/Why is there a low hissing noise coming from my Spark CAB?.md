@@ -5,7 +5,11 @@ Starting today, we'll start offering Spark CAB replacements for users who experi
 
 'There has been a small percentage of units that we found this issue with. We will promptly send you a replacement and kindly request that you return your current unit. Please follow the provided instructions for the return process.'
 
+
+
 ---
+#### Historical Note
+
   >A certain level of hiss from the FRFR speaker cabinets is normal and might be heard in the absence of an audio signal or at low volumes. If the customer is concerned about this noise, please refer to Statement 1 for clarification.
 
 
