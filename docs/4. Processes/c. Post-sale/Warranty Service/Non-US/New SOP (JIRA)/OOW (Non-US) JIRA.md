@@ -47,37 +47,52 @@ Log into to RMA board (JIRA):
 Once the customer replies with all the requested information, create a new RMA issue on JIRA and select the correct Issue type based on the customer's country.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr5jPrbx3hS4wyH8A093YDTfpIu82_297NrIpQNgzxNciJc2v7_CvnSa3LJeWhHCtfqRGMVZQ2W96F/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 Provide required information:
 
--  **Summary:** OOW
+-  **Summary:** 
+	  OOW
 
--  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+-  **RMA:** 
+	  Leave blank, JIRA will generate an RMA number automatically later.
 
--  **Service Type:** OOW.
-  
--  **Order Number (RMA):** Original order#.
+-  **Service:** 
+	  OOW
+
+-  **Return Reason:** 
+	   Select the RMA reason.
+
+-  **Order Number (RMA):** 
+	   Original order#.
 > *If the unit is purchased via another dealer, put the dealer’s name in ‘Order Number’, for example, '1163206831 (Guitar Center)''.
 > 
 > If the unit is a second hand purchase, put the purchase date in ‘Order Number’, for example, '231029'.
 
--  **Product:** Select the product accordingly.
 
--  **Serial Number**: Fill in the product's serial number.
+-  **Product:** 
+	   Select the product accordingly.
 
--  **Accessory:** Fill in if it's necessary
+-  **Serial Number**: 
+	   Product's serial number.
 
--  **Invoice Amount:** Select the correct OOW price for the defective items.
+-  **Accessory:** 
+	   Fill in if it's necessary.
 
--  **Invoice Address:** Fill in invoice address
+-  **Invoice Amount:** 
+	  Select the correct OOW price for the defective items.
 
--  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+-  **Invoice Address:** 
+	  Customer's invoice email address.
 
--  **Phone number / Email:** Fill in the customer's phone number & Email.
+-  **Email:** 
+	  Customer's email.
+  
+-  **Full Address:** 
+	  Customer's full address.
 
--  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Description:** 
+	  Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+	  ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
-![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 ---
 For Vix Hsieh:
@@ -164,3 +179,14 @@ Add a comment with the process to the issue, for example, Replacement requested 
 When everything is done, close the JIRA issue by changing the status from "In Progress" to "Done". (END)
 
 ![[Pasted image 20231228105612.png]]
+
+
+### 7 (opt.) - Reopen the JIRA issue
+If the customer responds on Zendesk regarding a closed request on JIRA, the agent can reopen the ticket.
+
+a. Search the closed request with the RMA number.
+	   ![[Search.jpg]]
+	  
+	  
+b. Change the status from "Close" or "Done" to "Reopen"  
+	  ![[Reopen.jpg]]

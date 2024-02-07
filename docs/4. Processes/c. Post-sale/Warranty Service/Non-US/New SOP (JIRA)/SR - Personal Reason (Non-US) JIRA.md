@@ -34,30 +34,48 @@ Once the customer replies with all the requested information, create a new RMA i
 
 Provide required information:
 
--  **Summary:** SR
+-  **Summary:** 
+	  SR
 
--  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+-  **RMA:** 
+	  Leave blank, JIRA will generate an RMA number automatically later.
 
--  **Service Type:** SR (Delivery Error).
+-  **Service:** 
+	  SR (Personal Reason)
   
--  **Order Number (RMA):** Original order#.
+-  **Return Reason:** 
+	   Select "Others" and add the reason in Description section.
+  
+-  **Order Number (RMA):** 
+	   Original order#.
 
--  **Product:** Select the product accordingly.
+-  **Product:** 
+	   Select the product accordingly.
 
--  **Serial Number**: Fill in the product's serial number.
+-  **Serial Number**: 
+	   Product's serial number.
 
--  **Accessory:** Fill in if it's necessary.
+-  **Accessory:** 
+	   Fill in if it's necessary.
 
--  **Invoice Amount:** Leave blank.
+-  **Invoice Amount:** 
+	  Leave blank.
 
--  **Invoice Address:** Leave blank.
+-  **Invoice Address:** 
+	  Leave blank.
 
--  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+-  **Email:** 
+	  Customer's email.
+  
+-  **Full Address:** 
+	  Customer's full address.
 
--  **Phone number / Email:** Fill in the customer's phone number & Email.
-
--  **Description:** Fill in the return reason
-
+-  **Description:** 
+	  Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+	  ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
+	  
+	  Add the reason for return.
+  
 ---
 For Vix Hsieh:
 >JIRA Status: 'To Do' 

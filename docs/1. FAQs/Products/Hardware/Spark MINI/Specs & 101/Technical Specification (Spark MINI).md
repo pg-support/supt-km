@@ -1,10 +1,13 @@
 # Technical Specification (Spark MINI)
 #### **AUDIO SPECIFICATIONS**
 
+- FREQUENCY RANGE
+
+	35 Hz -20,000 Hz
+  
 - STEREO/MONO
 
 	Stereo
-
 
 * MAXIMUM SOUND PRESSURE LEVEL
 

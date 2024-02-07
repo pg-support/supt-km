@@ -29,31 +29,46 @@ Once the customer replies with all the requested information, create a new RMA i
 
 Provide required information:
 
--  **Summary:** DOA
+-  **Summary:** 
+	  DOA
 
--  **RMA Number:** Leave blank, JIRA will generate an RMA number automatically later.
+-  **RMA:** 
+	  Leave blank, JIRA will generate an RMA number automatically later.
 
--  **Service Type:** DOA.
+-  **Service:** 
+	  DOA
   
--  **Order Number (RMA):** Original order#.
-
--  **Product:** Select the product accordingly.
-
--  **Serial Number**: Fill in the product's serial number.
-
--  **Accessory:** Fill in if it's necessary
-
--  **Invoice Amount:** Leave blank.
-
--  **Invoice Address:** Leave blank.
+-  **Return Reason:** 
+	   Select the RMA reason.
   
--  **Street & House / City / State / Country / ZIP:** Fill in the customer's full address.
+-  **Order Number (RMA):** 
+	   Original order#.
 
--  **Phone number / Email:** Fill in the customer's phone number & Email.
+-  **Product:** 
+	   Select the product accordingly.
 
--  **Description:** Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+-  **Serial Number**: 
+	   Product's serial number.
 
-![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
+-  **Accessory:** 
+	   Fill in if it's necessary.
+
+-  **Invoice Amount:** 
+	  Leave blank.
+
+-  **Invoice Address:** 
+	  Leave blank.
+
+-  **Email:** 
+	  Customer's email.
+  
+-  **Full Address:** 
+	  Customer's full address.
+
+-  **Description:** 
+	  Copy & paste the User Scenario / Frequency of Use / Defective Frequency.
+	  
+	  ![](https://lh6.googleusercontent.com/EAamxZ1yeMdxamyiDcaYoAPlFajXdWvGS-nQRkYgw-Z_6UeDMm8pbuQdKlKz5m0ChN8Cx8ZXu1jEfxA4X6Hhyxnun4jTPbyQwhn3yE04ZLP4ndwsHvnLK4Lr9zev145jlL6oclvqWIdxX095VpBeq9pwhZQCVuGiKR9QFcSkdBRc6I3x6R1TuCSqJXiG)
 
 ---
 For Vix Hsieh
@@ -138,3 +153,15 @@ Before close the JIRA issue, please add a comment with the process to the issue,
 When everything is done, close the JIRA issue by changing the status from "In Progress" to "Done". (END)
 
 ![[Pasted image 20231228105612.png]]
+
+
+### 7 (opt.) - Reopen the JIRA issue
+If the customer responds on Zendesk regarding a closed request on JIRA, the agent can reopen the ticket.
+
+a. Search the closed request with the RMA number.
+	   ![[Search.jpg]]
+	  
+	  
+b. Change the status from "Close" or "Done" to "Reopen"  
+	  ![[Reopen.jpg]]
+	  
