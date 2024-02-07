@@ -3,22 +3,32 @@ Welcome to PG support's internal knowledge base.
 
 Please use the search function to find the resource you need, or look for it manually via the sidebar navigation.
 
-
+---
 ## Announcement
-2024/1/23
+
+##### 2024/2/7
+New Products related questions: 
+Q: When will the preorder end?
+A: The preorder period will end in late March.
+
+Q: When can I purchase the new products at physical stores?
+A: Retailers will begin selling the new products in late April.
+
+##### 2024/1/23
 Product team wants to retrieve the following products for further investigation. Please monitor the specified issues:
 
-#### Spark GO:
+###### Spark GO:
 Can’t charge -> GGEC (China)
 No guitar input -> GGEC (China)
 Only headphone out works -> GGEC (China)
 Weird noise -> Taipei Office
   
-#### Spark 40:
+###### Spark 40:
 Cut off -> GGEC (China)
 
 If you are addressing any of the above issues, please obtain the serial number and contact Vix.
 
+---
 ## Trending
 
 [Help Center - Spark LIVE](https://help.positivegrid.com/hc/en-us/categories/16146469331597) 
