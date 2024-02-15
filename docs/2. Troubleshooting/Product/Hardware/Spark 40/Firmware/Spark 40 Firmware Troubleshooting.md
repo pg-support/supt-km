@@ -2,6 +2,9 @@
 > Firmware update fail, unsuccessful. 
 > Issue/No sound after firmware update.
 
+If the customer has a Spark but never ran the firmware before, refer to 'Firmware Update for Spark 40 with Super Old Firmware Version' 
+
+
 > If the customer encounters any issue during/after the firmware v1.7.5 update and fail to perform it successfully, please follow the following steps:
  
 ### 1 - General troubleshooting
