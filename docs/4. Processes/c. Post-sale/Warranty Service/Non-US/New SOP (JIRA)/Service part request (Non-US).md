@@ -75,8 +75,12 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 3. The invoice will be sent to the customer's inbox, ask them to inform us once the invoice is paid.
    
    
-4. **Once confirm the payment** (ask Maines or WeiTing), create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
-> ![[Pasted image 20230823133124.png]]
-> ![[Pasted image 20230823133251.png]]
+4. **Check payment status** (ask Maines or WeiTing). The agent can check the payment status by scanning the QR code on the invoice.
+	![[Pasted image 20240219143325.png]]
+ 
+   
+5. create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
+	![[Pasted image 20230823133124.png]]
+	![[Pasted image 20230823133251.png]]
 
-5. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
+6. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)

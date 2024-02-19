@@ -129,7 +129,9 @@ For Vix Hsieh:
 ---
 ### 5 - Confirm payment & offer info for return
 
-Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Private Channel to confirm the payment status.
+Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Private Channel to confirm the payment status. The agent can check the payment status by scanning the QR code on the invoice.
+
+![[Pasted image 20240219143325.png]]
 
 Vix will also check the payment status once a day and assign the JIRA issue back to agent.
 
