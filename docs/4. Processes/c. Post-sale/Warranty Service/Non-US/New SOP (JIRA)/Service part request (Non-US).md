@@ -76,6 +76,7 @@ We currently do not have knobs in stock, please ask the customer to consider pur
    
    
 4. **Check payment status** (ask Maines or WeiTing). The agent can check the payment status by scanning the QR code on the invoice.
+   
 	![[Pasted image 20240219143325.png]]
  
    
