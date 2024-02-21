@@ -1,3 +1,23 @@
 # Spark GO has crackling noise under large volume
+> There's speaker noise with higher volume.
+> Speaker crackles when playing loud.
 
-Our goal in creating Spark GO was to deliver powerful and impressive sound quality while keeping the amp's size compact. In the event that the user experiences crackling noise from the speaker with a specific preset or setup, we recommend that they try lowering either the output volume or the low end of the preset.
+Ask the user to follow the steps below and provide the required information:
+
+ 1. Connect Spark GO to Spark app
+ 2. Turn on Hi-Z mode
+ 3. Find the factory preset ‘Silver Ship’ under the Pop category
+ 4. Make sure your guitar volume and tone knobs are turned all the way up
+ 5. Play through the preset while turning up the Guitar knob on Spark GO
+ 6. Please let us know at which knob position (ex: pass 12 o’clock) does the speaker starts clipping/crackling
+
+Users might encounter speaker breakup noise if the volume is set too high, while using guitar tones that have more low end (bass frequency can cause speaker breakup more easily). In such cases, ask the customer to lower the overall volume and/or adjust the guitar tones to have less low end.
+
+If the customer considers the crackling noise to be unusually apparent, ask for a video then escalate for further verification.
+
+---
+The noise/clipping is related to preset-dependent and the size of Spark GO.   
+
+Please be informed that our product team currently doesn't set a global limiter on the Spark GO. This is why you hear the noise/clipping noise when you gradually turn up the volume. 
+
+Please try to decrease the volume of the Spark GO or put a compressor on the preset in the Spark app to avoid this issue.
