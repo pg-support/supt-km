@@ -1,6 +1,6 @@
 # Why is there a low hissing / noise coming from my Spark CAB?
 
-**2023/01/08 Updated**
+**2024/01/08 Updated**
 Starting today, we'll start offering Spark CAB replacements for users who experience loud hissing noise with their units. Below is the message we should stick to:
 
 'There has been a small percentage of units that we found this issue with. We will promptly send you a replacement and kindly request that you return your current unit. Please follow the provided instructions for the return process.'
