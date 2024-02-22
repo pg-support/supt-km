@@ -19,22 +19,26 @@
 
 When Positive Grid's store on Amazon receives new messages, cancellation requests, and return authorization requests from customers, Amazon will send an automatic email.
 <br>
+<br>
 Agents can locate these tickets in the "Amazon Seller Central" inbox with titles:
 <br>
 - Your email to "NAME"
-	This is just a reminder email, the agent can find the correspond message on the message section on Amazon Seller Central.
-	
-	Use macro"Amazon:: Message Received", then close the ticket directly without replying anything.
-	<br>
-	<br>
+
+This is just a reminder email, the agent can find the correspond message on the message section on Amazon Seller Central.
+
+Use macro"Amazon:: Message Received", then close the ticket directly without replying anything.
+<br>
+<br>
 - Order cancellation request for Order ID: "ORDER_ID"
-	Similar to a regular  [[#Order Cancellation]] request, check the tracking status on SKULabs. If the order has not been dispatched (FBM), proceed to cancel the order and issue a refund. If the package has been dispatched, advise the customers to monitor the tracking number and follow Amazon's return policy to initiate the return process once the package is delivered. 
-	<br>
-	<br>
+  
+Similar to a regular  [[#Order Cancellation]] request, check the tracking status on SKULabs. If the order has not been dispatched (FBM), proceed to cancel the order and issue a refund. If the package has been dispatched, advise the customers to monitor the tracking number and follow Amazon's return policy to initiate the return process once the package is delivered. 
+<br>
+<br>
 - Return authorization notification for order "ORDER_ID"
-	Navigate to "Seller Central -> Orders -> Manage Returns" and approve the return authorization. Amazon will issue a refund automatically once the system confirm the package is delivered to our service center.
-	<br>
-	<br>
+  
+Navigate to "Seller Central -> Orders -> Manage Returns" and approve the return authorization. Amazon will issue a refund automatically once the system confirm the package is delivered to our service center.
+<br>
+<br>
 ---
 ## Amazon Seller Central
 ### What is Amazon Seller Central
