@@ -4,12 +4,12 @@
 -   2.1mm diameter (inside diameter), center positive
 	(Outer Diameter is 5.5mm)
 
-
-![[Pasted image 20240126135831.png]]
-
-![[Pasted image 20240207170858.png]]
-
 ---
 ### Internal Note
 
  The Voltage must be 19V and the Currency need to be same or greater than 2.5A
+ 
+![[Pasted image 20240126135831.png]]
+
+![[Pasted image 20240207170858.png]]
+
