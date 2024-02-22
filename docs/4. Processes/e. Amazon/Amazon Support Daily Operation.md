@@ -22,6 +22,7 @@ When Positive Grid's store on Amazon receives new messages, cancellation request
 <br>
 Agents can locate these tickets in the "Amazon Seller Central" inbox with titles:
 <br>
+<br>
 - Your email to "NAME"
 
 This is just a reminder email, the agent can find the correspond message on the message section on Amazon Seller Central.
