@@ -6,24 +6,30 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Announcement
 
-##### 2024/2/7
+#### 2024/2/7
 New Products related questions: 
+<br>
 Q: When will the preorder end?
-A: The preorder period will end in late March.
 
+A: The preorder period will end in late March.
+<br>
 Q: When can I purchase the new products at physical stores?
+
 A: Retailers will begin selling the new products in late April.
 
-##### 2024/1/23
+#### 2024/1/23
 Product team wants to retrieve the following products for further investigation. Please monitor the specified issues:
 
-###### Spark GO:
+##### Spark GO:
 Can’t charge -> GGEC (China)
+
 No guitar input -> GGEC (China)
+
 Only headphone out works -> GGEC (China)
+
 Weird noise -> Taipei Office
   
-###### Spark 40:
+##### Spark 40:
 Cut off -> GGEC (China)
 
 If you are addressing any of the above issues, please obtain the serial number and contact Vix.
