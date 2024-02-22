@@ -32,7 +32,7 @@ Use macro"Amazon:: Message Received", then close the ticket directly without rep
 <br>
 - Order cancellation request for Order ID: "ORDER_ID"
   
-Similar to a regular  [[#Order Cancellation]] request, check the tracking status on SKULabs. If the order has not been dispatched (FBM), proceed to cancel the order and issue a refund. If the package has been dispatched, advise the customers to monitor the tracking number and follow Amazon's return policy to initiate the return process once the package is delivered. 
+Similar to a regular  [[Amazon Support SOPs#Order Cancellation]] request, check the tracking status on SKULabs. If the order has not been dispatched (FBM), proceed to cancel the order and issue a refund. If the package has been dispatched, advise the customers to monitor the tracking number and follow Amazon's return policy to initiate the return process once the package is delivered. 
 <br>
 <br>
 - Return authorization notification for order "ORDER_ID"
