@@ -3,5 +3,4 @@
 
 ---
 #### **Internal Note**
-
-![[Spark_live_QSG_CONTECT_V16_hsiang.pdf]]
+https://drive.google.com/file/d/16RmAjrfLJkI-wSH_7FnL-PBI0InUD39R/view?usp=sharing
