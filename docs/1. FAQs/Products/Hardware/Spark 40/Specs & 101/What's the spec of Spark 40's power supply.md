@@ -7,7 +7,7 @@
 ---
 ### Internal Note
 
- The Voltage must be 19V and the Currency need to be same or greater than 2.5A
+The voltage must be 19V, and the amperage rating needs to be equal to or greater than 2.5A.
  
 ![[Pasted image 20240126135831.png]]
 
