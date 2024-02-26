@@ -52,7 +52,9 @@
 
   
 - WIRED CONNECTIVITY
+  <br>
 	1/4" Guitar Input  (*maximum input level: 3 Vrms*)
+	<br>
 	1/8" Headphone (supports headphones with 8~64 ohm impedance) 
 
 
