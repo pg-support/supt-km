@@ -4,7 +4,7 @@
 
  *Due to the high cost of returning faulty products to Guangzhou, please ask customers to retain them (no need to return).
  
- ***For OOW cases, a fee of $60 will be charged and we will send a new product.** 
+ ***For OOW cases, a fee of $80 will be charged and we will send a new product.** 
 
 Upon confirmation of warranty service, request the following information:
 
