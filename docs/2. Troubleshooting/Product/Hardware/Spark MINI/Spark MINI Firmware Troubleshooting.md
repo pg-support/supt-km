@@ -3,17 +3,22 @@
 
 ~~*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*~~
 
-***You can judge a Spark MINI's version by looking at the 7th digit of its SN: `1` is the  old version; `2` is the latest GD version.***
+***You can determine a Spark MINI's version by looking at the 7th digit of its SN: 
+
+- `1` is the  old version; 
+
+- `2` is the latest GD version.
+
 
 ### 1 - Verify the SN
 If the firmware update still fails, ask the customer to provide a clear photo of the serial number of the Spark MINI.
 
-If the 7th number (the letter after "G") of the SN is 1, e.g. S1011G1xxxxxxxx, please use the macro and provide the updater with logs:
+If the 7th number (the letter after "G") of the SN is 1, e.g. S1011G**1**xxxxxxxx, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (STM)</u>.
 
 or 
 
-If the 7th number (the letter after "G") of the SN is 2, e.g. S1011G2xxxxxxxx, please use the macro and provide the updater with logs:
+If the 7th number (the letter after "G") of the SN is 2, e.g. S1011G**2**xxxxxxxx, please use the macro and provide the updater with logs:
 <u># Spark MINI::Firmware Update Log (GD/MCU)</u>.
 
 
@@ -48,4 +53,10 @@ Please use the macro and provide the BT firmware updater:
 
 If the workarounds resolve the issue, the case can be closed. (END)
 
+---
+#### Internal Information
+
+The firmware updater with log will not update the Bluetooth firmware on Spark MINI.
+<u># Spark MINI::Firmware Update Log (STM)</u>.
+<u># Spark MINI::Firmware Update Log (GD/MCU)</u>.
 
