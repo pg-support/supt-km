@@ -1,5 +1,5 @@
 # Spark New GD Chip Limitations
-## Internal Information
+### Internal Information
 
 Beginning in late March 2023, all Spark models (Spark 40, Spark MINI, Spark GO) will be updated with a **new GD chip for DSP processing** (with users receiving them approximately from May onwards). The reason for this change is due to sourcing and pricing issues. 
 

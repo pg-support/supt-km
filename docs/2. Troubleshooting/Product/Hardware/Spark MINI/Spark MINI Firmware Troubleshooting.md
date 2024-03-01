@@ -54,7 +54,7 @@ Please use the macro and provide the BT firmware updater:
 If the workarounds resolve the issue, the case can be closed. (END)
 
 ---
-#### Internal Information
+### Internal Information
 
 The firmware updater with log will not update the Bluetooth firmware on Spark MINI.
 <u># Spark MINI::Firmware Update Log (STM)</u>.

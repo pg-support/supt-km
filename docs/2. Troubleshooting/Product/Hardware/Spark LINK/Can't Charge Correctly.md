@@ -5,7 +5,7 @@ Please make sure you're using the USB Cable (USB-A to 2 x USB-C) that comes with
 
 ---
 
-#### **Internal Information** 
+### **Internal Information** 
 
 The provided Y cables are currently in C to A and it is required to use our supplied cable for product charging and firmware updates. 
 

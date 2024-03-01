@@ -15,7 +15,7 @@ We'll adhere to the specs shown on our website and explain to the customer that 
 
 
 ---
-#### **Internal Information**
+### **Internal Information**
 
 |   |   |   |   |
 |---|---|---|---|
