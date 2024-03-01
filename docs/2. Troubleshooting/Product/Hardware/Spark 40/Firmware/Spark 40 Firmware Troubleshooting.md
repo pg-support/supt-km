@@ -15,7 +15,9 @@ The macro includes the general workarounds and the information required (Spark 4
 If the workarounds resolve the issue, the case can be closed. (END)
 
 ### 2 - Verify the SN
-If the issue persists after Step 1, we need the Spark’s SN to verify the codec chip and offer the firmware updater accordingly.:
+[[Spark 40 Serial Number Check Tool]]
+
+If the issue persists after Step 1, we need the Spark’s SN to verify the codec chip and offer the firmware updater accordingly:
 
 > [INTERNAL INFORMATION - DO NO REVEAL TO CUSTOMERS]
 > 

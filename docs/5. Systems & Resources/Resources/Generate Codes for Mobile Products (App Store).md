@@ -4,8 +4,8 @@
 2. Select "App" -> "APP_NAME".
 3. Select "Services" -> Promo Codes.
 4. Enter the number of codes you'd like to generate.
-![[Pasted image 20240215144915 1 1.png]]
 
+![[Pasted image 20240301104221.png]]
 5. Go to "History" tab and click "View Code". 
 
 **These codes should be redeemed on App Store:**  

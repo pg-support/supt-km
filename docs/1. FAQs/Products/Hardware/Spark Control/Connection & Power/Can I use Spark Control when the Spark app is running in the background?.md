@@ -3,7 +3,7 @@
 No, to control the Spark amp with the Spark Control, the Spark app needs to be running in the foreground.
 
 ---
-### Internal Note
+### Internal Information
 
 Does it work with split-screen mode or multi-window mode?
 
