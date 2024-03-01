@@ -8,7 +8,7 @@ No, to control the Spark amp with the Spark Control, the Spark app needs to be r
 Does it work with split-screen mode or multi-window mode?
 
 ### iOS
-Spark Control function with the Spark amp through the Spark app when the app is in split-screen mode or multi-window mode on Android (tested on iPad Pro 12.9-inch 5th generation with iPadOS 16.5).
+Spark Control function with the Spark amp through the Spark app when the app is in Split View on iPad (tested on iPad Pro 12.9-inch 5th generation with iPadOS 16.5).
 
 This functionality is not officially supported, so there is no guarantee of its performance.
 
