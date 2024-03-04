@@ -1,7 +1,10 @@
 # I purchased with Apple ID but cannot login to BIAS FX 2 Mobile
 If the user used a hidden Apple ID to purchase their FX 2 Mobile license but would still like to login with Apple ID, first we (PG supt) need to ask the user to provide their hidden Apple ID so we may transfer the licenses to the correct Apple ID (email address).
 
-1. Ask the user to go to Settings -> Apple ID (Your name) -> Password & Security -> Apps using Apple ID -> click on BIAS FX 2.
+1. Ask the user to go to Settings -> Apple ID (Your name) -> Password & Security -> Apps using Apple ID / Sign in with Apple -> click on BIAS FX 2.
+   
+	![[Pasted image 20240304104348.png]]
+   
 2. Find the hidden Apple ID under the 'Hide My Email' section.
 3. Send that Apple ID to us.
 

@@ -6,6 +6,9 @@
 
 - ~~It is recommended that input volumes be manually balanced with physical controls before recording.~~
 
+---
+#### Internal Information
+
 USB Recording:
 
 CH 1
