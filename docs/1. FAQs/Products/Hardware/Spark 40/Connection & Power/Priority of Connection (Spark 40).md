@@ -1,3 +1,3 @@
-# Priority of Music Playback (Spark 40)
+# Priority of Connection (Spark 40)
 Aux In > USB > Bluetooth
 If played simultaneously
