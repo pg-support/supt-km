@@ -3,6 +3,9 @@
 
 ~~*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*~~
 
+If the issue is related to the computer failing to detect the Spark MINI, check [[Priority of Connection (Spark MINI)]].
+
+
 You can determine a Spark MINI's version by looking at the 7th digit of its SN: 
 
 - `1` is the  old version; 
