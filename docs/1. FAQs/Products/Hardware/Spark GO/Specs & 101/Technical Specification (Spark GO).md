@@ -77,7 +77,7 @@
 
 - CHARGING TIME
 
-	2 hours @ 2A/5V USB-C Charger
+	2 hours @ 5V/1.2A USB-C Charger
 
   
 - PLAYTIME
