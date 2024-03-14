@@ -1,5 +1,5 @@
-# How to get Spark GO into Tuner Mode
-Press and hold the Preset button on the Spark GO to enter tuner mode (chromatic tuner). The app will enter tuner mode simultaneously.
+# How to get Spark MINI into Tuner Mode
+Press and hold the Pair button on the rear of the Spark MINI to enter tuner mode (chromatic tuner). The app will enter tuner mode simultaneously.
 
 In tuner mode, two LEDs in the middle will display green if the string being played is in tune. 
 
