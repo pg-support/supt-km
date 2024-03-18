@@ -40,6 +40,8 @@ Always capitalize our brand names, products and trademarked names!
 ------------------------------------------------------
 # Software
 
+### ToneCloud
+
 
 ### BIAS FX 2
 	License: BIAS FX 2 Lite/Standard/Professional/Elite
