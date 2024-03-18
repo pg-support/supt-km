@@ -6,20 +6,18 @@ Spark LINK product specs on the package/quick start guide differ from the specs 
 We'll adhere to the specs shown on our website and explain to the customer that we've enhanced and optimized the product over time. Therefore, **the specs on the website are the accurate ones.**
 
 
-|   |   |   |
-|---|---|---|
-|Item|Package/QSG|Web|
-|Battery Life|5.5hrs(QSG only)|6hrs|
-|Distance|30 meters (Package and QSG)|70ft (21 meters)|
-|Name|Spark Link|Spark LINK|
+| Item         | Package/QSG                 | Web              |
+| ------------ | --------------------------- | ---------------- |
+| Battery Life | 5.5hrs(QSG only)            | 6hrs             |
+| Distance     | 30 meters (Package and QSG) | 70ft (21 meters) |
+| Name         | Spark Link                  | Spark LINK       |
 
 
 ---
 ### **Internal Information**
 
-|   |   |   |   |
-|---|---|---|---|
-|Item|Package/QSG|Web|Fact|
-|Battery Life|5.5hrs(QSG only)|6hrs|TX 5.5hrs / RX 5 hrs|
-|Distance|30 meters (Package and QSG)|70ft (21 meters)|82ft (25 meters) ~ 100ft (30 meters)|
-|Name|Spark Link|Spark LINK|Spark Link on all certification documents (including the certification sticker on unit)|
+| Item         | Package/QSG                 | Web              | Fact                                                                                    |
+| ------------ | --------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
+| Battery Life | 5.5hrs(QSG only)            | 6hrs             | TX 5.5hrs / RX 5 hrs                                                                    |
+| Distance     | 30 meters (Package and QSG) | 70ft (21 meters) | 82ft (25 meters) ~ 100ft (30 meters)                                                    |
+| Name         | Spark Link                  | Spark LINK       | Spark Link on all certification documents (including the certification sticker on unit) |
