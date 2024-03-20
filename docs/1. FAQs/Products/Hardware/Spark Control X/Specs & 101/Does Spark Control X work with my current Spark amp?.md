@@ -7,6 +7,5 @@ Compatibility Between Spark Control, Spark Control X and Spark Series (Compariso
 | ---------------- | -------------- | ------------------------- |
 | Expression Pedal | Y (Standalone) | Y (App Required)          |
 | Preset Change    | Y (Standalone) | Y (App Required)          |
-|                  |                |                           |
-|                  |                |                           |
+
 

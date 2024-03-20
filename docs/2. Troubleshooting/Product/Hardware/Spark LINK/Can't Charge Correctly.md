@@ -3,6 +3,8 @@
 Please make sure you're using the USB Cable (USB-A to 2 x USB-C) that comes with the Spark LINK.
 
 
+
+
 ---
 
 ### **Internal Information** 
