@@ -85,6 +85,10 @@ For Vix Hsieh
 ### 3 - Issue created, awaiting the return label
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
+**Spark LINK:**
+We do not require customers to return defective **Spark LINK**. For Spark LINK cases where the unit is dead on arrival (DOA), please proceed directly to refund or replacement.
+
+
 The RMA Number can be found in the JIRA issue:
 ![[Pasted image 20240115161514.png]]
 
