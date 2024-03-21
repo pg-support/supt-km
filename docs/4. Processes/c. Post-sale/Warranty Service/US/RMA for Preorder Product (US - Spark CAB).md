@@ -46,7 +46,7 @@ Check the tracking with the corresponding carrier. As soon as the package is on 
 
 #### Replacement
 
-To request a replacement, submit a replacement ticket on JIRA ([[Replacement (JIRA)]]).
+To request a replacement, submit a replacement ticket on JIRA ([[Replacement, Resend (JIRA)]]).
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).
 

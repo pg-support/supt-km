@@ -164,7 +164,7 @@ After receiving the tracking number along with the corresponding carrier informa
 ### 7 - Request for replacement
 
 #### Replacement
-Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement issue on JIRA ([[Replacement (JIRA)]]).
+Once the tracking# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a replacement issue on JIRA ([[Replacement, Resend (JIRA)]]).
 
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).
 
