@@ -3,15 +3,13 @@
 Please make sure you're using the USB Cable (USB-A to 2 x USB-C) that comes with the Spark LINK.
 
 
-
-
 ---
 
 ### **Internal Information** 
 
-The provided Y cables are currently in C to A and it is required to use our supplied cable for product charging and firmware updates. 
+The provided Y cables are USB-C x 2 to USB-A and it is required to use our supplied cable for product charging and firmware updates. 
 
-Consumers can utilize commercially available C to A cables for charging; however, firmware updates require the use of our provided cable. Additionally, the product currently does not support any C to C PD Charger.
+Consumers can utilize commercially available C to A cables for charging; however, firmware updates require the use of our provided cable. Additionally, the product currently does not support any USB-C to C PD Charger.
 
 ![[Pasted image 20240126151737.png]]
 
