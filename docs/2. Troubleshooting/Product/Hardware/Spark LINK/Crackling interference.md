@@ -1,7 +1,5 @@
 # Crackling interference
 
-We'll expand this over time:
-
 - The crackling interference noise may be caused by environmental signal interference.
 
 
