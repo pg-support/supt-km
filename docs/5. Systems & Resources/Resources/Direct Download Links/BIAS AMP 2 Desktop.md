@@ -17,7 +17,7 @@ Windows 32bit
  <br>
   <br>
  <br>
-**BIAS Amp 2 (Zip, for macOS 10.11 or belowZip)**
+**BIAS Amp 2 (Zip, for macOS 10.11 or below Zip)**
 
 [https://drive.google.com/file/d/1txD5GdeeZYD4qfOJD1H0ML2WeBSy_lFW/view?usp=sharing](https://drive.google.com/file/d/1txD5GdeeZYD4qfOJD1H0ML2WeBSy_lFW/view?usp=sharing)  
  <br>
