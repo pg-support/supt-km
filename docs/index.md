@@ -16,7 +16,10 @@ Please use the search function to find the resource you need, or look for it man
 ##### Spark app
 [Download Resources Crash (Android Only)](https://help.positivegrid.com/hc/en-us/articles/25201524701581-Spark-app-Issue-Download-Resources-Crash-Android-Only)
 
+[Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
+
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
+
 
 ##### Spark LINK
 [[Crackling interference]]
