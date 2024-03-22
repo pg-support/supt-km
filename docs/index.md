@@ -21,6 +21,9 @@ Please use the search function to find the resource you need, or look for it man
 ##### Spark LINK
 [[Noise occurs when using Spark LINK (especially with single-coil pickup guitar)]]
 
+##### Spark LIVE
+[[Microphone muted when using Mixer View (Temporary)]]
+
 ##### Marketing
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing)
 
