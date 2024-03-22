@@ -32,6 +32,8 @@ Please use the search function to find the resource you need, or look for it man
 SR (Personal Reason)-> Retrieve  
 DOA/RMA -> No need to retrieve  
 
+**Creating a JIRA request is still necessary to record our post-sale report.**
+
 For US cases (Aftership), please create a request on JIRA and remind Vix not issue a label.
 <br>
 #### 2024/2/7
