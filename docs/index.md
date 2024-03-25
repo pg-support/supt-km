@@ -16,6 +16,8 @@ Please use the search function to find the resource you need, or look for it man
 ### Spark app
 [[Can't connect to Tone Control (Temporary)]]
 
+[[Can't save video recording in the Spark app (Android Only)]]
+
 [Download Resources Crash (Android Only)](https://help.positivegrid.com/hc/en-us/articles/25201524701581-Spark-app-Issue-Download-Resources-Crash-Android-Only)
 
 [Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
