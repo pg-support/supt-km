@@ -41,12 +41,12 @@ Please use the search function to find the resource you need, or look for it man
 
 ### 2024/3/22
 #### Spark LINK  
-SR (Personal Reason)-> Retrieve  
-DOA/RMA -> No need to retrieve  
+- SR (Personal Reason)-> Retrieve  
+	For US cases, create a return on Aftership (as same as other products).
 
-**Creating a JIRA request is still necessary to record our post-sale report.**
-
-For US cases (Aftership), please create a request on JIRA and remind Vix not issue a label.
+- DOA/RMA -> No need to retrieve  
+	**Creating a JIRA request is still necessary to record our post-sale report.**
+	For US cases, please create a request on JIRA and remind Vix not issue a label.
 <br>
 ### 2024/2/7
 New Products related questions: 
