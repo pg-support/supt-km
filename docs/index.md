@@ -24,7 +24,6 @@ Please use the search function to find the resource you need, or look for it man
 
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
-
 ### Spark LINK
 [[Crackling interference]]
 
