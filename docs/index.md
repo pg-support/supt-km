@@ -30,7 +30,7 @@ Please use the search function to find the resource you need, or look for it man
 [[Noise occurs when using Spark LINK (especially with single-coil pickup guitar)]]
 
 ### Spark LIVE
-[[Microphone muted when using Mixer View (Temporary)]]
+[[Microphone muted when using Mixer View (iOS Only)]]
 
 ### Marketing
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing)
