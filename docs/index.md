@@ -18,8 +18,6 @@ Please use the search function to find the resource you need, or look for it man
 
 [[Can't save video recording in the Spark app (Android Only)]]
 
-[Download Resources Crash (Android Only)](https://help.positivegrid.com/hc/en-us/articles/25201524701581-Spark-app-Issue-Download-Resources-Crash-Android-Only)
-
 [Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
 
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
@@ -38,6 +36,13 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Announcement
 
+### 2024/3/27
+Resolved issue:
+[Download Resources Crash (Android Only)](https://positivegrid.zendesk.com/agent/tickets/477913)
+
+#### Spark LINK:
+Can’t charge (Stay in red light or blinking) -> HQ (Taipei)
+<br>
 ### 2024/3/22
 #### Spark LINK  
 - SR (Personal Reason)-> Retrieve  
