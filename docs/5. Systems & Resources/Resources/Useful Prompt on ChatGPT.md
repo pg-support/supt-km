@@ -8,27 +8,19 @@ This prompt will help you quickly get an organized format for the address sessio
 
 	Rewrite this information to fit the format below. If company information is missing, just write "N/A":
 	
-	Name:
-	
-	Company (optional):
-	
-	Address:
-	
-	City:
-	
-	State:
-	
-	Country:
-	
-	Zip:
-	
-	Cell/Phone:
-	
-	Email:
+	Name*:  
+	Email*:  
+	Phone No.*:  
+	Company:  
+	Address*:  
+	City*:  
+	State:  
+	ZIP*:  
+	Country*:
 
 - Copy and paste the address from anywhere into GPT.
 - Type prompt and hit enter.
 
-![[Pasted image 20240304151855.png]]
+![[Pasted image 20240327095900.png]]
 
 ---
