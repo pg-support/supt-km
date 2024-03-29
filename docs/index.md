@@ -14,12 +14,13 @@ Please use the search function to find the resource you need, or look for it man
 [Help Center - Spark LINK](https://help.positivegrid.com/hc/en-us/categories/21271804104845)
 
 ### Spark app
-[Download Resources Crash (Android Only)](https://help.positivegrid.com/hc/en-us/articles/25201524701581-Spark-app-Issue-Download-Resources-Crash-Android-Only)
+[[Can't connect to Tone Control (Temporary)]]
+
+[[Can't save video recording in the Spark app (Android Only)]]
 
 [Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
 
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
-
 
 ### Spark LINK
 [[Crackling interference]]
@@ -27,7 +28,7 @@ Please use the search function to find the resource you need, or look for it man
 [[Noise occurs when using Spark LINK (especially with single-coil pickup guitar)]]
 
 ### Spark LIVE
-[[Microphone muted when using Mixer View (Temporary)]]
+[[Microphone muted when using Mixer View (iOS Only) - Resolved]]
 
 ### Marketing
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing)
@@ -35,14 +36,21 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Announcement
 
+### 2024/3/27
+Resolved issue:
+[Download Resources Crash (Android Only)](https://positivegrid.zendesk.com/agent/tickets/477913)
+
+#### Spark LINK:
+Can’t charge (Stay in red light or blinking) -> HQ (Taipei)
+<br>
 ### 2024/3/22
 #### Spark LINK  
-SR (Personal Reason)-> Retrieve  
-DOA/RMA -> No need to retrieve  
+- SR (Personal Reason)-> Retrieve  
+	For US cases, create a return on Aftership (as same as other products).
 
-**Creating a JIRA request is still necessary to record our post-sale report.**
-
-For US cases (Aftership), please create a request on JIRA and remind Vix not issue a label.
+- DOA/RMA -> No need to retrieve  
+	**Creating a JIRA request is still necessary to record our post-sale report.**
+	For US cases, please create a request on JIRA and remind Vix not issue a label.
 <br>
 ### 2024/2/7
 New Products related questions: 
