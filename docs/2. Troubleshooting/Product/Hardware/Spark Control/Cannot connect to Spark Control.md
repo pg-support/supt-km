@@ -4,7 +4,7 @@
 
 - Clear Bluetooth interference
 - Make sure Spark app and Spark amp is up-to-date
-- Clear previous pairing
+- Unpair/forget Spark Control (SKC05S-4 xxxxxxxxx-xxxx) from the Bluetooth list
 - Reset Spark Control pairing
 - Make sure AirTurn Manager can detect Spark Control
 - Make sure Spark Control is set to ‘Open pairing method’
