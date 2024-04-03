@@ -35,7 +35,7 @@ If the Warranty Status displays as undefined, it means the Product page hasn’t
 
 ---
 <br>
-- [[Product Registration (Spark Battery)]]
+-  [[Product Registration (Spark Battery)]]
 
 Spark Battery不應該有註冊選項, 詳請見KM, OST會把Battery項目移除  
 
