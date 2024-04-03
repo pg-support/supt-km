@@ -1,4 +1,5 @@
-# How to factory reset Spark MINI
+# Factory Reset (Spark MINI)
+
 This process will reset all four presets stored on the Spark MINI as well as its Bluetooth pairing information, Line Out/Headphone Mode, EQ Scenario, Power Saving Setting.
 
 **Always inform the customer to back up the presets before performing a factory reset!**

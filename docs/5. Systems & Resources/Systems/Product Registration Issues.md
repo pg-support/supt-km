@@ -1,10 +1,12 @@
 # Product Registration Issues
 
-- Spark 40:
+-  Spark 40:
+  
 Spark 40 皆可正常註冊, 如有問題請highlight  
 
 All the Spark 40 should be OK to be registered correctly. if the customers still run into any issues, please highlight to me.
 <br>
+
 - Spark Control:
 基於安全考慮, 目前是按照空白輸入才能過, 請使用下面的macro 
 
@@ -21,6 +23,7 @@ Warranty Status 顯示 undefined -> 網頁還沒有和後端同步, 請稍後再
 
 If the Warranty Status displays as undefined, it means the Product page hasn’t synced with the backend yet. Kindly ask the customer to check again later, typically within 15 to 30 minutes.
 <br>
+
 - My Product page doesn’t show the purchased product in the order:
 
  因產品頁顯示是綁物流(3PL)資料, 物流系統顯示delivered前都不會顯示, 請客人可以先透過“purchase from other channels”註冊, 並告知保固除了註冊外, 我們系統也可判斷
@@ -33,6 +36,7 @@ If the Warranty Status displays as undefined, it means the Product page hasn’t
 ---
 <br>
 - [[Product Registration (Spark Battery)]]
+
 Spark Battery不應該有註冊選項, 詳請見KM, OST會把Battery項目移除  
 
 There shouldn’t be a registration option for Spark Battery. Please refer to the KM article for more details. OST has removed the option from the registration process.

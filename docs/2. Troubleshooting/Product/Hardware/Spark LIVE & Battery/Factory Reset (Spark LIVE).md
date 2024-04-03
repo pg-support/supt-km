@@ -1,4 +1,4 @@
-# How to factory reset Spark LIVE
+# Factory Reset (Spark LIVE)
 
 Follow the steps below to perform a factory reset. This process will reset all the presets stored on the Spark LIVE as well as its Bluetooth pairing information, Power Saving Setting.
 

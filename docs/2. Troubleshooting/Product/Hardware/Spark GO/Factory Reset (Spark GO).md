@@ -1,4 +1,4 @@
-# How to factory reset Spark GO
+# Factory Reset (Spark GO)
 Follow the steps below to perform a factory reset. This process will reset all the four presets stored on the Spark GO as well as its Bluetooth pairing information, Headphone/Line Out Mode, EQ Scenario, Power Saving Setting.
 
 **Always inform the customer to back up the presets before performing a factory reset!**
