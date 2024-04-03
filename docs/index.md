@@ -36,6 +36,9 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Announcement
 
+### 2024/4/02
+[[Product Registration Issues]]
+
 ### 2024/3/27
 Resolved issue:
 [Download Resources Crash (Android Only)](https://positivegrid.zendesk.com/agent/tickets/477913)
