@@ -16,6 +16,9 @@ Workaround:
 
 
   [[Bluetooth Reset (Spark 40)]]
+  
   [[Factory Reset (Spark MINI)]]
+  
   [[Factory Reset (Spark GO)]]
+  
   [[Factory Reset (Spark LIVE)]]
