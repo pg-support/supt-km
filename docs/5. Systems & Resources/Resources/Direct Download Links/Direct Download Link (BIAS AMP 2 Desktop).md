@@ -1,4 +1,4 @@
-# BIAS AMP 2 Desktop
+# Direct Download Link (BIAS AMP 2 Desktop)
 
 **Do NOT provide the direct download links to customers in a normal circumstance. Always ask them to download the latest version of software on My Account page.**
 

@@ -1,4 +1,4 @@
-# BIAS FX 2 Mobile
+# Direct Download Link (BIAS FX 2 Mobile)
 
 iOS/iPadOS only
  
