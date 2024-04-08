@@ -36,6 +36,9 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Announcement
 
+### 2024/4/08
+Do not use Aftership for Spark LIVE RMA (include RE, OOW, etc.). Instead, create a JIRA request.
+
 ### 2024/4/02
 [[Product Registration Issues]]
 
