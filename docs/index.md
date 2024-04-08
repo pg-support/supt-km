@@ -13,7 +13,7 @@ Please use the search function to find the resource you need, or look for it man
 
 [Help Center - Spark LINK](https://help.positivegrid.com/hc/en-us/categories/21271804104845)
 
-### Spark app
+### Spark App Known Issues
 [[Can't connect to Tone Control (Temporary)]]
 
 [[Can't save video recording in the Spark app (Android Only)]]
@@ -22,11 +22,13 @@ Please use the search function to find the resource you need, or look for it man
 
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
-### Spark LINK
+### Spark LINK Known Issues
 [[Crackling interference]]
 
 [[Noise occurs when using Spark LINK (especially with single-coil pickup guitar)]]
 
+### Website
+[[Product Registration Issues]]
 
 ### Marketing
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing)
