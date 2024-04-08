@@ -29,7 +29,7 @@ If the Warranty Status displays as undefined, it means the Product page hasn’t
 因產品頁顯示是綁物流(3PL)資料, 物流系統顯示delivered前都不會顯示, 請客人可以先透過“purchase from other channels”註冊, 並告知保固除了註冊外, 我們系統也可判斷
  
  The product will only appear on the My Product page once the 3PL status shows “delivered” (this may take a few days to sync). If the customer needs urgent registration, advise them to select “from other channels -> Purchase by: Retail Store” and use the provided macro:  
-
+ 
 ---
  Please be assured that at Positive Grid, we not only verify warranty status based on registration but also consider the purchase date from your order. This allows us to easily determine the warranty status of your products using the order number.  
 
