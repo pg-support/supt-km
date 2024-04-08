@@ -18,7 +18,7 @@ Please use the search function to find the resource you need, or look for it man
 
 [[Can't save video recording in the Spark app (Android Only)]]
 
-[Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
+[Saved Song Loading Issue (Android Only)](https://positivegrid.zendesk.com/agent/tickets/481019)
 
 [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
