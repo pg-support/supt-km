@@ -14,9 +14,11 @@ Please use the search function to find the resource you need, or look for it man
 [Help Center - Spark LINK](https://help.positivegrid.com/hc/en-us/categories/21271804104845)
 
 ### Spark App Known Issues
-[[Can't connect to Tone Control (Temporary)]]
+[[Can't connect to Tone Control (Temporary Workaround)]]
 
 [[Can't save video recording in the Spark app (Android Only)]]
+
+[Experience Jimi Hendrix™ tag is disappeared (iOS Only)](https://positivegrid.zendesk.com/agent/tickets/481159)
 
 [Saved Song Loading Issue (Android Only)](https://positivegrid.zendesk.com/agent/tickets/481019)
 
