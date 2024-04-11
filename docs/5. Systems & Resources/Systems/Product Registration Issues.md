@@ -1,7 +1,6 @@
 # Product Registration Issues
 
 - Spark 40:
-  
 Spark 40 皆可正常註冊, 如有問題請highlight  
 
 All the Spark 40 should be OK to be registered correctly. if the customers still run into any issues, please highlight to me.
@@ -23,6 +22,11 @@ I am writing to inform you that the technical team at Positive Grid Support has 
 Spark Battery不應該有註冊選項, 詳請見KM, OST已將Battery項目移除  
 
 There shouldn’t be a registration option for Spark Battery. Please refer to the KM article for more details. OST has removed the option from the registration process.
+<br>
+
+- BC Order:  
+BC時期的訂單需要選”Purchase from Other Channel”  
+For orders made during the BC period, customers should choose "Purchase from Other Channel" during the registration process.  
 <br>
 
 - Warranty Status shows undefined:
