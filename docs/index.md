@@ -15,12 +15,16 @@ Please use the search function to find the resource you need, or look for it man
 
 ### Spark app
 [[Can't connect to Tone Control (Temporary)]]
+-> Link the tickets to [here](https://positivegrid.zendesk.com/agent/tickets/480424)
 
 [[Can't save video recording in the Spark app (Android Only)]]
 
+[UI Issue: Saved Songs & Smart Jam (iOS only)](https://positivegrid.zendesk.com/agent/tickets/478380)
+
 [Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
 
-[Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
+[Spotify 'Fetch Playlist Fail' / Unknown Error](https://positivegrid.zendesk.com/agent/tickets/474557)
+-> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
 ### Spark LINK
 [[Crackling interference]]
