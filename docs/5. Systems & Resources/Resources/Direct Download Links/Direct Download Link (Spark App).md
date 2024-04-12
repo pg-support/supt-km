@@ -1,4 +1,4 @@
-# Spark App
+# Direct Download Link (Spark App)
 
 [Google Play - Spark Amp: Smart Jam, Chords](https://play.google.com/store/apps/details?id=com.positivegrid.spark&hl=en&gl=US)
 

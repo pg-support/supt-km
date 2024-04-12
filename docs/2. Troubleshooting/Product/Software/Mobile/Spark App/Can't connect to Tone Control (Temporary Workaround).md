@@ -1,4 +1,4 @@
-# Can't connect to Tone Control (Temporary)
+# Can't connect to Tone Control (Temporary Workaround)
 
 Symptom: The Spark app is connected to Bluetooth Audio, but it cannot successfully connect to Tone Control.
 
@@ -22,3 +22,7 @@ Workaround:
   [[Factory Reset (Spark GO)]]
   
   [[Factory Reset (Spark LIVE)]]
+
+---
+### Internal Information
+Link the ticket to [Spark app - Connection Issue (BLE / Tone Control)](https://positivegrid.zendesk.com/agent/tickets/480424) We’ll prioritize it based on the impact.
