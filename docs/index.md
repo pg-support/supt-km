@@ -16,14 +16,22 @@ Please use the search function to find the resource you need, or look for it man
 ### Spark app
 [[Can't connect to Tone Control (Temporary)]]
 -> Link the tickets to [here](https://positivegrid.zendesk.com/agent/tickets/480424)
+This issue should be fixed in the next update.
 
 [[Can't save video recording in the Spark app (Android Only)]]
 
-[UI Issue: Saved Songs & Smart Jam (iOS only)](https://positivegrid.zendesk.com/agent/tickets/478380)
+Saved Song Loading Issue (Android Only)
+[JIRA](https://positivegrid.atlassian.net/browse/STFS-209)
 
-[Saved Song Loading Issue (Android Only)](https://positivegrid.atlassian.net/browse/STFS-209)
+UI Issue: Saved Songs & Smart Jam (iOS only)
+[Trending](https://positivegrid.zendesk.com/agent/tickets/478380)
 
-[Spotify 'Fetch Playlist Fail' / Unknown Error](https://positivegrid.zendesk.com/agent/tickets/474557)
+Mixer View Issue (iOS only):
+The Impedance displays incorrect name after selection.
+[Video](https://drive.google.com/file/d/1kGY6LfE5QhUKVDLZ_blnROkO-LXTZwgC/view?usp=sharing)
+
+Spotify 'Fetch Playlist Fail' / Unknown Error
+[Trending](https://positivegrid.zendesk.com/agent/tickets/474557) 
 -> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
 ### Spark LINK
