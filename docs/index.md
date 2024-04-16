@@ -14,9 +14,12 @@ Please use the search function to find the resource you need, or look for it man
 [Help Center - Spark LINK](https://help.positivegrid.com/hc/en-us/categories/21271804104845)
 
 ### Spark app
-[[Can't connect to Tone Control (Temporary)]]
+[[Can't connect to Tone Control (Temporary Workaround)]]
+
 -> Link the tickets to [here](https://positivegrid.zendesk.com/agent/tickets/480424)
+
 This issue should be fixed in the next update.
+
 
 [[Can't save video recording in the Spark app (Android Only)]]
 
