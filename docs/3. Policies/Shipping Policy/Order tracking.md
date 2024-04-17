@@ -14,7 +14,3 @@
      Claim form needed. [[Shipment Lost]]
      
 	Remember to inform logistics team that you've requested a RS or issued a refund on the JIRA ticket. 
- <br>
-
-
-
