@@ -29,31 +29,31 @@ To narrow down the issue, please download MIDI View & Pocket MIDI first:
 MidiView is a simple MIDI Monitor app to that shows bi-directional MIDI packages that flows through your machine.
 
 1. Ensure that MIDI Control is enabled in the MIDI Settings, and the MIDI Input is selected in the Audio Settings within BIAS FX 2.
-     ![[Pasted image 20240201150954 1 1.png]]
-	
-	![[Pasted image 20240201155330 1 1.png]]
+![[Pasted image 20240201150954.png]]
+![[Pasted image 20240201155330.png]]
 
 
 2. Check the MIDI device.
 	If the MIDI controller is connected to and detected by the computer, it will be listed on the middle of the app (green area).
 	
 	Also ensure the device's status on the left is "ENABLE".
-	![[Pasted image 20240201144057 1 1.png]]
+
+![[Pasted image 20240201144057.png]]
 
 
 3. Check the MIDI Channel and the types of the MIDI messages from the MIDI Controller.
 	The MIDI message should be sent from the MIDI controller to the corresponding channel in the MIDI Settings within BIAS FX 2.
-	![[Pasted image 20240201150648 1 1.png]]
 	
-	
-	BIAS FX 2 can only recognize PC and CC messages.
-	
-	FYI: [About MIDI-Part 3:MIDI Messages](https://www.midi.org/midi-articles/about-midi-part-3-midi-messages) 
-	
-	Check whether the customer use the correct types of MIDI messages.
-	
-	![[Pasted image 20240201145930 1 1.png]]
-	![[Pasted image 20240201150446 1 1.png]]
+![[Pasted image 20240201150648.png]]
+
+BIAS FX 2 can only recognize PC and CC messages.
+
+FYI: [About MIDI-Part 3:MIDI Messages](https://www.midi.org/midi-articles/about-midi-part-3-midi-messages) 
+
+Check whether the customer use the correct types of MIDI messages.
+![[Pasted image 20240201145930.png]]
+
+![[Pasted image 20240201150446.png]]
 
 
 [Pocket MIDI](https://www.morson.jp/pocketmidi-webpage/)
