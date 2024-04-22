@@ -1,7 +1,21 @@
 # Can't Charge Correctly
 
-Please make sure you're using the USB Cable (USB-A to 2 x USB-C) that comes with the Spark LINK.
+**Symptom:** 
+Spark LINK doesn't charge when plugged in with the USB cable.
 
+
+**Video:** 
+[Spark LINK - Charge Issue](https://drive.google.com/file/d/10U6nt8QJT0mxQ8VWDJKpVcZmEKPXnnVv/view?usp=sharing)
+
+
+**Reason:** 
+1. Product issue (NG) -> proceed with the RMA process directly.
+   
+2. Spark LINK doesn't support PD charger.
+
+
+**Workaround:**
+Please make sure the customer is using the USB Cable (USB-A to 2 x USB-C) that comes with the Spark LINK.
 
 ---
 
@@ -15,4 +29,3 @@ Consumers can utilize commercially available C to A cables for charging; however
 
 **In other words, while most USB C to C cables support USB-PD (power delivery, aka 快充), it's important to note that Spark LINK does not support USB-PD. 
 Consequently, it's impossible to charge Spark LINK using a USB C to C cable.
-
