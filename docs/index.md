@@ -20,23 +20,28 @@ Please use the search function to find the resource you need, or look for it man
 
 This issue should be fixed in the next update.
 
-
+<br>
 [[Can't save video recording in the Spark app (Android Only)]]
 
 Saved Song Loading Issue (Android Only)
+
 [JIRA](https://positivegrid.atlassian.net/browse/STFS-209)
-
+<br>
 UI Issue: Saved Songs & Smart Jam (iOS only)
-[Trending](https://positivegrid.zendesk.com/agent/tickets/478380)
 
+[Trending](https://positivegrid.zendesk.com/agent/tickets/478380)
+<br>
 Mixer View Issue (iOS only):
 The Impedance displays incorrect name after selection.
+
 [Video](https://drive.google.com/file/d/1kGY6LfE5QhUKVDLZ_blnROkO-LXTZwgC/view?usp=sharing)
-
+<br>
 Spotify 'Fetch Playlist Fail' / Unknown Error
-[Trending](https://positivegrid.zendesk.com/agent/tickets/474557) 
--> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 
+[Trending](https://positivegrid.zendesk.com/agent/tickets/474557)
+
+-> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
+<br>
 ### Spark LINK
 [[Crackling interference]]
 
