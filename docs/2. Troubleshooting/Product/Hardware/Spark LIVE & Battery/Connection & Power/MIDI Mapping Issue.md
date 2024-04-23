@@ -5,6 +5,9 @@
 
 The current MIDI mapping on the manual is incorrect.
 
+Product team will provide the latest version of manual as soon as possible.
+
+
 Correct MIDI mapping:
 
 CC7 0 - 63 = Tuner Off, CC 64 - 127 = Tuner On  
