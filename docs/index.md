@@ -54,6 +54,30 @@ Spotify 'Fetch Playlist Fail' / Unknown Error
 ---
 ## Announcement
 
+### 2024/4/29
+The product team needs to retrieve the following products for further investigation. Please continue monitoring the specified issues:
+
+#### Spark LINK:
+Low Battery -> Taipei Office
+
+#### Spark GO:
+~~Can’t charge -> GGEC (China)~~
+
+No guitar input -> GGEC (China)
+
+Only headphone out works -> GGEC (China)
+
+Weird noise -> Taipei Office
+  
+#### Spark 40:
+Cut off -> GGEC (China)
+
+Constant Noise with SN 2021
+
+If you are addressing any of the above issues, please obtain the serial number and contact Vix.
+
+
+
 ### 2024/4/02
 [[Product Registration Issues]]
 
@@ -73,34 +97,4 @@ Can’t charge (Stay in red light or blinking) -> HQ (Taipei)
 	**Creating a JIRA request is still necessary to record our post-sale report.**
 	For US cases, please create a request on JIRA and remind Vix not issue a label.
 <br>
-### 2024/2/7
-New Products related questions: 
-<br>
-Q: When will the preorder end?
-
-A: The preorder period will end in late March.
-<br>
-Q: When can I purchase the new products at physical stores?
-
-A: Retailers will begin selling the new products in late April.
-<br>
-### 2024/1/23
-Product team wants to retrieve the following products for further investigation. Please monitor the specified issues:
-
-#### Spark GO:
-~~Can’t charge -> GGEC (China)~~
-
-No guitar input -> GGEC (China)
-
-Only headphone out works -> GGEC (China)
-
-Weird noise -> Taipei Office
-  
-#### Spark 40:
-Cut off -> GGEC (China)
-
-Constant Noise with SN 2021
-
-If you are addressing any of the above issues, please obtain the serial number and contact Vix.
-
 ---
