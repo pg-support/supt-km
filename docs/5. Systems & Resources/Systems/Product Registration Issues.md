@@ -35,7 +35,7 @@ Warranty Status 顯示 undefined -> 網頁還沒有和後端同步, 請稍後再
 
 If the Warranty Status displays as undefined, it means the Product page hasn’t synced with the backend yet. Kindly ask the customer to check again later, typically within 15 to 30 minutes.
 <br>
-
+<br>
 - My Product page doesn’t show the purchased product in the order:
  
 因產品頁顯示是綁物流(3PL)資料, 物流系統顯示delivered前都不會顯示, 請客人可以先透過“purchase from other channels”註冊, 並告知保固除了註冊外, 我們系統也可判斷
