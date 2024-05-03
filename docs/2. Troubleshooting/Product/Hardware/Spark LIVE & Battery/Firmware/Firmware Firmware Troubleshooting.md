@@ -23,9 +23,8 @@ The macro includes the general workarounds and the information required (Spark L
 4. While holding down the pair button, plug in the power cable again. The Spark LIVE will enter firmware update mode, indicated by a solid white light.
 
 5. Connect the Spark LIVE to the computer using the USB cable, and then click "Next" in the alternative updater.
-   
    *The indicator light should be solid white before connecting to the computer. There is no need to hold down the power button and pair button simultaneously to enter the update mode.
-   
+
 6. If the update still fails, please locate the log file at “~/Documents/PositiveGrid/” and send it back to us. This will help our product team narrow down the issue.
 
 ### 2 - Collect the log file
