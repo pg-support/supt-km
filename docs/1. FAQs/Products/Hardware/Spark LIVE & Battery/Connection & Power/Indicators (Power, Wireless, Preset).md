@@ -1,5 +1,5 @@
 # Indicators (Power, Wireless, Preset)
-#### Power Indicator
+#### **Power Indicator**
 
 Normally, the power indicator light on Spark LIVE is not illuminated when it's connected to the power.
 
@@ -16,14 +16,15 @@ With Spark Battery loaded and power connected, the indicator stays green when Sp
 | Y                  | Y      | Off          | 100%: Solid Green<br>Charging: <br>Flashing Green/Yellow/Orange   |
 
 
-#### Wireless Indicators
+#### **Wireless Indicators**
 
 Indicates the status of the Bluetooth and Wi-Fi connection.
 
-Connected: Solid Blue/Green
+
 Pairing: Flashing Blue/Green
+Connected: Solid Blue/Green
 
 
-#### Preset Selector
+#### **Preset Selector**
 Bank A 1-4: Red
 Bank B 1-4: Green
