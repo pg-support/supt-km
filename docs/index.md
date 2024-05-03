@@ -6,40 +6,22 @@ Please use the search function to find the resource you need, or look for it man
 ---
 ## Trending
 
-### Help Center
-[Help Center - Spark LIVE](https://help.positivegrid.com/hc/en-us/categories/16146469331597) 
+### Spark app<br>
 
-[Help Center - Spark Control X](https://help.positivegrid.com/hc/en-us/categories/16146453571725)
-
-[Help Center - Spark LINK](https://help.positivegrid.com/hc/en-us/categories/21271804104845)
-
-### Spark app
-[[Can't connect to Tone Control (Temporary Workaround)]]
-
--> Link the tickets to [here](https://positivegrid.zendesk.com/agent/tickets/480424)
-
-This issue should be fixed in the next update.
-
-<br>
 [[Can't save video recording in the Spark app (Android Only)]]
 
 Saved Song Loading Issue (Android Only)
-
 [JIRA](https://positivegrid.atlassian.net/browse/STFS-209)
 <br>
 UI Issue: Saved Songs & Smart Jam (iOS only)
-
 [Trending](https://positivegrid.zendesk.com/agent/tickets/478380)
 <br>
 Mixer View Issue (iOS only):
 The Impedance displays incorrect name after selection.
-
 [Video](https://drive.google.com/file/d/1kGY6LfE5QhUKVDLZ_blnROkO-LXTZwgC/view?usp=sharing)
 <br>
 Spotify 'Fetch Playlist Fail' / Unknown Error
-
 [Trending](https://positivegrid.zendesk.com/agent/tickets/474557)
-
 -> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 <br>
 ### Spark LINK
@@ -54,28 +36,33 @@ Spotify 'Fetch Playlist Fail' / Unknown Error
 ---
 ## Announcement
 
+### 2024/5/2
+- The Spark Control X will begin shipping starting from 5/13.
+
+- US OOW repairs are expected to resume in mid-May. Please wait for the announcement.
+
+
 ### 2024/4/29
-The product team needs to retrieve the following products for further investigation. Please continue monitoring the specified issues:
+- The product team needs to retrieve the following products for further investigation. Please continue monitoring the specified issues:
 
-#### Spark LINK:
-Low Battery -> Taipei Office
-
-#### Spark GO:
-~~Can’t charge -> GGEC (China)~~
-
-No guitar input -> GGEC (China)
-
-Only headphone out works -> GGEC (China)
-
-Weird noise -> Taipei Office
-  
-#### Spark 40:
-Cut off -> GGEC (China)
-
-Constant Noise with SN 2021
-
-If you are addressing any of the above issues, please obtain the serial number and contact Vix.
-
+	#### Spark LINK:
+	Low Battery -> Taipei Office
+	
+	#### Spark GO:
+	~~Can’t charge -> GGEC (China)~~
+	
+	No guitar input -> GGEC (China)
+	
+	Only headphone out works -> GGEC (China)
+	
+	Weird noise -> Taipei Office
+	  
+	#### Spark 40:
+	Cut off -> GGEC (China)
+	
+	Constant Noise with SN 2021
+	
+	If you are addressing any of the above issues, please obtain the serial number and contact Vix.
 
 
 ### 2024/4/02

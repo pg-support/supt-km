@@ -1,4 +1,4 @@
-# Difference information between Package/QSG and Website
+# Difference information between Package/QSG and Website (Spark LINK)
 
 
 Spark LINK product specs on the package/quick start guide differ from the specs shown on the website (battery life & connection distance):
