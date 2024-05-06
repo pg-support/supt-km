@@ -45,7 +45,6 @@ Spark LIVE DOA/RMA (US)
 
 - US OOW repairs are expected to resume in mid-May. Please wait for the announcement.
 
-
 ### 2024/4/29
 - The product team needs to retrieve the following products for further investigation. Please continue monitoring the specified issues:
 
