@@ -33,6 +33,12 @@ If the customer's order is a personalized product, please check **Special Case b
  b. The order included a personalized/crimson grille
  <br>
 After inquiring about basic info, if the customer's order includes a personalized grille, process with step 2 in: [[RMA, DOA Includes a Personalized Grille]]
+
+<br>
+<br>
+c. Spark LIVE
+- For Spark LIVE DOA/RMA (US) replacement, please create a request on JIRA.
+- Only "Refund" cases can be processed on Aftership.
 <br>
 <br>
 ### 2 - Create a return on Aftership
