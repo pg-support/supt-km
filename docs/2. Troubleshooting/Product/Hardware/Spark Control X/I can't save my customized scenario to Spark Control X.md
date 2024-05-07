@@ -1,7 +1,8 @@
 # I can't save my customized scenario to Spark Control X
 
-Currently the customer can't save the customized scenario to the Spark LIVE.
+Currently customers are unable to save the customized scenarios to the Spark Control X when it's connected to the Spark LIVE.
 
+However, when the Spark Control X is connected to the Spark 40/MINI/GO via the Spark app, the customized scenarios can be saved to the Spark Control X. 
 
 ---
 ### Internal Information
