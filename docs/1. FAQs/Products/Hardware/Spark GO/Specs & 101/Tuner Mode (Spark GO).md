@@ -1,4 +1,4 @@
-# How to get Spark GO into Tuner Mode
+# Tuner Mode (Spark GO)
 Press and hold the Preset button on the Spark GO to enter tuner mode (chromatic tuner). The app will enter tuner mode simultaneously.
 
 In tuner mode, two LEDs in the middle will display green if the string being played is in tune. 
