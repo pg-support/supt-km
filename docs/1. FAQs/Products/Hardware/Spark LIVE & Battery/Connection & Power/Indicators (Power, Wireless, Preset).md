@@ -1,7 +1,7 @@
 # Indicators (Power, Wireless, Preset)
 #### **Power Indicator**
 
-Normally, the power indicator light on Spark LIVE is not illuminated when it's connected to the power.
+Normally, the power indicator light on Spark LIVE is not illuminated when the power cable is plugged.
 
 The power indicator turns red when Spark LIVE is powered on.
 
