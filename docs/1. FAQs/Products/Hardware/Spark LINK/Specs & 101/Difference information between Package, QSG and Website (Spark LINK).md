@@ -16,7 +16,7 @@ We'll adhere to the specs shown on our website and explain to the customer that 
 ---
 ### **Internal Information**
 
-| Item         | Package/QSG                 | Web              | Fact                                                                                    |
+| Item         | Package/QSG                 | PDP              | Facts                                                                                   |
 | ------------ | --------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
 | Battery Life | 5.5hrs(QSG only)            | 6hrs             | TX 5.5hrs / RX 5 hrs                                                                    |
 | Distance     | 30 meters (Package and QSG) | 70ft (21 meters) | 82ft (25 meters) ~ 100ft (30 meters)                                                    |
