@@ -20,7 +20,7 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
   
   ==Special Case==   
   
-  Please also check the serial number on the Spark amp:
+  Check the serial number on the Spark amp:
   If the 7th digit is 9, 0: S040C5**9**xxxxxx, S040C9**0**xxxxxx
   
   Or 7th digit is 1 with 8th alphabet 1~6: 
