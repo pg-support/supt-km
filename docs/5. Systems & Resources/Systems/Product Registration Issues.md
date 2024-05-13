@@ -1,5 +1,14 @@
 # Product Registration Issues
 
+[How Do I Register the Warranty?](https://help.positivegrid.com/hc/en-us/articles/24992891565581-How-Do-I-Register-the-Warranty)
+
+- Spark LIVE:
+The in-app registration feature for Spark LIVE currently has a bug that deletes the last digit of the serial number, preventing customers from registering the amp correctly. Instead of registering Spark LIVE in the Spark app, please ask them to register it manually on the “My Product” page.
+
+![[Pasted image 20240513111429.png]]
+
+![[Pasted image 20240513111445.png]]
+
 - Spark 40:
 Spark 40 皆可正常註冊, 如有問題請highlight  
 
