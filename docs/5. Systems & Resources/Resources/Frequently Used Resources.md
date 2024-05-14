@@ -67,7 +67,11 @@
 
 > Use Zendesk macro *Support Coupon Terms & Conditions* for additional terms and conditions.
 
-[Spark Hardware Serial Number Sheet](https://docs.google.com/spreadsheets/d/1AZhKe2_M6kJ3lGqEUEWCN24ziOnW5gmV-DrV_mV2GEY/edit#gid=1719610527) - Serial number for the Spark series.
+[Spark Hardware Serial Number Sheet](https://docs.google.com/spreadsheets/d/1AZhKe2_M6kJ3lGqEUEWCN24ziOnW5gmV-DrV_mV2GEY/edit#gid=1719610527) - Serial number for Spark 40/MINI.
+
+[Spark LIVE Naming & Coding Rule](https://docs.google.com/presentation/d/1YILPJDseMmq6g6QV7G1MV5pQTLwqbhPZ-8Yovu70rOw/edit#slide=id.p1) - Serial number for Spark LIVE
+
+
 ## Useful Tools
 
 [Magical – Text Expansion](https://chrome.google.com/webstore/detail/magical-%E2%80%93-text-expansion/iibninhmiggehlcdolcilmhacighjamp)
