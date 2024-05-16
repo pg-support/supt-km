@@ -87,24 +87,27 @@
 
 #### **INCLUDED IN THE BOX**
 
-- BOX CONTENTS**
+- BOX CONTENTS
 
 	Spark GO Amplifier
 	Removable Protective Sleeve *(This is the skin of the Spark GO)*
-	Reversible Duo-Tone Strap
+	Reversible Duo-Tone Strap 
+	(The short strap with red suede on the back is only available in black, even when included in the Spark GO Pearl)
 	USB-C to USB-A Cable
 	Woven Grille
 	Hardshell Grille
 	Quick Start Guide
 
+
+
 #### **SOFTWARE**
 
-- MOBILE APPS**
+- MOBILE APPS
 	Spark App for iOS and Android
 
 #### **PHYSICAL UNIT**
 
-- DIMENSIONS**
+- DIMENSIONS
 
 	125 x 85 x 45 mm
 	(4.92 x 3.34 x 1.77 in)
