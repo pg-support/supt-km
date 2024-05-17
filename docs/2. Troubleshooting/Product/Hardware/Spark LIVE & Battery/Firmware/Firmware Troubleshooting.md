@@ -1,4 +1,4 @@
-# Firmware Firmware Troubleshooting
+# Firmware Troubleshooting
 
 Symptom: Firmware Updater Bricked the Spark LIVE
 
