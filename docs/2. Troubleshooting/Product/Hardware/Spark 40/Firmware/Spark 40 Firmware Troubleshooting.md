@@ -31,7 +31,7 @@ If the issue persists after Step 1, we need the Spark’s SN to verify the codec
 
 GD is the latest Spark version and has the latest firmware already when manufactured. Users with GD version Spark amp do not need to update the firmware.
 
-Macro: <u># Spark Amp::Firmware Update Log (GD)</u>
+Macro: <u># Spark Amp::Firmware Update Log (GD  v1.9.7.246)</u>
  
 
 #### AKM version

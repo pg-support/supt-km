@@ -14,6 +14,11 @@ The crackling interference noise may be caused by environmental signal interfere
 
 
 **Workaround:**
+
+1. Double-click the power button to enter pairing mode on the Spark LINK TX (flashing blue light).
+
+or
+
 1. Power off both the Spark LINK TX and RX units. Then, power on the Spark LINK TX unit first, followed by the RX unit.
 
 2. Try repairing the Spark LINK (While both powered on, double-press the button on Spark LINK TX to scan and re-pair to Spark LINK RX.)
