@@ -12,6 +12,9 @@ Replacement /Resend requests should be done on JIRA.
   For both Summary & Order# on the request.
 
 - If it’s the second replacement request, please add “-2” after the order number. e.g. PG-54088 -> PG-54088-2.
+  
+  It should not be a "-3" for resend cases. If the second attempt failed, kindly ask the customer to purchase the item from other channels. 
+
 
 -   TRK# should be available in SKULabs within 48 hrs since “Last Update Time”. If not, escalation is needed.
 
@@ -24,3 +27,5 @@ Replacement /Resend requests should be done on JIRA.
 
 - Click “View Issue” and you should see the update information. The update Order Number is the one for the RE item, the tracking number can be found on SKULabs (when it’s available).
 ![[Pasted image 20230920112445.png]]
+
+
