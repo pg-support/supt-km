@@ -1,12 +1,22 @@
 # Intermittent noise from the speaker (Popping Noise)
+
+**Symptom:**** 
+
 > Sometimes there’s this noise in my Spark.
 > 
 > Speaker rattles/crackles when playing.
 > 
 > There's a popping noise with Spark.
 
+
+**Solution:**
 - Verify if it’s the speaker rattle with certain frequency/volume -> RMA
-- Verify if it’s the popping noise when the amp is turned on/off -> RMA
+- Verify if it’s the popping noise when the amp is turned on/off -> RMA (see special case) or DOA
+
+
+When you turn on your amp, a constant supply of voltage runs through your amp. When you flip the switch and turn the amp off, you are disconnecting the high voltage of the power supply. When connecting or disconnecting high voltage, the surge of the voltages often produces a pop noise.
+
+This popping noise while turning off the Spark amp won’t affect anything. If you’d like to resolve the issue, I’ll be happy to help you return the Spark amp to our service center. Since your Spark amp might be already out-of-warranty, you will need to pay the repair cost ($80).
 
 
 ==- Special Case:==
