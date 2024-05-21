@@ -15,7 +15,8 @@ Spark LINK doesn't charge when plugged in with the USB cable.
 
 
 **Workaround:**
-Please make sure the customer is using the USB Cable (USB-A to 2 x USB-C) that comes with the Spark LINK.
+Please ensure that the customer is using the USB Cable (USB-A to 2 x USB-C) provided with the Spark LINK. 
+If they prefer to use a third-party cable, we recommend that the power supply be 5V/1A.
 
 ---
 

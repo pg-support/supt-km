@@ -1,4 +1,4 @@
-# What's the default profile on Spark Control X?
+# Factory Default Profiles (Spark Control X)
 
 
 Profile 1
