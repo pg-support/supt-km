@@ -6,8 +6,9 @@ When the expression pedal is connected to the Spark Control X, the default param
 
 Expression 1 -> Control the Volume knob for Guitar Input 
 
-Expression 2 -> Control Music knob
-Note: This feature is not included in the first release for Spark 40 & MINI. Additionally, Spark GO does not have a music knob, so Expression 2 is not applicable.
+
+~~Expression 2 -> Control Music knob~~
+~~Note: This feature is not included in the first release for Spark 40 & MINI. Additionally, Spark GO does not have a music knob, so Expression 2 is not applicable.~~~~
 
 
 ### Spark LIVE
@@ -19,4 +20,4 @@ Expression 2 -> Control the Music knob
 
 ### How to set up the Expression Pedal with Spark LIVE and Spark Control X? 
 
-We recommend balancing all input channels and setting the Master knob to an appropriate maximum volume to prevent excessively loud volumes that could potentially blow the roof when the expression pedal is at 100%.
+We recommend balancing all input channels and setting the **Master knob** to an appropriate maximum volume to prevent excessively loud volumes that could potentially blow the roof when the expression pedal is at 100%.
