@@ -21,8 +21,6 @@ Once the validity of the VAT number is confirmed, send the following information
 - Billing Address (should be a company address)
 
 
-
-
 The shipping address and information must match the original order on Shopify.
 The billing address can be adjusted without any issues.
 
