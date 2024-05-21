@@ -1,7 +1,7 @@
 # Factory Default Profiles (Spark Control X)
 
 
-Profile 1
+Profile 1 (LED indicators in white)
 
 | Model         | I                         | II                      | III                     | IV                        | A                         | B                     | Exp. 1                  | Exp. 2       |
 | ------------- | :------------------------ | :---------------------- | :---------------------- | :------------------------ | :------------------------ | :-------------------- | :---------------------- | :----------- |
@@ -17,7 +17,7 @@ Profile 2
 | Spark LIVE       | Toggle Noise Gate On/Off | Toggle Comp/Wah On/Off | Toggle Drive On/Off | Toggle Mod/EQ On/Off | Toggle Dealy On/Off | Toggle Reverb On/Off | Guitar volume | N/A    |
 | Spark 40/MINI/GO | Toggle Noise Gate On/Off | Toggle Comp/Wah On/Off | Toggle Drive On/Off | Toggle Mod/EQ On/Off | Toggle Dealy On/Off | Toggle Reverb On/Off | Guitar volume | N/A    |
 
-- Stomp box mode (Toggle on/off)
+- Stomp box mode (LED indicators in different colors)
 	- I - Noise Gate
 	- II - Comp/Wah
 	- III - Drive
@@ -26,3 +26,6 @@ Profile 2
 	- B - Reverb
 
 ![[Spark Control X.jpg]]
+
+
+![[Pasted image 20240521163212.png]]

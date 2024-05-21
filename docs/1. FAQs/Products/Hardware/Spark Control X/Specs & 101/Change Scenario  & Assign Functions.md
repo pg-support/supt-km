@@ -18,6 +18,8 @@
 3. You can customize your commands based on your needs.
   
 4. Once you’ve customized the functions, press the three dots in the top right corner to save the foot switch profile, allowing you to recall the settings when needed.
+   
+   **The customized scenario is saved in the Spark app, not the Spark Control X.**
 
 	![[Pasted image 20240521141444.png]]
 	![[Pasted image 20240521141506.png]]
