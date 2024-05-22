@@ -1,10 +1,20 @@
 # Spark MINI Firmware Troubleshooting
-> If customer encounter any issue during/after the firmware v1.10.2.57 update and fail to perform it successfully, please follow the following steps:
+> 
+> If the issue is related to the computer failing to detect the Spark MINI, check [[Priority of Connection (Spark MINI)]].
+
+## Firmware update error
+
+### Stuck at 2% / Error Code: -2 
+- Ask the user to try again. Make sure to connect Spark MINI to the computer and launch the updater, THEN power on Spark MINI.
+
+- If the user's on Windows, also make sure they execute the 'Run Spark GO Firmware Updater' file in the first layer, not anything from the 'bin' folder.
+  
+  ![[Pasted image 20230518123100.png]]
+
+
+> If customer encounter any issue during/after the firmware v1.11.2.75 update and fail to perform it successfully, please follow the following steps:
 
 ~~*Note: Since March 2023, there is a new version of Spark MINI with the newer GD codec chip. Since GD is the latest Spark MINI version, it should have the latest firmware already installed when manufactured. Users with GD version Spark MINI do not need to update the firmware.*~~
-
-If the issue is related to the computer failing to detect the Spark MINI, check [[Priority of Connection (Spark MINI)]].
-
 
 You can determine a Spark MINI's version by looking at the 7th digit of its SN: 
 
