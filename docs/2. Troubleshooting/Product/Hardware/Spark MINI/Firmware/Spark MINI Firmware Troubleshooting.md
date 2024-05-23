@@ -7,10 +7,6 @@
 ### Stuck at 2% / Error Code: -2 
 - Ask the user to try again. Make sure to connect Spark MINI to the computer and launch the updater, THEN power on Spark MINI.
 
-- If the user's on Windows, also make sure they execute the 'Run Spark GO Firmware Updater' file in the first layer, not anything from the 'bin' folder.
-  
-  ![[Pasted image 20230518123100.png]]
-
 
 > If customer encounter any issue during/after the firmware v1.11.2.75 update and fail to perform it successfully, please follow the following steps:
 

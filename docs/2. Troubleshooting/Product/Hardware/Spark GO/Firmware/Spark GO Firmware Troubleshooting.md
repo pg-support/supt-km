@@ -4,9 +4,6 @@
 ### Stuck at 2% / Error Code: -2 
 - Ask the user to try again. Make sure to connect Spark GO to the computer and launch the updater, THEN power on Spark GO.
 
-- If the user's on Windows, also make sure they execute the 'Run Spark GO Firmware Updater' file in the first layer, not anything from the 'bin' folder.
-  
-  ![[Pasted image 20230518123100.png]]
 
 - If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
 
