@@ -6,6 +6,20 @@ PGBot can be found in Positive Grid's Slack channel.
 ![](https://lh3.googleusercontent.com/jyIsuqypaWBPVDX2F6JBlXxa43BSILTxPS9KqaNL8xOppZKkPkRC2FVW_qv5oX43o3DQN4DoFW-U3gxceNilHAbubIhQ-WVEP3lCBJg3CgWofgSkbsEvznNDzdbQOVuX8ONA-j717712_CHeoHKpgQ)
 
 
+## Warranty Check Tool
+[Warranty Check Tool](https://slack.com/shortcuts/Ft06PZBB8LNL/a086370d6e6b7366b08a351b5f5b6c22)
+![[Xnip2024-05-23_17-27-33.jpg]]
+
+This tool helps the support team check a customer’s warranty status using the serial number.  
+
+![[2222.jpg]]
+
+The extend warranty feature is currently unavailable, please ignore it.
+If you’d like to share the status with the customer, cut off the lower part (Extend Date).
+
+![[Xnip2024-05-23_17-28-28.jpg]]
+
+
 ## Software / Account
 >PGBot commands mostly apply to desktop software licenses. Mobile license may or may not show up correctly. 
 >
