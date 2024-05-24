@@ -14,10 +14,13 @@ This tool helps the support team check a customer’s warranty status using the 
 
 ![[2222.jpg]]
 
+
+
 The extend warranty feature is currently unavailable, please ignore it.
 If you’d like to share the status with the customer, cut off the lower part (Extend Date).
 
 ![[Xnip2024-05-23_17-28-28.jpg]]
+
 
 
 ## Software / Account
