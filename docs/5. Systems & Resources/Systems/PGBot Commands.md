@@ -6,7 +6,7 @@ PGBot can be found in Positive Grid's Slack channel.
 ![](https://lh3.googleusercontent.com/jyIsuqypaWBPVDX2F6JBlXxa43BSILTxPS9KqaNL8xOppZKkPkRC2FVW_qv5oX43o3DQN4DoFW-U3gxceNilHAbubIhQ-WVEP3lCBJg3CgWofgSkbsEvznNDzdbQOVuX8ONA-j717712_CHeoHKpgQ)
 
 
-## Warranty Check Tool
+### Warranty Check Tool
 [Warranty Check Tool](https://slack.com/shortcuts/Ft06PZBB8LNL/a086370d6e6b7366b08a351b5f5b6c22)
 ![[Xnip2024-05-23_17-27-33.jpg]]
 
@@ -45,7 +45,7 @@ After the first usage, you’ll be able to summon the bot by typing /Extend warr
 
 
 
-## Software / Account
+### Software / Account
 >PGBot commands mostly apply to desktop software licenses. Mobile license may or may not show up correctly. 
 >
 >Ask @ferrari in # backend-issue for further details if necessary (also see [[Backend issue report]])
