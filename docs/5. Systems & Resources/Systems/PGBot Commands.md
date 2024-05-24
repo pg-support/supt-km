@@ -24,14 +24,14 @@ The customer has not registered their product yer.	![[Pasted image 2024052413420
 
 Or the SN doesn't 100% match to the label shown.
 ![[Pasted image 20240524134258.png]]
-  
-  
+  <br>
+<br>  
 - Result 2: "The warranty expiration calculation is not complete yet!!"
 The customer has registered their product, but has not verified its warranty.
 ![[Pasted image 20240524133845.png]]
   
-<br>
-<br>
+  <br>
+  <br>
 - Result 3: "Warranty End Date"
 The customer verified their product's warranty and the warranty end date will be displayed in the result.
 
