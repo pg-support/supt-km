@@ -84,10 +84,10 @@ Please guide them register the product via the ["Register Your Product" page](ht
 
 ---
 ### Internal Information
-Under normal circumstances, the registration process should include the warranty verification.
+Under normal circumstances, the registration process should include warranty verification.
 
 However, Positive Grid's current goal is to collect as much information as possible. That's why we've decided to separate the "registration" and "warranty verification" processes to simplify registration.
 
-So register the product doesn't mean the warranty status is calculated. After registering, the customer needs to verify the warranty.
+So registering the product doesn't mean the warranty status is calculated. After registering, the customer needs to verify the warranty.
 
 
