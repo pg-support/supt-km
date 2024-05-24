@@ -75,6 +75,12 @@ Since there is no order record on our end, the customer needs to manually fill i
 
 ![[Pasted image 20240524131603.png]]
 
+#### Shopify Order + B2B Order:
+If the customer purchase first product from Positive Grid's website before and purchase second product from retailer, they will not be able to find the "REGISTER NOW" button on their My Product page.
+<br>
+Please guide them register the product via the ["Register Your Product" page](https://member.positivegrid.com/product-registration)
+
+240524: This portal will be added to the "My Account" page soon.
 
 ---
 ### Internal Information
