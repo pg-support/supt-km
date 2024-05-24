@@ -1,5 +1,7 @@
 # Product Registration Issues
 
+
+
 [How Do I Register the Warranty?](https://help.positivegrid.com/hc/en-us/articles/24992891565581-How-Do-I-Register-the-Warranty)
 
 - Spark LIVE:

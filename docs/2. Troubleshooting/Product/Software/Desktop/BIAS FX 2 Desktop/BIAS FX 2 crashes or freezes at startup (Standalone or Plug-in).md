@@ -9,8 +9,22 @@ Use the appropriate macro based on the customer's operating system:
 
 - <u>#BIAS FX 2::Freeze/Crash on macOS</u>
 - <u>#BIAS FX 2::Freeze/Crash on Windows</u>
+
+
+## 2 - Manually delete the plug-in files
+
+#### macOS:
+AU: Library/Audio/Plug-ins/Components/BIAS FX 2.component
+VST: Library/Audio/Plug-ins/VST/BIAS FX 2.vst  
+VST3: Library/Audio/Plug-ins/VST3/BIAS FX 2.vst3  
+AAX: Library/Application Support/Avid/Audio/Plug-ins/BIAS FX 2.aaxplugin
+
+
+#### Windows:
+C:\\Program Files\\VST Plugins\\
+C:\\Program Files\\Common Files\\VST3\
 <br>
-## 2 - Collect the info and forward it to team 
+## 3 - Collect the info and forward it to team 
 If the reset workaround doesn't work, the customer should send the log file to us. Tag WeiTing in the Supt-private channel with following info:
 
 1. Ticket#
@@ -19,15 +33,15 @@ If the reset workaround doesn't work, the customer should send the log file to u
    
 3. Log File (Name it with the ticket number and upload it to Google Drive).
 <br>
-## 3 - Inform the customer 
+## 4 - Inform the customer 
 Inform the customer that we've forwarded the information to our team and will offer update ASAP. (Submit the ticket as on-hold) 
 
 If this is a trending issue, link the ticket to the Trending Issue List: [[Zendesk Feature#Trending Issue]]
 <br>
-## 4 - Follow up on the case 
+## 5 - Follow up on the case 
 WeiTing will provide additional details after the RD team has reviewed the problem.
 <br>
-## 5 - Case Close 
+## 6 - Case Close 
 Inform the customer of the solution/current situation. [END]
 
 
