@@ -18,28 +18,28 @@ After the first usage, you’ll be able to summon the bot by typing /Extend warr
 
 ![[2222.jpg]]
 
-- ### Result 1: "Failed"
+- Result 1: "Failed"
   
-	The customer has not registered their product yer.
+The customer has not registered their product yer.
 	
 	![[Pasted image 20240524134203.png]]
 	
 	
-	Or the SN doesn't 100% match to the label shown.
+Or the SN doesn't 100% match to the label shown.
 	![[Pasted image 20240524134258.png]]
 <br>
 <br>
-- ### Result 2: "The warranty expiration calculation is not complete yet!!"
-	The customer has registered their product, but has not verified its warranty.
+- Result 2: "The warranty expiration calculation is not complete yet!!"
+The customer has registered their product, but has not verified its warranty.
 	
 	![[Pasted image 20240524133845.png]]
 <br>
 <br>
-- ### Result 3: "Warranty End Date"
-	The customer verified their product's warranty and the warranty end date will be displayed in the result.
+- Result 3: "Warranty End Date"
+The customer verified their product's warranty and the warranty end date will be displayed in the result.
 	
-	The extend warranty feature is currently unavailable, please ignore it.
-	If you’d like to share the status with the customer, cut off the lower part (Extend Date).
+The extend warranty feature is currently unavailable, please ignore it.
+If you’d like to share the status with the customer, cut off the lower part (Extend Date).
 	![[Pasted image 20240524133520.png]]
 
 
