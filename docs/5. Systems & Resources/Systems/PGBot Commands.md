@@ -19,6 +19,7 @@ After the first usage, you’ll be able to summon the bot by typing /Extend warr
 ![[2222.jpg]]
 
 - Result 1: "Failed"
+  <br>
 The customer has not registered their product yer.	![[Pasted image 20240524134203.png]]
 
 
