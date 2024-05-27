@@ -1,5 +1,9 @@
 # Expression Pedal (Spark Control X)
 
+The Spark Control X, designed as a versatile controller for guitarists, offers users the convenience of two TRS  input ports dedicated to expression pedals.
+
+¹ Expression pedal not included.
+
 When the expression pedal is connected to the Spark Control X, the default parameter it controls is the Volume.
 
 ### Spark 40/MINI/GO
