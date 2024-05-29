@@ -35,6 +35,10 @@ Spotify 'Fetch Playlist Fail' / Unknown Error
 
 ---
 ## Announcement
+### 2024/5/27
+- US OOW repairs are back. Jeff is ready for work!
+
+
 ### 2024/5/3
 Spark LIVE DOA/RMA (US)
 - For Spark LIVE DOA/RMA (US) replacement, please create a request on JIRA.
@@ -43,7 +47,7 @@ Spark LIVE DOA/RMA (US)
 ### 2024/5/2
 - The Spark Control X will begin shipping starting from 5/13.
 
-- US OOW repairs are expected to resume in mid-May. Please wait for the announcement.
+- ~~US OOW repairs are expected to resume in mid-May. Please wait for the announcement.~~
 
 ### 2024/4/29
 - The product team needs to retrieve the following products for further investigation. Please continue monitoring the specified issues:
