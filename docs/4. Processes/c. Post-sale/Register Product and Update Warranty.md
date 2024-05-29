@@ -21,13 +21,15 @@ The customer can register the product associated with their order.
 
 When the website syncs with the delivery status from the 3PL (third-party logistics), products should automatically appear listed. However, the delivery status from the 3PL doesn't update on the website all the time. This means the delivery status shown online might not always be accurate.
 
+See also: [Delivery status from 3PL (third-party logistics)](https://pg-support.github.io/supt-km/5.%20Systems%20%26%20Resources/Resources/Delivery%20status%20from%203PL%20%28third-party%20logistics%29/)
+
 For example, if a customer receives their Spark 40 on Monday and wants to register it right away, they are not able to find that the product listed on 'My Product' page. This is because the 3PL status hasn't updated to show the delivery as complete yet.
 
 In this case, the customer will click 'REGISTER NOW' on the empty 'My Product' page.
 
 Another issue occurs if the 3PL status updates are synced with the website on Tuesday. This can result in the product being listed twice on the 'My Product' page, causing confusion for the customer.
 
-See also:
+
 
 <br>
 <br>
