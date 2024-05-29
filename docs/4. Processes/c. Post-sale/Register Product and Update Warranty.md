@@ -18,6 +18,17 @@ All the product can be registered on the [My Product](https://member.positivegri
 #### Shopify Order:
 The customer can register the product associated with their order.
 ![[Pasted image 20240524123801.png]]
+
+When the website syncs with the delivery status from the 3PL (third-party logistics), products should automatically appear listed. However, the delivery status from the 3PL doesn't update on the website all the time. This means the delivery status shown online might not always be accurate.
+
+For example, if a customer receives their Spark 40 on Monday and wants to register it right away, they are not able to find that the product listed on 'My Product' page. This is because the 3PL status hasn't updated to show the delivery as complete yet.
+
+In this case, the customer will click 'REGISTER NOW' on the empty 'My Product' page.
+
+Another issue occurs if the 3PL status updates are synced with the website on Tuesday. This can result in the product being listed twice on the 'My Product' page, causing confusion for the customer.
+
+See also:
+
 <br>
 <br>
 #### B2B Order:
