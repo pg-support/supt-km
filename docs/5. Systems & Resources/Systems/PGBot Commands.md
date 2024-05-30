@@ -204,7 +204,8 @@ Scenario: User wants to move all licenses to another account, or wants to change
 ## Hardware SN / Activation
 
 ### Inject Spark SN into database
->*This first command is solely for injecting unrecognized Spark SN into the database. Please make sure to verify the user’s Spark amp purchase or get a photo of their Spark’s SN before registering the SN for the user.
+>*This first command is solely for injecting unrecognized Spark SN into the database (for redeeming Studio One only). 
+>Please make sure to verify the user’s Spark amp purchase or get a photo of their Spark’s SN before registering the SN for the user.
 
 /hw_sn_assign (<u>SN</u>)
 
