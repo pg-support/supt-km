@@ -248,3 +248,18 @@ Scenario: User wants to move all licenses to another account, or wants to change
 - When a valid SN is entered, it’ll return with such a message.
 
 **![](https://lh4.googleusercontent.com/RL7rCRib-iusDHJR-lSItgJhuxUlF0VbZYYS73iEd15L_EUdA9F1tLjGB8l92urZsJJ3v7BUBohOYhLqWgfptlL7j7ZZrgaB0-3EiQ7zJJUv_Q3PGTlp-ZWKq0EPetqGAUhFwuS4ODRcn657gdC_eQ)**
+
+
+### Whitelist Tool
+
+**This tool is only available for administrators (Dans & WT).**
+
+/Add hardware SN to whitelist - Add a specific serial number to the whitelist. 
+![[Pasted image 20240530123449.png]]
+
+
+Fill in the necessary information and add the product with an invalid serial number to the whitelist.
+
+All the information will be logged.
+
+![[Pasted image 20240530123731.png]]
