@@ -255,6 +255,9 @@ Scenario: User wants to move all licenses to another account, or wants to change
 **This tool is only available for administrators (Dans & WT).**
 
 /Add hardware SN to whitelist - Add a specific serial number to the whitelist. 
+
+[Start Workflow]([https://slack.com/shortcuts/Ft075LSK84EQ/caa05ae12b4ee0165058dd77c89fc05a](https://slack.com/shortcuts/Ft075LSK84EQ/caa05ae12b4ee0165058dd77c89fc05a))
+
 ![[Pasted image 20240530123449.png]]
 
 
