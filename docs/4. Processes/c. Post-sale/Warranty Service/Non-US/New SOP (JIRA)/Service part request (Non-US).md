@@ -44,6 +44,8 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 <br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20
+<u>Pin + 2 Straps</u> - $20
+
 <br>
 <br>
 #### Spark Control
