@@ -253,7 +253,7 @@ Scenario: User wants to move all licenses to another account, or wants to change
 
 ### Whitelist Tool
 
-**This tool is only available for administrators (Dans & WT).**
+**This tool is only available for administrators.**
 Shared this canvas: [https://positivegrid.slack.com/docs/T0250SJH7/F075QNPL6GK](https://positivegrid.slack.com/docs/T0250SJH7/F075QNPL6GK)
 
 /Add hardware SN to whitelist - Add a specific serial number to the whitelist. 
