@@ -9,7 +9,12 @@ There are 2 types of Amazon orders: FBA & FBM.
 ### FBA
 FBA stands for "**Fulfillment by Amazon**," which is a service provided by Amazon where sellers store their products in Amazon's fulfillment centers, and Amazon takes care of the picking, packing, shipping, and customer service. 
 
-For any fulfillment issues for FBA orders (e.g. returns, wrong item shipped, tracking inquiries, etc.), **ask customers to directly contact official Amazon Support, as the order is fulfilled by Amazon.**
+For any fulfillment issues for FBA orders (e.g. sales return, wrong item shipped, tracking inquiries, etc.), ask customers to directly contact official Amazon Support, as the order is fulfilled by Amazon.
+
+Support team still needs to handle DOA/RMA/OOW
+
+
+If the customer is out of our service regions (e.g. Mexico), ask the customer to reach out to Positive Grid's support directly and proceed with the regular
 
 ### FBM
 FBM stands for "**Fulfillment by Merchant**," which means the seller is responsible for storing, picking, packing, shipping, and handling customer service for their products.
@@ -135,7 +140,8 @@ If we fail to acquire the correct information from the customer before the requi
 
 
 ---
-## Order Return
+## Post-Sale
+
 ### Within 30 days
 
 If the customer contacts us directly to request a return/refund, please ask them to follow Amazon's return policy directly.
@@ -189,9 +195,9 @@ If you received a complimentary merchandise item with your purchase, kindly incl
 These comprehensive guidelines are designed to assist you in navigating the return process, whether you are dealing with product issues or seeking to return a product for other reasons. If you have any further questions or require assistance, please do not hesitate to contact us.
 
 ---
-### Returning Defective Products
+### Troubleshooting
 
-#### Technical issues/Dead on Arrival
+#### Technical issues
 - For technical issues/troubleshooting, it's best to advise customers to contact our official support team for further assistance on Zendesk:
 
 	Dear Customer,  
@@ -216,7 +222,7 @@ These comprehensive guidelines are designed to assist you in navigating the retu
 - Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Replacement, Resend (JIRA)]]), or [[#Order Refund]].
   
 
-### Returning Non-Defective Products
+### Returning Non-Defective Products (SR)
 
 #### Personal Reason
 
@@ -236,6 +242,9 @@ However if the customer is particularly irate about the situation and wants PG t
 
 ### Over 30 days
 There's no guaranteed return after 30 days. Ask the customer to contact our official support team for further assistance.
+
+
+
 
 
 ### (Reference Only) Amazon's A-to-Z Guarantee Refund
