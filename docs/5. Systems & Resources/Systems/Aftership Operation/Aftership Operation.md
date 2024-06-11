@@ -27,4 +27,5 @@ Method#2:
 
 
 ### Dimension & Weight of each PG product:
-![[Screen Shot 2023-04-24 at 5.35.00 PM.png]]
+
+![[Screen Shot 2024-06-06 at 12.49.32 PM.png]]
