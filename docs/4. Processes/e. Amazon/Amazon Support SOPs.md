@@ -246,7 +246,9 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 
 ### Special Case (RMA/OOW)
 
-If the customer is outside of our service regions, e.g. Mexico, please ask Jay Chong from Amazon team to arrange shipment by FBA.
+If the customer is outside of our service regions, e.g. Mexico, please redirect them to Zendesk.
+
+Request the customer's PayPal account and relevant information. After payment, notify Jay Chong / Emma Liao to arrange shipment by FBA.
 
 *No need to retrieve the defective unit.*
 
