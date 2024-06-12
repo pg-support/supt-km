@@ -1,4 +1,4 @@
-# Cannot add JH expansion pack for Spark to the shipping cart
+# Cannot add JH expansion pack for Spark to the shipping cart!!!
 
 Use macro "**Spark:: Experience Jimi Hendrix™ for Spark**".
 
