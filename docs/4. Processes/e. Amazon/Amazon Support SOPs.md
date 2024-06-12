@@ -142,11 +142,9 @@ If we fail to acquire the correct information from the customer before the requi
 ---
 ## Post-Sale
 
-### Within 30 days
+### Return Within 30 Days -> SR/DOA
 
-If the customer contacts us directly to request a return/refund, please ask them to follow Amazon's return policy directly.
-
-When the customer request a refund/return on Amazon, the system automatically provides the following return instructions:
+If a customer contacts us directly to request a return or refund, please ask them to follow Amazon's return policy, which automatically provides the following instructions:
 
 ![[Pasted image 20231109101212.png]]
 ---
@@ -195,7 +193,7 @@ If you received a complimentary merchandise item with your purchase, kindly incl
 These comprehensive guidelines are designed to assist you in navigating the return process, whether you are dealing with product issues or seeking to return a product for other reasons. If you have any further questions or require assistance, please do not hesitate to contact us.
 
 ---
-### Troubleshooting
+### Troubleshooting & Warranty Service (DOA/RMA)
 
 #### Technical issues
 - For technical issues/troubleshooting, it's best to advise customers to contact our official support team for further assistance on Zendesk:
@@ -240,11 +238,17 @@ However if the customer is particularly irate about the situation and wants PG t
 
 
 
-### Over 30 days
+### Over 30 days (OOW)
+
 There's no guaranteed return after 30 days. Ask the customer to contact our official support team for further assistance.
 
 
 
+### Special Case (RMA/OOW)
+
+If the customer is outside of our service regions, e.g. Mexico, please ask Jay Chong from Amazon team to arrange shipment by FBA.
+
+*No need to retrieve the defective unit.*
 
 
 ### (Reference Only) Amazon's A-to-Z Guarantee Refund
