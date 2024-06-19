@@ -35,6 +35,14 @@ Spotify 'Fetch Playlist Fail' / Unknown Error
 
 ---
 ## Announcement
+
+### 2024/6/19
+
+- [Spark 40 - Windows Driver Issue (BT Module) (240619 Updated) ](https://positivegrid.zendesk.com/agent/tickets/452614)
+- [Spark LIVE - Volume Swell (240612 Updated)](https://positivegrid.zendesk.com/agent/tickets/483729)
+- [Registration Related](https://positivegrid.zendesk.com/agent/tickets/489525)
+
+
 ### 2024/5/27
 - US OOW repairs are back. Jeff is ready for work!
 
