@@ -1,4 +1,4 @@
-# PSU tech specs (Spark 40)
+# PSU tech spec (Spark 40)
 
 -   Input：100~240V / 50~60Hz
 -   Output：19V / 2.5A 
