@@ -85,3 +85,13 @@
 [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en) (and same series for Google Drive & Google Calendar)
 
 [Grammarly: Grammar Checker and Writing App](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+
+
+## Help Center Decoration
+
+[Example](https://positivegrid.zendesk.com/knowledge/editor/01HSFD7T2W09G5XN24T6YDQ9RA/en-us?brand_id=2632226)
+
+[Phone/Desktop Frame](https://fe-toolbox.positivegrid.com/mockup)
+
+[Merge Images Online](https://pinetools.com/merge-images) 
+Help Center Background HEX # 0e0e0e 
