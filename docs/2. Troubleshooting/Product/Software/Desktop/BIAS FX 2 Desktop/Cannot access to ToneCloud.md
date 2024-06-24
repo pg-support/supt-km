@@ -60,7 +60,7 @@ If it still doesn't work, kindly follow the instructions provided below:
 2. Disable the cloud-based/VPN programs (e.g., iCloud, OneDrive, Dropbox, etc.).  
   
 3. Reset the hosts file:  
-[How to Reset Hosts File to Default on Mac and Windows PC](https://www.igeeksblog.com/how-to-reset-restore-hosts-file-to-its-original-version-in-mac-windows/)
+[How to Reset Hosts File to Default on Mac and Windows PC](https://www.igeeksblog.com/how-to-reset-hosts-file-to-default-on-mac-windows/)
   
 4. Try connecting to another internet connection, such as a smartphone hotspot.
 
