@@ -89,7 +89,7 @@
 
 ## Help Center Decoration
 
-[Example](https://positivegrid.zendesk.com/knowledge/editor/01HSFD7T2W09G5XN24T6YDQ9RA/en-us?brand_id=2632226)
+[Template](https://positivegrid.zendesk.com/knowledge/editor/01HSFD7T2W09G5XN24T6YDQ9RA/en-us?brand_id=2632226)
 
 [Phone/Desktop Frame](https://fe-toolbox.positivegrid.com/mockup)
 
