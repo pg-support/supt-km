@@ -42,7 +42,7 @@ Customers from **Germany**, **the UK**, and **Australia** with a valid VAT numbe
 
 For customers who do NOT have a valid VAT number & business address who request a VAT invoice, we can issue a VAT invoice listing the tax (based on the country). 
 
-If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
+If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1g1sTrjigOaqbssD_U2I2YdaYPeKYd8faaWjZojRb0vo/edit?gid=0#gid=0).
 
 Do NOT issue a VAT refund for these cases.
 
