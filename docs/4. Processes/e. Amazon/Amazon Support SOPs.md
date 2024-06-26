@@ -248,7 +248,11 @@ There's no guaranteed return after 30 days. Ask the customer to contact our offi
 
 If the customer is outside of our service regions, e.g. Mexico, please redirect them to Zendesk.
 
-Request the customer's PayPal account and relevant information. After payment, notify Jay Chong / Emma Liao to arrange shipment by FBA.
+RMA: Create a JIRA ticket and inform Vix that this is an Amazon special case.
+Vix will notify Jay Chong / Emma Liao to arrange shipment by FBA.
+
+OOW: Request the customer's PayPal account and relevant information. After payment, create a JIRA ticket and inform Vix that this is an Amazon special case.
+Vix will notify Jay Chong / Emma Liao to arrange shipment by FBA.
 
 *No need to retrieve the defective unit.*
 
