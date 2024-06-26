@@ -15,11 +15,21 @@ Replacement /Resend requests should be done on JIRA.
   
   It should not be a "-3" for resend cases. If the second attempt failed, kindly ask the customer to purchase the item from other channels. 
 
-
 -   TRK# should be available in SKULabs within 48 hrs since “Last Update Time”. If not, escalation is needed.
 
 
 ## Follow Up
+
+- Please link the Zendesk ticket to JIRA ticket **IMMEDIATELY** after requesting a return label, resend, or replacement:
+
+  Leave the “what to do next” instructions in the internal note on Zendesk.
+  AND
+  Directly link the Zendesk ticket to JIRA ticket.
+  
+  This will help your backup and future you easier to track the cases.
+![[image (15).png]]
+![[image (16).png]]
+
 
 - Once logistics team arranges the shipment of the replacement, you will receive a notification via Gmail.
 
