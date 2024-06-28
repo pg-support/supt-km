@@ -12,7 +12,7 @@ The agent can verify the VAT number with the following site:
 [Check the VAT number](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7bREZgM0YUoH5gtYtWGqVmNcMpgYTtNKh8q79-TsghA-IFj5M9_E8I3F37fpH1i501Alwd3qCHIaa/embed?start=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-Once the validity of the VAT number is confirmed, send the following information and tag WeiTing/Heyling on Supt-Private channel to create an invoice with VAT number:
+Once the validity of the VAT number is confirmed, send the following information and tag Heyling/WeiTing on Supt-Private channel to create an invoice with VAT number:
 
 - Order#
   
