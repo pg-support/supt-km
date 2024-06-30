@@ -9,14 +9,16 @@ To resend a free accessory to a customer, simply offer a corresponding coupon co
 
 #### Spark 40
 
- - <u>PSU (Power Supply)</u> - $35: [Link](https://www.positivegrid.com/products/power-supply-unit-detachable-power-cable-is-included)
+ - **<u>PSU (Power Supply)</u>** - $35: [Link](https://www.positivegrid.com/products/power-supply-unit-detachable-power-cable-is-included)
 
   ==Special Case==   
   If the customer received the Spark amp with 2-pin power supply, we can send a grounded (3-pin) power supply for free. 
   Macro: # Spark Amp > Troubleshooting:: Spark Hum 1 
 <br>
+<br>
+<br>
 
- - <u>Handle Strap</u> - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
+ - **<u>Handle Strap</u>** - $30: [Link](https://www.positivegrid.com/products/carrying-strap-for-spark-black)  
 
   ==Special Case==   
   Check the serial number on the Spark amp:
