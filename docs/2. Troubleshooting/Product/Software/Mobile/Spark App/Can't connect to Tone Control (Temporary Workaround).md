@@ -5,22 +5,27 @@ Symptom: The Spark app is connected to Bluetooth Audio, but it cannot successful
 Workaround:
 
 1. Ensure that both the Spark app and the firmware on the Spark amp are updated to the latest version. 
-   
+   <br>
 2. Reset your Spark amp. 
+   
    [Spark 40: Bluetooth Reset](https://help.positivegrid.com/hc/en-us/articles/8283231788685-Reset-Bluetooth-on-Spark-amp)
+   
    [Spark MINI: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/5987144973453-Factory-Reset-for-Spark-MINI)
+   
    [Spark GO: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/13745048863757-Factory-Reset-for-Spark-GO)
+   
    [Spark LIVE: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/23210125423501-Factory-Reset-for-Spark-LIVE)
    
+   <br>
 3. Close the Spark app (don't let it run in the background).
-   
+   <br>
 4. Go to Bluetooth settings. 
-   
+   <br>
 5. Unpair the Spark amp (Spark 40/MINI/GO/LIVE Audio) from the Bluetooth device.
-
+	<br>
 6. Launch the Spark app and go to the Menu tab. Click the '+' and follow the instructions to connect the Spark app to the Spark amp again. 
    ![[Pasted image 20240701151355.png]]
-
+<br>
 7. If you still encounter into the same issue, please provide us with the following:
 	1. Mobile device model.
 	   
