@@ -25,7 +25,7 @@ Workaround:
    <br>
 5. Unpair the Spark amp (Spark 40/MINI/GO/LIVE Audio) from the Bluetooth device.
    
-	<br>
+<br>
 6. Launch the Spark app and go to the Menu tab. Click the '+' and follow the instructions to connect the Spark app to the Spark amp again. 
    ![[Pasted image 20240701151355.png]]
 <br>
