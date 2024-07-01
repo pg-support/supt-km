@@ -4,24 +4,33 @@ Symptom: The Spark app is connected to Bluetooth Audio, but it cannot successful
 
 Workaround:
 
-1. Close the Spark app (don't let it run in the background).
+1. Ensure that both the Spark app and the firmware on the Spark amp are updated to the latest version. 
    
-2. Go to Bluetooth settings.
+2. Reset your Spark amp. 
+   [Spark 40: Bluetooth Reset](https://help.positivegrid.com/hc/en-us/articles/8283231788685-Reset-Bluetooth-on-Spark-amp)
+   [Spark MINI: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/5987144973453-Factory-Reset-for-Spark-MINI)
+   [Spark GO: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/13745048863757-Factory-Reset-for-Spark-GO)
+   [Spark LIVE: Factory Reset](https://help.positivegrid.com/hc/en-us/articles/23210125423501-Factory-Reset-for-Spark-LIVE)
    
-3. Unpair the Spark amp (Spark 40/MINI/GO/LIVE Audio) from the Bluetooth device.
-
-4. Launch the Spark app and try connecting the Spark amp via Bluetooth again. 
+3. Close the Spark app (don't let it run in the background).
    
-5. If you still encounter into the same issue, please refer to the articles below and repeat the steps above again. 
+4. Go to Bluetooth settings. 
+   
+5. Unpair the Spark amp (Spark 40/MINI/GO/LIVE Audio) from the Bluetooth device.
 
+6. Launch the Spark app and go to the Menu tab. Click the '+' and follow the instructions to connect the Spark app to the Spark amp again. 
+   ![[Pasted image 20240701151355.png]]
 
-  [[Bluetooth Reset (Spark 40)]]
-  
-  [[Factory Reset (Spark MINI)]]
-  
-  [[Factory Reset (Spark GO)]]
-  
-  [[Factory Reset (Spark LIVE)]]
+7. If you still encounter into the same issue, please provide us with the following:
+	1. Mobile device model.
+	   
+	2. Mobile device OS.
+	   *If you're using a mobile device running Android, please try lowering the refresh rate from 120 Hz to 60 Hz and let us know if it solves the issue.*
+	   See also:
+	   [How to change your phone's resolution and refresh rate](https://www.androidcentral.com/how-change-your-phones-resolution-and-refresh-rate)   
+	   
+	3. Spark amp model.
+
 
 ---
 ### Internal Information
