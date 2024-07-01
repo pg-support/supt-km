@@ -43,4 +43,5 @@ c. Spark amp model.
 
 ---
 ### Internal Information
-Link the ticket to [Spark app - Connection Issue (BLE / Tone Control)](https://positivegrid.zendesk.com/agent/tickets/480424) We’ll prioritize it based on the impact.
+Link the ticket to [Spark app - Connection Issue (BLE / Tone Control)](https://positivegrid.zendesk.com/agent/tickets/490915).
+We’ll prioritize it based on the impact.
