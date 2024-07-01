@@ -18,23 +18,27 @@ Workaround:
    
    <br>
 3. Close the Spark app (don't let it run in the background).
+   
    <br>
 4. Go to Bluetooth settings. 
+   
    <br>
 5. Unpair the Spark amp (Spark 40/MINI/GO/LIVE Audio) from the Bluetooth device.
+   
 	<br>
 6. Launch the Spark app and go to the Menu tab. Click the '+' and follow the instructions to connect the Spark app to the Spark amp again. 
    ![[Pasted image 20240701151355.png]]
 <br>
 7. If you still encounter into the same issue, please provide us with the following:
-	1. Mobile device model.
-	   
-	2. Mobile device OS.
-	   *If you're using a mobile device running Android, please try lowering the refresh rate from 120 Hz to 60 Hz and let us know if it solves the issue.*
-	   See also:
-	   [How to change your phone's resolution and refresh rate](https://www.androidcentral.com/how-change-your-phones-resolution-and-refresh-rate)   
-	   
-	3. Spark amp model.
+
+a. Mobile device model.
+
+b. Mobile device OS.
+   *If you're using a mobile device running Android, please try lowering the refresh rate from 120 Hz to 60 Hz and let us know if it solves the issue.*	   
+   See also:
+  [How to change your phone's resolution and refresh rate](https://www.androidcentral.com/how-change-your-phones-resolution-and-refresh-rate)    
+
+c. Spark amp model.
 
 
 ---
