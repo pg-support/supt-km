@@ -7,6 +7,8 @@ The battery lifespan of Spark MINI, like all rechargeable batteries, is mainly d
 This guideline applies to all Positive Grid products with installed lithium-ion batteries:
 Spark MINI
 Spark GO
-Spark LIVE (Spark Battery)
 Spark Control
 Spark Control X
+
+Spark LIVE (Spark Battery)
+**Please note that Spark Battery doesn't come with the warranty, make sure you modify the information before sending it to the customer.**
