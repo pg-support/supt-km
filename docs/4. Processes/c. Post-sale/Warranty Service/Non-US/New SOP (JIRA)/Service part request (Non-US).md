@@ -68,13 +68,15 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 	![[Pasted image 20240702134243.png]]
 
 
-3. Vix will directly send the Paypal invoice to the customer and assign the ticket back to the support agent. 
+3. Vix will directly send the Paypal invoice to the customer, attach it to the JIRA ticket, and assign the ticket back to the ticket creator. 
    Please ask the customer to inform us once the invoice is paid.
+   ![[Pasted image 20240702141059.png]]
    
-4. **Check payment status.** The agent can also check the payment status by scanning the QR code on the invoice.
-   *If you have any issue checking the payment status, reach out to Vix/Heyling/WeiTing.*
-	![[Pasted image 20240219143325.png]]
+4. **Check payment status.** You can verify the payment status by scanning the QR code on the invoice (attachment in Vix's reply).
+   *If you encounter any issues checking the payment status, contact Vix/Heyling/WeiTing.*
+	![[Pasted image 20240702141419.png]]
+	![[Pasted image 20240702141602.png]]
  
-5. Once confirm the payment, assign the JIRA ticket back to Vix and leave a comment 'Payment confirmed'.
+5. Once confirm the payment, assign the JIRA ticket back to Vix and leave a comment '@Vix Payment confirmed'.
 
 6. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
