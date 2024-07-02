@@ -64,7 +64,8 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 	![[Pasted image 20230823133124.png]]
 	![[Pasted image 20240702134942.png]]
 	
-	*Check 'Invoice needed' if it's not a free service part request case.	![[Pasted image 20240702134243.png]]
+	*Check 'Invoice needed' if it's not a free service part request case.	
+	![[Pasted image 20240702134243.png]]
 
 
 3. Vix will directly send the Paypal invoice to the customer and assign the ticket back to the support agent. 
