@@ -57,33 +57,23 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 1. Inform the customer about the pricing (as listed), and verify if the customer is willing/has to pay for a service part. 
 > 
 >  If so, ask for the customer's PayPal account email (or regular contact email, if they don’t have PayPal).
->  
 
-2. Tag Maines / WeiTing in supt-private to bring their attention to the invoice request. 
-   List: 
-   <br>
-   Ticket#
-   <br>
-   Original Order#
-   <br>
-   Name
-   <br>
-   Email
-   <br>
-   Service Part Name 
-   <br>
-   Amount ($)
-<br>
-3. The invoice will be sent to the customer's inbox, ask them to inform us once the invoice is paid.
+
+2. Create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
    
+	![[Pasted image 20230823133124.png]]
+	![[Pasted image 20240702134942.png]]
+	
+	*Check 'Invoice needed' if it's not a free service part request case.	![[Pasted image 20240702134243.png]]
+
+
+3. Vix will directly send the Paypal invoice to the customer and assign the ticket back to the support agent. 
+   Please ask the customer to inform us once the invoice is paid.
    
-4. **Check payment status** (ask Maines or WeiTing). The agent can check the payment status by scanning the QR code on the invoice.
-   
+4. **Check payment status.** The agent can also check the payment status by scanning the QR code on the invoice.
+   *If you have any issue checking the payment status, reach out to Vix/Heyling/WeiTing.*
 	![[Pasted image 20240219143325.png]]
  
-   
-5. create an issue on JIRA (LS), select "Service Part Request" in issue type and fill in the product (service part) accordingly.
-	![[Pasted image 20230823133124.png]]
-	![[Pasted image 20230823133251.png]]
+5. Once confirm the payment, assign the JIRA ticket back to Vix and leave a comment 'Payment confirmed'.
 
 6. Once submitted, logistics team will arrange the shipment as soon as possible. Check back for TRK# and provide it to the customer. (END)
