@@ -53,6 +53,7 @@ First, deregister the product, then instruct the new owner to register it manual
    ![[Pasted image 20240703112416.png]]
 
 2. Fill out the deactivate reason and ticket number:
+   ![[Pasted image 20240703111850.png]]
 
    Deregistration request for resale:
    Resale to someone else.
@@ -64,4 +65,5 @@ First, deregister the product, then instruct the new owner to register it manual
    Duplicated item:
    The same product is listed twice on the 'My Product' page.
    Directly remove the unit without serial number. **Ensure the SKUs match.**
-   ![[Pasted image 20240703111850.png]]
+   ![[Pasted image 20240703155348.png]]
+
