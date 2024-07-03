@@ -1,4 +1,4 @@
-# Warranty/Registration Status Check
+# Warranty/Registration Status Check & Modification
 You can check warranty and registration status of customers' products using the [Portal](https://portal.positivegrid.com/).
 
 ## Login
