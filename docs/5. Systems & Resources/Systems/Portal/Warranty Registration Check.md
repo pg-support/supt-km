@@ -16,6 +16,7 @@ You can check warranty and registration status of customers' products using the 
 	![[Pasted image 20240703110622.png]]
    
    *The serial number must exactly match the one on the product. For example, the search can't recognize 's040c63a9358', but 'S040C63A9358'.*
+   
 
 3. Click on the serial number on the left of the search result and you'll be able to see the warranty details.
 	![[Pasted image 20240703112159.png]]
