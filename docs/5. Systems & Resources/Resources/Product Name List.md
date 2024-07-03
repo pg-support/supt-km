@@ -7,6 +7,12 @@ Always capitalize our brand names, products and trademarked names!
 
 ### Spark / Spark 40 / Spark Amp 
 
+### Spark 2
+
+### Spark EDGE
+
+### Spark NEO
+
 ### Spark Traveler Gig Bag
 
 ### Spark MINI
