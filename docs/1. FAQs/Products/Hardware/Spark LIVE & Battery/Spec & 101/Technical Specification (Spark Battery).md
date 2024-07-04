@@ -39,7 +39,7 @@
 - DIMENSIONS
   
 	L 86 x W 74 x H 48.7 mm  
-	(L3.38 x W2.91 x H1.91 inch)
+	(L 3.38 x W 2.91 x H 1.91 in)
 <br>
 <br>
 - WEIGHT

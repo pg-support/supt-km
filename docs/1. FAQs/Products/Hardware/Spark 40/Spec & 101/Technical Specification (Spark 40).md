@@ -92,7 +92,7 @@
 
 - DIMENSIONS
   
-	  350 x 180 x 190 mm(13.78 x 7.08 x 7.48 in)
+	  L 350 x H 180 x W 190 mm(L 13.78 x H 7.08 x W 7.48 in)
 
 - WEIGHT
   

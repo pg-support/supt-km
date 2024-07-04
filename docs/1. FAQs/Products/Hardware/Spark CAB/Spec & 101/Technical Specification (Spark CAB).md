@@ -95,8 +95,9 @@
 
 - DIMENSIONS
 
-	19.39 x 15.74 x 10.04 in with rubber feet  
-	(492.5 x 399.8 x 255 mm)
+	H 492.5 x L 399.8 x W 255 mm with rubber feet
+	(H 19.39 x L 15.74 x W 10.04 in)   
+	
 
 
 - WEIGHT

@@ -97,8 +97,8 @@
 
 - DIMENSIONS
 
-	146.5 x 123 x 165 mm
-	(5.76 x 4.84 x 6.49 in)
+	L 146.5 x W 123 x H 165 mm
+	(L 5.76 x W 4.84 x H 6.49 in)
 
 - WEIGHT
 

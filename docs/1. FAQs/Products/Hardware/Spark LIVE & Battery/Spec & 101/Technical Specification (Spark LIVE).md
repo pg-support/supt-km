@@ -127,7 +127,7 @@
 - DIMENSIONS  
 	Spark LIVE:  
 	L 464 x W 250.6 x H 306 mm  
-	(L 18.26 x W 9.86 x H 12.04 inch)
+	(L 18.26 x W 9.86 x H 12.04 in)
 <br>
 <br>
 - WEIGHT
