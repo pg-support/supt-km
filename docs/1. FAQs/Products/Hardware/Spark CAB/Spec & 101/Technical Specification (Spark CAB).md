@@ -98,6 +98,8 @@
 	H 492.5 x L 399.8 x W 255 mm with rubber feet
 	(H 19.39 x L 15.74 x W 10.04 in)   
 	
+	Rubber feet spec: diameter: Diameter: 33 mm x H: 12.7 mm
+
 
 
 - WEIGHT
