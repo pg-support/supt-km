@@ -128,3 +128,7 @@
 
 - Rubber Feet
 ![[截圖 2024-07-04 下午1.54.56.png]]
+
+
+- Side View
+![[Spark CAB Spec.jpeg]]
