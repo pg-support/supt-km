@@ -121,3 +121,10 @@
 - CABLE TIE
 
 	1 Adjustable Cable Tie for Fixing Instrument and Audio Cables on the Back
+
+
+---
+#### Internal Information
+
+- Rubber Feet
+![[截圖 2024-07-04 下午1.54.56.png]]
