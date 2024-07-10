@@ -3,7 +3,7 @@
 > **DOA (Dead on Arrival)**
 > The DOA process only applies to orders that still within 30 days of delivery.
 
-![[Pasted image 20240710104901.png]]
+![[Pasted image 20240710151748.png]]
 
 ### 0 - Verify the product issue and the purchase date
 Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
@@ -17,8 +17,8 @@ Insert the correct country in the email subject. Submit as pending. (If the cust
 ![](https://lh6.googleusercontent.com/VWCN-i96sVs83WirSHbHUjLjE6IOMz_tEljtrtdN49Ku8VgFigOz_cE275qTC8_QTIU9UGzaP7dcyckopW74_JvDJBtfRRslCj1bil2P88Nod7buknQFs2nb2X5TB6VDXC0yx4HM3fVDeKj77K7VTp5_n4rGYeEgkfydUqVHygX-yywoKsjY20Ci_z1w)
 
 <br>
+<br>
  **Special Case:**
- <br>
  <br>
  a. The customer requests to change the address for the replacement
  <br>
@@ -40,16 +40,13 @@ c. Spark LIVE
 - Only "Refund" cases can be processed on Aftership.
 <br>
 <br>
+<br>
 ### 2-1 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
-### 2-2 - Check the registration status
-Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
-
-Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
-![[Pasted image 20240710102318.png]]
-
+<br>
+<br>
 ### 3 - Offer return label
 
 - Method#1:
@@ -67,15 +64,32 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
-### 4 - Check the tracking# for the return package
+<br>
+<br>
+<br>
+### 4-1 - Check the tracking# for the return package
 Check the tracking with the corresponding carrier and verify if the item is returned.
+<br>
+<br>
+<br>
+### 4-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+<br>
+<br>
+<br>
+### 5 - Replacement/Refund
+
+Verify whether the case requests a replacement or refund.
 
 #### Replacement
 
 Aftership will monitor the tracking number and automatically generate a new order for the replacement once the return package is delivered.
 
-Inform the customer that they will be provided with a new tracking number for the replacement. (END)
+Inform the customer that they will be provided with a new tracking number for the replacement. Zendesk ticket can be closed.
+(END)
 <br>
 <br>
 #### Refund
@@ -85,6 +99,8 @@ If an estimated time of arrival (ETA) is available on the carrier's tracking sit
 > 
 > Kindly wait for further notice. Thank you.
 
+Zendesk ticket can be closed.
+<br>
 (END)
 <br>
 <br>

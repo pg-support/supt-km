@@ -7,7 +7,7 @@
 > 
 > Note that this process only applies to Shopify order. If you're processing an order from BigCommerce, please follow [[RMA (Non-US)]] instead.
 
-![[Pasted image 20240710105314.png]]
+![[Pasted image 20240710151520.png]]
 
 ### 0 - Verify the product issue and the purchase date
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.  
@@ -42,17 +42,13 @@ c. Spark LIVE
 - Only "Refund" cases can be processed on Aftership.
 <br>
 <br>
-### 2-1 - Create a return on Aftership
+<br>
+### 2 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
-### 2-2 - Check the registration status
-Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
-
-Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
-![[Pasted image 20240710102318.png]]
-
+<br>
 <br>
 ### 3 - Offer return label
 
@@ -71,12 +67,29 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
-### 4 - Check the tracking# for the return package
+<br>
+<br>
+<br>
+### 4-1 - Check the tracking# for the return package
 
 Aftership will monitor the tracking number and automatically generate a new order for the replacement once the return package is delivered.
 
-Inform the customer that they will be provided with a new tracking number for the replacement. (END)
+<br>
+<br>
+<br>
+### 4-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+<br>
+<br>
+<br>
+
+### 5 - Replacement
+
+Inform the customer that they will be provided with a new tracking number for the replacement. Zendesk ticket can be closed.
+(END)
 
 
 <br>

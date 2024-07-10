@@ -9,7 +9,8 @@
 > 
 > If the customer no longer has the original packaging for return, a $20 (USD) restocking fee needs to be charged and will be deducted from the refund (see [Spark Warranty FAQ](https://help.positivegrid.com/hc/en-us/articles/360060273211-Spark-Warranty-FAQ) for reference). Please explain this to the customer. (Applicable to ALL products.)
 
-![[Pasted image 20240710111952.png]]
+![[Pasted image 20240710153033.png]]
+
 
 ### 0 - Verify the return reason and the purchase date
 Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
@@ -20,18 +21,15 @@ Before proceeding, verify the user's name and email by comparing them with the S
 Once confirmed that the customer would like to return the order (must be a full order), insert Macro: <u>[Service Center] SR (Regular) - 1</u>. Insert the correct country in the email subject. Submit as pending. 
 
 ![](https://lh6.googleusercontent.com/B9WsXkXUGJz2mZjdxPtBNdhj_RA0aMjHmyLJj1KIXhqP0qyvR96VTB1p2ZomNWsFZtsHzU-wiEU_l1jXmEAYUXnDFZco-3TAy3lpaN5J4E5txpc1ENwka_Cs8pbb0Th4-LZ78YfyNngGE_Wpgq3Yceoxndy_vkQcL1eCB4I6OxGB84Kw_yzcHsSZLcrc)
-
-### 2-1 - Create a return on Aftership
+<br>
+<br>
+<br>
+### 2 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
-### 2-2 - Check the registration status
-Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
-
-Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
-![[Pasted image 20240710102318.png]]
-
+<br>
 <br>
 ### 3 - Offer return label
 
@@ -49,9 +47,10 @@ Attach the label to the email and send it to the customer.
 
 Once the return label is sent to the customer, instruct them to follow the guidance in the email to return the item.
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
-
-
-### 4 - Check the tracking# for the return package
+<br>
+<br>
+<br>
+### 4-1 - Check the tracking# for the return package
 Check the tracking with the corresponding carrier and verify if the item is returned.
 
 Go back to the ticket and update the estimated delivery date (according to the tracking number) in the subject:
@@ -65,9 +64,21 @@ Reply the ticket with a heads-up, and submit as ‘On-hold’:
 > We've informed our service center to look out for the incoming package and will keep you updated about the refund as soon as possible. 
 > 
 > Please wait for further notice. Thank you.
+<br>
+<br>
+<br>
+### 4-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
 
-### 5 - Check the status of the received package
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+<br>
+<br>
+<br>
+### 5-1 - Check the status of the received package
 On the ETA of the returning package, check the tracking with the corresponding carrier to verify if the returned item is delivered. 
+
+### 5-2 - Refund
 
 - Once delivered, the agent can proceed with the [[Refund Process]].
 

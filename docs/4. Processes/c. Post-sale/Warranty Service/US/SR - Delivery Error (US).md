@@ -9,7 +9,7 @@
 > 
 > Positive Grid will cover all the return label fee.
 
-![[Pasted image 20240710105445.png]]
+![[Pasted image 20240710151901.png]]
 
 ### 0 - Verify the return reason and the purchase date
 Before proceeding, verify the user's name and email by comparing them with the Shopify order information to confirm if the order is still within 30 days of delivery.
@@ -30,7 +30,7 @@ Once confirmed the customer has received an extra or incorrect item, insert Macr
 - Submit as pending. 
 
 <br>
-### 2-1 - Create a return on Aftership
+### 2 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -41,12 +41,7 @@ If the customer received a wrong item, please select 'Replace with the same item
 
 If the customer received an extra item, please select 'Refund to original payment method'.
 <br>
-### 2-2 - Check the registration status
-Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
-
-Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
-![[Pasted image 20240710102318.png]]
-
+<br>
 <br>
 ### 3 - Offer return label
 
@@ -66,13 +61,25 @@ Once the return label is sent to the customer, instruct them to follow the guida
 ![[Screen Shot 2023-04-24 at 5.49.56 PM.png]]
 
 
-### 4 - Check the tracking# for the return package
+### 4-1 - Check the tracking# for the return package
 Once the package is on its way, verify whether the case is an operation error (the customer received an extra item) or will require a resend (the customer received a wrong item).
 
 Check the tracking with the corresponding carrier and verify if the item is returned, follow the instructions below:
+<br>
+<br>
+<br>
+### 4-2 - Check the registration statusCheck the registration status by the serial number. 
 
+Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.![[Pasted image 20240710102318.png]]<br>
+<br>
+<br>
+<br>
+### 5 - Received an extra item/a wrong item
 #### Received an extra item
-Thank the customer for cooperation and close the ticket, no further action needed. (END)
+Thank the customer for cooperation and close the ticket, no further action needed. 
+(END)
 <br>
 <br>
 #### Received a wrong item

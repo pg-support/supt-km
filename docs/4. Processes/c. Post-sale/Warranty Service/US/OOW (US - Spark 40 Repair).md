@@ -7,7 +7,7 @@
 > 
 > For everything else, please refer to [[OOW (Non-US)]]
 
-![[Pasted image 20240710112145.png]]
+![[Pasted image 20240710152037.png]]
 
 ### 0 - Verify the warranty
 Before proceeding, please check the user's name & email and compare them with Shopify order information in order to verify the warranty.
@@ -66,12 +66,9 @@ For Vix Hsieh:
 >
 >Assignee: Automatic (Vix Hsieh)
 ---
-### 2-2 - Check the registration status
-Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
-
-Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
-![[Pasted image 20240710102318.png]]
-
+<br>
+<br>
+<br>
 ### 3 - Offer info for return
 Once the request is submitted, follow the steps below and offer the info for return:
 
@@ -90,12 +87,19 @@ Mail: fixmyamplifier@aol.com
 
 C. Submit as pending.
 
-### 4 - Check the tracking# for the returned package
+### 4-1 - Check the tracking# for the returned package
 After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA ticket.
 
 ![[Pasted image 20231116170835.png]]
 
 Once the TRK# is logged, inform the customer that the repair will be done within 10 business days and the repaired unit will be shipped back in the timely manner. 
+
+### 4-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+
 
 When everything is done, close the Zendesk and JIRA ticket. (END)
 
