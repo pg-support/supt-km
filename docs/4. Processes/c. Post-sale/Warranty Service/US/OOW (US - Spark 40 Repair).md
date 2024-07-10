@@ -65,6 +65,11 @@ For Vix Hsieh:
 >
 >Assignee: Automatic (Vix Hsieh)
 ---
+### 2-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
 
 ### 3 - Offer info for return
 Once the request is submitted, follow the steps below and offer the info for return:

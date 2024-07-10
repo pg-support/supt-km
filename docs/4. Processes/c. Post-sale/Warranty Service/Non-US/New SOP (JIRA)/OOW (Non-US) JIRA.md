@@ -101,7 +101,7 @@ For Vix Hsieh:
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 4 - Issue created, offer info for return
+### 4-1 - Issue created, offer info for return
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
 The RMA Number can be found in the JIRA issue:
@@ -127,6 +127,13 @@ For Vix Hsieh:
 >
 >JIRA will automatically assign the issue back to the reporter and update the issue status from 'Invoice Needed' to 'Awaiting Payment'.
 ---
+### 4-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+
+
 ### 5 - Confirm payment & offer info for return
 
 Once the customer paid for the amount, tag Vix / Maines / WeiTing on the Supt-Private Channel to confirm the payment status. The agent can check the payment status by scanning the QR code on the invoice.

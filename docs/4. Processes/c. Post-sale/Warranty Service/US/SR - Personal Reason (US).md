@@ -21,11 +21,17 @@ Once confirmed that the customer would like to return the order (must be a full 
 
 ![](https://lh6.googleusercontent.com/B9WsXkXUGJz2mZjdxPtBNdhj_RA0aMjHmyLJj1KIXhqP0qyvR96VTB1p2ZomNWsFZtsHzU-wiEU_l1jXmEAYUXnDFZco-3TAy3lpaN5J4E5txpc1ENwka_Cs8pbb0Th4-LZ78YfyNngGE_Wpgq3Yceoxndy_vkQcL1eCB4I6OxGB84Kw_yzcHsSZLcrc)
 
-### 2 - Create a return on Aftership
+### 2-1 - Create a return on Aftership
 Once the client replies with all the requested information, create a return as instructed below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Nvhf-NB8uydO3u-8-iXva9A48PbK1KLtv8HtoIg1T87MxTw33AXtGn1v_YJ_FyExsZRwLQdQ6DF3/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
+### 2-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
+
 <br>
 ### 3 - Offer return label
 

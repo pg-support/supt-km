@@ -83,7 +83,7 @@ For Vix Hsieh:
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 3 - Issue created, offer info for return
+### 3-1 - Issue created, offer info for return
 After Vix confirms the SR request, he will change the assignee to the agent.
 
 Reply the Zendesk ticket with Macro: <u>[Service Center] SR (Regular) - 2</u>.
@@ -100,6 +100,12 @@ B. Leave only the address for the customer’s located country. 
 ![[SR.jpg]]
 
 C. Submit as pending.
+
+### 3-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
 
 ### 4 - Check the tracking# for the return package 
 After receiving the tracking number along with the corresponding carrier information from the customer, please add this information to the JIRA issue.

@@ -82,7 +82,7 @@ For Vix Hsieh
 >Assignee: Automatic (Vix Hsieh)
 ---
 
-### 3 - Issue created, awaiting the return label
+### 3-1 - Issue created, awaiting the return label
 Once the issue is created on JIRA, agent can get the RMA Number immediately.
 
 **Spark LINK:**
@@ -100,6 +100,12 @@ Reply the ticket with a heads-up, for example:
 > Thanks for providing the information. 
 > 
 > I will keep you posted for the call tag/shipping label to return your package. Please wait for further notice. Thank you.
+
+### 3-2 - Check the registration status
+Check the registration status by the serial number. Registered products must be deregistered before being sent back to Positive Grid.
+
+Go to [Portal](https://portal.positivegrid.com/warranty/search-warranty-period) and remove the registered item if it's necessary.
+![[Pasted image 20240710102318.png]]
 
 ### 4 - Get the return label on JIRA
 Our RMA specialist, Vix Hsieh, will tag the agent on JIRA, attach the **return label** to the issue within 3 days. The issue will be assigned to the agent who requests a label. 
@@ -126,7 +132,6 @@ Ensure that the content in the macro corresponds accurately with the Zendesk tic
 
 Submit as ‘Pending’.
 ![[Pasted image 20240115162420.png]]
-
 
 ### 5 - Check the tracking# for the returned package
 Because the label is prepared by Positive Grid, once the package is en route to the service center, the agent can proceed with the Replacement Request.
