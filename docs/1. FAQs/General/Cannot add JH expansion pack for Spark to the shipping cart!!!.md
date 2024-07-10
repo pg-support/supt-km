@@ -1,6 +1,7 @@
 # Cannot add JH expansion pack for Spark to the shipping cart!!!
 
 240709 Updated:
+
 OST team has updated the behavior when adding Experience Jimi Hendrix™ for Spark to the cart and modified wording on the PDP of Experience Jimi Hendrix™.
 
 When the customer add Experience Jimi Hendrix™ for Spark to the cart, it will also automatically add a Spark (40) to the cart.
