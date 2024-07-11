@@ -2,8 +2,15 @@
 
 - When Spark LIVE is used as an audio interface via the USB cable, it will be recognized as a 2-in/2-out device.
   
+  ![[Pasted image 20240711154030.png]]
+  
+  ![[Pasted image 20240711154046.png]]
+
+
 - No matter which input you select, **all physical input channels** will record through the same input. (Think of it like a mixer, in a way).
-  For example, when 
+  
+
+
   
 
 

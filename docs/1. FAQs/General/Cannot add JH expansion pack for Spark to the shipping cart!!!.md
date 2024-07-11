@@ -4,12 +4,10 @@
 
 OST team has updated the behavior when adding Experience Jimi Hendrix™ for Spark to the cart and modified wording on the PDP of Experience Jimi Hendrix™.
 
-When the customer add Experience Jimi Hendrix™ for Spark to the cart, it will also automatically add a Spark (40) to the cart.
-
-If the customer purchased the Spark series on Positive Grid's official website recently, we can create an order for Experience Jimi Hendrix™ for Spark on Shopify.
-
-Use updated macro 'Spark:: Experience Jimi Hendrix™ for Spark (240709)':
-
+Previously, one has to have any Spark amp in cart in order to purchase Experience Jimi Hendrix™ for Spark.  
+   
+Now, it's possible to purchase it separately.  
+![[Pasted image 20240711141409.png]]
 ---
 ### Macro Content
 
