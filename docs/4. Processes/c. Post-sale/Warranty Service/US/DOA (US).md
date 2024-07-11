@@ -20,7 +20,7 @@ Insert the correct country in the email subject. Submit as pending. (If the cust
 <br>
  **Special Case:**
  <br>
- a. The customer requests to change the address for the replacement
+ a. The customer provides a different address or requests to change the address for the replacement.
  <br>
 After inquiring about basic info, if the customer provides a shipping address that differs from the one on the original order, process with step 2 in: [[Different Shipping Address for the Replacement]]
 
