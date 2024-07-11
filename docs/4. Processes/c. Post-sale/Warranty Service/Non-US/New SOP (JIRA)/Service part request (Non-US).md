@@ -32,6 +32,8 @@ Free resend if missing.
 - Mexico - $126 USD
 
 <u>Handle Strap</u> - $30
+
+
 <br>
 <br>
 #### Spark MINI
@@ -44,7 +46,7 @@ We currently do not have knobs in stock, please ask the customer to consider pur
 <br>
 #### Spark GO
 <u>USB Cable (type A to C)</u> - $20
-<u>Pin + 2 Straps</u> - $20
+<u>Pin + 2 Straps (Black)</u> - $20
 
 <br>
 <br>
