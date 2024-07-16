@@ -1,4 +1,4 @@
-# OOW for BIAS Head/Rack/MINI/Pedal
+# Discontinued Products - BIAS Head/Rack/MINI/Pedal
 
 Since July 2024, the following hardware products are discontinued:
 

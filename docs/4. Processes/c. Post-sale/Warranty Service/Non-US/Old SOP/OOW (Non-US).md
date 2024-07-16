@@ -77,7 +77,7 @@
 ~~![](https://lh5.googleusercontent.com/karB5Izc8PCag-WbHoFhY_Lwed4M_d5kLpiCIxCoHIN3Zis6gZGC3IiRY8DEp-uF5T3_okzX8DdeUqCiQfOl8xrYp2T9nhU_9y2wAWGZA7nBefflJLBgL0OKhYxTPsII7dbPIghwTsM7p1WAykgWty76buLIfGZvPx6OKINGeGNinKAOwHpEXUFZGJeP)~~
 
 ### ~~6 - Request for replacement~~
->~~Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.~~
+>~~Please make sure to check [[RMA & OOW Process per product (OLD)]] to see what kind of replacement (regular or B-stock) to request for.~~
 
 ~~Once a TRK# is provided so we can confirm the returned package is on the way, the agent can proceed and request a replacement by submitting a ticket on JIRA ([[Replacement, Resend (JIRA)]]).~~
 

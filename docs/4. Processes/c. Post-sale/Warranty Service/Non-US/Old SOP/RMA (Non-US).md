@@ -52,7 +52,7 @@
 ### ~~5 - Check the TRK# for the returned package~~
 ~~Check the tracking with the corresponding carrier. As soon as the package is on the road, we may request the replacement.~~
 
->~~Please make sure to check [[RMA & OOW Process per product]] to see what kind of replacement (regular or B-stock) to request for.~~
+>~~Please make sure to check [[RMA & OOW Process per product (OLD)]] to see what kind of replacement (regular or B-stock) to request for.~~
 
 ~~Request a replacement by submitting a ticket on JIRA ([[Replacement, Resend (JIRA)]]).~~
 
