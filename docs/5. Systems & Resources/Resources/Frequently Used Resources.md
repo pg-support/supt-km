@@ -97,7 +97,11 @@
 Help Center Background HEX # 0e0e0e 
 
 
+
 Add this code to the last part of the source code to unify the font:
 `<script> document.documentElement.setAttribute('data-article', 'v2'); </script>`
 
 ![[Pasted image 20240716154001.png]]
+
+Related ticket:
+https://positivegrid.atlassian.net/browse/OSK-1212
