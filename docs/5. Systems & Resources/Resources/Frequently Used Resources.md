@@ -39,7 +39,7 @@
 → Shared account. Please check [PG Supt Login Information](https://docs.google.com/document/d/132gWUMI_XZCs5FGk0rVNSGshh_Oo1NYmQa_hPh_I86c/edit?usp=sharing).
 
 [MaestroQA](<[https://app.maestroqa.com/home](https://app.maestroqa.com/home)>) 
-(Access permission: Joseph)
+(Access permission: Heyling)
 → Login information: Each user’s company email
 
 
