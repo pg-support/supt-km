@@ -9,9 +9,9 @@ Always capitalize our brand names, products and trademarked names!
 
 ### Spark 2
 
-### Spark EDGE
+### ~~Spark EDGE~~
 
-### Spark NEO
+### ~~Spark NEO~~
 
 ### Spark Traveler Gig Bag
 
