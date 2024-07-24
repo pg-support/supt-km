@@ -8,6 +8,7 @@ PGBot can be found in Positive Grid's Slack channel.
 ---
 ### Whitelist Tool
 [Start Workflow]([https://slack.com/shortcuts/Ft075LSK84EQ/caa05ae12b4ee0165058dd77c89fc05a](https://slack.com/shortcuts/Ft075LSK84EQ/caa05ae12b4ee0165058dd77c89fc05a))
+
 This tool helps the support team add a specific serial number to the whitelist. 
 
 After the first usage, you’ll be able to summon the bot by typing /Add hardware SN to whitelist (or simply type “/add”).
