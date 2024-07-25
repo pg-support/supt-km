@@ -2,17 +2,16 @@
 
 ## Email Preferences
  
-The customers now can customize the communication preferences on the "My Account page":
+The customers now can customize the contact setting on the "My Account page":
 
-![[Pasted image 20230721143739.png]]
+![[Pasted image 20240725122904.png]]
 
 
 The customer can also manage the email preferences in the email footer:
 
-![[Xnip2023-08-02_15-21-40.jpg]]
+![[Pasted image 20240725123026.png]]
 
-
-![[Xnip2023-08-02_15-23-18.jpg]]
+![[Pasted image 20240725123050.png]]
 
 
 ## SMS Preferences:
