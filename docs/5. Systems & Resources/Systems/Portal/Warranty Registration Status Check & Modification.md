@@ -13,11 +13,11 @@ You can check warranty and registration status of customers' products using the 
 	![[Pasted image 20240703104439.png]] 
    
 2. You can check the warranty status of a product using its serial number.
-   ![[Pasted image 20240703110622.png]]*The serial number must exactly match the one on the product. For example, the search can't recognize 's040c63a9358', but 'S040C63A9358'.*
+   ![[Pasted image 20240729122449.png]]*The serial number must exactly match the one on the product. For example, the search can't recognize 's040c63a9358', but 'S040C63A9358'.*
    
    
 3. Click on the serial number on the left of the search result and you'll be able to see the warranty details.
-	![[Pasted image 20240703112159.png]]
+	![[Pasted image 20240729122523.png]]
 	
 
 
@@ -29,31 +29,56 @@ You can check warranty and registration status of customers' products using the 
 2. You can use the Positive Grid account to check the registered product(s) under the account. All product(s) registered with the Positive Grid account will be listed.
    ![[Pasted image 20240703112524.png]]
    	
-3. Click on the serial number on the left of the search result and you'll be able to see the warranty details.
-   ![[Pasted image 20240703112159.png]]
+3. Click on the serial number on the left of the search result and you'll be able to see the register/warranty details.
+   ![[Pasted image 20240729122601.png]]
 
 ## Edit Warranty
-
+<br>
 ### Edit
-Currently unavailable.
-Use [[PGBot Commands]] -> Warranty Check Tool.
+Edit the information about the registered product.
+Order#
+Purchase date
+Received date
+Store Name
+Pictures
 
+![[Pasted image 20240729123648.png]]
+
+For duplicate item:
+The same product is listed twice on the 'My Product' page.
+
+Copy the Order# from the duplicate item. 
+
+After that, remove the unit without serial number and add it to the registered product. 
+
+**Ensure the SKUs match.**
+![[Pasted image 20240703155348.png]]
+<br>
+<br>
 ### Extend
-Currently unavailable.
-Use [[PGBot Commands]] -> Warranty Check Tool.
+Extend the warranty.
+*After extending the warranty, it takes a few minutes to synchronize with the system.  
 
+Fill out the extended warranty date, reason, and ticket number:
+![[Pasted image 20240729123844.png]]
+<br>
+<br>
 ### Transfer
-Currently unavailable.
-First, deregister the product, then instruct the new owner to register it manually.
-
-### Deactivate
+Transfer the registered product to a specific user.
+Before transferring the product, please confirm that the email account is associated with a Positive Grid account.
 ***This process can NOT be undone, so please confirm before proceeding.***
 
-1. Click 'Deactivate' button on the Order Detail page.
-   ![[Pasted image 20240703112416.png]]
+Fill out the new holder's email, reason, and ticket number:
+![[Pasted image 20240729124103.png]]
+Currently unavailable.
+First, deregister the product, then instruct the new owner to register it manually.
+<br>
+<br>
+### Deactivate
+Reset the registration status of a product.
+***This process can NOT be undone, so please confirm before proceeding.***
 
-2. Fill out the deactivate reason and ticket number:
-   ![[Pasted image 20240703111850.png]]
+Fill out the deactivate reason and ticket number:   ![[Pasted image 20240703111850.png]]
 
    Deregistration request for resale:
    Resale to someone else.
@@ -61,9 +86,3 @@ First, deregister the product, then instruct the new owner to register it manual
    Deregistration request for resell: 
    Request from Thomann, Sweetwater, MI, etc. 
    If there is no Zendesk ticket, use YYMMDD as the ticket number, e.g. 240703.
-   
-   Duplicated item:
-   The same product is listed twice on the 'My Product' page.
-   Directly remove the unit without serial number. **Ensure the SKUs match.**
-   ![[Pasted image 20240703155348.png]]
-
