@@ -32,6 +32,7 @@ You can check warranty and registration status of customers' products using the 
 3. Click on the serial number on the left of the search result and you'll be able to see the register/warranty details.
    ![[Pasted image 20240729122601.png]]
 
+
 ## Edit Warranty
 <br>
 ### Edit
@@ -78,11 +79,25 @@ First, deregister the product, then instruct the new owner to register it manual
 Reset the registration status of a product.
 ***This process can NOT be undone, so please confirm before proceeding.***
 
-Fill out the deactivate reason and ticket number:   ![[Pasted image 20240703111850.png]]
+Fill out the deactivate reason and ticket number:   
+![[Pasted image 20240703111850.png]]
 
-   Deregistration request for resale:
-   Resale to someone else.
+Deregistration request for resale:
+Resale to someone else.
    
-   Deregistration request for resell: 
-   Request from Thomann, Sweetwater, MI, etc. 
-   If there is no Zendesk ticket, use YYMMDD as the ticket number, e.g. 240703.
+Deregistration request for resell: 
+Request from Thomann, Sweetwater, MI, etc. 
+If there is no Zendesk ticket, use YYMMDD as the ticket number, e.g. 240703.
+
+
+### Add Device
+Register the product for the customer.
+*Only register the product for the customer when they run into the duplicate SN.
+
+
+![[Pasted image 20240729143431.png]]
+
+
+Fill out the required information:
+*Note: Do NOT ask the known info.*
+![[Pasted image 20240729143852.png]]
