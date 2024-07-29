@@ -88,16 +88,23 @@ Resale to someone else.
 Deregistration request for resell: 
 Request from Thomann, Sweetwater, MI, etc. 
 If there is no Zendesk ticket, use YYMMDD as the ticket number, e.g. 240703.
-
-
+<br>
+<br>
 ### Add Device
 Register the product for the customer.
-*Only register the product for the customer when they run into the duplicate SN.
-
-
 ![[Pasted image 20240729143431.png]]
+
+**Only register the product for the customer when they run into the duplicate SN:**
+The customer is unable to register the product because the unit has been already registered.
+
+Request a picture of the serial number and the following information:
+Order#
+Purchase date
+Received date
+Store name
+Customer email
+*Note: Do NOT ask the known info.*
 
 
 Fill out the required information:
-*Note: Do NOT ask the known info.*
 ![[Pasted image 20240729143852.png]]
