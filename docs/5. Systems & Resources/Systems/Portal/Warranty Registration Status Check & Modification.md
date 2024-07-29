@@ -45,12 +45,12 @@ Pictures
 
 ![[Pasted image 20240729123648.png]]
 
-For duplicate item:
+For duplicate items:
 The same product is listed twice on the 'My Product' page.
 
 Copy the Order# from the duplicate item. 
 
-After that, remove the unit without serial number and add it to the registered product. 
+After that, remove the unit without a serial number and add it to the registered product. 
 
 **Ensure the SKUs match.**
 ![[Pasted image 20240703155348.png]]
@@ -71,8 +71,7 @@ Before transferring the product, please confirm that the email account is associ
 
 Fill out the new holder's email, reason, and ticket number:
 ![[Pasted image 20240729124103.png]]
-Currently unavailable.
-First, deregister the product, then instruct the new owner to register it manually.
+
 <br>
 <br>
 ### Deactivate
