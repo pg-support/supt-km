@@ -50,7 +50,12 @@
    
    > If it's a [[SR - Personal Reason (Non-US)]] case, make sure NOT to refund the shipping fee. 
    
-6). Confirm the action. Note that the refund may take several business days to appear on the customer's account.
+6). Confirm the action and ensure the refund amount is correct. Note that the refund may take several business days to appear on the customer's account.
+
+*Some of the taxes won't be included in the refund, you'll need to manually issue the refund for them.*
+
+![[Pasted image 20240805123230.png]]
+
 
 7). Inform the customer about the refund via Zendesk by using the macro "Already refund..." for reference. Make sure to provide all the relevant details and answer any additional questions they may have. (END)
    
