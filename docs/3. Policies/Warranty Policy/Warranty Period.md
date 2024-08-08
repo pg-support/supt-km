@@ -11,6 +11,10 @@
 -   1-year warranty for rest of the world
 
 
+Some of our dealers offer a longer warranty than Positive Grid. For example, Thomann (EU) provides a 3-year warranty, while Positive Grid only covers the product for 2 years. After the warranty period, please ask the customer to contact the dealer directly. (240808)
+
+
+
 ## Extended warranty for Pre-order Spark (expired)
 
 -   2-year warranty (from the date of delivery) for all pre-ordered Spark - 
