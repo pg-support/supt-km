@@ -9,13 +9,13 @@ Always capitalize our brand names, products and trademarked names!
 
 ### Spark 2
 
-### ~~Spark EDGE~~
-
-### ~~Spark NEO~~
+### Spark 2 Carry Bag
 
 ### Spark Traveler Gig Bag
 
 ### Spark MINI
+
+### Spark MINI Vai
 
 ### Spark GO
 
