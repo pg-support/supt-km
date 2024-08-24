@@ -32,7 +32,7 @@ S040C5**9A**xxxxx, S040C9**02**xxxxx, and S040C9**0C**xxxxx
 
 *It means the amp was manufactured in 2019 & 2020*
 
-In this case, we'll assist the customer to return/exchange the amp (PG paid).
+In this case, we'll assist the customer in returning/exchanging the amp (PG paid).
 
 
 Provide the Information if it's necessary:
