@@ -1,5 +1,5 @@
 # How to request a VAT or tax refund (Hardware & Software)
- 
+
 > We can create the invoice w/wo VAT for orders on Shopify & Amazon.
 
 VAT is applied to several regions, and the configuration is established on a per Shopify store basis. Due to variations in the tax rate for each country, it cannot be set up individually for each country."
@@ -66,18 +66,22 @@ We'll also issue a partial refund directly as a VAT refund on Shopify later (dep
 
 ![[Pasted image 20231109122002.png]]
 
-## Direct VAT Refunds
-**This policy is applicable to all  customers with valid VAT number and business address in the EU countries except Germany (DE), we'll issue a partial refund directly as a VAT refund on Spotify later (depending on the tax being charged on Shopify).**
 
-For example, Order#EU-24504 has 20% tax, we will issue a partial refund €19.84 as tax return.
+## Direct VAT Refunds
+
+Positive Grid does NOT provide a tax refund unless the customer can provide a relevant documents. (20240924)
+
+~~**This policy is applicable to all  customers with valid VAT number and business address in the EU countries except Germany (DE), we'll issue a partial refund directly as a VAT refund on Spotify later (depending on the tax being charged on Shopify).**~~
+
+~~For example, Order#EU-24504 has 20% tax, we will issue a partial refund €19.84 as tax return.~~
 
 ![[Pasted image 20231109122424.png]]
 
-If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).
+~~If the order doesn't include tax & tax rate, please refer to the [VAT tax rate form](https://docs.google.com/spreadsheets/d/1Ff020CG0y80BugqOhEu_gE3a7jkCHxFLIG1wkUZaHX8/edit#gid=0).~~
 
-Please leave the refund reason as "VAT return - VAT No.", for example, "VAT return - FR79894580356". 
+~~Please leave the refund reason as "VAT return - VAT No.", for example, "VAT return - FR79894580356".~~ 
 
-Refer to the [[Refund Process]] for further details.
+~~Refer to the [[Refund Process]] for further details.~~
 
 
 ---
