@@ -7,10 +7,19 @@
 
 - If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
 
-### Error Code: -14
+### Error Code:  13/14
+- After entering update mode, the computer doesn't recognize the device or fails to communicate with it. Try unplugging and reconnecting the USB, then run the update again.
+
 - The error code indicates Python installation can not be completed. Please ask the user to try and again with the correct updating process, as instructed on the Help Center.
   
 - If issue persists, please offer log tool with Zendesk macro *Spark GO::Firmware Update Log* and see if it works.
+
+### Error code: 15
+- The path contains non-English characters. Move the updater or log tool to a path with only English characters, such as C:.
+
+### Error code: 16
+- The update failed midway. Try switching the USB port and run the update again.
+
 
 ### Firmware Update Fail
 
