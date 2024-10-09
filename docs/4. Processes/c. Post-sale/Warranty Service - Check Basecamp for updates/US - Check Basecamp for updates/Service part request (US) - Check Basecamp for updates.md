@@ -3,7 +3,7 @@
 > [Available Service Part List](https://docs.google.com/spreadsheets/d/17FoJeB3ylemRhV1klgWIiOZhmh5CjZy8d6Rh_Z6uioY/edit#gid=0)
 ## Free resend
 
-> We can resend accessories free of any charge if the PSU is ungrounded (also see [[Regular PSU requests - Check Basecamp for updates]]) or any item is missing (also see [[Received Wrong & Missing Items]]).
+> We can resend accessories free of any charge if the PSU is ungrounded (also see [[Regular PSU requests - Check Basecamp for updates]]) or any item is missing (also see [[Received Wrong & Missing Items - Check Basecamp for updates]]).
 
 To resend a free accessory to a customer, simply offer a corresponding coupon code (depending on the price) from [Support Coupon](https://docs.google.com/spreadsheets/d/14wsfMVwHhbsf5ztvkXnpwNhDYkt7WYIZCYWDKMu_SnM/edit?usp=sharing) list to the customer, and refer the customer to the corresponding purchase link below for the accessory. Once they check out and complete the order, the shipment will be arranged promptly. 
 

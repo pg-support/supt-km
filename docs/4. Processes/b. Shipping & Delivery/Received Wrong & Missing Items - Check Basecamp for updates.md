@@ -1,4 +1,4 @@
-# Received Wrong & Missing Items
+# Received Wrong & Missing Items- Check Basecamp for updates
 1. Make sure all the items in the order have been shipped. If anything is NOT shipped yet (instead of 'missing'), please verify when it'll be shipped and communicate accordingly with the customer.
    
 2. If everything in the order is shipped and there're wrong/missing items, ask the customer to provide the following information:

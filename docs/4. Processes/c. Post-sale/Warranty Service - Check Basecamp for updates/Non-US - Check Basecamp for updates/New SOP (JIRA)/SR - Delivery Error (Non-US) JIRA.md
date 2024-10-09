@@ -5,7 +5,7 @@
 > 
 > The SR process only applies to orders that still within 30 days of delivery.
 > 
-> If the customer didn't receive one of the items in the order, please follow [[Received Wrong & Missing Items]].
+> If the customer didn't receive one of the items in the order, please follow [[Received Wrong & Missing Items - Check Basecamp for updates]].
 > 
 > Positive Grid will cover all the return label fee.
 

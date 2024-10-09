@@ -1,4 +1,4 @@
-# Shipment Lost
+# Shipment Lost- Check Basecamp for updates
 > If the tracking shows the order is delivered (and wasn’t [[Returned to Shipper]]) but the customer claims otherwise, 
 > 
 > and/or

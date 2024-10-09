@@ -110,7 +110,7 @@ If we fail to acquire the correct information from the customer before the requi
 
 ## Order Cancellation
 
-- For order cancellations, follow the similar process as [[Order Cancellation Process]]:
+- For order cancellations, follow the similar process as [[Order Cancellation Process - Check Basecamp for updates]]:
 
 - If the order shows 'Not started / Opened / Delayed' in SKULabs, manually cancel the order in SKULabs, and proceed by clicking the 'Cancel Order' option in the order details in Amazon Seller Central.
 

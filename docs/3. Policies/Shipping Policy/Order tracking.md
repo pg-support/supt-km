@@ -11,6 +11,6 @@
 	Keep following up on the original tracking number. If it's delivered successfully, follow the [[SR - Delivery Error (US) - Check Basecamp for updates]]  or [[SR - Delivery Error (Non-US)]] processes.
 <br>
 2. Issue a refund: 
-     Claim form needed. [[Shipment Lost]]
+     Claim form needed. [[Shipment Lost - Check Basecamp for updates]]
      
 	Remember to inform logistics team that you've requested a RS or issued a refund on the JIRA ticket. 

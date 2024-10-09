@@ -1,4 +1,4 @@
-# Order Cancellation Process
+# Order Cancellation Process- Check Basecamp for updates
 > If the order is delivered prior to the cancellation request, the order cannot be canceled and the customer must proceed with the regular sales return ([[SR - Personal Reason (Non-US)]]) process.
 
 ## Verify the shipment status

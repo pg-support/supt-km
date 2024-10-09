@@ -11,7 +11,7 @@
 Free resend if the PSU is ungrounded (see [[Regular PSU requests - Check Basecamp for updates]]). 
 
 ### Handle Strap (Spark 40)
-Free resend if missing (see [[Received Wrong & Missing Items]]).
+Free resend if missing (see [[Received Wrong & Missing Items - Check Basecamp for updates]]).
 
 ### USB (All hardware products)
 Free resend if missing.
