@@ -1,4 +1,4 @@
-# Register Product and Update Warranty
+# Register Product and Update Warranty - Check Basecamp for updates
 
 >Once the customer receives the product, they will need to manually register it and update the warranty.
 >

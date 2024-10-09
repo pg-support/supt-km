@@ -81,7 +81,7 @@ On the ETA of the returning package, check the tracking with the corresponding c
 
 ### 5-2 - Refund
 
-- Once delivered, the agent can proceed with the [[Refund Process]].
+- Once delivered, the agent can proceed with the [[Refund Process - Check Basecamp for updates]].
 
 - **Since a $15 shipping fee needs to be subtracted from the final refund, make sure to manually put in the refund amount.** 
 ![[Pasted image 20230425160716.png]]

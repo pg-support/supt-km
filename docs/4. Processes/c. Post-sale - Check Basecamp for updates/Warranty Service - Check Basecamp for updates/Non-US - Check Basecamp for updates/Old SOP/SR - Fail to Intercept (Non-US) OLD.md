@@ -54,4 +54,4 @@ Service center should send the return label directly to the agent’s inbox with
 ![](https://lh4.googleusercontent.com/hlZGkgsGxrlifPoJDialqF9Qz5H0ZHeIVqyZidNyTN_EI90S4OhyUy4WURBDbD8pkRH6VULo8pv0c36JGBOq1aqddy6QpWjv5xrukiqhACO5Ie0Mi1xA8r1k4P4R-Wmgor3lMt3i__an7u0Xd5997N1awHFBgmhXTkCkw-LQpbrX08q0NUurCls_I2aV)
 
 ~~#### Ready for Warranty Service~~
-~~If ‘Case Status’ is updated to ‘Ready for Warranty Service', the agent can proceed with the [[Refund Process]] to refund the order. (END)~~
+~~If ‘Case Status’ is updated to ‘Ready for Warranty Service', the agent can proceed with the [[Refund Process - Check Basecamp for updates]] to refund the order. (END)~~

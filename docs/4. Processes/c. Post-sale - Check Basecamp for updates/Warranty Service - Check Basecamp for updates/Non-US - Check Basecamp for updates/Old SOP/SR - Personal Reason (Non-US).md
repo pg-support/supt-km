@@ -60,7 +60,7 @@
 ~~![](https://lh4.googleusercontent.com/hlZGkgsGxrlifPoJDialqF9Qz5H0ZHeIVqyZidNyTN_EI90S4OhyUy4WURBDbD8pkRH6VULo8pv0c36JGBOq1aqddy6QpWjv5xrukiqhACO5Ie0Mi1xA8r1k4P4R-Wmgor3lMt3i__an7u0Xd5997N1awHFBgmhXTkCkw-LQpbrX08q0NUurCls_I2aV)~~
 
 #### ~~Ready for Warranty Service~~
--  ~~If ‘Case Status’ is updated to ‘Waiting for Warranty Service, the agent can proceed with the [[Refund Process]]. (END)~~ 
+-  ~~If ‘Case Status’ is updated to ‘Waiting for Warranty Service, the agent can proceed with the [[Refund Process - Check Basecamp for updates]]. (END)~~ 
 - ~~If a $20 restocking fee needs to be deducted from the refund, make sure to do so during the refund.~~
   
   ~~![[Pasted image 20230323175152.png]]~~

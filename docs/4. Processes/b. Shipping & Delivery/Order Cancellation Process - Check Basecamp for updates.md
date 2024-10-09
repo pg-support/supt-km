@@ -13,7 +13,7 @@
 
 If the order is in 'awaiting fulfillment' or 'shipped' status, it cannot be cancelled and we'll need to ask the customer to refuse the shipment.
 
-If the customer refuse the shipment and the package is confirmed on its way to our service center (return to sender), proceed with [[Refund Process]]. 
+If the customer refuse the shipment and the package is confirmed on its way to our service center (return to sender), proceed with [[Refund Process - Check Basecamp for updates]]. 
 
 If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US) - Check Basecamp for updates]] or [[SR - Personal Reason (Non-US)]]
    
@@ -25,7 +25,7 @@ If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US)
    
    ![[Pasted image 20230322170508.png]]
    
-2). Once the order is cancelled in SKULabs, proceed with [[Refund Process]]. 
+2). Once the order is cancelled in SKULabs, proceed with [[Refund Process - Check Basecamp for updates]]. 
 
 > For refunding Amazon orders, please refer to [[Amazon Support SOPs]].
 

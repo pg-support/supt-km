@@ -93,7 +93,7 @@ Inform the customer that they will be provided with a new tracking number for th
 <br>
 <br>
 #### Refund
-If an estimated time of arrival (ETA) is available on the carrier's tracking site, you can proceed with the [[Refund Process]]  (because the label is provided by Positive Grid) and communicate with the customer using the following message:
+If an estimated time of arrival (ETA) is available on the carrier's tracking site, you can proceed with the [[Refund Process - Check Basecamp for updates]]  (because the label is provided by Positive Grid) and communicate with the customer using the following message:
 
 > We can see that your package is on its way back to our service center. To expedite up the process, I've issued a refund for your order.
 > 

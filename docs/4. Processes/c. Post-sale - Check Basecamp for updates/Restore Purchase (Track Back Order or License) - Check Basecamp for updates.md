@@ -1,4 +1,4 @@
-## Restore Purchase (Track Back Order or License)
+## Restore Purchase (Track Back Order or License) - Check Basecamp for updates
 If a customer claims to have made a purchase previously, but we are unable to track it using their current email, kindly request the following information from them:
 
 

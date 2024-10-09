@@ -144,7 +144,7 @@ If the case requires a refund, we need to wait for the package to be received by
 > 
 > Kindly wait for further notice. Thank you.
 
-When confirming the package is delivered, proceed with the [[Refund Process]].
+When confirming the package is delivered, proceed with the [[Refund Process - Check Basecamp for updates]].
 
 After issuing a refund, close the support request on Zendesk.
 

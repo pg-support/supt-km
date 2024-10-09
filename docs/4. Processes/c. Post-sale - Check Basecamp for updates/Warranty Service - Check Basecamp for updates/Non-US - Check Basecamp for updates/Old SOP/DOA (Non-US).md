@@ -67,4 +67,4 @@
 
 ~~On the ETA of the returning package, check the [RMA Form](https://drive.google.com/drive/folders/1fYeg8mAWoIm7QqNo04HF5kmb49IqBUpa?usp=sharing) to verify if the service center has received it.~~ 
 
-~~Once the package is confirmed to be received, proceed with the [[Refund Process]]. (END)~~
+~~Once the package is confirmed to be received, proceed with the [[Refund Process - Check Basecamp for updates]]. (END)~~

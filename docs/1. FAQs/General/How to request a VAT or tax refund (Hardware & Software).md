@@ -81,7 +81,7 @@ Positive Grid does NOT provide a tax refund unless the customer can provide a re
 
 ~~Please leave the refund reason as "VAT return - VAT No.", for example, "VAT return - FR79894580356".~~ 
 
-~~Refer to the [[Refund Process]] for further details.~~
+~~Refer to the [[Refund Process - Check Basecamp for updates]] for further details.~~
 
 
 ---

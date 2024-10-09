@@ -1,4 +1,4 @@
-# Refund Process
+# Refund Process - Check Basecamp for updates
 - Make sure the order is within 30 days since purchase, unless it's a [special case](#Refund in BigCommerce).
 
 - There are two ways to refund an order. It’s easier to refund via Zendesk. However, if you don't find the correct order to refund in Zendesk, then head to the Shopify website for the action. 

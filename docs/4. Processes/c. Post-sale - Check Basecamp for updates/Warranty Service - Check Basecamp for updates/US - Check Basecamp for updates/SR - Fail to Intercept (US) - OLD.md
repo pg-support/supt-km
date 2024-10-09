@@ -33,4 +33,4 @@ Check the tracking with the corresponding carrier. Once the package is on the ro
 ~~### 6 - Check the status of the received package
 On the ETA of the returning package, check the tracking with the corresponding carrier to verify if the item is delivered. ~~
 
-~~Once it's delivered, proceed with the [[Refund Process]] to refund the order. (END)~~~~~~
+~~Once it's delivered, proceed with the [[Refund Process - Check Basecamp for updates]] to refund the order. (END)~~~~~~
