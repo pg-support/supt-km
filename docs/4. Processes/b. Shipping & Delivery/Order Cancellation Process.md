@@ -15,7 +15,7 @@ If the order is in 'awaiting fulfillment' or 'shipped' status, it cannot be canc
 
 If the customer refuse the shipment and the package is confirmed on its way to our service center (return to sender), proceed with [[Refund Process]]. 
 
-If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
+If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US) - Check Basecamp for updates]] or [[SR - Personal Reason (Non-US)]]
    
    ![[Pasted image 20230209170529.png]]
 
@@ -36,7 +36,7 @@ If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US)
 
 2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. [END]
 
-3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
+3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US) - Check Basecamp for updates]] or [[SR - Personal Reason (Non-US)]]
 
 
 ### Shipped
@@ -46,4 +46,4 @@ If unsuccessful, instruct the customer to follow the [[SR - Personal Reason (US)
 
 2). The macro will explain the situation and inform the customer how to issue a refund after receiving the package. Don't forget to provide the customer with tracking number. [END]
 
-3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US)]] or [[SR - Personal Reason (Non-US)]]
+3). If the customer still wants to request a refund, process with the [[SR - Personal Reason (US) - Check Basecamp for updates]] or [[SR - Personal Reason (Non-US)]]

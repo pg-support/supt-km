@@ -204,7 +204,7 @@ These comprehensive guidelines are designed to assist you in navigating the retu
 	
 
 - Follow the troubleshooting guides and the DOA/RMA process.
-  [[DOA (US)]] [[DOA (Non-US)]] [[RMA (US)]] [[RMA (Non-US)]]
+  [[DOA (US) - Check Basecamp for updates]] [[DOA (Non-US)]] [[RMA (US) - Check Basecamp for updates]] [[RMA (Non-US)]]
 
 
 - However, if a customer insists on returning/exchanging the product due to technical issues, ask them to proceed with the official return process (the customer will need to cover the shipping label). 

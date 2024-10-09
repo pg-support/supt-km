@@ -27,7 +27,7 @@ Follow the steps to diagnose the issue:
 
 1. Is the Spark MINI powering up? 
 	Yes -> go to step 2
-	No ->  [[DOA (US)]], [[DOA (Non-US)]], [[RMA (US)]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]] Reason: Battery Problem
+	No ->  [[DOA (US) - Check Basecamp for updates]], [[DOA (Non-US)]], [[RMA (US) - Check Basecamp for updates]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]] Reason: Battery Problem
 
 2. Try using a different guitar and instrument cable to check if the Spark MINI produces sound properly. If you're using an acoustic guitar with a pickup or a guitar with active pickups, ensure the battery is fully charged.Does it help?  
    
@@ -49,7 +49,7 @@ Follow the steps to diagnose the issue:
 
 5. Is there any sound from Bluetooth / USB / Aux In audio playback?
    
-	Yes -> [[DOA (US)]], [[DOA (Non-US)]], [[RMA (US)]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]] Reason: No Guitar Input
+	Yes -> [[DOA (US) - Check Basecamp for updates]], [[DOA (Non-US)]], [[RMA (US) - Check Basecamp for updates]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]] Reason: No Guitar Input
 	
-	No ->  [[DOA (US)]], [[DOA (Non-US)]], [[RMA (US)]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]]  Reason: No Sound from any Output
+	No ->  [[DOA (US) - Check Basecamp for updates]], [[DOA (Non-US)]], [[RMA (US) - Check Basecamp for updates]] , [[RMA (Non-US)]], [[OOW (US - Everything else)]], [[OOW (Non-US)]]  Reason: No Sound from any Output
 

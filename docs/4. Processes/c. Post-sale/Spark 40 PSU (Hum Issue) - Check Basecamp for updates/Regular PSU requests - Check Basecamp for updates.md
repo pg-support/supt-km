@@ -1,4 +1,4 @@
-# Regular PSU requests
+# Regular PSU requests- Check Basecamp for updates
 > In the initial release of Spark 40, the power supply units (PSU) we offered were ungrounded. Many customers thus encountered humming noise in their Spark amp. Since then, we’ve been offering grounded PSUs for customers who bought the amp that comes with ungrounded PSU.
 > 
 > Grounded PSU has been added to the manufacturing of Spark amp since 2020, thus these days most newly-bought Spark amps should have the grounded PSU included. We must verify if the customer’s issue really is related to ungrounded PSU, or otherwise.
@@ -15,7 +15,7 @@
 
 ### US
 
-- Proceed as a free Service Part purchase, see [[Service part request (US)]]. (TBC)
+- Proceed as a free Service Part purchase, see [[Service part request (US) - Check Basecamp for updates]]. (TBC)
 
 ### Non-US
 

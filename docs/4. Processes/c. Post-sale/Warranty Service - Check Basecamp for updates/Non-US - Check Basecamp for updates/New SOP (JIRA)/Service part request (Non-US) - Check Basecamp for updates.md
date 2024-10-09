@@ -1,14 +1,14 @@
-# Service part request (Non-US)
+# Service part request (Non-US)- Check Basecamp for updates
 > Service part request for non-US region. 
 >
-> For the US, please refer to [[Service part request (US)]] instead.
+> For the US, please refer to [[Service part request (US) - Check Basecamp for updates]] instead.
 >
 > [Available Service Part List](https://docs.google.com/spreadsheets/d/17FoJeB3ylemRhV1klgWIiOZhmh5CjZy8d6Rh_Z6uioY/edit#gid=0)
 
 ## Free resend
 
 ### PSU (Spark 40)
-Free resend if the PSU is ungrounded (see [[Regular PSU requests]]). 
+Free resend if the PSU is ungrounded (see [[Regular PSU requests - Check Basecamp for updates]]). 
 
 ### Handle Strap (Spark 40)
 Free resend if missing (see [[Received Wrong & Missing Items]]).

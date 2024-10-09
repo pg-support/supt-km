@@ -10,6 +10,6 @@
    
 ![](https://lh6.googleusercontent.com/UjVtclkEzvmWK47cycvRXMdJAxzPnBlM8JMXx3LJUaUVlEPOUsffSaP1MFZrNJvXBP-YtZspvhjxlAxHn0GkZz3p1YRze3COZM4MbGFgrc6c5axfWss3XCo37CXecmyuPTnosCV2324rjA5AANuc3Sw)
    
-4. If it is confirmed that the wrong cable is being used, follow the Service Part Request process: [[Service part request (US)]] or [[Service part request (Non-US)]].
+4. If it is confirmed that the wrong cable is being used, follow the Service Part Request process: [[Service part request (US) - Check Basecamp for updates]] or [[Service part request (Non-US) - Check Basecamp for updates]].
    
 5. In the event that the correct cable is being used but the issue persists, initiate a replacement of the entire unit through the RMA process.

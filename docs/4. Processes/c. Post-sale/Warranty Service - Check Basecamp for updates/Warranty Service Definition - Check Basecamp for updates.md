@@ -1,4 +1,4 @@
-# Warranty Service Definition
+# Warranty Service Definition- Check Basecamp for updates
 ## DOA
 
 Definition:

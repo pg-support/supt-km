@@ -1,4 +1,4 @@
-# Discontinued Products - BIAS Head/Rack/MINI/Pedal
+# Discontinued Products - BIAS Head/Rack/MINI/Pedal - Check Basecamp for updates
 
 Since July 2024, the following hardware products are discontinued:
 

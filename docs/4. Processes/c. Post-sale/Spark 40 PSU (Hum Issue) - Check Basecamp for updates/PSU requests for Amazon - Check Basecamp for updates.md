@@ -1,9 +1,9 @@
-# PSU requests for Amazon
+# PSU requests for Amazon- Check Basecamp for updates
 > PSU request from Amazon orders, if verified to be ungrounded.
 
 ### US
 
-- Proceed as a free Service Part purchase, see [[Service part request (US)]]. (TBC)
+- Proceed as a free Service Part purchase, see [[Service part request (US) - Check Basecamp for updates]]. (TBC)
 
 ### Non-US
 

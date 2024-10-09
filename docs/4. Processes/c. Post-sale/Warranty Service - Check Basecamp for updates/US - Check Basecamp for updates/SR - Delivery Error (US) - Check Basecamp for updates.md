@@ -1,4 +1,4 @@
-# SR - Delivery Error (US)
+# SR - Delivery Error (US) - Check Basecamp for updates
 
 > **SR (Sales Return)**
 > Delivery Error - Cases which we sent an extra item (return only) or sent a wrong item (return & resend).

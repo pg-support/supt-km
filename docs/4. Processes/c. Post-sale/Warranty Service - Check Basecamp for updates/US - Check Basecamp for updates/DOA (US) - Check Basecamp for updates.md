@@ -1,4 +1,4 @@
-# DOA (US)
+# DOA (US) - Check Basecamp for updates
 
 > **DOA (Dead on Arrival)**
 > The DOA process only applies to orders that still within 30 days of delivery.

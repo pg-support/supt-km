@@ -1,6 +1,6 @@
 # ~~OOW (Non-US)~~
 
-> ~~US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair)]])~~
+> ~~US - OOW - Spark 40 cases: repair (please refer to [[OOW (US - Spark 40 Repair) - Check Basecamp for updates]])~~
 > 
 > ~~EU - OOW - Spark 40 cases: regular replacement~~
 > 

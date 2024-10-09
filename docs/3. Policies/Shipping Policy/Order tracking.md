@@ -8,7 +8,7 @@
   -    If the tracking status remains pending for 2 weeks (from the day that the package is shipped out), that's possibility that the package may eventually be lost. Report it to logistics team ([[Daily Catch-Up (JIRA)]]) then:
 <br>
 1. Request a resend: [[Replacement, Resend (JIRA)]]
-	Keep following up on the original tracking number. If it's delivered successfully, follow the [[SR - Delivery Error (US)]]  or [[SR - Delivery Error (Non-US)]] processes.
+	Keep following up on the original tracking number. If it's delivered successfully, follow the [[SR - Delivery Error (US) - Check Basecamp for updates]]  or [[SR - Delivery Error (Non-US)]] processes.
 <br>
 2. Issue a refund: 
      Claim form needed. [[Shipment Lost]]

@@ -1,4 +1,4 @@
-# RMA (US)
+# RMA (US) - Check Basecamp for updates
 
 > **RMA (Return Merchandise Authorization)**
 > The RMA process applies to orders that are more than 30 days from delivery but still within the warranty period. 

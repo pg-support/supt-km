@@ -1,4 +1,4 @@
-# SR - Personal Reason (US)
+# SR - Personal Reason (US) - Check Basecamp for updates
 
 > **SR (Sales Return)**
 > Personal Reason - Return (Paid by the customer) & Refund

@@ -1,4 +1,4 @@
-# OOW (US - Spark 40 Repair)
+# OOW (US - Spark 40 Repair)- Check Basecamp for updates
 
 > **OOW (Out of Warranty)**
 > This SOP is for OOW - US - Spark 40 only.

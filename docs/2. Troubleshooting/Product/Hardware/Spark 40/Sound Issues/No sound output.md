@@ -42,9 +42,9 @@ Follow the steps to diagnose the issue:
 
 4. Is there any sound from Bluetooth / USB / Aux In audio playback?
    
-	Yes -> [[DOA (US)]], [[DOA (Non-US)]], [[RMA (US)]] , [[RMA (Non-US)]], [[OOW (US - Spark 40 Repair)]], [[OOW (Non-US)]] Reason: No Guitar Input
+	Yes -> [[DOA (US) - Check Basecamp for updates]], [[DOA (Non-US)]], [[RMA (US) - Check Basecamp for updates]] , [[RMA (Non-US)]], [[OOW (US - Spark 40 Repair) - Check Basecamp for updates]], [[OOW (Non-US)]] Reason: No Guitar Input
 	
-	No ->  [[DOA (US)]], [[DOA (Non-US)]], [[RMA (US)]] , [[RMA (Non-US)]], [[OOW (US - Spark 40 Repair)]], [[OOW (Non-US)]]  Reason: No Sound from any Output
+	No ->  [[DOA (US) - Check Basecamp for updates]], [[DOA (Non-US)]], [[RMA (US) - Check Basecamp for updates]] , [[RMA (Non-US)]], [[OOW (US - Spark 40 Repair) - Check Basecamp for updates]], [[OOW (Non-US)]]  Reason: No Sound from any Output
 
 
 
