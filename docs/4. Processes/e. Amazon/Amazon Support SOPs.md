@@ -48,7 +48,7 @@ FBM:
 ---
 ## Order Shipping Inquiry
 
-Please refer to [[SKULabs Operation]] and [[Daily Catch-Up (JIRA)]] for further details on how to inquire about shipping status. 
+Please refer to [[SKULabs Operation]] and [[Daily Catch-Up (JIRA) - Check Basecamp for updates]] for further details on how to inquire about shipping status. 
 
 ### ⚠Important Notice
 **We do NOT ask customers who bought from Amazon to sign claim forms.**
@@ -215,7 +215,7 @@ These comprehensive guidelines are designed to assist you in navigating the retu
 #### Cosmetic damages
 - For cosmetic damage, it's best to advise customers to contact our official support team for further assistance on Zendesk.
   
-- Ask customers for photos of the damages, as suggested in [[Delivery-induced Damage]] SOP.
+- Ask customers for photos of the damages, as suggested in [[Delivery-induced Damage - Check Basecamp for updates]] SOP.
   
 - Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Replacement, Resend (JIRA)]]), or [[#Order Refund]].
   
@@ -326,7 +326,7 @@ If the customer want to request for repair service, ask them to contact our offi
 
 ---
 ## Change Address
-Amazon's system does NOT support changing the address of an order. If the situations calls for it (special case), please fill in [[Daily Catch-Up (JIRA)]] to request changing the address at the warehouse side.
+Amazon's system does NOT support changing the address of an order. If the situations calls for it (special case), please fill in [[Daily Catch-Up (JIRA) - Check Basecamp for updates]] to request changing the address at the warehouse side.
 
 ---
 ## Swap / Add / Deduct Items in an Order

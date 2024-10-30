@@ -14,6 +14,6 @@
 	1. Wrong items: SR process (Delivery Error, return & resend)
 	2. Missing items: Resend request (RS or Service Parts request, depending on the missing item)
 	   
-5. Once the correct item is resent to the customer, report to the logistics team via [[Daily Catch-Up (JIRA)]] by submitting a support request (in Supt-Logistics form) accordingly. 
+5. Once the correct item is resent to the customer, report to the logistics team via [[Daily Catch-Up (JIRA) - Check Basecamp for updates]] by submitting a support request (in Supt-Logistics form) accordingly. 
 6. Process [[Resend (JIRA)]] to resend the missing item to the customer.
 7. Once the resend order is created, the ticket can be closed.

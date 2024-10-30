@@ -1,4 +1,4 @@
-# Daily Catch-up (JIRA)
+# Daily Catch-up (JIRA)- Check Basecamp for updates
 > It serves as a platform for support agents to report cases to the logistics team and receive feedback.
 
 ## Order/Shipping Status
@@ -8,10 +8,10 @@ Inquire about an order if there’s no update/TRK# available for it, including r
 For reporting only: Order has been shipped but still not delivered after 30 days. Please review [[Shipment's on the way but never delivered (over 30 days)]].
 
 ## Change Address
-Please review [[Change Address]] for full process.
+Please review [[Change Address - Check Basecamp for updates]] for full process.
 
 ## Package damaged/wrong/missing
-For reporting only: Please review [[Delivery-induced Damage]] for further details.
+For reporting only: Please review [[Delivery-induced Damage - Check Basecamp for updates]] for further details.
 
 ## Instructions:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSkrpYvpzMrojOlHrb7PHC9BJ0hv_gDQUjcKu_fXfNhge82bwOQMLqKMZmuCAhcsOJRCd-F97PCROu/embed?start=false&loop=false" frameborder="0" width="760" height="560" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

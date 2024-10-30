@@ -1,4 +1,4 @@
-# Delivery-induced Damage
+# Delivery-induced Damage - Check Basecamp for updates
 1. Ask the customer to identify if the damage to the package/product was truly induced by the shipping carrier, i.e. if there’s damage to the package and even causing further damage to the product itself. 
    
 2. Once verified, please ask the customer to provide the following information:
@@ -12,5 +12,5 @@
    
 4. Once uploaded, proceed with the [[DOA (US) - Check Basecamp for updates]]  [[DOA (Non-US)]] process (return & replacement)
    
-5. Once the case is settled, report to the logistics team via [[Daily Catch-Up (JIRA)]] by submitting a ticket request in Logistics-Support (LS) accordingly. 
+5. Once the case is settled, report to the logistics team via [[Daily Catch-Up (JIRA) - Check Basecamp for updates]] by submitting a ticket request in Logistics-Support (LS) accordingly. 
 6. Once the case is reported, the ticket can be closed.

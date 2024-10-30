@@ -1,4 +1,4 @@
-# Change Address
+# Change Address - Check Basecamp for updates
 > Due to the high possibility that the package will be shipped during the change address process, we're not going to accept the address change request now. 
 
 ## Incorrect Shipping Address
