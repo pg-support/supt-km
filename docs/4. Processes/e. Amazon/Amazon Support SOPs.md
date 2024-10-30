@@ -209,7 +209,7 @@ These comprehensive guidelines are designed to assist you in navigating the retu
 
 - However, if a customer insists on returning/exchanging the product due to technical issues, ask them to proceed with the official return process (the customer will need to cover the shipping label). 
 
-- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with either sending a replacement ([[Replacement, Resend (JIRA)]]) or [[#Order Refund]].
+- Ask the customer to notify us after they ship the product(s). Once the product is on the road, we may proceed with either sending a replacement ([[Replacement, Resend (JIRA) - Check Basecamp for updates]]) or [[#Order Refund]].
 
 
 #### Cosmetic damages
@@ -217,7 +217,7 @@ These comprehensive guidelines are designed to assist you in navigating the retu
   
 - Ask customers for photos of the damages, as suggested in [[Delivery-induced Damage - Check Basecamp for updates]] SOP.
   
-- Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Replacement, Resend (JIRA)]]), or [[#Order Refund]].
+- Once it's returned, proceed with either sending a replacement (by requesting a replacement as suggested in [[Replacement, Resend (JIRA) - Check Basecamp for updates]]), or [[#Order Refund]].
   
 
 ### Returning Non-Defective Products (SR)

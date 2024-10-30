@@ -1,4 +1,4 @@
-# Replacement / Resend (JIRA)
+# Replacement / Resend (JIRA) - Check Basecamp for updates
 > Replacement: Request for sending a replacement for DOA/RMA process. 
 > Resend: Request to resend the entire order or specific items (if customers didn't received the items).
 <br>

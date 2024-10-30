@@ -54,7 +54,7 @@
 
 >~~Please make sure to check [[RMA & OOW Process per product (OLD)]] to see what kind of replacement (regular or B-stock) to request for.~~
 
-~~Request a replacement by submitting a ticket on JIRA ([[Replacement, Resend (JIRA)]]).~~
+~~Request a replacement by submitting a ticket on JIRA ([[Replacement, Resend (JIRA) - Check Basecamp for updates]]).~~
 
 ~~Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in [SKULabs](https://docs.google.com/presentation/d/1mV6JgZ9rcZR58MPT-T2y8dGSshv2lfZfOS2Niw2qFRs/edit?usp=sharing).~~ 
 

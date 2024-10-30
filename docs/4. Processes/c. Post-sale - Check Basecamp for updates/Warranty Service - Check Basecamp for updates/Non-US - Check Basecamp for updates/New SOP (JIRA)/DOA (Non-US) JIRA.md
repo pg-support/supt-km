@@ -150,7 +150,7 @@ Verify whether the case requests a replacement or refund.
 #### Replacement
 If the case requires a replacement, it can be requested as soon as the package is on the road. 
 
-To request a replacement, create a replacement issue on JIRA ([[Replacement, Resend (JIRA)]]).
+To request a replacement, create a replacement issue on JIRA ([[Replacement, Resend (JIRA) - Check Basecamp for updates]]).
    
 Logistics team should send out the replacement within roughly 2 days. The shipping information will be available in SKULabs. 
 
