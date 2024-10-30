@@ -1,4 +1,4 @@
-# How to request a VAT or tax refund (Hardware & Software)
+# How to request a VAT or tax refund (Hardware & Software) - Check Basecamp for updates
 
 > We can create the invoice w/wo VAT for orders on Shopify & Amazon.
 

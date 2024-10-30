@@ -1,4 +1,4 @@
-# PSU requests for Amazon- Check Basecamp for updates
+# PSU requests for Amazon - Check Basecamp for updates
 > PSU request from Amazon orders, if verified to be ungrounded.
 
 ### US
