@@ -48,7 +48,7 @@ Navigate to "Seller Central -> Orders -> Manage Returns" and approve the return 
 - Amazon Seller Central is a website that helps people and businesses sell their products on Amazon. It provides tools and services to help sellers manage their inventory, list and sell their products, handle customer service inquiries, and get sales data and analytics.
 
 ### Amazon Seller Central Login Information
-See [[Frequently Used Resources]]
+See [[Frequently Used Resources - Check Basecamp for updates]]
 
 ### Switching Regions
 
@@ -86,7 +86,7 @@ See [[Frequently Used Resources]]
 - For customer service emails related to other Amazon marketplaces, we need to use **Amazon Seller Central** instead.
 
 ### BQool Login Information
-See [[Frequently Used Resources]]
+See [[Frequently Used Resources - Check Basecamp for updates]]
 
 ### Support Ticket
 #### Handling Tickets in BQool

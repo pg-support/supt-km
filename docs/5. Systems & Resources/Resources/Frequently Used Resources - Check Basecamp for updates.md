@@ -1,4 +1,4 @@
-# Frequently Used Resources
+# Frequently Used Resources - Check Basecamp for updates
 
 ## System
 
