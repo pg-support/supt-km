@@ -1,4 +1,4 @@
-# Noise when using Fuzz Face (pedal)
+# Noise when using Fuzz Face (pedal) - Check Basecamp for updates
 
 The sound changes when using Spark LINK with a Fuzz Face pedal due to impedance mismatch.
 

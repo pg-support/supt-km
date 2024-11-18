@@ -1,4 +1,4 @@
-# Crackling interference
+# Crackling interference- Check Basecamp for updates
 
 **Symptom:** 
 There is a crackling noise while using Spark LINK.

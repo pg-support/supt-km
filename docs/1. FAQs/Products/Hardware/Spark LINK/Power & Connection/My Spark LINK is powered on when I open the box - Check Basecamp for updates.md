@@ -1,4 +1,4 @@
-# My Spark LINK is powered on when I open the box
+# My Spark LINK is powered on when I open the box - Check Basecamp for updates
 
 Due to the slim package, Spark LINK TX & RX might be powered on if squeezed accidentally by other packages during transit.
 

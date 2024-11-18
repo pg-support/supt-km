@@ -1,4 +1,4 @@
-# The guitar models are not compatible with Spark LINK
+# The guitar models are not compatible with Spark LINK - Check Basecamp for updates
 
 Using an adapter would be a remedy.
 

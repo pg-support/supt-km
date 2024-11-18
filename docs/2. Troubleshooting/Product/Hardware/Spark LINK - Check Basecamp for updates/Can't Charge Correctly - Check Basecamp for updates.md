@@ -1,4 +1,4 @@
-# Can't Charge Correctly
+# Can't Charge Correctly - Check Basecamp for updates
 
 **Symptom:** 
 Spark LINK doesn't charge when plugged in with the USB cable.

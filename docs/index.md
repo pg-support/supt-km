@@ -25,9 +25,9 @@ Spotify 'Fetch Playlist Fail' / Unknown Error
 -> [Spotify Login Error](https://help.positivegrid.com/hc/en-us/articles/25200624662925-Spark-app-Issue-Spotify-Login-Error)
 <br>
 ### Spark LINK
-[[Crackling interference]]
+[[Crackling interference - Check Basecamp for updates]]
 
-[[Noise occurs when using Spark LINK (especially with single-coil pickup guitar)]]
+[[Noise occurs when using Spark LINK (especially with single-coil pickup guitar) - Check Basecamp for updates]]
 
 
 ### Marketing

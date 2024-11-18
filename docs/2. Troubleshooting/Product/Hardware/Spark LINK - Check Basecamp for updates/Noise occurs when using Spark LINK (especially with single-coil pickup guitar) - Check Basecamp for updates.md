@@ -1,4 +1,4 @@
-# Noise occurs when using Spark LINK (especially with single-coil pickup guitar)
+# Noise occurs when using Spark LINK (especially with single-coil pickup guitar) - Check Basecamp for updates
 
 The noise you hear from the amp might be caused by the pickups themselves (especially with [single-coil pickups](https://www.sweetwater.com/insync/single-coil-pickup-noise/)).
 

@@ -1,4 +1,4 @@
-# LED Status (Battery and Performance)
+# LED Status (Battery and Performance) - Check Basecamp for updates
 
 While powering up, the LED indicator on both devices will display the battery level:
 
