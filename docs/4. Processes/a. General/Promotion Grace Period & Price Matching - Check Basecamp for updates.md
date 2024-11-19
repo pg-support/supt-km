@@ -1,4 +1,4 @@
-# Promotion Grace Period & Price Matching
+# Promotion Grace Period & Price Matching - Check Basecamp for updates
 
 Internally, we'll have a 2-day grace period (prior and after) for most promotions unless specifically addressed. We need to ALWAYS tell the customers that we offer 'price match' as a goodwill gesture for the specific case. We do not want our customers to think we're operating this as a general rule.
 
