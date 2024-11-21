@@ -1,5 +1,5 @@
 
-# Become a Dealer / Bulk Purchasing / W9 Form
+# Become a Dealer / Bulk Purchasing / W9 Form - Check Basecamp for updates
 
 
 ## Become a Dealer
