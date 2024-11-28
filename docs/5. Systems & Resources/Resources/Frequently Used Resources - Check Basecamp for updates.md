@@ -53,7 +53,7 @@
 
 [Support Product Redeem Codes](https://docs.google.com/spreadsheets/d/1MX2LfbxxaTJaE2EqZcMHkTAXOrsXtN9OqQqJTY2nEss/edit?usp=sharing) - Product (software) redeem codes for handling support cases.
 
-[Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) - Orders with insufficient/invalid shipping information that require follow-up (see [[Shipping Info Missing]] for further details)
+[Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing) - Orders with insufficient/invalid shipping information that require follow-up (see [[Shipping Info Missing - Check Basecamp for updates]] for further details)
 
 [Monthly Marketing Plan](https://docs.google.com/spreadsheets/d/10xJZBQaCPnssXe-LCrpEmRkICh81fuhwkDBtlIaKmdY/edit?usp=sharing) - Regular marketing plan for each region 
 

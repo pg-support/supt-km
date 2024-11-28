@@ -1,4 +1,4 @@
-# Shipping Info Missing
+# Shipping Info Missing - Check Basecamp for updates
 
 1 . Orders that are missing certain information in their addresses, will be shown as “Opened” in shipping status (in SKULabs), and also listed in the [Shipping Info Missing Follow-up](https://docs.google.com/spreadsheets/d/1JGEB4lF3NW7xdm78EnAu3EREmbbfI07jiRqdN3u9QWw/edit?usp=sharing), each with its rejected reason.  
 
