@@ -1,4 +1,4 @@
-# Issue Triage
+# Issue Triage - Check Basecamp for updates
 # 檢傷分類  
 ![[Pasted image 20240322220553.png]]
 

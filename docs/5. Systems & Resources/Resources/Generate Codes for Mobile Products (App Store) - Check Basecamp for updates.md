@@ -1,4 +1,4 @@
-# Generate Codes for Mobile Products (App Store)
+# Generate Codes for Mobile Products (App Store) - Check Basecamp for updates
 
 1. Log into [App Store Connection](https://appstoreconnect.apple.com/).
 2. Select "App" -> "APP_NAME".

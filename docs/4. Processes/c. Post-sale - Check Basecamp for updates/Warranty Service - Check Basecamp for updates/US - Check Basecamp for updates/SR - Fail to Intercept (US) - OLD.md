@@ -9,12 +9,12 @@ Once confirmed the customer has received the order that was requested to be canc
 ![](https://lh6.googleusercontent.com/B9WsXkXUGJz2mZjdxPtBNdhj_RA0aMjHmyLJj1KIXhqP0qyvR96VTB1p2ZomNWsFZtsHzU-wiEU_l1jXmEAYUXnDFZco-3TAy3lpaN5J4E5txpc1ENwka_Cs8pbb0Th4-LZ78YfyNngGE_Wpgq3Yceoxndy_vkQcL1eCB4I6OxGB84Kw_yzcHsSZLcrc)
 
 ~~### 2 - Create a return
-Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation]].~~
+Once the client replies with all the requested information, create a return as instructed in [[Aftership Operation - Check Basecamp for updates]].~~
 
 ![[Pasted image 20230424150952.png]]
 
 ~~### 3 - Approve the return
-Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation]] for further details.~~
+Go to [Aftership](https://accounts.aftership.com/), find the latest return that you just created. Approve the return and edit the necessary shipping info, in order to generate a return label. Refer to [[Aftership Operation - Check Basecamp for updates]] for further details.~~
 
 ![[Pasted image 20230424152350.png]]
 
