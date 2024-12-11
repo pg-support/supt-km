@@ -5,7 +5,7 @@ If the customers encounter the "(403) Activation limit reached" alert pop-up in
 ![[Xnip2023-08-08_14-55-45.jpg]]
 
 Use PGBot Command in the "backend-issue" channel on Slack:
-[[PGBot Commands#Reset license activation records (Mobile)]]
+[[PGBot Commands - Check Basecamp for updates#Reset license activation records (Mobile)]]
 
 
 

@@ -5,7 +5,7 @@
 
 Before sending the first reply, please check the license status with PG Bot:
 
- - Verify the customer’s license(s) via PGBot ([[PGBot Commands]]), see if the license is listed under the account.
+ - Verify the customer’s license(s) via PGBot ([[PGBot Commands - Check Basecamp for updates]]), see if the license is listed under the account.
 
  - Also ensure the activation count is less than 5 times.      
 

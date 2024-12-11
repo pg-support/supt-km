@@ -1,4 +1,4 @@
-# PGBot Commands
+# PGBot Commands - Check Basecamp for updates
 'PGBot (pgv2)' is a bot created by our backend team for checking and adjusting users' licenses, account information, and hardware registrations.
 
 PGBot can be found in Positive Grid's Slack channel.

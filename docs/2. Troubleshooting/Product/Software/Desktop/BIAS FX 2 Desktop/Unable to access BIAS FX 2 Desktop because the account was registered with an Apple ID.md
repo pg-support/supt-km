@@ -21,7 +21,7 @@ The private relay email can be found under 'Email' on the 'My Account' page when
 ## 2. Transfer the license.
 
 Check the license associated with the private relay email using PG Bot. 
-[[PGBot Commands]]
+[[PGBot Commands - Check Basecamp for updates]]
 
 ![[Pasted image 20231020113936.png]]
 
